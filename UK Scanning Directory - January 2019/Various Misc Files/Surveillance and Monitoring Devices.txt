@@ -1,0 +1,806 @@
+Bugs, UK Home Cordless Telephphones, Surveillance and Monitoring Devices 
+KimmyJS19 ukscanningdirectory.co.uk
+
+
+Bugs, Surveillance and Monitoring Devices - KimmyJS19
+
+We have reformatted and kept up to date this verified information and list of frequencies 
+that we obtained from a freind of the KimmyJS19 team who works with a TSCM company in London. 
+TSCM stands for 'Technical surveillance counter-measures' which basically in lay mans terms 
+are 'de-buggers' people who you call when you think you, your house or your phone may be tapped, 
+they then scan with their own radio scanners to find the bug and eliminate the tapping. Bugs 
+around the UK are more common then you would think, and even more so today, GSM based bugging 
+and tracking devices are now commonly used but the higher percentage of use being FM Analogue 
+add's a bit of interest to the radio spectrum for scanner users.
+
+Note: AID devices are often re-tuned for out band channels... so be
+careful.
+
+The area of spectrum from 15 MHz to 500 MHz is the primary threat, 500 MHz
+to 2.7 GHz is the secondary threat, a "line carrier" threat is from 30 kHz
+to 750 kHz.
+
+If the person planting the bug suspects that a TSCM inspection
+may be conducted then AID suggests a frequency between 30 MHz to
+50 MHz, sensitivity of receiver should be better than
+.18uv/-122dbm. The mode/modulation is recommended by AID to be 
+wideband FM.
+
+Also, keep in mind that AID devices are frequently used for illegal
+buggings, so be familiar with what their realistic specs are, expect
+power outputs well under 50mw, and expect to see the AC power circuits
+being used as the antenna.
+
+Frequency's below are mainly listed by ranges covered as the devices are usually tunable by 
+the user before being put into use, so although the frequency will change from use to use they 
+are restricted to certain bands. There are also fixed frequency devices listed below.
+
+
+Fixed most common Audio Bug Frequencies...
+
+0.1400 VLF Band, Popular with Telephone Bugging use power from telephone/power line
+0.1500 VLF Band, Popular with Telephone Bugging use power from telephone/power line
+0.1800 VLF Band, Popular with Telephone Bugging use power from telephone/power line
+0.2000 VLF Band, Popular with Telephone Bugging use power from telephone/power line
+0.2300 VLF Band, Popular with Telephone Bugging use power from telephone/power line
+0.2700 VLF Band, Popular with Telephone Bugging use power from telephone/power line
+0.3100 VLF Band, Popular with Telephone Bugging use power from telephone/power line
+0.3550 VLF Band, Popular with Telephone Bugging use power from telephone/power line
+
+37.6000 HF-3 Band
+
+49.8300 HF-4 Band
+49.8550 HF-4 Band
+49.8900 HF-4 Band
+
+139.6000 VHF4 Band
+140.0000 VHF4 Band
+140.8500 VHF4 Band
+143.5000 VHF4 Band
+146.5350 VHF4 Band
+146.5356 VHF4 Band
+148.0050 VHF4 Band
+
+169.4450 VHF-5 Band
+169.5050 VHF-5 Band
+170.2450 VHF-5 Band
+170.3050 VHF-5 Band
+170.9750 VHF-5 Band
+171.0450 VHF-5 Band
+171.0500 VHF-5 Band
+171.1050 VHF-5 Band
+171.1100 VHF-5 Band
+171.4500 VHF-5 Band
+171.6000 VHF-5 Band
+171.8182 VHF-5 Band
+171.8250 VHF-5 Band
+171.8450 VHF-5 Band
+171.9000 VHF-5 Band
+171.9050 VHF-5 Band
+172.0000 VHF-5 Band
+172.2000 VHF-5 Band
+173.3500 VHF-5 Band
+173.5000 VHF-5 Band
+
+175.0200 VHF-6 Band
+184.8500 VHF-6 Band
+190.6000 VHF-6 Band
+
+203.0000 VHF-7 Band
+221.5000 VHF-7 Band
+224.5000 VHF-7 Band
+224.7000 VHF-7 Band
+
+300.4550 UHF-2 Band
+303.6150 UHF-2 Band
+303.8250 UHF-2 Band
+304.2450 UHF-2 Band
+304.2614 UHF-2 Band
+310.0000 UHF-2 Band
+314.3750 UHF-2 Band
+314.8500 UHF-2 Band
+315.0000 UHF-2 Band
+321.9850 UHF-2 Band
+
+391.2050 UHF-3 Band
+392.7280 UHF-3 Band
+398.6050 UHF-3 Band
+399.0300 UHF-3 Band
+399.4550 UHF-3 Band
+
+406.0000 UHF-4 Band
+414.9800 UHF-4 Band
+416.2500 UHF-4 Band
+416.8450 UHF-4 Band
+418.0000 UHF-4 Band
+
+420.5440 UHF-5 Band
+423.1250 UHF-5 Band
+427.1250 UHF-5 Band
+427.4750 UHF-5 Band
+427.8250 UHF-5 Band
+428.0000 UHF-5 Band
+428.6350 UHF-5 Band
+429.5050 UHF-5 Band
+433.9200 UHF-5 Band
+439.2500 UHF-5 Band
+
+499.9700 UHF-6 Band
+499.9750 UHF-6 Band
+
+673.9350 UHF-7 Band 
+
+1.310.000 MW-3 Band
+1.350.000 MW-3 Band
+
+1.521.3068 MW-5 Band
+1.572.0350 MW-5 Band
+
+ 
+UK G SERIES - 2011
+
+G-005 Room Transmitter       380-560 MHz FM
+security-systems-uk (UK 2011 Spec)
+
+security-systems-uk (UK 2011 Spec) 
+G-006 Telephone Transmitter  380-560 MHz FM
+
+security-systems-uk (UK 2011 Spec) 
+G-007 Mains Transmitter      380-560 MHz FM
+
+
+
+GIS-005  B00BY57L5W  Mini FM Transmitter Surveillance Listening Device Spy Bug  65-125 MHz FM
+GIS  Genuine Gismotronix Device Assembled in UK  (Cheap and Popular) Available from amazon.co.uk since Mar 2013
+
+
+
+Bug Frequencies and Frequency Ranges...
+
+AID - Westinghouse/Audio Intelligence Devices, Inc. Bug Frequency
+
+135 MHz - 150 MHz  Special Order/Secondary Band (also 138-162 MHz)
+150 MHz - 174 MHz  Standard/Primary Band (Most Popular Band)
+216 MHz - 220 MHz  Special Order
+400 MHz - 470 MHz  UHF Repeaters
+806 MHz - 821 MHz  Digital Spread Spectrum TX-8xx (BPSK-407kb Direct Sequence)
+851 MHz - 869 MHz  Body Pack/Wire (NFM) TX-11xx
+902 MHz - 928 MHz  Digital Spread Spectrum TX-8xx (BPSK-407kb Direct Sequence)
+
+21 MHz -  80 MHz  Very Low Power WFM (.5mw - 10mw)  Special Order Only
+36 MHz -  39 MHz  Very Low Power WFM (.5mw - 50mw)  ***Very Dangerous***
+80 kHz - 200 kHz  "Line Carrier" Microphone Systems ***Very Dangerous***
+30 kHz - 700 kHz  Spread Spectrum Current Carrier Devices
+
+1700 MHz - 1900 MHz  25-250mw Video and audio bugs (Mostly Government/Federal Video Bugs)
+2400 MHz - 2484 MHz  25-250mw Video and audio bugs (2.450 to 2.483 very popular)
+
+
+865.000 TO 867.6000 - RFID (865-867.6) Radio Freq ID tags etc
+
+
+GSM GANG MOCK PLUG SOCKET ADAPTOR HOME SURVEILANCE BUGS
+www.spyequipmentuk.co.uk/gsm-bugs/gsm-bugs.html
+800 MHz
+900 MHz
+1800 MHz
+1900 MHz
+
+
+Mouse Listening Bug - Computer mouse GSM Bug
+spyequipmentuk.co.uk/gsm-listening-bugs/gsm-bugs/mouse-listening-bug.html
+GSM 
+900/1800 MHz
+
+
+GSM Car Bug 
+The GSM car bug cannot be detected by radio detector/scanner (except mobile phone frequencies)
+transmits voice from a car to anywhere in world via mobile phone
+More info: spyequipmentuk.co.uk/gsm-bugs/gsm-bugs/gsm-car-bug.html
+900/1800 MHz
+
+
+Security Research Bugs - England 
+
+145 MHz - 175 MHz FAST-II-L Computer Bug - 1, 3, 10, 30, 100mw 
+170 MHz - 204 MHz FAST-II-H Computer Bug - 1, 3, 10, 30, 100mw 
+60 kHz - 200 kHz "Line Carrier" Microphone Systems ***Very Dangerous*** 
+1.1 GHz - 1.4 GHz 250mw Lynx Video/Audio Bugs (L-Band) 
+2.5 GHz - 2.6 GHz 250mw Lynx Video/Audio Bugs 
+3.8 GHz - 4.2 GHz 250mw Lynx Video/Audio Bugs 
+
+Note1: LYNX video bugs and cameras are frequently built into old bricks, wooden joists, logs, 
+gate posts and such... VERY, VERY Dangerous and easily concealed. Note2: Most Security Research 
+Bugs utilize fixed frequency inversion to protect against detection, a commonly used frequency 
+is a 1.862 kHz inversion point.
+
+
+spy-equipment.co.uk Voice Activated Room Audio Bugging Transmitter 434.000 MHz
+
+VOX activated, Compression circuit, micro-size, easy to hide, this transmitter has a microcontroller.
+Up to 500 hours of standby, Long distance of up to 1000M 
+
+
+KB100U  Audio Bugging Transmitter - 433Mhz
+
+VHF Room Transmitter [A-001]  -  135-220MHz (VHF)
+UHF Room Transmitter [A-001]  -  350-960MHz (UHF) 
+
+UHF Calculator Transmitter [A-008] - 135-220MHz (VHF) 350-625MHz (UHF) 
+
+UHF Pen Transmitter [A-009] - 350-625MHz
+
+
+HDS - Household Data Services 
+
+50.000  - 750.000 kHz Carrier Current Audio System 
+120.000 - 400.000 kHz Carrier Current Audio System 
+138.000 - 174.000 MHz Wireless microphone/Body Wires (8KR Series .1 to 30 mw) 
+150.000 - 174.000 MHz Wireless microphone/Body Wires (ATX Series .1 to 30 mw) 
+174.000 - 230.000 MHz Wireless microphone/Body Wires 
+350.000 - 440.000 MHz Audio/Video Transmitters (360-440 popular) 
+470.000 - 608.000 MHz Audio/Video Transmitters 
+570.000 - 928.000 MHz Audio/Video Transmitters (Spread Spectrum Popular) 
+1,000 - 1,500 MHz Low Power Audio/Video Transmitter (10-100mw max) 
+1,425 - 1,450 MHz Low Power Audio/Video Transmitter (10-100mw max) 
+1,700 - 2,700 MHz Audio/Video Transmitters 
+2.4-2.5 hot (10-100mw max) 
+1,710 - 1,900 MHz Audio/Video Transmitters (10-100mw max) ** HOT ** 
+6,425 - 7,125 MHz Low Power Audio/Video Transmitter (10-100mw max) 
+8,100 - 8,700 MHz Audio/Video Transmitter, 
+8.2/8.5 popular (10-100mw max) 
+10,200 - 10,700 MHz Audio/Video Transmitter, 10.5 popular (10-100mw max) 
+17,700 - 19,700 MHz Low Power Audio/Video Transmitter (10-100mw max) 
+20,000 - 24,600 MHz Low Power Audio/Video Transmitter (10-100mw max)
+
+
+
+Sony - Wireless Microphones and Body Wires 
+
+470.000 - 489.000 MHz 2.5mw - 20mw, WFM (110 kHz), Ultra low power 
+770.000 - 782.000 MHz 2.5mw - 10mw, Ultra low power - TV Channel 64 
+782.000 - 794.000 MHz 2.5mw - 10mw, Ultra low power - TV Channel 66 
+794.000 - 806.000 MHz 2.5mw - 10mw, Ultra low power - TV Channel 68 
+770.000 - 810.000 MHz 2.5mw - 20mw, WFM (110 kHz), Ultra low power 
+902.000 - 928.000 MHz 2.5mw - 20mw, WFM (110 kHz), Ultra low power 
+947.000 - 954.000 MHz 2.5mw - 20mw, WFM (110 kHz), Ultra low power 
+60.000  - 970.000 MHz 2.5mw - 10mw, WFM (300 kHz) Audio Transmitter
+
+
+
+Lorraine Electronics Surveillance 
+
+365.000 - 455.000 MHz Low Power NF Audio Transmitter (9 specific channels)
+
+
+
+SKS - Skaggs Telecommunications Service 
+
+170.000 - 216.000 MHz Low Power Audio Transmitter/Body Wire
+
+
+
+Swintek 
+
+136.000 - 150.000 MHz Wireless microphone/Body Wires (Special Order) 
+150.000 - 174.000 MHz Wireless microphone/Body Wires (Standard) 
+170.000 - 220.000 MHz Wireless microphone/Body Wires (Special Order) 
+200.000 - 470.000 MHz Wireless microphone/Body Wires (Special Order)
+
+
+
+Dual Power UHF Room Bugs  spyequipmentuk.co.uk
+(Range over 1500m in line of sight tests)
+
+Frequency Range - 350 to 600 MHz
+
+
+
+Telephone Bugging Devices spybugs.co.uk
+
+500m + using power from phone line Frequency Range: 98-108MHz
+
+
+
+Broadcast Microwave Services 
+
+1.990 - 2.5000 GHz S-band Video Transmitters (under 100mw) 
+6.400 - 7.2000 GHz Video Transmitters (under 5mw) 
+6.785 - 7.1250 GHz Video Transmitters (under 10mw) 
+1.400 - 8.5000 GHz Video Transmitters (under 10mw) 
+12.700 - 13.2500 GHz Video Transmitters (under 10mw) 
+1.000 - 13.0000 GHz Video Transmitters (under 5mw)
+
+
+
+Xandi Electronics
+
+143.500 - Low Power Kit Bug (130 - 160 w/mod) Part 15 device
+88.000 - 108.000 MHz	Low Power Kit Bug (70 - 120 w/mod) Part 15 device
+
+
+
+DECO 
+
+398.600 - Low Power Kit Bugs - Part 15 device 
+399.450 - Low Power Kit Bugs - Part 15 device 
+399.030 - Low Power Kit Bugs - Part 15 device 
+406.000 - Low Power Kit Bugs - Part 15 device 
+365.000 - 420.000 MHz Low Power Kit Bugs
+
+
+
+Sheffield Electronics - No longer made 
+
+70.000 - 119.000 MHz Surveillance Transmitter Kits (under .1 - 10mw) 
+145.000 - 180.000 MHz Surveillance Transmitter Kits (under .1 - 10mw) 
+160.000 - 240.000 MHz Surveillance Transmitter Kits (under .1 - 10mw) 
+235.000 - 305.000 MHz Surveillance Transmitter Kits (under .1 - 10mw)
+
+
+
+Vega 
+
+150.000 - 216.000 MHz Wireless microphone/Body Wires (Dynex, VX, T, etc...) 
+169.000 - 216.000 MHz Wireless microphone/Body Wires (Dynex, VX, T, etc...)
+
+
+
+HM Electronics 
+
+160.000 - 174.000 MHz Wireless microphone/Body Wires (Sys 50/55, below 50mw) 
+174.000 - 216.000 MHz Wireless microphone/Body Wires (Sys 50/55, below 50mw)
+
+
+
+Sennheiser 
+
+165.000 - 216.000 MHz Wireless microphone/Body Wires (SK Series) 
+770.000 - 810.000 MHz Wireless microphone/Body Wires
+
+
+
+Telex 
+
+62.100 - 85.400 MHz Soundmate Products (Commonly Modified) 
+135.000 - 150.000 MHz Wireless microphone/Body Wires (WT Series) * HOT * 
+150.000 - 165.000 MHz Wireless microphone/Body Wires (WT Series) * HOT * 
+165.000 - 185.000 MHz Wireless microphone/Body Wires (WT Series) * HOT * 
+185.000 - 205.000 MHz Wireless microphone/Body Wires (WT Series) 
+165.000 - 210.000 MHz Wireless microphone/Body Wires (B/H/WT/G Series 30-50mw) 
+169.000 - 235.000 MHz Wireless microphone/Body Wires (FMR/HT/WT Series 35-50mw) 
+205.000 - 220.000 MHz Wireless microphone/Body Wires (WT Series) 
+450.000 - 470.000 MHz Wireless microphone/Body Wires (WT-450, below 50mw) 
+524.000 - 608.000 MHz Micropak Transmitter/Body Wires (35-50mw nominal) 
+518.000 - 760.000 MHz Micropak Transmitter/Body Wires (566-675 MHz popular) 
+614.000 - 746.000 MHz Micropak Transmitter/Body Wires (35-50mw nominal) 
+450.000 - 820.000 MHz Micropak Transmitter/Body Wires (15-35mw nominal)
+
+
+
+Sampson 
+135.000 - 220.000 MHz Wireless microphone/Body Wires (Poor Quality Products)
+
+
+
+Electrosonics, Inc. 
+
+150.000 - 216.000 MHz Wireless microphone/Body Wires
+
+
+
+RF Link Technology Inc. 
+
+2.453 GHz WaveCom Wireless Video System - Channel A 
+2.473 GHz WaveCom Wireless Video System - Channel B 
+60-72 MHz Video/RF Output from 2.4 GHz Module The WaveCom Video systems are commonly modified, 
+repackaged, and sold by "spy shops" and private investigators as an eavesdropping device. 
+The signature of such a device is operation between 2.10 GHz and 2.85 GHz with a slightly 
+modified negative sync pulse on the video signal.
+
+
+
+ITS Corporation 
+
+54 - 88 MHz Low Power Video Transmitter (5M75C3F/250KF3E) 
+174 - 216 MHz Low Power Video Transmitter (5M75C3F/250KF3E) 
+470 - 860 MHz Video System Transmitter (5M75C3F/250F3) 
+2.150 - 2.686 GHz Transmitter/Amp for WaveCom Video (5M75C3F/250KF3E) 
+2.150 - 2.700 GHz Transmitter/Amp for WaveCom Video (6M00B9F)
+
+
+UKSCANNINGDIRECTORY.CO.UK
+
+
+Lectrosonics, Inc. 
+
+135.000 - 174.000 MHz Wireless microphone/Body Wires (50mw max) 
+174.000 - 216.000 MHz Wireless microphone/Body Wires (50mw max) 
+470.000 - 608.000 MHz Wireless microphone/Body Wires (70mw max)
+
+
+
+Nady Systems 
+
+135.000 - 220.000 MHz Wireless microphone/Body Wires (VR series) 
+170.000 - 218.000 MHz Wireless microphone/Body Wires (VR series) 
+945.000 - 955.000 MHz Wireless microphone/Body Wires (VR series)
+
+
+
+Electro Voice 
+
+135.000 - 220.000 MHz Wireless microphone/Body Wires (GS/MS Series) 
+169.000 - 216.000 MHz Wireless microphone/Body Wires (MB Series)
+
+
+
+Shure Brothers 
+
+135.000 - 173.000 MHz Wireless microphone/Body Wires (171.845 popular) 
+160.000 - 216.000 MHz Wireless microphone/Body Wires (171.845 popular) 
+173.000 - 216.000 MHz Wireless microphone/Body Wires (below 25mw) 
+173.000 - 220.000 MHz Wireless microphone/Body Wires (L2 Series below 50mw)
+
+
+
+Microwave Radio Corporation 
+
+1,700 - 2,700 MHz Low Power (3w - 42 Channels) Audio/Video Transmitter 
+6,425 - 7,125 MHz Low Power (1.5w - 30 Channels) Audio/Video Transmitter 
+17,700 - 19,700 MHz Video Transmitter - Broadcast Quality 
+21,200 - 23,600 MHz Video Transmitter - Broadcast Quality
+
+
+
+Phonak - Switzerland 
+
+130.000 - 240.000 MHz MicroEar - In the ear FM-NB receiver system 
+138.000 - 190.000 MHz MicroEar - In the ear FM-NB receiver system 
+190.000 - 220.000 MHz MicroEar - In the ear FM-NB receiver system
+
+
+
+Electra Enterprises 
+
+434.000 - 435.000 MHz Video Transmitter (40-80mw nominal) 
+900.000 - 915.000 MHz Video Transmitter (40-80mw nominal) 
+(Also, Television Channels 32,46,47,48,49 59, and 900 MHz)
+
+
+
+DGR Engineering - France 
+
+85 kHz - 11.000 MHz Spread Spectrum Audio/ Low bandwidth Video Cameras and Microphones 
+are hidden inside functional electrical outlets. System supports up to 240 cameras or 
+microphones on same circuit. Video and audio signals conducted over power lines. 
+Commonly used for large scale buggings, such as hotel rooms, dormitories, and large 
+office buildings. Such a system has been in operation at NATO Headquarters (NY) for 
+several years.
+
+
+
+Recoton 
+
+912.000 - 915.000 MHz Popular Audio/Video Transmitters (914 MHz popular) 
+915.000 - 920.000 MHz Popular Audio/Video Transmitters (ultra low power) 
+902.000 - 928.000 MHz Popular Audio/Video Transmitters (ultra low power)
+
+
+
+X10/BSR 
+
+290.000 - 305.000 MHz Transmits RF over AC power lines - Audio (301-303 hot) 
+301.000 - 315.500 MHz Transmits RF over AC power lines - Audio (310/312 hot) 
+410.000 - 426.000 MHz Transmits RF over AC power lines - Audio (418 hot)
+
+
+
+Good Mind Industries - Taiwan
+ 
+46.000 - 72.500 MHz Ultra Low Power Video/Audio Transmitter
+
+
+
+Phonex 
+
+2.000 - 7.500 MHz Modified AC Mains Transmitter (-40 dBmv at 50 ohms) 
+2.620 - 6.400 MHz AC Mains Transmitter 
+5.500 - 7.000 MHz Wireless Phone Extender System (Sold Online and at Radio Shack)
+
+
+
+Radio Shack 
+
+24.00 - 180.00 kHz FM Wireless Intercom Systems (uses AC mains) - Older Units 
+120.00 - 200.00 kHz FM Wireless Intercom Systems (uses AC mains) - Older Units 
+200.00 - 270.00 kHz FM Wireless Intercom Systems (uses AC mains) 
+300.00 - 400.00 kHz FM Wireless Intercom Systems (uses Phone wires, 355 popular) 
+35.00 - 50.00 MHz FM Microphones (49.830, 49.855, 49.890, 37.600 Popular) 
+75.00 - 110.00 MHz Tie-Tack Microphones (FM Broadcast Band) 
+50.00 - 290.00 MHz FM Microphones (CM-421, below 5-50mw) 
+160.00 - 230.00 MHz FM Microphones (169-176 popular, 5-50mw max, 15mw typical) 
+700-950nm Infrared Audio Transmitter (150 kHz carrier typical)
+
+
+
+Various/other
+
+1.500 - 9.000 MHz Phone Extender Systems
+15.000 - 75.000 MHz Micro-Wire Conducted RF Systems (under 10mw)
+49.820 Channel 1
+49.830 Channel A/M1
+49.840 Channel 3
+49.840 Channel UK1
+49.845 Channel B
+49.850 Channel 4
+49.860 Channel 5
+49.870 Channel 6
+49.875 Channel D
+49.880 Channel UK2
+49.890 Channel 7/E
+49.900 Channel 8
+49.910 Channel 9
+49.920 Channel 10
+49.930 Channel 11
+49.940 Channel 12
+49.950 Channel 13
+49.960 UK 3
+49.970 Channel 15
+49.980 Channel 16
+
+
+
+LOJACK Corporation 
+173.075 - LOJACK Auto tracking system beacon (200ms burst every second) 
+(This is the tracking device remotely activated via FM Sub Carrier)
+
+
+Common Frequencies used by Amatuer Eavesdroppers
+
+44.500  -  51.000 MHz		Baby and Room monitors (49.83, 49.845, 49.875, etc...) 
+72.100  -  75.400 MHz		Hearing Assistance Systems 
+54.000  - 150.000 MHz		Kit Bugs 
+ 
+78.000  - 115.000 MHz		Cheap out-of-band FM Bugs 
+112.000 - 142.000 MHz		Cheap out-of-band FM Bugs 
+140.000 - 160.000 MHz		Cheap out-of-band FM Bugs 
+ 
+60.000 - 320.000 MHz		Low Cost kit bugs 
+398.000 - 406.000 MHz		DECO Bugs (398.600/605, 399.450/455, 399.025/030, 406 MHz)  
+25.000 - 450.000 MHz		European/English Kit Bugs 
+ 
+150.000 - 216.000 MHz		Typical VHF "Body Wire" & Pro-Grade Bugs 
+109.000 - 140.000 MHz		Digital VHF Pro-Grade Bugs 
+138.000 - 174.000 MHz		Typical "Spy Shop" & LE Cheap VHF Bugs (155-172 Popular)
+140.000 - 150.000 MHz		Popular Xandi Flea power kits (143/144 MHz)
+150.000 - 170.000 MHz		Popular Japanese Flea power kits (under 5mw) 
+
+150.000 - 220.000 MHz		Commercial Wireless Microphones
+169.000 - 172.000 MHz		47 CFR 90.265 Authorization *** VERY Popular ***
+174.000 - 216.000 MHz		47 CFR 2.106 (NG115) Authorization
+395.000 - 410.000 MHz		German UHF Bugs (PK Electronics)
+365.000 - 455.000 MHz		English UHF Bugs (Lorraine/Ruby Electronics)
+219.000 - 530.000 MHz		English UHF Wireless Microphones (300-500 popular)
+470.000 - 608.000 MHz		Commercial Wireless Microphones 
+730.000 - 806.000 MHz		Commercial Wireless Microphones 
+
+310.000 - 980.000 MHz		Sony Bugs (.1mw - 3mw, Spread Spectrum) 
+470.000 - 489.000 MHz		Sony Bugs (2.5mw - 20mw, WFM, Ultra low power) 
+770.000 - 810.000 MHz		Sony Bugs (2.5mw - 20mw, WFM, Ultra low power) 
+902.000 - 928.000 MHz		Sony Bugs (2.5mw - 20mw, WFM, Ultra low power) 
+947.000 - 954.000 MHz		Sony Bugs (2.5mw - 20mw, WFM, Ultra low power) 
+
+889.000 - 960.000 MHz		Modified Cordless Phones (S/S & Hoppers) 
+ 
+380.000 - 480.000 MHz		Video Bugs - UHF TV Channels
+430.000 - 820.000 MHz		Popular US Video/Audio Bugging Systems
+
+890.000 - 960.000 MHz		Video Bugs - US	(902-928 Hot) 
+905.000 - 928.000 MHz		Video/Audio Consumer Products (i.e. Recoton) 
+
+1.100 -	1.400 GHz		Video Bugs - *Very Hot in US/England/France/etc* 
+1.700 -	1.930 GHz		Video Bugs - US 
+2.400 -	2.500 GHz		Video Bugs - US *** VERY Popular *** 
+3.500 -	4.500 GHz		Video Bugs - *Very Hot in England/France/etc* 
+5.725 -	5.850 GHz		Video Bugs - US *** VERY Popular ***
+6.200 -	7.500 GHz		Video Bugs - US *** VERY Popular ***
+
+8.00 - 12.50 GHz		X-band Audio/Video Bugs
+20.00 - 26.00 GHz		K-band Audio/Video Bugs (Gaining Popularity)
+70.00 -110.00 GHz		M-band Audio/Video Bugs (Gaining Popularity)
+
+
+
+Commonly Used Professional and Law Enforcement Bugging Frequencies
+
+37.000 - 952 MHz FCC Surveillance Blanket Authorization
+47 CFR 90.19 "Physical surveillance, stakeouts, raids..."
+Straight AM/FM/WFM, FM-Subcarrier, SSB, QAM, Spread Spectrum, and Frequency Hopping. 
+If encrypted, it usually uses in-band voice inversion or 56 bit DES. 
+(Normally well under 2 watts... most below 5-150mw)
+
+  9 kHz -   490 kHz   Carrier Current 47 CFR 15.219 Auth (250 mv max.)
+490 kHz - 1.705 MHz   Lossy Cable     47 CFR 15.221 Auth (1000 mv max.)
+450 kHz - 30.00 MHz   PLA Systems     47 CFR 15.207 Auth (30 mv@ft/30ft max.)
+
+ 25 -  50 MHz "Bumper Beepers"  ( 38 -  47 MHz very popular)
+135 - 170 MHz "Bumper Beepers"  (150 - 170 MHz very popular)
+450 - 512 MHz "Bumper Beepers"
+903 - 904 MHz "Bumper Beepers"
+904 - 912 MHz "Bumper Beepers" 
+918 - 926 MHz "Bumper Beepers"
+926 - 927 MHz "Bumper Beepers"
+
+148 - 174 MHz Wireless Microphone
+135 - 250 MHz Out-band Wireless Microphone 
+174 - 216 MHz In-band Wireless Microphone 
+350 - 440 MHz Common Video Frequency 
+380 - 930 MHz Wide Band Hoppers 
+806 - 824 MHz Wireless Microphone
+851 - 869 MHz Wireless Microphone
+905 - 930 MHz Popular Audio/Video Band 
+
+1.1 -  1.3 GHz Common Video Frequency
+1.4 -  1.5 GHz Common Video Frequency
+1.7 -  1.9 GHz Common Video Frequency (1.710 - 1.755 Popular at 1/10 watt) 
+2.4 -  2.5 GHz Common Video Frequency (2.400 - 2.450 Popular)
+5.7 -  5.9 GHz Common Video Frequency (5.725 - 5.850 Popular)
+8.5 - 10.8 GHz Common Video Frequency
+
+
+"Tactical" Bugs
+
+225 - 400 MHz "Throw away" bugs (10uw-300mw Beer can bugs) 
+290 - 330 MHz Micro-powered Bugs (5uw-10mw Cigarette Butt Bugs) 
+180 - 430 MHz Spread Spectrum Wafer Bugs (1.5mm thick * 10mm * 2.9mm)
+
+ 30 - 500 MHz Tactical Repeaters (75mw-300mw) 
+285 - 400 MHz Tactical Repeaters (50mw-10watts) 
+100 - 152 MHz VHF Tactical Repeaters (300mw-25watts) 
+135 - 174 MHz VHF Tactical Repeaters (300mw-25watts) 
+
+
+
+EHF
+
+Police Speed Enforcement Radar 
+10.450 - 10.600 GHz X-Band 
+11.488 - 11.628 GHz RD Detector 
+22.976 - 23.256 GHz RD Detector-2nd Harmonic 
+24.050 - 24.250 GHz K-Band 
+33.400 - 36.000 GHz Ka-Band 700nm - 1100nm Laser Threat
+
+
+
+Electronic Article Surveillance and Anti-Shoplifting Systems 
+
+8.10 MHz - 9.30 MHz Checkpoint (Hi-Q Tags) 
+8.2 MHz Common 
+57.75 kHz - 58.75 kHz Sensormatic (Magnetic) Books, CDs, and Tapes 
+915 MHz and 1830 MHz Knogo (Microwave Resonant) Adhesive Labels
+
+
+
+Metal Detectors
+
+5 kHz - 210 kHz Walk Through and Handheld Units (i.e. Garrett)
+
+
+UK Cordless Telephphone Frequencies (Analogue)  KimmyJS19
+
+Most popular Usage (8 Channels)
+Base 31.0375 Handset 39.9375 CT 1 CORDLESS PHONE Channel 1
+Base 31.0625 Handset 39.9625 CT 1 CORDLESS PHONE Channel 2
+Base 31.0875 Handset 39.9875 CT 1 CORDLESS PHONE Channel 3
+Base 31.1125 Handset 40.0125 CT 1 CORDLESS PHONE Channel 4
+Base 31.1375 Handset 40.0375 CT 1 CORDLESS PHONE Channel 5
+Base 31.1625 Handset 40.0625 CT 1 CORDLESS PHONE Channel 6
+Base 31.1875 Handset 40.0875 CT 1 CORDLESS PHONE Channel 7
+Base 31.2125 Handset 40.1125 CT 1 CORDLESS PHONE Channel 8
+
+
+CT0 UK Frequencies
+
+47.45625 1.642 CT0 CORDLESS PHONE CH1
+47.46875 1.662 CT0 CORDLESS PHONE CH2
+47.48125 1.682 CT0 CORDLESS PHONE CH3
+47.49375 1.702 CT0 CORDLESS PHONE CH4
+47.50625 1.722 CT0 CORDLESS PHONE CH5
+47.51875 1.742 CT0 CORDLESS PHONE CH6
+47.53125/ 47.44375 1.762 CT0 CORDLESS PHONE CH7
+47.54375 1.782 CT0 CORDLESS PHONE CH 8 
+
+
+EXTENDED RANGE CORDLESS TELEPHONES
+
+47.41875 77.5500 CT 1 CORDLESS PHONE EXTENDED
+47.43125 77.5125 CT 1 CORDLESS PHONE EXTENDED 
+
+
+Note: The above are all home cordless analogue telephone frequencies, all mobile telephones are 
+digital and only able to be monitored by very expensive scanners (the type used by authorities, 
+MI5 and people who have a couple of grand to spend) or by using software and having a lot of know-how. 
+
+You can still listen to cordless home telephones though (the old analogue type, usually the ones 
+with an ariel) The most popular frequencies and best ones to monitor are the first 8 Channels 
+listed as they are the highest power and Duplex (You hear both sides of the conversation) however 
+DECT has taken over these frequencies so they are not as popular as they once were...
+
+
+900Mhz Cordless Phones
+
+959.0125   914.0125     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM
+959.0375   914.0375     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM
+959.0625   914.0625     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM
+959.0875   914.0875     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.1125   914.1125     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.1375   914.1375     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.1625   914.1625     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.1875   914.1875     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.2125   914.2125     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.2375   914.2375     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.2625   914.2625     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.2875   914.2875     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.3125   914.3125     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.3375   914.3375     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.7125   914.7125     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.7375   914.7375     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.7625   914.7625     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.7875   914.7875     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.8125   914.8125     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.8375   914.8375     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.8625   914.8625     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.8875   914.8875     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.9125   914.9125     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.9375   914.9375     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.9625   914.9625     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+959.9875   914.9875     Chann 01 CT1 Analogue Cordless Telephone NATIONAL USAGE	   FM	
+
+
+Best results monitoring analogue cordless phones are achieved by either using a good 
+outdoor antenna at home or using a scanner while out and about mobile. The eight 
+31mhz channels from 31.0375 to 31.2125 are the best 8 channels to monitor.
+
+
+WARNING:
+The area between 600 MHz and 9 GHz is EXTREMELY DANGEROUS as the eavesdropping equipment 
+in that range is inexpensive, very low power, and highly directional.
+
+OTHER OBVIOUS HOME DEVICES THAT ACT AS BUGS, HIGH RISK...
+
+Cordless Analogue Telephones, older home cordless phones with an ariel still in popular 
+usage. See the main KimmyJS19 Directory for the Frequencies.
+Baby Monitors. Hand Held and Plug in type.
+
+Corldless Headphones, esp if plugged into sensitive devices such as walkie talkies, 
+computer/internet, etc.
+Cordless Mics and Wireless Hearing/Deaf Aids.
+Telephone Landlines.
+Wireless Intercoms.
+Wireless CCTV systems.
+Digital Mobile Telephones (GSM/DECT) cannot easily be monitored by the average Joe but are 
+very easily listened in on by Government Agencies.
+
+
+A few tips for Bug Scanning to Scanner Users...
+Monitoring Bugs, Surveilance and Monitoring Devices requires that extra bit of dedication, 
+unless your in very close range of the target you'll need an outdoor antenna with good 
+coverage accross the bands and a bit of gain. A full range scanner is a must to get the 
+most out of this part of the hobby, a 25mhz to 1300mhz is a good start, a 500khz to 2300 
+is great though will cost you a few quid.
+
+If the signal is "scrambled" it is nothing more than simple voice
+inversion, a circuit to "de-scramble" can be built for around 20 pounds. Also a range of 
+scanners or some of the cheap Puxing/wouxan Chinese type radios available on ebay will 
+have a descrambler, nearly all use the basic one type rolling/inversion type scrambling.
+
+If your scanning for bugs then as you can see above you need to be scanning a wide range, 
+don't keep locking out or pressing/resuming scan on carrier/dead signals straight away, 
+many bugs will be quiet and appear 'open channels' while the target person/area is not 
+talking/in use.
+
+
+
+KimmyJS19 
+UKSCANNINGDIRECTORY.CO.UK

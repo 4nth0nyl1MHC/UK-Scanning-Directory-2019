@@ -1,0 +1,1717 @@
+UK SPECTRUM FREQUENCIES BAND USE (1 kHz - 80 GHz) 2019
+
+
+9 kHz - 148 kHz Licence Exempt, Metal Detectors
+9 kHz - 185 kHz Licence Exempt, Inductive
+9 kHz - 315 kHz Licence Exempt, Active Medical Implants
+9 kHz - 270 GHz Licence Exempt, Ultra-Wideband
+
+9 kHz - 250 GHz Technology Development, Non-operational Development
+9 kHz - 250 GHz Technology Development, Non-operational Temporary Use
+
+135 kHz - 137 kHz Amateur Radio, Amateur Radio Foundation Licence
+135 kHz - 137 kHz Amateur Radio, Amateur Radio Full Licence
+135 kHz - 137 kHz Amateur Radio, Amateur Radio Intermediate Licence
+
+148 kHz - 283 kHz Broadcasting Services, National and Local Radio Broadcasting (LW)
+
+148 kHz - 1600 kHz Licence Exempt, Inductive
+240 kHz - 315 kHz Licence Exempt, Inductive
+
+255 kHz - 283 kHz Aeronautical, Aeronautical Navigation Aid Stations
+283 kHz - 315 kHz Aeronautical, Aeronautical Navigation Aid Stations
+
+283 kHz - 315 kHz Maritime Radio, Differential Global Positioning System
+283 kHz - 315 kHz Maritime Radio, Maritime Navigational Aids and Radar
+283 kHz - 315 kHz Maritime Radio, Suppliers and Demonstration
+
+300 kHz - 30 MHz Licence Exempt, Active medical implants
+
+315 kHz - 325 kHz Aeronautical, Aeronautical Navigation Aid Stations
+
+315 kHz - 600 kHz Licence Exempt, Animal Implantable Devices
+
+325 kHz - 405 kHz Aeronautical, Aeronautical Navigation Aid Stations
+
+400 kHz - 600 kHz Licence Exempt, Inductive
+
+415 kHz - 435 kHz Aeronautical, Aeronautical Navigation Aid Stations
+
+415 kHz - 526 kHz Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+415 kHz - 526 kHz Maritime Radio, Ship Radio
+435 kHz - 495 kHz Aeronautical, Aeronautical Navigation Aid Stations
+435 kHz - 495 kHz Maritime Radio, Differential Global Positioning System
+
+456 kHz - 457 kHz Licence Exempt, Devices for locating victims in distress or at risk
+457 kHz - 457 kHz Licence Exempt, Emergency detection
+
+505 kHz - 526 kHz Aeronautical, Aeronautical Navigation Aid Stations
+505 kHz - 526 kHz Maritime Radio, Differential Global Positioning System
+
+516 kHz - 8516 kHz Licence Exempt, Railway Applications
+
+526 kHz - 1605 kHz Broadcasting Services, Restricted Radio Services Transmission (Class A - Freely Radiating)
+526 kHz - 1605 kHz Broadcasting Services, Transmission of National and Local Radio Broadcasting (MW)
+
+984 kHz - 7484 kHz Licence Exempt, Railway Applications
+
+1600 kHz - 3000 kHz Licence Exempt, Inductive
+
+1605 kHz - 27.5 MHz Maritime Radio, Ship Radio
+1606 kHz - 4000 kHz Maritime Radio, Maritime Navigational Aids and Radar
+1606 kHz - 27.5 MHz Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+1625 kHz - 1635 kHz Maritime Radio, Differential Global Positioning System
+
+1642 kHz - 1782 kHz Licence Exempt, Cordless Telephone Apparatus (CT1; extended CT1; CT2 and DECT)
+
+1800 kHz - 1810 kHz Maritime Radio, Differential Global Positioning System
+
+1810 kHz - 1830 kHz Amateur Radio, Amateur Radio Foundation Licence
+1810 kHz - 2000 kHz Amateur Radio, Amateur Radio Full Licence
+1810 kHz - 2000 kHz Amateur Radio, Amateur Radio Intermediate Licence
+1830 kHz - 1850 kHz Amateur Radio, Amateur Radio Foundation Licence
+1850 kHz - 2000 kHz Amateur Radio, Amateur Radio Foundation Licence
+
+1850 kHz - 2000 kHz Maritime Radio, Differential Global Positioning System
+2000 kHz - 2025 kHz Maritime Radio, Differential Global Positioning System
+2160 kHz - 2170 kHz Maritime Radio, Differential Global Positioning System
+2625 kHz - 2650 kHz Maritime Radio, Differential Global Positioning System
+2650 kHz - 2850 kHz Maritime Radio, Differential Global Positioning System
+
+2850 kHz - 3025 kHz Aeronautical, Aeronautical Ground Station (High Frequency)
+2850 kHz - 3025 kHz Aeronautical, Aircraft
+
+3155 kHz - 3200 kHz Maritime Radio, Differential Global Positioning System
+3200 kHz - 3230 kHz Maritime Radio, Differential Global Positioning System
+
+3400 kHz - 3500 kHz Aeronautical, Aeronautical Ground Station (High Frequency)
+3400 kHz - 3500 kHz Aeronautical, Aircraft
+
+3500 kHz - 3800 kHz Amateur Radio, Amateur Radio Foundation Licence
+3500 kHz - 3800 kHz Amateur Radio, Amateur Radio Full Licence
+3500 kHz - 3800 kHz Amateur Radio, Amateur Radio Intermediate Licence
+
+3500 kHz - 3800 kHz Maritime Radio, Differential Global Positioning System
+4650 kHz - 4700 kHz Aeronautical, Aeronautical Ground Station (High Frequency)
+4650 kHz - 4700 kHz Aeronautical, Aircraft
+
+5000 kHz - 30 MHz   Licence Exempt, Inductive
+
+5480 kHz - 5680 kHz Aeronautical, Aeronautical Ground Station (High Frequency)
+5480 kHz - 5680 kHz Aeronautical, Aircraft
+
+5680 kHz   International SAR Search & Rescue HF Primary
+
+6525 kHz - 6685 kHz Aeronautical, Aeronautical Ground Station (High Frequency)
+6525 kHz - 6685 kHz Aeronautical, Aircraft
+
+6765 kHz - 6795 kHz Licence Exempt, Non-Specific Short Range Device
+
+7000 kHz - 7200 kHz - Amateur Radio, Amateur Radio Foundation Licence
+7000 kHz - 7200 kHz - Amateur Radio,Amateur Radio Full Licence
+7000 kHz - 7200 kHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+7300 kHz - 23000 kHz - Licence Exempt, Railway Applications
+
+8815 kHz - 8965 kHz - Aeronautical, Aeronautical Ground Station (High Frequency)
+8815 kHz - 8965 kHz - Aeronautical, Aircraft
+
+10005 kHz - 10100 kHz - Aeronautical, Aeronautical Ground Station (High Frequency)
+10005 kHz - 10100 kHz - Aeronautical, Aircraft
+
+10100 kHz - 10150 kHz - Amateur Radio, Amateur Radio Foundation Licence
+10100 kHz - 10150 kHz - Amateur Radio, Amateur Radio Full Licence
+10100 kHz - 10150 kHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+11275 kHz - 11400 kHz - Aeronautical, Aeronautical Ground Station (High Frequency)
+11275 kHz - 11400 kHz - Aeronautical, Aircraft
+
+12500 kHz - 20000 kHz - Licence Exempt, Active medical implants
+12500 kHz - 20000 kHz - Licence Exempt, Animal Implantable Devices
+
+13260 kHz - 13360 kHz - Aeronautical, Aeronautical Ground Station (High Frequency)
+13260 kHz - 13360 kHz - Aeronautical, Aircraft
+
+13553 kHz - 13567 kHz - Licence Exempt, Non-Specific Short Range Device
+13553 kHz - 13567 kHz - Licence Exempt, Radio Frequency Identification (RFID)
+
+14000 kHz - 14350 kHz - Amateur Radio, Amateur Radio Foundation Licence
+14000 kHz - 14350 kHz - Amateur Radio, Amateur Radio Full Licence
+14000 kHz - 14350 kHz - Amateur Radio, Amateur Radio Intermediate Licence
+14250 kHz - 14350 kHz - Amateur Radio, Amateur Radio Foundation Licence
+
+17900 kHz - 17970 kHz - Aeronautical, Aeronautical Ground Station (High Frequency)
+17900 kHz - 17970 kHz - Aeronautical, Aircraft
+
+18068 kHz - 18168 kHz - Amateur Radio, Amateur Radio Foundation Licence
+18068 kHz - 18168 kHz - Amateur Radio, Amateur Radio Full Licence
+18068 kHz - 18168 kHz - Amateur Radio, Amateur Radio Intermediate Licence
+21000 kHz - 21450 kHz - Amateur Radio, Amateur Radio Foundation Licence
+21000 kHz - 21450 kHz - Amateur Radio, Amateur Radio Full Licence
+21000 kHz - 21450 kHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+21924 kHz - 22000 kHz - Aeronautical, Aeronautical Ground Station (High Frequency)
+21924 kHz - 22000 kHz - Aeronautical, Aircraft
+
+24890 kHz - 24990 kHz - Amateur Radio, Amateur Radio Foundation Licence
+24890 kHz - 24990 kHz - Amateur Radio, Amateur Radio Full Licence
+24890 kHz - 24990 kHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+26225 kHz - 26250 kHz - Business Radio, Business Radio (Simple Site)
+26397 kHz - 26422 kHz - Business Radio, Business Radio (Simple Site)
+26425 kHz - 26450 kHz - Business Radio, Business Radio (Simple Site)
+26450 kHz - 26475 kHz - Business Radio, Business Radio (Simple Site)
+26532 kHz - 26557 kHz - Business Radio, Business Radio (Simple Site)
+26575 kHz - 26600 kHz - Business Radio, Business Radio (Simple Site)
+26603 kHz - 26628 kHz - Business Radio, Business Radio (Simple Site)
+26657 kHz - 26682 kHz - Business Radio, Business Radio (Simple Site)
+26713 kHz - 26738 kHz - Business Radio, Business Radio (Simple Site)
+26803 kHz - 26828 kHz - Business Radio, Business Radio (Simple Site)
+26822 kHz - 26847 kHz - Business Radio, Business Radio (Suppliers Light)
+26852 kHz - 26877 kHz - Business Radio, Business Radio (Simple Site)
+26853 kHz - 26878 kHz - Business Radio, Business Radio (Simple Site)
+26907 kHz - 26932 kHz - Business Radio, Business Radio (Suppliers Light)
+
+26835 kHz - Radio Paging Hire (26.8350 MHz)
+26920 kHz - Radio Paging Hire (26.9200 MHz)
+
+26957 kHz - 27283 kHz - Licence Exempt, Non-Specific Short Range Device
+26960 kHz - 27280 kHz - Licence Exempt, Model Control
+
+26960 kHz - 27410 kHz - Licence Exempt, Citizens Band Radio
+
+Citizens Band Radio (EU)
+26.965 Channel 01    26.975 Channel 02
+26.985 Channel 03    27.005 Channel 04
+27.015 Channel 05    27.025 Channel 06
+27.035 Channel 07    27.055 Channel 08
+27.065 Channel 09    27.075 Channel 10
+27.085 Channel 11    27.105 Channel 12
+27.115 Channel 13    27.125 Channel 14
+27.135 Channel 15    27.155 Channel 16
+27.165 Channel 17    27.175 Channel 18
+27.185 Channel 19    27.205 Channel 20
+27.215 Channel 21    27.225 Channel 22
+27.255 Channel 23    27.235 Channel 24
+27.245 Channel 25    27.265 Channel 26
+27.275 Channel 27    27.285 Channel 28
+27.295 Channel 29    27.305 Channel 30
+27.315 Channel 31    27.325 Channel 32
+27.335 Channel 33    27.345 Channel 34
+27.355 Channel 35    27.365 Channel 36
+27.375 Channel 37    27.385 Channel 38
+27.395 Channel 39    27.405 Channel 40
+
+27090 kHz - 27100 kHz - Licence Exempt, Railway Applications
+27443 kHz - 27456 kHz - Licence Exempt, Social Alarms
+
+27.596 MHz - 27.996 MHz - Licence Exempt, Citizens Band Radio
+
+Citizens Band Radio (UK) 
+27.60125 Channel 01     27.61125 Channel 02
+27.62125 Channel 03     27.63125 Channel 04
+27.64125 Channel 05     27.65125 Channel 06
+27.66125 Channel 07     27.67125 Channel 08
+27.68125 Channel 09     27.69125 Channel 10
+27.70125 Channel 11     27.71125 Channel 12
+27.72125 Channel 13     27.73125 Channel 14
+27.74125 Channel 15     27.75125 Channel 16
+27.76125 Channel 17     27.77125 Channel 18
+27.78125 Channel 19     27.79125 Channel 20
+27.80125 Channel 21     27.81125 Channel 22
+27.82125 Channel 23     27.83125 Channel 24
+27.84125 Channel 25     27.85125 Channel 26
+27.86125 Channel 27     27.87125 Channel 28
+27.88125 Channel 29     27.89125 Channel 30
+27.90125 Channel 31     27.91125 Channel 32
+27.92125 Channel 33     27.93125 Channel 34
+27.94125 Channel 35     27.95125 Channel 36
+27.96125 Channel 37     27.97125 Channel 38
+27.98125 Channel 39     27.99125 Channel 40
+
+28 MHz - 28.190 MHz - Amateur Radio, Amateur Radio Intermediate Licence
+28 MHz - 29.700 MHz - Amateur Radio, Amateur Radio Foundation Licence
+28 MHz - 29.700 MHz - Amateur Radio, Amateur Radio Full Licence
+28 MHz - 29.700 MHz - Amateur Radio, Amateur Radio Intermediate Licence
+30 MHz - 37.500 MHz - Licence Exempt, Active Medical Implants
+
+31.037 MHz - 31.212 MHz - Licence Exempt, Cordless Telephones (CT1; extended CT1; CT2 and DECT)
+
+Cordless Telephones
+31.0375	 39.9375 CH.1
+31.0625	 39.9625 CH.2
+31.0875	 39.9875 CH.3
+31.1125	 40.0125 CH.4
+31.1375	 40.0375 CH.5
+31.1625	 40.0625 CH.6
+31.1875	 40.0875 CH.7
+31.2125	 40.1125 CH.8
+
+34.500 MHz - 34.995 MHz - Licence Exempt, Databuoy Telemetry
+34.918 MHz - 34.931 MHz - Licence Exempt, Social Alarms
+34.943 MHz - 34.956 MHz - Licence Exempt, Social Alarms
+34.945 MHz - 35.305 MHz - Licence Exempt, Model Control
+34.968 MHz - 34.981 MHz - Licence Exempt, Social Alarms
+35.225 MHz - 35.500 MHz - Licence Exempt, Databuoy Telemetry
+36.610 MHz - 36.790 MHz - Licence Exempt, Wireless audio/multimedia
+37.010 MHz - 37.190 MHz - Licence Exempt, Wireless audio/multimedia
+
+37.750 MHz - 38.250 MHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+
+39.025 MHz - 39.025 MHz - Licence Exempt, Meteor Burst Data Systems
+39.050 MHz - 39.050 MHz - Licence Exempt, Meteor Burst Data Systems
+
+39.937 MHz - 40.112 MHz - Licence Exempt, Cordless Telephone Apparatus (CT1; extended CT1; CT2 and DECT)
+
+40.660 MHz - 40.700 MHz - Licence Exempt, Non-Specific Short Range Device
+40.660 MHz - 41.000 MHz - Licence Exempt, Model Control
+46.400 MHz - 46.400 MHz - Licence Exempt, Meteor Burst Data Systems
+46.950 MHz - 46.950 MHz - Licence Exempt, Meteor Burst Data Systems
+46.975 MHz - 46.975 MHz - Licence Exempt, Meteor Burst Data Systems
+47.400 MHz - 47.400 MHz - Licence Exempt, Vehicle Paging Alarms
+47.418 MHz - 47.431 MHz - Licence Exempt, Cordless Telephone Apparatus (CT1; extended CT1; CT2 and DECT)
+47.443 MHz - 47.543 MHz - Licence Exempt, Cordless Telephone Apparatus (CT1; extended CT1; CT2 and DECT)
+
+47.550 MHz - 48.800 MHz - Programme Making and Special Events, Audio Distribution System
+47.550 MHz - 48.800 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+47.550 MHz - 48.800 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+47.550 MHz - 48.800 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+48.9750 MHz - Radio Paging Hire
+48.9875 MHz - Radio Paging Hire
+
+48.968 MHz - 48.981 MHz - Business Radio, Business Radio (Suppliers Light)
+48.981 MHz - 48.993 MHz - Business Radio, Business Radio (Suppliers Light)
+48.993 MHz - 49.006 MHz - Business Radio, Business Radio (Simple Site)
+49.000 MHz - 49.500 MHz - Business Radio, Business Radio (Simple Site)
+49.006 MHz - 49.018 MHz - Business Radio, Business Radio (Simple Site)
+49.018 MHz - 49.031 MHz - Business Radio, Business Radio (Simple Site)
+49.031 MHz - 49.043 MHz - Business Radio, Business Radio (Simple Site)
+49.043 MHz - 49.056 MHz - Business Radio, Business Radio (Simple Site)
+49.056 MHz - 49.068 MHz - Business Radio, Business Radio (Simple Site)
+49.068 MHz - 49.081 MHz - Business Radio, Business Radio (Simple Site)
+49.081 MHz - 49.093 MHz - Business Radio, Business Radio (Simple Site)
+49.093 MHz - 49.106 MHz - Business Radio, Business Radio (Simple Site)
+49.106 MHz - 49.118 MHz - Business Radio, Business Radio (Simple Site)
+49.118 MHz - 49.131 MHz - Business Radio, Business Radio (Simple Site)
+49.131 MHz - 49.143 MHz - Business Radio, Business Radio (Simple Site)
+49.143 MHz - 49.156 MHz - Business Radio, Business Radio (Simple Site)
+49.156 MHz - 49.168 MHz - Business Radio, Business Radio (Simple Site)
+49.168 MHz - 49.181 MHz - Business Radio, Business Radio (Simple Site)
+49.181 MHz - 49.193 MHz - Business Radio, Business Radio (Simple Site)
+
+49.820 MHz - 49.980 MHz - Licence Exempt, Non-Specific Short Range Device
+
+50 MHz - 52 MHz - Amateur Radio, Amateur Radio Foundation Licence
+50 MHz - 52 MHz - Amateur Radio, Amateur Radio Full Licence
+50 MHz - 52 MHz - Amateur Radio, Amateur Radio Intermediate Licence
+51 MHz - 52 MHz - Amateur Radio, Amateur Radio Foundation Licence
+
+52.00 MHz - 52.95 MHz - Programme Making and Special Events, Audio Distribution System
+52.00 MHz - 52.95 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+52.00 MHz - 52.95 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+52.00 MHz - 52.95 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+53.75 MHz - 55.75 MHz - Programme Making and Special Events, Audio Distribution System
+53.75 MHz - 55.75 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+53.75 MHz - 55.75 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+53.75 MHz - 55.75 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+55.00 MHz - 56.00 MHz - Licence Exempt, Common Base Station Systems
+
+55.756 MHz - 60.593 MHz - Business Radio, Business Radio (Area Defined)
+55.756 MHz - 60.593 MHz - Business Radio, Business Radio (Technically Assigned)
+
+60.750 MHz - 62.750 MHz - Programme Making and Special Events, Audio Distribution System
+60.750 MHz - 62.750 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+60.750 MHz - 62.750 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+60.750 MHz - 62.750 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+62.756 MHz - 67.993 MHz - Business Radio, Business Radio (Area Defined)
+62.756 MHz - 67.993 MHz - Business Radio, Business Radio (Technically Assigned)
+
+67.750 MHz - 67.837 MHz - Programme Making and Special Events, Audio Distribution System
+67.750 MHz - 67.837 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+67.750 MHz - 67.837 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+67.750 MHz - 67.837 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+68.087 MHz - 69.987 MHz - Business Radio, Business Radio (Area Defined)
+68.087 MHz - 69.987 MHz - Business Radio, Business Radio (Technically Assigned)
+68.618 MHz - 68.631 MHz - Business Radio, Business Radio (Suppliers Light)
+
+69.156 MHz - 69.181 MHz - Programme Making and Special Events, Audio Distribution System
+69.156 MHz - 69.181 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+69.156 MHz - 69.181 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+69.156 MHz - 69.181 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+70 MHz - 70.5 MHz - Amateur Radio, Amateur Radio Foundation Licence
+70 MHz - 70.5 MHz - Amateur Radio, Amateur Radio Full Licence
+70 MHz - 70.5 MHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+70.5 MHz - 72.787 MHz - Business Radio, Business Radio (Area Defined)
+70.5 MHz - 72.787 MHz - Business Radio, Business Radio (Technically Assigned)
+
+72.368 MHz - 72.381 MHz - Business Radio, Business Radio (Suppliers Light)
+
+74.681 MHz - 74.718 MHz - Programme Making and Special Events, Audio Distribution System
+74.681 MHz - 74.718 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+74.681 MHz - 74.718 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+74.681 MHz - 74.718 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+74.800 MHz - 75.200 MHz - Aeronautical, Aeronautical Navigation Aid Stations
+
+75.262 MHz - 75.300 MHz - Programme Making and Special Events, Audio Distribution System
+75.262 MHz - 75.300 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+75.262 MHz - 75.300 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+75.262 MHz - 75.300 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+76.712 MHz - 77.987 MHz - Business Radio, Business Radio (Area Defined)
+76.712 MHz - 77.987 MHz - Business Radio, Business Radio (Technically Assigned)
+
+76.806 MHz - 76.843 MHz - Programme Making and Special Events, Audio Distribution System
+76.806 MHz - 76.843 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+76.806 MHz - 76.843 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+76.806 MHz - 76.843 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+77.512 MHz - 77.550 MHz - Licence Exempt, Cordless Telephone Apparatus (CT1; extended CT1; CT2 and DECT)
+
+77.681 MHz - 77.693 MHz - Business Radio, Business Radio (Simple UK) '77.6875'
+
+78.183 MHz - 78.258 MHz - Programme Making and Special Events, Audio Distribution System 
+78.183 MHz - 78.258 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+78.183 MHz - 78.258 MHz - Programme Making and Special Events, Programme Making and Special Events (Link) 
+78.183 MHz - 78.258 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+80 MHz - 83.487 MHz - Business Radio, Business Radio (Area Defined)
+80 MHz - 83.487 MHz - Business Radio, Business Radio (Technically Assigned)
+
+81 MHz - 87 MHz - Licence Exempt, Common Base Station Systems
+
+82.118 MHz - 82.131 MHz - Business Radio, Business Radio (Suppliers Light) '82.125'
+
+82.656 MHz - 82.681 MHz - Programme Making and Special Events, Audio Distribution System 
+82.656 MHz - 82.681 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+82.656 MHz - 82.681 MHz - Programme Making and Special Events, Programme Making and Special Events (Link) 
+82.656 MHz - 82.681 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+85.012 MHz - 87.487 MHz - Business Radio, Business Radio (Area Defined)
+85.012 MHz - 87.487 MHz - Business Radio, Business Radio (Technically Assigned)
+85.868 MHz - 85.881 MHz - Business Radio, Business Radio (Suppliers Light)
+
+86.306 MHz - 86.318 MHz - Business Radio, Business Radio (Police and Fire 'MRT 86.3125')
+
+86.331 MHz - 86.343 MHz - Business Radio, Business Radio (Simple UK) '86.3375'
+86.343 MHz - 86.356 MHz - Business Radio, Business Radio (Simple UK) '86.3500'
+86.356 MHz - 86.368 MHz - Business Radio, Business Radio (Simple UK) '86.3625'
+86.368 MHz - 86.381 MHz - Business Radio, Business Radio (Simple UK) '86.3750'
+
+86.668 MHz - 86.681 MHz - Programme Making and Special Events, Audio Distribution System 
+86.668 MHz - 86.681 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site) 
+86.668 MHz - 86.681 MHz - Programme Making and Special Events, Programme Making and Special Events (Link) 
+86.668 MHz - 86.681 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+86.806 MHz - 86.843 MHz - Programme Making and Special Events, Audio Distribution System 
+86.806 MHz - 86.843 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+86.806 MHz - 86.843 MHz - Programme Making and Special Events, Programme Making and Special Events (Link) 
+86.806 MHz - 86.843 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+87.5 MHz - 108 MHz - Licence Exempt, High Duty Cycle or Continuous Transmission Devices
+
+87.5 MHz - 108 MHz - Broadcasting Services, Restricted Radio Services Transmission (Class B - Radiating Cable)
+87.5 MHz - 108 MHz - Broadcasting Services, Restricted Radio Services Transmission (Class C - Freely Radiating Very Low Power)
+87.5 MHz - 108 MHz - Broadcasting Services, Transmission of National and Local Radio Broadcasting Services (FM)
+
+87.5 MHz - 108 MHz - Licence Exempt, Wireless Audio/Multimedia
+
+108.000 MHz - 112 MHz - Aeronautical, Aeronautical Navigation Aid Stations 
+108 MHz - 117.975 MHz - Aeronautical, Aeronautical Navigation Aid Stations
+
+117.975 MHz - 137 MHz - Aeronautical, Aeronautical Ground Station (Air Traffic/Ground Movement Control)
+117.975 MHz - 137 MHz - Aeronautical, Aeronautical Ground Station (Air/Ground Communications Services)
+117.975 MHz - 137 MHz - Aeronautical, Aeronautical Ground Station (Airfield Flight Information Service)
+117.975 MHz - 137 MHz - Aeronautical, Aeronautical Ground Station (General Aviation)
+117.975 MHz - 137 MHz - Aeronautical, Aeronautical Ground Station (Offshore Platform)
+117.975 MHz - 137 MHz - Aeronautical, Aeronautical Ground Station (Operations Control)
+
+117.975 MHz - 137 MHz - Aeronautical, Aeronautical Station (Aeronautical Broadcast)
+117.975 MHz - 137 MHz - Aeronautical, Aeronautical Station (Air/Ground, AFIS and Tower)
+117.975 MHz - 137 MHz - Aeronautical, Aeronautical Station (Aircraft Communications Addressing and Reporting System)
+117.975 MHz - 137 MHz - Aeronautical, Aeronautical Station (Approach)
+117.975 MHz - 137 MHz - Aeronautical, Aeronautical Station (Area Control)
+117.975 MHz - 137 MHz - Aeronautical, Aeronautical Station (Offshore) 
+117.975 MHz - 137 MHz - Aeronautical, Aeronautical Station (Very High Frequency Data Link)
+
+117.975 MHz - 137 MHz - Aeronautical, Aircraft
+
+118.550 MHz - 118.800 MHz - Aeronautical, Aeronautical Station (Recreational Aviation)
+118.675 MHz - 118.675 MHz - Aeronautical, Aeronautical Ground Station (General Aviation) (Hang/Para Gliders)
+
+121.487 MHz - 121.512 MHz - Aeronautical, Aircraft
+
+121.494 MHz - 121.506 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+121.494 MHz - 121.506 MHz - Maritime Radio, Ship Portable Radio
+121.494 MHz - 121.506 MHz - Maritime Radio, Ship Radio
+
+121.500 MHz - Aircraft Emergency National (AM)
+
+121.587 MHz - 121.612 MHz - Aeronautical, Aeronautical Ground Station (Fire) '121.600'
+
+121.637 MHz - 121.662 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+
+122.350 MHz - 122.600 MHz - Aeronautical, Aeronautical Station (Recreational Aviation)
+122.475 MHz - 122.475 MHz - Aeronautical, Aeronautical Ground Station (General Aviation) (Balloon)
+123.087 MHz - 123.112 MHz - Aeronautical, Aircraft
+
+123.094 MHz - 123.106 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+123.094 MHz - 123.106 MHz - Maritime Radio, Ship Portable Radio
+123.094 MHz - 123.106 MHz - Maritime Radio, Ship Radio
+
+129.700 MHz - 130.250 MHz - Aeronautical, Aeronautical Station (Recreational Aviation)
+129.825 MHz - 129.825 MHz - Aeronautical, Aeronautical Ground Station (General Aviation) (Microlight)
+129.900 MHz - 129.900 MHz - Aeronautical, Aeronautical Ground Station (General Aviation) (Glider)
+129.900 MHz - 129.900 MHz - Aeronautical, Aeronautical Ground Station (General Aviation) (Parachute)
+129.975 MHz - 129.975 MHz - Aeronautical, Aeronautical Ground Station (General Aviation) (Glider)
+130.100 MHz - 130.100 MHz - Aeronautical, Aeronautical Ground Station (General Aviation) (Glider)
+130.125 MHz - 130.125 MHz - Aeronautical, Aeronautical Ground Station (General Aviation) (Glider)
+130.275 MHz - 130.650 MHz - Aeronautical, Aeronautical Station (Recreational Aviation)
+130.400 MHz - 130.400 MHz - Aeronautical, Aeronautical Ground Station (General Aviation) (Glider)
+130.525 MHz - 130.525 MHz - Aeronautical, Aeronautical Ground Station (General Aviation) (Parachute)
+
+137 MHz - 138 MHz - Licence Exempt, Land Mobile-Satellite Service Stations
+
+137 MHz - 138 MHz - Satellite Services 	Satellite (Earth Station) (Non-Fixed Satellite Service)
+
+137.962 MHz - 165.043 MHz - Maritime Radio, Coastal Station Radio (UK) Area Defined
+137.962 MHz - 165.043 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+
+137.975 MHz - 138.200 MHz - Business Radio, Business Radio (Area Defined)
+137.975 MHz - 138.200 MHz - Business Radio, Business Radio (Technically Assigned)
+
+138.200 MHz - 138.450 MHz - Licence Exempt, Non-Specific Short Range Device
+
+139.518 MHz - 140.981 MHz - Business Radio, Business Radio (Area Defined)
+139.518 MHz - 140.981 MHz - Business Radio, Business Radio (Technically Assigned)
+
+139.543 MHz - 139.556 MHz - Programme Making and Special Events, Audio Distribution System
+
+139.543 MHz - 139.556 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+139.543 MHz - 139.556 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+139.543 MHz - 139.556 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+139.568 MHz - 139.581 MHz - Programme Making and Special Events, Audio Distribution System
+139.568 MHz - 139.581 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+139.568 MHz - 139.581 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+139.568 MHz - 139.581 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+139.643 MHz - 139.668 MHz - Programme Making and Special Events, Audio Distribution System
+139.643 MHz - 139.668 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+139.643 MHz - 139.668 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+139.643 MHz - 139.668 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+140.987 MHz - 141.487 MHz - Programme Making and Special Events, Audio Distribution System
+140.987 MHz - 141.487 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+140.987 MHz - 141.487 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+140.987 MHz - 141.487 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+143 MHz - 144 MHz - Business Radio, Business Radio (Technically Assigned)
+
+144 MHz - 146 MHz - Amateur Radio, Amateur Radio Foundation Licence
+144 MHz - 146 MHz - Amateur Radio, Amateur Radio Full Licence
+144 MHz - 146 MHz - Amateur Radio, Amateur Radio Intermediate Licence
+146 MHz - 147 MHz - Amateur Radio, Amateur Radio Full Licence
+
+146 MHz - 148 MHz - Business Radio, Business Radio (Police and Fire)
+
+147.350 MHz - 147.4875 MHz - SAR, Mountain Rescue Teams
+
+148.018 MHz - 148.981 MHz - Business Radio, Business Radio (Area Defined)
+148.018 MHz - 148.981 MHz - Business Radio, Business Radio (Technically Assigned)
+
+148.562 MHz - 148.587 MHz - Programme Making and Special Events, Audio Distribution System
+148.562 MHz - 148.587 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+148.562 MHz - 148.587 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+148.562 MHz - 148.587 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power) 
+148.712 MHz - 148.737 MHz - Programme Making and Special Events, Audio Distribution System 
+148.712 MHz - 148.737 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site) 
+148.712 MHz - 148.737 MHz - Programme Making and Special Events, Programme Making and Special Events (Link) 
+148.712 MHz - 148.737 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+149 MHz - 149.9 MHz - Satellite Services, Satellite (Earth Station) (Non-Fixed Satellite Service)
+149 MHz - 150.0 MHz - Licence Exempt, Land Mobile-Satellite Service Stations
+150 MHz - 4000 MHz - Technology Development, Ground Probing Radar
+
+150.050 MHz - 152.000 MHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+
+153.025 MHz - 153.475 MHz - Business Radio, Business Radio (Area Defined)
+153.025 MHz - 153.475 MHz - Business Radio, Business Radio (Technically Assigned)
+153.037 MHz - 153.062 MHz - Business Radio, Business Radio (Police and Fire) 
+154.000 MHz - 155.000 MHz - Business Radio, Business Radio (Technically Assigned)
+155.343 MHz - 155.356 MHz - Business Radio, Business Radio (Police and Fire)
+
+155.775 MHz - 155.975 MHz - SAR, Mountain Rescue Teams
+
+156 MHz - 157.500 MHz - Maritime Radio, Coastal Station Radio (International)
+156 MHz - 157.500 MHz - Maritime Radio, Coastal Station Radio (International) Area Defined
+156 MHz - 157.500 MHz - Maritime Radio, Ship Portable Radio 
+156 MHz - 157.500 MHz - Maritime Radio, Ship Radio
+
+156.16875 MHz - UK Search Rescue
+156.18125 MHz - UK Search Rescue
+156.21875 MHz - UK Search Rescue
+156.23125 MHz - UK Search Rescue
+157.26875 MHz - UK Search Rescue
+157.28125 MHz - UK Search Rescue
+
+156.000 MHz - 165.043 MHz - Maritime Radio, Coastal Station Radio (Training School)
+156.512 MHz - 156.537 MHz - Maritime Radio, AIS (Automatic Identification Systems)
+157.012 MHz - 157.037 MHz - Maritime Radio, Coastal Station Radio (Marina)
+
+157.205 MHz - 165.037 MHz - Business Radio, Business Radio (Area Defined)
+157.205 MHz - 165.037 MHz - Business Radio, Business Radio (Technically Assigned)
+
+157.450 MHz - 158.500 MHz - Maritime Radio, Coastal Station Radio (UK)
+157.450 MHz - 158.500 MHz - Maritime Radio, Coastal Station Radio (UK) Area Defined
+157.837 MHz - 157.862 MHz - Maritime Radio, Coastal Station Radio (Marina)
+
+158 MHz - 165 MHz - Licence Exempt, Public Mobile Data Systems
+
+158.781 MHz - 158.793 MHz - Business Radio, Business Radio (Suppliers Light)
+159.181 MHz - 159.193 MHz - Business Radio, Business Radio (Suppliers Light)
+159.243 MHz - 159.256 MHz - Business Radio, Business Radio (Suppliers Light)
+159.343 MHz - 159.356 MHz - Business Radio, Business Radio (Suppliers Light)
+159.393 MHz - 159.406 MHz - Business Radio, Business Radio (Suppliers Light)
+159.418 MHz - 159.431 MHz - Business Radio, Business Radio (Suppliers Light)
+159.443 MHz - 159.456 MHz - Business Radio, Business Radio (Suppliers Light)
+159.481 MHz - 159.493 MHz - Business Radio, Business Radio (Suppliers Light)
+159.493 MHz - 159.506 MHz - Business Radio, Business Radio (Suppliers Light)
+159.581 MHz - 159.593 MHz - Business Radio, Business Radio (Suppliers Light)
+159.600 MHz - 164.500 MHz - Business Radio, Business Radio (Simple Site)
+159.618 MHz - 159.631 MHz - Business Radio, Business Radio (Suppliers Light)
+159.681 MHz - 159.693 MHz - Business Radio, Business Radio (Suppliers Light)
+
+160.600 MHz - 160.975 MHz - Maritime Radio, Coastal Station Radio (International)
+160.600 MHz - 160.975 MHz - Maritime Radio, Coastal Station Radio (International) Area Defined
+160.600 MHz - 160.975 MHz - Maritime Radio, Ship Portable Radio
+160.600 MHz - 160.975 MHz - Maritime Radio, Ship Radio
+160.975 MHz - 161.500 MHz - Maritime Radio, Coastal Station Radio (UK)
+
+160.71875 MHz - UK Search Rescue
+160.73125 MHz - UK Search Rescue
+160.76875 MHz - UK Search Rescue
+160.78125 MHz - UK Search Rescue
+160.81875 MHz - UK Search Rescue
+160.83125 MHz - UK Search Rescue
+160.79375 MHz - UK Search Rescue
+161.80625 MHz - UK Search Rescue
+161.86875 MHz - UK Search Rescue
+161.88125 MHz - UK Search Rescue
+
+161.268 MHz - 161.281 MHz - Licence Exempt, General Alarms, Marine Applications including Fixed Shore Installations
+
+161.412 MHz - 161.437 MHz - Maritime Radio, Coastal Station Radio (Marina)
+161.475 MHz - 161.975 MHz - Maritime Radio, Coastal Station Radio (International)
+161.475 MHz - 161.975 MHz - Maritime Radio, Coastal Station Radio (International) Area Defined
+161.475 MHz - 161.975 MHz - Maritime Radio, Ship Portable Radio
+161.475 MHz - 161.975 MHz - Maritime Radio, Ship Radio
+161.612 MHz - 161.637 MHz - Maritime Radio, Coastal Station Radio (Marina)
+161.962 MHz - 161.987 MHz - Maritime Radio, AIS (Automatic Identification Systems)
+162.000 MHz - 163.050 MHz - Maritime Radio, Coastal Station Radio (UK)
+162.000 MHz - 163.050 MHz - Maritime Radio, Coastal Station Radio (UK) Area Defined
+
+162.000 MHz - 167.000 MHz - Licence Exempt, Common Base Station Systems
+
+162.012 MHz - 162.037 MHz - Maritime Radio, AIS (Automatic Identification Systems)
+162.437 MHz - 162.462 MHz - Maritime Radio, Maritime Navigational Aids and Radar
+162.437 MHz - 162.462 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+162.437 MHz - 162.465 MHz - Maritime Radio, Differential Global Positioning System
+163.012 MHz - 163.031 MHz - Maritime Radio, Maritime Navigational Aids and Radar
+163.012 MHz - 163.031 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+163.012 MHz - 163.320 MHz - Maritime Radio, Differential Global Positioning System
+
+163.281 MHz - 163.293 MHz - Business Radio, Business Radio (Suppliers Light)
+163.681 MHz - 163.693 MHz - Business Radio, Business Radio (Suppliers Light)
+163.743 MHz - 163.756 MHz - Business Radio, Business Radio (Suppliers Light)
+163.843 MHz - 163.856 MHz - Business Radio, Business Radio (Suppliers Light)
+163.893 MHz - 163.906 MHz - Business Radio, Business Radio (Suppliers Light)
+163.918 MHz - 163.931 MHz - Business Radio, Business Radio (Suppliers Light)
+163.943 MHz - 163.956 MHz - Business Radio, Business Radio (Suppliers Light)
+163.981 MHz - 163.993 MHz - Business Radio, Business Radio (Suppliers Light)
+163.993 MHz - 164.006 MHz - Business Radio, Business Radio (Suppliers Light)
+164.043 MHz - 164.056 MHz - Business Radio, Business Radio (Simple UK) '164.0500'
+164.056 MHz - 164.068 MHz - Business Radio, Business Radio (Simple UK) '164.0625'
+164.081 MHz - 164.093 MHz - Business Radio, Business Radio (Suppliers Light)
+164.118 MHz - 164.131 MHz - Business Radio, Business Radio (Suppliers Light)
+164.181 MHz - 164.193 MHz - Business Radio, Business Radio (Suppliers Light)
+
+164.400 MHz - 169.800 MHz - Licence Exempt, Public Two-way Paging Systems
+
+165.050 MHz - 173.087 MHz - Business Radio, Business Radio (Area Defined)
+165.050 MHz - 173.087 MHz - Business Radio, Business Radio (Technically Assigned)
+167.193 MHz - 167.206 MHz - Business Radio, Business Radio (Suppliers Light)
+169.006 MHz - 169.018 MHz - Business Radio, Business Radio (Suppliers Light)
+169.081 MHz - 169.093 MHz - Business Radio, Business Radio (Simple UK)
+169.131 MHz - 169.143 MHz - Business Radio, Business Radio (Suppliers Light)
+169.156 MHz - 169.168 MHz - Business Radio, Business Radio (Suppliers Light)
+169.181 MHz - 169.193 MHz - Business Radio, Business Radio (Suppliers Light)
+169.306 MHz - 169.318 MHz - Business Radio, Business Radio (Simple UK)
+
+169.400 MHz - 169.475 MHz - Licence Exempt, Assistive Listening Device
+169.400 MHz - 169.475 MHz - Licence Exempt, Industrial/Commercial Telemetry and Tele-command
+169.400 MHz - 169.475 MHz - Licence Exempt, Metering device
+169.400 MHz - 169.812 MHz - Licence Exempt, CDMA Spread Spectrum Data Asset Tracking Systems
+169.400 MHz - 169.812 MHz - Licence Exempt, Non-Specific Short Range Device
+169.475 MHz - 169.487 MHz - Licence Exempt, Social Alarms
+169.487 MHz - 169.587 MHz - Licence Exempt, Assistive Listening Device
+169.587 MHz - 169.600 MHz - Licence Exempt, Social Alarms
+171.000 MHz - 191.000 MHz - Licence Exempt, Common Base Station Systems
+
+171.993 MHz - 172.006 MHz - Business Radio, Business Radio (Suppliers Light)
+173.043 MHz - 173.056 MHz - Business Radio, Business Radio (Simple UK)
+173.056 MHz - 173.068 MHz - Business Radio, Business Radio (Simple UK)
+173.081 MHz - 173.093 MHz - Business Radio, Business Radio (Simple UK)
+
+Business Radio (Simple UK)
+173.0500 MHz
+173.0625 MHz
+173.0875 MHz
+
+173.181 MHz - 173.193 MHz - Licence Exempt, Mobile, Transportable and Lone worker Safety Alarms
+173.200 MHz - 173.35 MHz - Licence Exempt, Industrial/Commercial Telemetry and Tele-command
+173.200 MHz - 173.35 MHz - Licence Exempt, Non-Specific Short Range Device
+173.212 MHz - 173.237 MHz - Licence Exempt, Fixed Alarms
+173.325 MHz - 175.075 MHz - Licence Exempt, Assistive Listening Device
+173.587 MHz - 173.600 MHz - Licence Exempt, Non-Specific Short Range Device
+173.700 MHz - 174 MHz - Licence Exempt, Medical and Biological Applications
+173.700 MHz - 175.100 MHz - Licence Exempt, Railway Applications
+
+173.987 MHz - 174 MHz - Business Radio, Business Radio (Police and Fire)
+
+174 MHz - 208 MHz - Licence Exempt, Public Access Mobile Radio Systems
+174 MHz - 225 MHz - Licence Exempt, Public Mobile Data Systems
+
+175.150 MHz - 175.35 MHz - Programme Making and Special Events, Audio Distribution System
+175.150 MHz - 175.35 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+175.150 MHz - 175.35 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+175.150 MHz - 175.35 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+175.150 MHz - 175.35 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+175.425 MHz - 175.625 MHz - Programme Making and Special Events, Audio Distribution System
+175.425 MHz - 175.625 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+175.425 MHz - 175.625 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+175.425 MHz - 175.625 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+175.425 MHz - 175.625 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+176.300 MHz - 176.5 MHz - Programme Making and Special Events, Audio Distribution System
+176.300 MHz - 176.5 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+176.300 MHz - 176.5 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+176.300 MHz - 176.5 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+176.500 MHz - 176.7 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+176.500 MHz - 176.9 MHz - Programme Making and Special Events, Audio Distribution System
+176.500 MHz - 176.9 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+176.500 MHz - 176.9 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+176.500 MHz - 176.9 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+176.900 MHz - 177.1 MHz - Programme Making and Special Events, Audio Distribution System
+176.900 MHz - 177.1 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+176.900 MHz - 177.1 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+176.900 MHz - 177.1 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+177 MHz - 191 MHz - Licence Exempt, CDMA Spread Spectrum Data Asset Tracking Systems
+
+177.512 MHz - 184.487 MHz - Business Radio, Business Radio (Area Defined)
+177.512 MHz - 184.487 MHz - Business Radio, Business Radio (Technically Assigned)
+
+181.693 MHz - 181.806 MHz - Programme Making and Special Events, Audio Distribution System
+181.693 MHz - 181.806 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+181.693 MHz - 181.806 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+181.693 MHz - 181.806 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+184.500 MHz - 185.100 MHz - Programme Making and Special Events, Audio Distribution System
+184.500 MHz - 185.100 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+184.500 MHz - 185.100 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+184.500 MHz - 185.100 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+185.212 MHz - 191.487 MHz - Business Radio, Business Radio (Area Defined)
+185.212 MHz - 191.487 MHz - Business Radio, Business Radio (Technically Assigned)
+
+189.693 MHz - 189.806 MHz - Programme Making and Special Events, Audio Distribution System
+189.693 MHz - 189.806 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+189.693 MHz - 189.806 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+181.693 MHz - 181.806 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+184.500 MHz - 185.100 MHz - Programme Making and Special Events, Audio Distribution System
+184.500 MHz - 185.100 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+184.500 MHz - 185.100 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+184.500 MHz - 185.100 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+185.212 MHz - 191.487 MHz - Business Radio, Business Radio (Area Defined)
+185.212 MHz - 191.487 MHz - Business Radio, Business Radio (Technically Assigned)
+
+189.693 MHz - 189.806 MHz - Programme Making and Special Events, Audio Distribution System
+189.693 MHz - 189.806 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+189.693 MHz - 189.806 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+
+189.693 MHz - 189.806 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+191.600 MHz - 191.800 MHz - Programme Making and Special Events, Audio Distribution System
+191.600 MHz - 191.800 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+191.600 MHz - 191.800 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+191.600 MHz - 191.800 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+191.800 MHz - 192.000 MHz - Programme Making and Special Events, Audio Distribution System
+191.800 MHz - 192.000 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+191.800 MHz - 192.000 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+191.800 MHz - 192.000 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+191.800 MHz - 192.000 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+192.000 MHz - 193.1 MHz - Programme Making and Special Events, Audio Distribution System
+192.000 MHz - 193.1 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+192.000 MHz - 193.1 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+192.000 MHz - 193.1 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+192.700 MHz - 193.1 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+192.900 MHz - 193.1 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+
+193.212 MHz - 199.487 MHz - Business Radio, Business Radio (Technically Assigned)
+
+199.600 MHz - 199.8 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+199.600 MHz - 200.2 MHz - Programme Making and Special Events, Audio Distribution System
+199.600 MHz - 200.2 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+199.600 MHz - 200.2 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+199.600 MHz - 200.2 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+200.000 MHz - 201.1 MHz - Programme Making and Special Events, Audio Distribution System
+200.000 MHz - 201.1 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+200.200 MHz - 200.4 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+200.200 MHz - 200.5 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+200.200 MHz - 201.1 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+200.500 MHz - 200.7 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+
+201.212 MHz - 207.487 MHz - Business Radio, Business Radio (Technically Assigned)
+
+207.600 MHz - 210.2 MHz - Programme Making and Special Events, Audio Distribution System
+207.600 MHz - 210.2 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+207.600 MHz - 210.2 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+207.600 MHz - 210.2 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+208.200 MHz - 208.4 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+208.500 MHz - 208.7 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+208.900 MHz - 209.1 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+
+209 MHz - 215 MHz - Licence Exempt, Common Base Station Systems
+
+209.100 MHz - 209.3 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+209.500 MHz - 209.7 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+209.700 MHz - 209.9 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+
+210.792 MHz - 230 MHz - Broadcasting Services, Transmission of National and Local Radio Broadcasting Services (T-DAB)
+
+242.987 MHz - 243.012 MHz - Aeronautical, Aircraft
+242.994 MHz - 243.006 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+242.994 MHz - 243.006 MHz - Maritime Radio, Ship Portable Radio
+242.994 MHz - 243.006 MHz - Maritime Radio, Ship Radio
+
+243.000 MHz - Military Air Distress (AM)
+
+328.600 MHz - 335.400 MHz - Aeronautical, Aeronautical Navigation Aid Stations
+
+380 MHz - 385 MHz - Business Radio, Business Radio (Public Safety/TETRA AIRWAVE)
+390 MHz - 395 MHz - Business Radio, Business Radio (Public Safety/TETRA AIRWAVE)
+
+401 MHz - 402 MHz - Licence Exempt, Active medical implants
+402 MHz - 405 MHz - Licence Exempt, Active medical implants
+405 MHz - 406 MHz - Licence Exempt, Active medical implants
+
+406 MHz - 406.1 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+
+406 MHz - 406.1 MHz - Licence Exempt, Personal Locator Beacon
+406 MHz - 406.1 MHz - Maritime Radio, Ship Portable Radio
+406 MHz - 406.1 MHz - Maritime Radio, Ship Radio
+
+406.1 MHz - 410 MHz - Spectrum Access, Converted Spectrum Access
+406.1 MHz - 410 MHz - Spectrum Access, Crown Recognised Spectrum Access
+410 MHz - 412 MHz - Spectrum Access, Converted Spectrum Access
+410 MHz - 412 MHz - Spectrum Access, Crown Recognised Spectrum Access
+
+410 MHz - 430 MHz - Licence Exempt, Public Access Mobile Radio Systems
+
+412 MHz - 414 MHz - Spectrum Access, Spectrum Access (412-414 and 422-424 MHz)
+414 MHz - 420 MHz - Spectrum Access, Converted Spectrum Access
+414 MHz - 420 MHz - Spectrum Access, Crown Recognised Spectrum Access
+420 MHz - 422 MHz - Spectrum Access, Converted Spectrum Access
+420 MHz - 422 MHz - Spectrum Access, Crown Recognised Spectrum Access
+422 MHz - 424 MHz - Spectrum Access, Spectrum Access (412-414 and 422-424 MHz)
+424 MHz - 425 MHz - Spectrum Access, Converted Spectrum Access
+424 MHz - 425 MHz - Spectrum Access, Crown Recognised Spectrum Access
+
+425 MHz - 450 MHz - Licence Exempt, Public Mobile Data Systems
+
+425.012 MHz - 429.475 MHz - Business Radio, Business Radio (Area Defined)
+425.012 MHz - 429.475 MHz - Business Radio, Business Radio (Technically Assigned)
+
+425.312 MHz - 425.562 MHz - Programme Making and Special Events, Audio Distribution System
+425.312 MHz - 425.562 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+425.312 MHz - 425.562 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+425.312 MHz - 425.562 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+427.762 MHz - 428.012 MHz - Programme Making and Special Events, Audio Distribution System
+427.762 MHz - 428.012 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+427.762 MHz - 428.012 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+427.762 MHz - 428.012 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+429 MHz - 430 MHz - Spectrum Access, Converted Spectrum Access
+
+429 MHz - 430 MHz - Spectrum Access, Crown Recognised Spectrum Access
+
+430 MHz - 440 MHz - Amateur Radio, Amateur Radio Foundation Licence
+430 MHz - 440 MHz - Amateur Radio, Amateur Radio Full Licence
+430 MHz - 440 MHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+431.006 MHz - 431.993 MHz - Business Radio, Business Radio (Area Defined)
+431.006 MHz - 431.993 MHz - Business Radio, Business Radio (Technically Assigned)
+
+433.050 MHz - 434.790 MHz - Licence Exempt, Model Control
+433.050 MHz - 434.790 MHz - Licence Exempt, Non-Specific Short Range Device
+440.000 MHz - 449.000 MHz - Licence Exempt, Common Base Station Systems
+
+440.012 MHz - 443.975 MHz - Business Radio, Business Radio (Area Defined)
+440.012 MHz - 443.975 MHz - Business Radio, Business Radio (Technically Assigned)
+
+442.262 MHz - 442.512 MHz - Programme Making and Special Events, Audio Distribution System
+442.262 MHz - 442.512 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+442.262 MHz - 442.512 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+442.262 MHz - 442.512 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+445.512 MHz - 449.725 MHz - Business Radio, Business Radio (Area Defined)
+445.512 MHz - 449.725 MHz - Business Radio, Business Radio (Technically Assigned)
+
+446.0 MHz - 446.1 MHz - Licence Exempt, PMR 446
+
+PMR 446
+Channel 1 - 446.00625 MHz
+Channel 2 - 446.01875 MHz
+Channel 3 - 446.03125 MHz
+Channel 4 - 446.04375 MHz
+Channel 5 - 446.05625 MHz
+Channel 6 - 446.06875 MHz
+Channel 7 - 446.08125 MHz
+Channel 8 - 446.09375 MHz
+
+446.1 MHz - 446.2 MHz - Licence Exempt, Digital PMR 446
+
+Digital PMR 446
+Digital Channel 1 - 446.10625 MHz
+Digital Channel 2 - 446.11875 MHz
+Digital Channel 3 - 446.13125 MHz
+Digital Channel 4 - 446.14375 MHz
+Digital Channel 5 - 446.15625 MHz
+Digital Channel 6 - 446.16875 MHz
+Digital Channel 7 - 446.18125 MHz
+Digital Channel 8 - 446.19375 MHz
+
+446.425 MHz - 447.512 MHz - Programme Making and Special Events, Audio Distribution System
+446.425 MHz - 447.512 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+446.425 MHz - 447.512 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+446.425 MHz - 447.512 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+447.875 MHz - G4S National
+
+449.306 MHz - 449.318 MHz - Business Radio, Business Radio (Simple UK) '449.3125'
+449.393 MHz - 449.406 MHz - Business Radio, Business Radio (Simple UK) '449.4000'
+449.468 MHz - 449.481 MHz - Business Radio, Business Radio (Simple UK) '449.4750'
+
+Simple UK
+449.3125 MHz - Channel 1
+449.4000 MHz - Channel 2
+449.4750 MHz - Channel 3
+
+450 MHz - 453 MHz - Business Radio, Business Radio (Police and Fire, Prisons)
+450 MHz - 470 MHz - Licence Exempt, Public Mobile Data Systems
+
+453.550 MHz - Rail National
+453.900 MHz - Rail National
+
+453.01250 MHz - 454.987 MHz - Business Radio, Business Radio (Area Defined)
+453.01250 MHz - 454.987 MHz - Business Radio, Business Radio (Technically Assigned)
+453.68125 MHz - 453.693 MHz - Business Radio, Business Radio (Suppliers Light)
+454.41250 MHz - 454.437 MHz - Business Radio, Business Radio (Suppliers Light)
+
+453.5875 MHz - Tesco Stores National
+460.0875 MHz - Tesco Stores National
+
+454.987 MHz - 455.475 MHz - Programme Making and Special Events, Audio Distribution System
+454.987 MHz - 455.475 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+454.987 MHz - 455.475 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+454.987 MHz - 455.475 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+455.475 MHz - 455.850 MHz - Business Radio, Business Radio (Area Defined)
+455.475 MHz - 455.850 MHz - Business Radio, Business Radio (Technically Assigned)
+
+455.875 MHz - 456.000 MHz - Business Radio, Business Radio (Police and Fire)
+
+455.9875 MHz - Fire Service
+
+456.006 MHz - 456.018 MHz - Business Radio, Business Radio (Suppliers Light)
+456.331 MHz - 456.343 MHz - Business Radio, Business Radio (Suppliers Light)
+456.381 MHz - 456.393 MHz - Business Radio, Business Radio (Suppliers Light)
+456.456 MHz - 456.468 MHz - Business Radio, Business Radio (Suppliers Light)
+
+456.518 MHz - 456.531 MHz - Maritime Radio, Ship Radio
+
+456.556 MHz - 456.568 MHz - Business Radio, Business Radio (Suppliers Light)
+456.681 MHz - 456.693 MHz - Business Radio, Business Radio (Suppliers Light)
+456.856 MHz - 456.868 MHz - Business Radio, Business Radio (Suppliers Light)
+
+456.900 MHz - 457.100 MHz - Licence Exempt, Non-Specific Short Range Device
+
+456.918 MHz - 456.931 MHz - Business Radio, Business Radio (Suppliers Light)
+456.956 MHz - 456.968 MHz - Business Radio, Business Radio (Suppliers Light)
+456.981 MHz - 456.993 MHz - Business Radio, Business Radio (Suppliers Light)
+
+457 MHz - 457.25 MHz - Business Radio, Business Radio (Police and Fire)
+
+Firefighter Handhelds 457.0375 MHz
+Firefighter Handhelds 457.0875 MHz
+Firefighter Handhelds 457.0125 MHz
+Firefighter Handhelds 457.1375 MHz
+Firefighter Handhelds 457.1875 MHz
+Firefighter Handhelds 457.2375 MHz
+
+457.25 MHz - 457.475 MHz - Programme Making and Special Events, Audio Distribution System
+457.25 MHz - 457.475 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+457.25 MHz - 457.475 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+457.25 MHz - 457.475 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+457.475 MHz - 457.500 MHz - Business Radio, Business Radio (Police and Fire)
+
+Firefighter Handhelds 457.4875 MHz
+
+457.5 MHz - 458.5 MHz - Fixed Links, Scanning Telemetry (National)
+457.5 MHz - 458.5 MHz - Fixed Links, Scanning Telemetry (Shared)
+
+457.512 MHz - 457.537 MHz - Aeronautical, Aircraft
+457.518 MHz - 457.531 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+457.518 MHz - 457.531 MHz - Maritime Radio, Ship Radio
+457.531 MHz - 457.543 MHz - Aeronautical, Aircraft
+457.531 MHz - 457.543 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+457.531 MHz - 457.543 MHz - Maritime Radio, Ship Radio
+457.537 MHz - 457.562 MHz - Aeronautical, Aircraft
+457.543 MHz - 457.556 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+457.543 MHz - 457.556 MHz - Maritime Radio, Ship Radio
+457.556 MHz - 457.568 MHz - Aeronautical, Aircraft
+457.556 MHz - 457.568 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+457.556 MHz - 457.568 MHz - Maritime Radio, Ship Radio
+457.562 MHz - 457.587 MHz - Aeronautical, Aircraft
+457.568 MHz - 457.581 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+457.568 MHz - 457.581 MHz - Maritime Radio, Ship Radio
+
+458.500 MHz - 458.950 MHz - Licence Exempt, Industrial/Commercial Telemetry and Tele-command
+458.500 MHz - 459.500 MHz - Licence Exempt, Model Control
+
+458.7875 MHz - New Simple UK
+458.8000 MHz - New Simple UK
+458.8125 MHz - New Simple UK
+458.8250 MHz - New Simple UK
+
+458.818 MHz - 458.831 MHz - Licence Exempt, Fixed Alarms
+458.831 MHz - 458.843 MHz - Licence Exempt, Mobile, Transportable and Lone worker Safety Alarms
+458.900 MHz - 458.900 MHz - Licence Exempt, Vehicle Paging Alarms
+458.962 MHz - 459.100 MHz - Licence Exempt, Medical and Biological Applications
+
+459.000 MHz - 459.500 MHz - Business Radio, Business Radio (Simple Site)
+459.493 MHz - 459.506 MHz - Business Radio, Business Radio (Police and Fire)
+459.506 MHz - 459.518 MHz - Business Radio, Business Radio (Police and Fire)
+459.525 MHz - 460.496 MHz - Business Radio, Business Radio (Area Defined)
+459.525 MHz - 460.496 MHz - Business Radio, Business Radio (Technically Assigned)
+459.531 MHz - 459.543 MHz - Business Radio, Business Radio (Police and Fire)
+460.181 MHz - 460.193 MHz - Business Radio, Business Radio (Suppliers Light)
+460.500 MHz - 460.750 MHz - Business Radio, Business Radio (Police and Fire)
+460.759 MHz - 462.487 MHz - Business Radio, Business Radio (Area Defined)
+460.759 MHz - 462.487 MHz - Business Radio, Business Radio (Technically Assigned)
+
+461.231 MHz - 461.256 MHz - Programme Making and Special Events, Audio Distribution System
+461.231 MHz - 461.256 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+461.231 MHz - 461.256 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+461.231 MHz - 461.256 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+461.300 MHz - G4S National
+
+462.125 CTCSS 69.3   CH01 - BAOFENG BF-888s DEFAULT
+462.225              CH02 - BAOFENG BF-888s DEFAULT
+462.325              CH03 - BAOFENG BF-888s DEFAULT
+462.425 CTCSS 103.5  CH04 - BAOFENG BF-888s DEFAULT
+462.525 CTCSS 114.8  CH05 - BAOFENG BF-888s DEFAULT
+462.625 CTCSS 127.3  CH06 - BAOFENG BF-888s DEFAULT
+462.725 CTCSS 136.5  CH07 - BAOFENG BF-888s DEFAULT
+462.825 CTCSS 162.2  CH08 - BAOFENG BF-888s DEFAULT
+462.925 DCS 025      CH09 - BAOFENG BF-888s DEFAULT
+463.025 DCS 032      CH10 - BAOFENG BF-888s DEFAULT
+463.125 DCS 125      CH11 - BAOFENG BF-888s DEFAULT
+463.225 DCS 331      CH12 - BAOFENG BF-888s DEFAULT
+463.525 DCS 023      CH13 - BAOFENG BF-888s DEFAULT
+450.225              CH14 - BAOFENG BF-888s DEFAULT
+469.945 CTCSS 203.5  CH15 - BAOFENG BF-888s DEFAULT
+469.950 CTCSS 203.5  CH16 - BAOFENG BF-888s DEFAULT
+
+
+461.412 MHz - 461.437 MHz - Business Radio, Business Radio (Suppliers Light)
+461.506 MHz - 461.518 MHz - Business Radio, Business Radio (Suppliers Light)
+461.831 MHz - 461.843 MHz - Business Radio, Business Radio (Suppliers Light)
+461.881 MHz - 461.893 MHz - Business Radio, Business Radio (Suppliers Light)
+461.956 MHz - 461.968 MHz - Business Radio, Business Radio (Suppliers Light)
+462.056 MHz - 462.068 MHz - Business Radio, Business Radio (Suppliers Light)
+462.181 MHz - 462.193 MHz - Business Radio, Business Radio (Suppliers Light)
+462.356 MHz - 462.368 MHz - Business Radio, Business Radio (Suppliers Light)
+462.418 MHz - 462.431 MHz - Business Radio, Business Radio (Suppliers Light)
+462.456 MHz - 462.468 MHz - Business Radio, Business Radio (Suppliers Light)
+462.468 MHz - 462.481 MHz - Business Radio, Business Radio (Suppliers Light)
+462.481 MHz - 462.493 MHz - Business Radio, Business Radio (Suppliers Light)
+
+462.500 MHz - 462.750 MHz - Business Radio, Business Radio (Police and Fire)
+
+462.750 MHz - 463 MHz - Programme Making and Special Events, Audio Distribution System
+462.750 MHz - 463 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+462.750 MHz - 463 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+
+462.750 MHz - 463 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+463 MHz - 464 MHz - Fixed Links, Scanning Telemetry (National)
+463 MHz - 464 MHz - Fixed Links, Scanning Telemetry (Shared)
+
+464.000 MHz - 466.062 MHz - Business Radio, Business Radio (Police and Fire)
+466.087 MHz - 467.250 MHz - Business Radio, Business Radio (Police and Fire)
+
+467.262 MHz - 469.875 MHz - Programme Making and Special Events, Audio Distribution System
+467.262 MHz - 469.875 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+467.262 MHz - 469.875 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+467.262 MHz - 469.875 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+467.512 MHz - 467.537 MHz - Aeronautical, Aircraft
+467.518 MHz - 467.531 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+467.518 MHz - 467.531 MHz - Maritime Radio, Ship Radio
+467.531 MHz - 467.543 MHz - Aeronautical, Aircraft
+467.531 MHz - 467.543 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+467.531 MHz - 467.543 MHz - Maritime Radio, Ship Radio
+467.537 MHz - 467.562 MHz - Aeronautical, Aircraft
+467.543 MHz - 467.556 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+467.543 MHz - 467.556 MHz - Maritime Radio, Ship Radio
+467.556 MHz - 467.568 MHz - Aeronautical, Aircraft
+467.556 MHz - 467.568 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+467.556 MHz - 467.568 MHz - Maritime Radio, Ship Radio
+467.562 MHz - 467.587 MHz - Aeronautical, Aircraft
+467.568 MHz - 467.581 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+467.568 MHz - 467.581 MHz - Maritime Radio, Ship Radio
+
+469.875 MHz - 470 MHz - Business Radio 	Business Radio (Police and Fire)
+
+470 MHz - 550 MHz - Broadcasting Services, Restricted Television Services
+470 MHz - 550 MHz - Broadcasting Services, Terrestrial TV Broadcast Transmission (UHF Digital)
+470 MHz - 606 MHz - Programme Making and Special Events, Audio Distribution System
+470 MHz - 606 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+470 MHz - 606 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+470 MHz - 606 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+542 MHz - 550 MHz - Spectrum Access, Spectrum Access 542 - 550 MHz (Cardiff)
+
+550 MHz - 606 MHz - Broadcasting Services, Terrestrial TV Broadcast Transmission (UHF Digital)
+
+590 MHz - 598 MHz - Aeronautical, Aeronautical Radar
+
+598 MHz - 606 MHz - Broadcasting Services, Restricted Television Services
+606 MHz - 614 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+606 MHz - 614 MHz - Programme Making and Special Events, UK Wireless Microphone (Biennial)
+606.6 MHz - 606.8 MHz - Programme Making and Special Events, Audio Distribution System
+606.6 MHz - 606.8 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+606.6 MHz - 606.8 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+606.6 MHz - 606.8 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+606.9 MHz - 607.1 MHz - Programme Making and Special Events, Audio Distribution System
+606.9 MHz - 607.1 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+606.9 MHz - 607.1 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+606.9 MHz - 607.1 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+614 MHz - 790 MHz - Programme Making and Special Events, Audio Distribution System
+614 MHz - 790 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+614 MHz - 790 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+614 MHz - 790 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+614 MHz - 790 MHz - Broadcasting Services, Terrestrial TV Broadcast Transmission (UHF Digital)
+
+758 MHz - 766 MHz - Spectrum Access, Spectrum Access 758 - 766 MHz
+
+790 MHz - 821 MHz - Public Wireless Networks, Public Wireless Networks (Guernsey)
+790 MHz - 821 MHz - Public Wireless Networks, Public Wireless Networks (Isle of Man)
+790 MHz - 821 MHz - Public Wireless Networks, Public Wireless Networks (Jersey)
+
+790 MHz - 821 MHz - Spectrum Access, Spectrum Access (800 MHz and 2.6 GHz)
+791 MHz - 821 MHz - Licence Exempt, Cellular Radiotelephone Systems (4G - LTE/WiMAX)
+
+823 MHz - 832 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+823 MHz - 832 MHz - Programme Making and Special Events, UK Wireless Microphone (Biennial)
+
+832 MHz - 862 MHz - Licence Exempt, Cellular Radiotelephone Systems (4G - LTE/WiMAX)
+832 MHz - 862 MHz - Public Wireless Networks, Public Wireless Networks (Guernsey)
+832 MHz - 862 MHz - Public Wireless Networks, Public Wireless Networks (Isle of Man)
+832 MHz - 862 MHz - Public Wireless Networks, Public Wireless Networks (Jersey)
+832 MHz - 862 MHz - Spectrum Access, Spectrum Access (800 MHz and 2.6 GHz)
+
+862 MHz - 863 MHz - Business Radio, Business Radio (Police and Fire)
+
+863 MHz - 865 MHz - Licence Exempt, High Duty Cycle or Continuous Transmission Devices
+863 MHz - 865 MHz - Licence Exempt, Non-Specific Short Range Device
+863 MHz - 865 MHz - Licence Exempt, Radio Microphones
+863 MHz - 865 MHz - Licence Exempt, Wireless audio/multimedia
+
+864.100 MHz - 868.100 MHz - Licence Exempt, Cordless Telephone Apparatus (CT1; extended CT1; CT2 and DECT)
+
+865 MHz - 865.6 MHz - Licence Exempt, Radio Frequency Identification (RFID)
+865 MHz - 870 MHz - Licence Exempt, Non-Specific Short Range Device
+865.6 MHz - 867.6 MHz - Licence Exempt, Radio Frequency Identification (RFID)
+866 MHz - 868 MHz - Licence Exempt, CDMA Spread Spectrum Data Asset Tracking Systems
+867.6 MHz - 868 MHz - Licence Exempt, Radio Frequency Identification (RFID)
+868.6 MHz - 868.7 MHz - Licence Exempt, Alarms
+868.6 MHz - 868.7 MHz - Licence Exempt, Low Duty Cycle or High Reliability Devices
+869.2 MHz - 869.25 MHz - Licence Exempt, Social Alarms
+869.2 MHz - 869.4 MHz - Licence Exempt, Low Duty Cycle or High Reliability Devices
+869.25 MHz - 869.3 MHz - Licence Exempt, Alarms
+869.3 MHz - 869.4 MHz - Licence Exempt, Alarms
+869.65 MHz - 869.7 MHz - Licence Exempt, Alarms
+869.65 MHz - 869.7 MHz - Licence Exempt, Low Duty Cycle or High Reliability Devices
+870 MHz - 871 MHz - Licence Exempt, Public Two-way Paging Systems
+870 MHz - 873 MHz - Technology Development, High Duty Cycle Network Relay Points (NRP)
+870 MHz - 873 MHz - Licence Exempt, Non-Specific Short Range Device
+870 MHz - 875.8 MHz - Licence Exempt, Transport and Traffic Telematics
+873 MHz - 875.6 MHz - Licence Exempt, Networked Meter Reading Sensors and Actuators
+873 MHz - 876 MHz - Licence Exempt, Non-Specific Short Range Device
+
+876 MHz - 880 MHz - Business Radio, Business Radio (GSM-R Railway Use)
+
+880 MHz - 915 MHz - Licence Exempt, Cellular Radiotelephone Systems (2G - GSM)
+880 MHz - 915 MHz - Licence Exempt, Cellular Radiotelephone Systems (4G - LTE/WiMAX)
+880 MHz - 915 MHz - Public Wireless Networks, Public Wireless Networks (Cellular Operator)
+880 MHz - 915 MHz - Public Wireless Networks, Public Wireless Networks (Guernsey)
+880 MHz - 915 MHz - Public Wireless Networks, Public Wireless Networks (Isle of Man)
+880 MHz - 915 MHz - Public Wireless Networks, Public Wireless Networks (Jersey)
+880.1 MHz - 914.9 MHz - Licence Exempt, Cellular Radiotelephone Systems (3G - UMTS/PCN)
+888 MHz - 889 MHz - Licence Exempt, Radio Determination
+915 MHz - 918 MHz - Licence Exempt, Non-Specific Short Range Device
+916.1 MHz - 916.5 MHz - Licence Exempt, Assistive Listening Device
+916.1 MHz - 916.5 MHz - Licence Exempt, Radio Frequency Identification (RFID)
+917.3 MHz - 917.7 MHz - Licence Exempt, Assistive Listening Device
+917.3 MHz - 917.7 MHz - Licence Exempt, Radio Frequency Identification (RFID)
+918 MHz - 921 MHz - Licence Exempt, Non-Specific Short Range Device
+918.5 MHz - 918.9 MHz - Licence Exempt, Assistive Listening Device
+918.5 MHz - 918.9 MHz - Licence Exempt, Radio Frequency Identification (RFID)
+919.7 MHz - 920.1 MHz - Licence Exempt, Assistive Listening Device
+919.7 MHz - 920.1 MHz - Licence Exempt, Radio Frequency Identification (RFID)
+
+921 MHz - 925 MHz - Business Radio, Business Radio (GSM-R Railway Use)
+
+925 MHz - 960 MHz - Licence Exempt, Cellular Radiotelephone Systems (2G - GSM)
+925 MHz - 960 MHz - Licence Exempt, Cellular Radiotelephone Systems (4G - LTE/WiMAX)
+925 MHz - 960 MHz - Public Wireless Networks, Public Wireless Networks (Cellular Operator)
+925 MHz - 960 MHz - Public Wireless Networks, Public Wireless Networks (Guernsey)
+925 MHz - 960 MHz - Public Wireless Networks, Public Wireless Networks (Isle of Man)
+925 MHz - 960 MHz - Public Wireless Networks, Public Wireless Networks (Jersey)
+
+960 MHz - 1215 MHz - Aeronautical, Aeronautical Navigation Aid Stations
+960 MHz - 1215 MHz - Aeronautical, Aircraft
+1025 MHz - 1035 MHz - Aeronautical, Aeronautical Radar
+1085 MHz - 1095 MHz - Aeronautical, Aeronautical Radar/ADS-B
+
+1164 MHz - 1215 MHz - Satellite Services, Global Navigation Satellite System (GNSS) Repeaters
+1215 MHz - 1300 MHz - Satellite Services, Global Navigation Satellite System (GNSS) Repeaters
+
+1215 MHz - 1350 MHz - Aeronautical, Aeronautical Radar
+
+1240 MHz - 1325 MHz - Amateur Radio, Amateur Radio Full Licence
+1240 MHz - 1325 MHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+1350 MHz - 1375 MHz - Fixed Links, Point-to-Point Fixed Links
+1389 MHz - 1399 MHz - Licence Exempt, Video Distribution for Private Use
+1389 MHz - 1399 MHz - Licence Exempt, Wireless Video Cameras - Non Broadcasting
+1400 MHz - 1427 MHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+1452 MHz - 1492 MHz - Spectrum Access, Spectrum Access L Band (1452-1492 MHz)
+1492 MHz - 1517 MHz - Fixed Links, Point-to-Point Fixed Links
+
+1517 MHz - 1525 MHz - Programme Making and Special Events, Audio Distribution System
+1517 MHz - 1525 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+1517 MHz - 1525 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+1517 MHz - 1525 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+1518 MHz - 1544 MHz - Licence Exempt, Land Mobile-Satellite Service Stations
+1525 MHz - 1544 MHz - Licence Exempt, Land Mobile-Satellite Service Stations
+
+1525 MHz - 1559 MHz - Maritime Radio, Ship Radio
+
+1545 MHz - 1559 MHz - Licence Exempt, Land Mobile-Satellite Service Stations
+1559 MHz - 1610 MHz - Satellite Services, Global Navigation Satellite System (GNSS) Repeaters
+1610 MHz - 1621.35 MHz - Licence Exempt, Land Mobile-Satellite Service Stations
+1610.6 MHz - 1613.8 MHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+1621.35 MHz - 1626.5 MHz - Licence Exempt, Land Mobile-Satellite Service Stations
+1626.5 MHz - 1645.5 MHz - Licence Exempt, Land Mobile-Satellite Service Stations
+1626.5 MHz - 1660.5 MHz - Maritime Radio, Maritime Radio (Suppliers and Demonstration)
+1626.5 MHz - 1660.5 MHz - Maritime Radio, Ship Radio
+1646.5 MHz - 1656.5 MHz - Aeronautical 	Aircraft
+1646.5 MHz - 1660.5 MHz - Licence Exempt, Land Mobile-Satellite Service Stations
+
+1660 MHz - 1660.5 MHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+1660.5 MHz - 1668 MHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+1668 MHz - 1670 MHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+
+1670 MHz - 1675 MHz - Licence Exempt, Land Mobile-Satellite Service Stations
+1672 MHz - 1673 MHz - Fixed Links, Point-to-Point Fixed Links
+
+1677 MHz - 1685 MHz - Business Radio, Business Radio (Police and Fire)
+
+1686 MHz - 1687 MHz - Fixed Links, Point-to-Point Fixed Links
+1690 MHz - 1710 MHz - Spectrum Access, RSA for receive only earth stations (ROES)
+1710 MHz - 1785 MHz - Licence Exempt, Cellular Radiotelephone Systems (2G - GSM)
+1710 MHz - 1785 MHz - Licence Exempt, Cellular Radiotelephone Systems (4G - LTE/WiMAX)
+1710 MHz - 1785 MHz - Public Wireless Networks, Public Wireless Networks (Cellular Operator)
+1710 MHz - 1785 MHz - Public Wireless Networks, Public Wireless Networks (Guernsey)
+1710 MHz - 1785 MHz - Public Wireless Networks, Public Wireless Networks (Isle of Man)
+1710 MHz - 1785 MHz - Public Wireless Networks, Public Wireless Networks (Jersey)
+1710.1 MHz - 1785 MHz - Licence Exempt, Cellular Radiotelephone Systems (3G - UMTS/PCN)
+1781.7 MHz - 1785 MHz - Spectrum Access, Concurrent Spectrum Access (1781.7-1785 and 1876.7-1880 MHz)
+
+1785 MHz - 1800 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+1785 MHz - 1800 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+1785 MHz - 1800 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+1785 MHz - 1805 MHz - Spectrum Access, 1785-1805 MHz Northern Ireland Award
+
+1785 MHz - 1805 MHz - Programme Making and Special Events, UK Wireless Microphone (Annual)
+1785 MHz - 1805 MHz - Programme Making and Special Events, UK Wireless Microphone (Biennial)
+
+1790 MHz - 1798 MHz - Business Radio, Business Radio (Police and Fire)
+
+1805 MHz - 1880 MHz - Licence Exempt, Cellular Radiotelephone Systems (2G - GSM)
+1805 MHz - 1880 MHz - Licence Exempt, Cellular Radiotelephone Systems (4G - LTE/WiMAX)
+1805 MHz - 1880 MHz - Public Wireless Networks, Public Wireless Networks (Cellular Operator)
+1805 MHz - 1880 MHz - Public Wireless Networks, Public Wireless Networks (Guernsey)
+1805 MHz - 1880 MHz - Public Wireless Networks, Public Wireless Networks (Isle of Man)
+1805 MHz - 1880 MHz - Public Wireless Networks, Public Wireless Networks (Jersey)
+1876.7 MHz - 1880 MHz - Spectrum Access, Concurrent Spectrum Access (1781.7-1785 and 1876.7-1880 MHz)
+1880 MHz - 1900 MHz - Licence Exempt, Cordless Telephone Apparatus (CT1; extended CT1; CT2 and DECT)
+1899.9 MHz - 1920 MHz - Licence Exempt, Cellular Radiotelephone Systems (3G - UMTS/PCN)
+1899.9 MHz - 1980 MHz - Public Wireless Networks, Public Wireless Networks (3G Cellular Operator - Guernsey)
+1899.9 MHz - 1980 MHz - Public Wireless Networks, Public Wireless Networks (3G Cellular Operator - Isle of Man)
+1899.9 MHz - 1980 MHz - Public Wireless Networks, Public Wireless Networks (3G Cellular Operator - Jersey)
+1900 MHz - 1920 MHz - Public Wireless Networks, Public Wireless Networks (2100 MHz)
+1920 MHz - 1980 MHz - Licence Exempt, Cellular Radiotelephone Systems (3G - UMTS/PCN)
+1920 MHz - 1980 MHz - Licence Exempt, Cellular Radiotelephone Systems (4G - LTE/WiMAX)
+1920 MHz - 1980 MHz - Public Wireless Networks, Public Wireless Networks (2100 MHz)
+1980 MHz - 2010 MHz - Satellite Services, Complementary Ground Components of a Mobile Satellite System
+1997.5 MHz - 2010 MHz - Licence Exempt, Land Mobile-Satellite Service Stations
+
+2010 MHz - 2025 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+2010 MHz - 2025 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+2010 MHz - 2025 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+2025 MHz - 2110 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+2025 MHz - 2110 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+2025 MHz - 2110 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+2025 MHz - 2110 MHz - Satellite Services, Satellite (Earth Station)(Non-Fixed Satellite Service)
+2025 MHz - 2110 MHz - Satellite Services, Satellite (Earth Station) (Non-Geostationary)
+2100 MHz - 2105 MHz - Fixed Links, Point-to-Point Fixed Links
+2110 MHz - 2170 MHz - Licence Exempt, Cellular Radiotelephone Systems (3G - UMTS/PCN)
+2110 MHz - 2170 MHz - Licence Exempt, Cellular Radiotelephone Systems (4G - LTE/WiMAX)
+2110 MHz - 2170 MHz - Public Wireless Networks 	Public Wireless Networks (2100 MHz)
+2110 MHz - 2170 MHz - Public Wireless Networks 	Public Wireless Networks (3G Cellular Operator - Guernsey)
+2110 MHz - 2170 MHz - Public Wireless Networks 	Public Wireless Networks (3G Cellular Operator - Isle of Man)
+2110 MHz - 2170 MHz - Public Wireless Networks 	Public Wireless Networks (3G Cellular Operator - Jersey)
+2170 MHz - 2200 MHz - Satellite Services, Complementary Ground Components of a Mobile Satellite System
+2187.5 MHz - 2200 MHz - Licence Exempt, Land Mobile-Satellite Service Stations
+2200 MHz - 2290 MHz - Satellite Services, Satellite (Earth Station) (Non-Fixed Satellite Service)
+2200 MHz - 2290 MHz - Satellite Services, Satellite (Earth Station) (Non-Geostationary)
+
+2200 MHz - 2300 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+2200 MHz - 2300 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+2200 MHz - 2300 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+2205 MHz - 2210 MHz - Fixed Links, Point-to-Point Fixed Links
+
+2302 MHz - 2310 MHz - Business Radio, Business Radio (Police and Fire)
+2310 MHz - 2320 MHz - Business Radio, Business Radio (Police and Fire)
+
+2310 MHz - 2350 MHz - Amateur Radio, Amateur Radio Full Licence
+2310 MHz - 2350 MHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+2320 MHz - 2350 MHz - Business Radio, Business Radio (Police and Fire)
+
+2350 MHz - 2390 MHz - Spectrum Access, Prospective Award (2350-2390 MHz)
+
+2360 MHz - 2380 MHz - Business Radio, Business Radio (Police and Fire)
+
+2390 MHz - 2450 MHz - Amateur Radio, Amateur Radio Full Licence
+2390 MHz - 2450 MHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+2390 MHz - 2500 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+2390 MHz - 2500 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+2390 MHz - 2500 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+2400 MHz - 2483.5 MHz - Licence Exempt, Non-Specific Short Range Device
+2400 MHz - 2483.5 MHz - Licence Exempt, Radio Determination
+2400 MHz - 2483.5 MHz - Licence Exempt, Wideband Data Transmission Devices
+2400 MHz - 2483.5 MHz - Licence Exempt, Wireless audio/multimedia
+2400 MHz - 2483.5 MHz - Licence Exempt, Wireless Video Cameras - Non Broadcasting
+2445 MHz - 2455 MHz - Licence Exempt, Industrial/Commercial Telemetry and Tele-command
+2445 MHz - 2455 MHz - Licence Exempt, Radio Determination
+2445 MHz - 2455 MHz - Licence Exempt, Short Range Indoor Data Links
+2446 MHz - 2454 MHz - Licence Exempt, Radio Frequency Identification (RFID)
+2446 MHz - 2454 MHz - Licence Exempt, Railway Applications
+2483.5 MHz - 2500 MHz - Licence Exempt, Active medical implants
+2483.5 MHz - 2500 MHz - Licence Exempt, Land Mobile-Satellite Service Stations
+2500 MHz - 2690 MHz - Licence Exempt, Cellular Radiotelephone Systems (4G - LTE/WiMAX)
+
+2500 MHz - 2690 MHz - Public Wireless Networks 	Public Wireless Networks (Guernsey)
+2500 MHz - 2690 MHz - Public Wireless Networks 	Public Wireless Networks (Isle of Man)
+2500 MHz - 2690 MHz - Public Wireless Networks 	Public Wireless Networks (Jersey)
+
+2500 MHz - 2690 MHz - Spectrum Access, Spectrum Access (800 MHz and 2.6 GHz)
+2690 MHz - 2700 MHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+
+2700 MHz - 3100 MHz - Aeronautical, Aeronautical Radar
+2900 MHz - 3100 MHz - Maritime Radio, Maritime Navigational Aids and Radar
+2900 MHz - 3100 MHz - Maritime Radio, Ship Radio
+
+3100 MHz - 3402 MHz - Business Radio, Business Radio (Police and Fire)
+
+3400 MHz - 3410 MHz - Amateur Radio, Amateur Radio Full Licence
+3400 MHz - 3410 MHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+3400 MHz - 3440 MHz - Programme Making and Special Events (Fixed Site)
+3400 MHz - 3440 MHz - Programme Making and Special Events (Link)
+3400 MHz - 3440 MHz - Programme Making and Special Events (Low Power)
+
+3410 MHz - 3480 MHz - Spectrum Access, Prospective Award (3410 - 3480 MHz and 3500 to 3580 MHz)
+
+3442 MHz - 3475 MHz - Business Radio, Business Radio (Police and Fire)
+
+3480 MHz - 3500 MHz - Fixed Wireless Access, Fixed Wireless Access (3.5 GHz - Guernsey)
+3480 MHz - 3500 MHz - Fixed Wireless Access, Fixed Wireless Access (3.5 GHz Isle of Man)
+3480 MHz - 3500 MHz - Fixed Wireless Access, Fixed Wireless Access (3.5 GHz Jersey)
+3480 MHz - 3500 MHz - Spectrum Access, Spectrum Access (3.5 GHz Band)
+
+3500 MHz - 3580 MHz - Programme Making and Special Events (Fixed Site)
+3500 MHz - 3580 MHz - Programme Making and Special Events (Link)
+3500 MHz - 3580 MHz - Programme Making and Special Events (Low Power)
+
+3500 MHz - 3580 MHz - Spectrum Access, Prospective Award (3410 - 3480 MHz and 3500 to 3580 MHz)
+3580 MHz - 3600 MHz - Fixed Wireless Access, Fixed Wireless Access (3.5 GHz - Guernsey)
+3580 MHz - 3600 MHz - Fixed Wireless Access, Fixed Wireless Access (3.5 GHz Isle of Man)
+3580 MHz - 3600 MHz - Fixed Wireless Access, Fixed Wireless Access (3.5 GHz Jersey)
+3580 MHz - 3600 MHz - Spectrum Access, Spectrum Access (3.5 GHz Band)
+3600 MHz - 3630 MHz - Fixed Wireless Access, Fixed Wireless Access (3.6 GHz Guernsey)
+3600 MHz - 3630 MHz - Fixed Wireless Access, Fixed Wireless Access (3.6 GHz Isle of Man)
+3600 MHz - 3630 MHz - Fixed Wireless Access, Fixed Wireless Access (3.6 GHz Jersey)
+3600 MHz - 4200 MHz - Spectrum Access, RSA for receive only earth stations (ROES)
+3600 MHz - 4200 MHz - Satellite Services, Satellite (Earth Station) (Non-Geostationary)
+3600 MHz - 4200 MHz - Satellite Services, Satellite (Permanent Earth Station)
+3605 MHz - 3689 MHz - Spectrum Access, Spectrum Access (3.6 GHz)
+3689 MHz - 3925 MHz - Fixed Links, Point-to-Point Fixed Links
+3700 MHz - 3730 MHz - Fixed Wireless Access, Fixed Wireless Access (3.6 GHz Guernsey)
+3700 MHz - 3730 MHz - Fixed Wireless Access, Fixed Wireless Access (3.6 GHz Isle of Man)
+3700 MHz - 3730 MHz - Fixed Wireless Access, Fixed Wireless Access (3.6 GHz Jersey)
+3925 MHz - 4009 MHz - Spectrum Access, Spectrum Access (3.6 GHz)
+4009 MHz - 4200 MHz - Fixed Links, Point-to-Point Fixed Links
+
+4200 MHz - 4400 MHz - Aeronautical, Aircraft
+
+4500 MHz - 7000 MHz - Licence Exempt, Radio Determination
+4500 MHz - 7000 MHz - Licence Exempt, Tank Level Probing Radar (TLPR)
+5000 MHz - 5250 MHz - Aeronautical, Aeronautical Navigation Aid Stations
+5150 MHz - 5250 MHz - Satellite Services, Satellite (Earth Station) (Non-Fixed Satellite Service)
+5150 MHz - 5250 MHz - Satellite Services, Satellite (Earth Station) (Non-Geostationary)
+5150 MHz - 5250 MHz - Satellite Services, Satellite (Permanent Earth Station)
+5150 MHz - 5350 MHz - Licence Exempt, Wireless Access Systems
+5150 MHz - 7100 MHz - Licence Exempt, Radar Level Gauges
+5350 MHz - 5470 MHz - Aeronautical, Aircraft
+5470 MHz - 5725 MHz - Licence Exempt, Wireless Access Systems
+
+5472 MHz - 5588 MHz - Programme Making and Special Events (Fixed Site)
+5472 MHz - 5588 MHz - Programme Making and Special Events (Link)
+5472 MHz - 5588 MHz - Programme Making and Special Events (Low Power)
+
+5575 MHz - 5765 MHz - Amateur Radio, Amateur Radio Intermediate Licence
+5650 MHz - 5680 MHz - Amateur Radio, Amateur Radio Full Licence
+5650 MHz - 5680 MHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+5682.5 MHz - 5702.5 MHz - Programme Making and Special Events (Fixed Site)
+5682.5 MHz - 5702.5 MHz - Programme Making and Special Events (Link)
+5682.5 MHz - 5702.5 MHz - Programme Making and Special Events (Low Power)
+5705 MHz - 5725 MHz - Programme Making and Special Events (Fixed Site)
+5705 MHz - 5725 MHz - Programme Making and Special Events (Link)
+5705 MHz - 5725 MHz - Programme Making and Special Events (Low Power)
+
+5725 MHz - 5850 MHz - Fixed Wireless Access, Fixed Wireless Access (5.8 GHz band)
+5725 MHz - 5875 MHz - Licence Exempt, Non-Specific Short Range Device
+5725 MHz - 5875 MHz - Licence Exempt, Radio Determination
+5725 MHz - 5875 MHz - Licence Exempt, Short Range Indoor Data Links
+5725 MHz - 5875 MHz - Licence Exempt, Wireless Video Cameras - Non Broadcasting
+
+5725 MHz - 7075 MHz - Satellite Services, Satellite (Earth Station) (Non-Fixed Satellite Service)
+5725 MHz - 7075 MHz - Satellite Services, Satellite (Earth Station) (Non-Geostationary)
+5725 MHz - 7075 MHz - Satellite Services, Satellite (Permanent Earth Station)
+
+5732.5 MHz - 5752.5 MHz - Programme Making and Special Events (Fixed Site)
+5732.5 MHz - 5752.5 MHz - Programme Making and Special Events (Link)
+5732.5 MHz - 5752.5 MHz - Programme Making and Special Events (Low Power)
+
+5755 MHz - 5765 MHz - Amateur Radio, Amateur Radio Full Licence
+5755 MHz - 5765 MHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+5770 MHz - 5790 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+5770 MHz - 5790 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+5770 MHz - 5790 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+5795 MHz - 5805 MHz - Licence Exempt, Transport and Traffic Telematics
+
+5795 MHz - 5815 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+5795 MHz - 5815 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+5795 MHz - 5815 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+5805 MHz - 5815 MHz - Licence Exempt, Transport and Traffic Telematics
+
+5820 MHz - 5850 MHz - Amateur Radio, Amateur Radio Full Licence
+5820 MHz - 5850 MHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+5850 MHz - 5925 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+5850 MHz - 5925 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+5850 MHz - 5925 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+5875 MHz - 5905 MHz - Licence Exempt, Intelligent Transport Systems (ITS)
+
+5925 MHz - 6425 MHz - Fixed Links, Point-to-Point Fixed Links
+5925 MHz - 7075 MHz - Satellite Services, Satellite (Transportable Earth Station) (high power)
+5925 MHz - 7075 MHz - Satellite Services, Satellite (Transportable Earth Station) (low power)
+5925 MHz - 7075 MHz - Satellite Services, Satellite (Transportable Earth Station) (medium power)
+5925 MHz - 6425 MHz - Fixed Links, Point-to-Point Fixed Links
+5925 MHz - 7075 MHz - Satellite Services, Satellite (Transportable Earth Station) (high power)
+5925 MHz - 7075 MHz - Satellite Services, Satellite (Transportable Earth Station) (low power)
+5925 MHz - 7075 MHz - Satellite Services, Satellite (Transportable Earth Station) (medium power)
+
+6425 MHz - 7125 MHz - Fixed Links, Point-to-Point Fixed Links
+
+7110 MHz - 7250 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+7110 MHz - 7250 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+7110 MHz - 7250 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+7300 MHz - 7425 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+7300 MHz - 7425 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+7300 MHz - 7425 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+7425 MHz - 7900 MHz - Fixed Links, Point-to-Point Fixed Links
+7750 MHz - 7850 MHz - Spectrum Access, RSA for receive only earth stations (ROES)
+
+8340 MHz - 8360 MHz - Business Radio, Business Radio (Police and Fire)
+8400 MHz - 8460 MHz - Business Radio, Business Radio (Police and Fire)
+
+8460 MHz - 8500 MHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+8460 MHz - 8500 MHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+8460 MHz - 8500 MHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+8500 MHz - 10.6 GHz - Licence Exempt, Radar Level Gauges
+8500 MHz - 10.6 GHz - Licence Exempt, Radio Determination
+8500 MHz - 10.6 GHz - Licence Exempt, Tank Level Probing Radar (TLPR)
+
+9000 MHz - 9200 MHz - Aeronautical, Radar
+9000 MHz - 9500 MHz - Maritime Radio, Maritime Navigational Aids and Radar
+9200 MHz - 9500 MHz - Maritime Radio, Ship Radio
+9300 MHz - 9500 MHz - Aeronautical, Radar
+9300 MHz - 9500 MHz - Aeronautical, Aircraft
+
+10 GHz - 10.125 GHz - Amateur Radio, Amateur Radio Foundation Licence
+10 GHz - 10.125 GHz - Amateur Radio, Amateur Radio Full Licence
+10 GHz - 10.125 GHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+10.125 GHz - 10.225 GHz - Spectrum Access, Spectrum Access 10 - 40 GHz Band
+
+10.225 GHz - 10.5 GHz - Amateur Radio, Amateur Radio Full Licence
+10.225 GHz - 10.5 GHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+10.250 GHz - 10.27 GHz - Business Radio, Business Radio (Police and Fire)
+
+10.300 GHz - 10.36 GHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+10.300 GHz - 10.36 GHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+10.300 GHz - 10.36 GHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+10.360 GHz - 10.400 GHz - Business Radio, Business Radio (Police and Fire)
+10.400 GHz - 10.460 GHz - Business Radio, Business Radio (Police and Fire)
+
+10.450 GHz - 10.500 GHz - Amateur Radio, Amateur Radio Foundation Licence
+
+10.475 GHz - 10.575 GHz - Spectrum Access, Spectrum Access 10 - 40 GHz Band
+
+10.575 GHz - 10.600 GHz - Licence Exempt, Radio Determination
+10.675 GHz - 10.699 GHz - Licence Exempt, Radio Determination
+10.675 GHz - 10.699 GHz - Licence Exempt, Short Range Indoor Data Links
+
+10.680 GHz - 10.700 GHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+
+10.700 GHz - 10.85 GHz - Licence Exempt, Radar Level Gauges
+10.700 GHz - 10.85 GHz - Technology Development, Radar Level Gauges
+10.700 GHz - 11.7 GHz - Licence Exempt, Land Mobile-Satellite Service Stations
+10.700 GHz - 11.7 GHz - Fixed Links, Point-to-Point Fixed Links
+10.700 GHz - 12.75 GHz - Satellite Services, Satellite (Earth Station) (Non-Geostationary)
+10.700 GHz - 12.75 GHz - Satellite Services, Satellite (Permanent Earth Station)
+11.700 GHz - 12.75 GHz - Satellite Services, Satellite (Earth Station) (Non-Fixed Satellite Service)
+
+12.200 GHz - 12.5 GHz - Programme Making and Special Events, Programme Making and Special Events (Fixed Site)
+12.200 GHz - 12.5 GHz - Programme Making and Special Events, Programme Making and Special Events (Link)
+12.200 GHz - 12.5 GHz - Programme Making and Special Events, Programme Making and Special Events (Low Power)
+
+12.500 GHz - 12.75 GHz - Licence Exempt, Land Mobile-Satellite Service Stations
+12.750 GHz - 13.25 GHz - Fixed Links, Point-to-Point Fixed Links
+12.750 GHz - 13.25 GHz - Satellite Services, Satellite (Earth Station) (Non-Geostationary)
+12.750 GHz - 13.25 GHz - Satellite Services, Satellite (Permanent Earth Station)
+
+13.250 GHz - 13.4 GHz - Aeronautical, Aircraft
+
+13.400 GHz - 14 GHz - Licence Exempt, Radio Determination
+
+13.750 GHz - 14.5 GHz - Satellite Services, Satellite (Earth Station) (Non-Geostationary)
+13.750 GHz - 14.5 GHz - Satellite Services, Satellite (Permanent Earth Station)
+13.780 GHz - 14.5 GHz - Satellite Services, Satellite (Transportable Earth Station) (high power)
+13.780 GHz - 14.5 GHz - Satellite Services, Satellite (Transportable Earth Station) (low power)
+13.780 GHz - 14.5 GHz - Satellite Services, Satellite (Transportable Earth Station) (medium power)
+
+14 GHz - 14.25 GHz - Satellite Services, Satellite (Earth Station Network)
+
+14.25 GHz - 14.50 GHz - Fixed Links, Point-to-Point Fixed Links
+14.50 GHz - 15.35 GHz - Fixed Links, Point-to-Point Fixed Links
+
+15.350 GHz - 15.4 GHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+15.400 GHz - 15.7 GHz - Aeronautical, Aeronautical Radar
+15.500 GHz - 15.7 GHz - Aeronautical, Aircraft
+17.100 GHz - 17.3 GHz - Licence Exempt, Radio Determination
+17.300 GHz - 17.7 GHz - Fixed Links, Point-to-Point Fixed Links
+17.300 GHz - 20.2 GHz - Satellite Services, Satellite (Permanent Earth Station)
+17.700 GHz - 19.7 GHz - Fixed Links, Point-to-Point Fixed Links
+19.700 GHz - 20.2 GHz - Satellite Services, Satellite (Earth Station) (Non-Geostationary)
+
+21.20 GHz - 22 GHz - Fixed Links, Point-to-Point Fixed Links
+21.65 GHz - 26.65 GHz - Licence Exempt, Automotive Short Range Radar (SRR)
+22 GHz - 22.21 GHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+22 GHz - 23.6 GHz - Fixed Links, Point-to-Point Fixed Links
+22.21 GHz - 22.5 GHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+22.81 GHz - 22.86 GHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+23.6 GHz - 24 GHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+
+24 GHz - 24.25 GHz - Amateur Radio, Amateur Radio Full Licence
+24 GHz - 24.25 GHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+24.05 GHz - 24.15 GHz - Business Radio 	Business Radio (Police and Fire)
+
+24.05 GHz - 24.15 GHz - Licence Exempt, Radio Determination
+24.05 GHz - 24.25 GHz - Licence Exempt, Transport and Traffic Telematics
+
+24.05 GHz - 27 GHz - Licence Exempt, Tank Level Probing Radar (TLPR)
+
+24.100 GHz - 24.35 GHz - Licence Exempt, Railway level crossing radar
+24.150 GHz - 24.25 GHz - Licence Exempt, Non-Specific Short Range Device
+24.150 GHz - 24.25 GHz - Licence Exempt, Radio Determination
+24.250 GHz - 24.35 GHz - Licence Exempt, Radio Determination
+
+24.250 GHz - 24.5 GHz - Programme Making and Special Events (Fixed Site)
+24.250 GHz - 24.5 GHz - Programme Making and Special Events (Link)
+24.250 GHz - 24.5 GHz - Programme Making and Special Events (Low Power)
+
+24.250 GHz - 24.5 GHz - Licence Exempt, Transport and Traffic Telematics
+24.250 GHz - 26.65 GHz - Licence Exempt, Automotive Short Range Radar (SRR)
+24.300 GHz - 27.7 GHz - Licence Exempt, Radar Leve l Gauges
+24.500 GHz - 26.5 GHz - Fixed Links, Point-to-Point Fixed Links
+
+27.5 GHz - 27.8185 GHz - Licence Exempt, HDFSS
+
+27.5 GHz - 27.8185 GHz - Satellite Services, Earth Stations on Mobile Platforms (ESOMPs)
+27.5 GHz - 27.8185 GHz - Satellite Services, Satellite (Earth Station Network)
+27.5 GHz - 27.8185 GHz - Satellite Services, Satellite (Earth Station) (Non-Fixed Satellite Service)
+27.5 GHz - 27.8185 GHz - Satellite Services, Satellite (Earth Station) (Non-Geostationary)
+27.5 GHz - 27.8185 GHz - Satellite Services, Satellite (Permanent Earth Station)
+27.5 GHz - 27.8185 GHz - Satellite Services, Satellite (Transportable Earth Station) (high power)
+27.5 GHz - 27.8185 GHz - Satellite Services, Satellite (Transportable Earth Station) (low power)
+27.5 GHz - 27.8185 GHz - Satellite Services, Satellite (Transportable Earth Station) (medium power)
+
+27.8185 GHz - 28.4545 GHz - Satellite Services, Satellite (Permanent Earth Station)
+27.8285 GHz - 28.0525 GHz - Spectrum Access, Spectrum Access 10 - 40 GHz Band
+
+28.0525 GHz - 28.4445 GHz - Fixed Wireless Access, Broadband Fixed Wireless Access (28 GHz - Guernsey)
+28.0525 GHz - 28.4445 GHz - Fixed Wireless Access, Broadband Fixed Wireless Access (28 GHz - Isle of Man)
+28.0525 GHz - 28.4445 GHz - Fixed Wireless Access, Broadband Fixed Wireless Access (28 GHz - Jersey)
+28.0525 GHz - 28.4445 GHz - Fixed Wireless Access, Fixed Wireless Access (28 GHz band)
+
+28.4545 GHz - 28.8265 GHz - Satellite Services, Earth Stations on Mobile Platforms (ESOMPs)
+
+28.4545 GHz - 28.8265 GHz - Licence Exempt, HDFSS
+
+28.4545 GHz - 28.8265 GHz - Satellite Services, Satellite (Earth Station Network)
+28.4545 GHz - 28.8265 GHz - Satellite Services, Satellite (Earth Station) (Non-Fixed Satellite Service)
+28.4545 GHz - 28.8265 GHz - Satellite Services, Satellite (Earth Station) (Non-Geostationary)
+28.4545 GHz - 28.8265 GHz - Satellite Services, Satellite (Permanent Earth Station)
+28.4545 GHz - 28.8265 GHz - Satellite Services, Satellite (Transportable Earth Station) (high power)
+28.4545 GHz - 28.8265 GHz - Satellite Services, Satellite (Transportable Earth Station) (low power)
+28.4545 GHz - 28.8265 GHz - Satellite Services, Satellite (Transportable Earth Station) (medium power)
+28.8265 GHz - 29.4625 GHz - Satellite Services, Satellite (Permanent Earth Station)
+
+28.8365 GHz - 29.0605 GHz - Spectrum Access, Spectrum Access 10 - 40 GHz Band
+
+29.0605 GHz - 29.4525 GHz - Fixed Wireless Access, Broadband Fixed Wireless Access (28 GHz - Guernsey)
+29.0605 GHz - 29.4525 GHz - Fixed Wireless Access, Broadband Fixed Wireless Access (28 GHz - Isle of Man)
+29.0605 GHz - 29.4525 GHz - Fixed Wireless Access, Broadband Fixed Wireless Access (28 GHz - Jersey)
+29.0605 GHz - 29.4525 GHz - Fixed Wireless Access, Fixed Wireless Access (28 GHz band)
+
+29.4625 GHz - 29.5 GHz - Satellite Services, Satellite (Earth Station) (Non-Fixed Satellite Service)
+29.4625 GHz - 30.0 GHz - Satellite Services, Earth Stations on Mobile Platforms (ESOMPs)
+
+29.4625 GHz - 30 GHz - Licence Exempt, HDFSS
+
+29.4625 GHz - 30 GHz - Satellite Services, Satellite (Earth Station Network)
+29.4625 GHz - 30 GHz - Satellite Services, Satellite (Earth Station) (Non-Geostationary)
+29.4625 GHz - 30 GHz - Satellite Services, Satellite (Permanent Earth Station)
+29.4625 GHz - 30 GHz - Satellite Services, Satellite (Transportable Earth Station) (high power)
+29.4625 GHz - 30 GHz - Satellite Services, Satellite (Transportable Earth Station) (low power)
+29.4625 GHz - 30 GHz - Satellite Services, Satellite (Transportable Earth Station) (medium power)
+29.5000 GHz - 30 GHz - Satellite Services, Satellite (Earth Station) (Non-Fixed Satellite Service)
+
+31 GHz - 31.3 GHz - Fixed Links, Point-to-Point Security CCTV Services
+
+31.3 GHz - 31.5 GHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+
+31.5 GHz - 31.8 GHz - Fixed Links, Point-to-Point Security CCTV Services
+
+31.5 GHz - 31.8 GHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+
+31.815 GHz - 32.571 GHz - Spectrum Access, Spectrum Access 10 - 40 GHz Band
+32.627 GHz - 33.383 GHz - Spectrum Access, Spectrum Access 10 - 40 GHz Band
+
+37 GHz - 39.5 GHz - Fixed Links, Point-to-Point Fixed Links
+
+40.5 GHz - 43.5 GHz - Spectrum Access, Spectrum Access 10 - 40 GHz Band
+42.5 GHz - 43.5 GHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+
+47 GHz - 47.2 GHz - Amateur Radio, Amateur Radio Full Licence
+47 GHz - 47.2 GHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+48 GHz - 48.4 GHz - Programme Making and Special Events (Fixed Site)
+48 GHz - 48.4 GHz - Programme Making and Special Events (Link)
+48 GHz - 48.4 GHz - Programme Making and Special Events (Low Power)
+
+48.94 GHz - 49.04 GHz - Spectrum Access, Recognised Spectrum Access (Radio Astronomy)
+49.2 GHz - 50.2 GHz - Fixed Links, Point-to-Point Fixed Links
+
+51.2 GHz - 51.4 GHz - Business Radio, Business Radio (Police and Fire)
+
+51.40 GHz - 52.6 GHz - Fixed Links, Point-to-Point Fixed Links
+55.78 GHz - 57 GHz - Fixed Links, Point-to-Point Fixed Links
+
+57 GHz - 64 GHz - Licence Exempt, Fixed Wireless Systems (57.1 - 63.9 GHz)
+57 GHz - 64 GHz - Licence Exempt, Non-Specific Short Range Device
+57 GHz - 64 GHz - Licence Exempt, Tank Level Probing Radar (TLPR)
+57 GHz - 66 GHz - Licence Exempt, Wideband Data Transmission Devices
+61 GHz - 61.5 GHz - Licence Exempt, Non-Specific Short Range Device
+63 GHz - 64 GHz - Licence Exempt, Transport and Traffic Telematics
+64 GHz - 66 GHz - Fixed Links, Self co-ordinated links
+
+71 GHz - 71.125 GHz - Fixed Links, Point-to-Point Fixed Links
+71.125 GHz - 73.125 GHz - Fixed Links, Point-to-Point Fixed Links
+71.125 GHz - 73.125 GHz - Fixed Links, Self co-ordinated links
+73.125 GHz - 73.375 GHz - Fixed Links, Point-to-Point Fixed Links
+73.375 GHz - 75.875 GHz - Fixed Links, Self co-ordinated links
+
+75 GHz - 85 GHz - Licence Exempt, Tank Level Probing Radar (TLPR)
+
+75.5 GHz - 81 GHz - Amateur Radio, Amateur Radio Full Licence
+75.5 GHz - 81 GHz - Amateur Radio, Amateur Radio Intermediate Licence
+
+76 GHz - 77 GHz - Licence Exempt, Transport and Traffic Telematics
+77 GHz - 81 GHz - Licence Exempt, Automotive Short Range Radar (SRR)
+77 GHz - 81 GHz - Licence Exempt, Transport and Traffic Telematics
+
+81.125 GHz - 83.125 GHz - Fixed Links, Point-to-Point Fixed Links
+81.125 GHz - 83.125 GHz - Fixed Links, Self co-ordinated links
+83.375 GHz - 85.875 GHz - Fixed Links, Self co-ordinated links
+
+
+
+KimmyJS19   ukscanningdirectory.co.uk

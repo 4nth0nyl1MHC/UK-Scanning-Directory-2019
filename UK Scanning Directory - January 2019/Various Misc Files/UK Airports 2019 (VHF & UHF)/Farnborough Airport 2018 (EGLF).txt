@@ -1,0 +1,91 @@
+Farnborough Business Airport (EGLF) 2018  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : TAG FARNBOROUGH AIRPORT
+ICAO CODE: EGLF
+LOCATION : FARNBOROUGH, HAMPSHIRE
+
+
+
+FREQUENCIES
+
+
+
+VHF MAIN (AM)
+
+
+Farnborough Airport RADAR       134.355 MHz (AM)
+
+Farnborough Airport EAST RADAR  125.250 MHz (AM)
+
+Farnborough Airport DIRECTOR    130.055 MHz (AM)
+
+Farnborough Airport TOWER       122.780 MHz (AM)
+
+Farnborough Airport ATIS        128.405 MHz (AM)
+
+Farnborough Airport WEST RADAR  132.800 MHz (AM)
+
+Farnborough Airport FIRE GND    121.600 MHz (AM)
+
+Farnborough Airport EMERGENCY   121.500 MHz (AM)
+
+
+
+
+UHF (FM)
+
+Tag Farnborough Airport (TOWER)
+Farnborough Airport, FARNBOROUGH
+TX: 444.3375 MHz
+RX: 449.7250 MHz
+
+
+Tag Farnborough Airport (RED MIKE)
+Farnborough Airport, FARNBOROUGH
+TX: 455.750 MHz
+RX: 461.050 MHz
+
+
+Tag Farnborough Airport (RED MIKE)
+Farnborough Airport, FARNBOROUGH
+TX: 455.7875 MHz
+RX: 461.0875 MHz
+
+
+Tag Farnborough Airport (TAG OPS)
+Farnborough Airport, FARNBOROUGH
+TX: 455.475 MHz
+RX: 460.775 MHz
+
+
+
+
+
+SIMPLEX UHF GROUND FREQUENCIES
+
+
+Tag Farnborough Airport (EXEC)
+Farnborough Airport, FARNBOROUGH
+TX: 456.800 MHz
+RX: 456.800 MHz
+
+
+TAG HOTEL (AVIATOR)
+Farnborough Road, FARNBOROUGH
+TX: 459.725 MHz
+RX: 459.725 MHz
+
+
+
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

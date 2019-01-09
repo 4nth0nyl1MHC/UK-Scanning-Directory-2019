@@ -1,0 +1,92 @@
+Inverness Airport (EGPE) 2019  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : INVERNESS AIRPORT
+ICAO CODE: EGPE
+LOCATION : DALCROSS, INVERNESS, SCOTLAND
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+
+
+INVERNESS AIRPORT
+
+Inverness Airport APPROACH     122.605  MHz (AM)
+
+Inverness Airport TOWER        118.405  MHz (AM)
+
+Inverness Airport TOWER        122.605  MHz (AM)
+
+Inverness Airport RADAR        122.605  MHz (AM)
+
+Inverness Airport ATIS         109.200  MHz (AM)
+
+Inverness Airport SERVISAIR    130.600  MHz (AM)
+
+Inverness Airport BA           131.850  MHz (AM)
+
+Inverness Airport Fireground   121.600  MHz (AM)
+
+
+UHF (FM)
+
+
+Inverness Airport (TOWER)
+Dalcross, INVERNESS
+TX: 455.775 MHz
+RX: 461.075 MHz
+
+
+
+
+SIMPLEX UHF GROUND FREQUENCIES
+
+
+Inverness Airport (AFS FIRE GROUND)
+Dalcross, INVERNESS
+TX: 447.7875 MHz
+RX: 447.7875 MHz
+
+
+Inverness Airport (AMSL SECURITY)
+Dalcross, INVERNESS
+TX: 447.8125 MHz
+RX: 447.8125 MHz
+
+
+Inverness Airport
+Dalcross, INVERNESS
+TX: 447.725 MHz
+RX: 447.725 MHz
+
+
+Inverness Airport
+Dalcross, INVERNESS
+TX: 447.7875 MHz
+RX: 447.7875 MHz
+
+
+Aviation Ground Support
+Inverness Airport, Dalcross, INVERNESS
+TX: 460.125 MHz
+RX: 460.125 MHz
+
+
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

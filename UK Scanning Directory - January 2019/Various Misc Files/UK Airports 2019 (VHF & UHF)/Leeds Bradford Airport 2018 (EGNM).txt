@@ -1,0 +1,135 @@
+Leeds Bradford Airport (EGNM) 2018  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : LEEDS BRADFORD INTERNATIONAL AIRPORT
+ICAO CODE: EGNM
+LOCATION : YEADON, LEEDS, WEST YORKSHIRE, UK
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+Leeds Bradford Airport RADAR        134.580 MHz
+
+Leeds Bradford Airport APPROACH     134.580 MHz
+
+Leeds Bradford Airport TOWER        120.305 MHz
+
+Leeds Bradford Airport DELIVERY     121.805 MHz
+
+Leeds Bradford Airport RADAR        125.380 MHz  (AS DIRECTED BY ATC)
+
+Leeds Bradford Airport ATIS         118.030 MHz
+
+Leeds Bradford Airport FIRE GROUND  121.600 MHz
+
+
+
+UHF (FM)
+
+Leeds Bradford Airport (TOWER)
+Yeadon, LEEDS
+TX: 455.4875 MHz
+RX: 460.7875 MHz
+
+
+Leeds Bradford Airport (TOWER)
+Yeadon, LEEDS
+TX: 455.700 MHz
+RX: 461.000 MHz
+
+
+Leeds Bradford Airport (ABBA)
+Yeadon, LEEDS
+TX: 455.550 MHz
+RX: 461.200 MHz
+
+
+Leeds Bradford Airport (FUEL)
+Yeadon, LEEDS
+TX: 453.100 MHz
+RX: 459.600 MHz
+
+
+Leeds Bradford Airport (Air Radio/Affini)
+Yeadon, LEEDS
+TX: 443.325 MHz
+RX: 428.825 MHz
+
+
+Leeds Bradford Airport (Air Radio/Affini)
+Yeadon, LEEDS
+TX: 441.3375 MHz
+RX: 426.8375 MHz
+
+
+Leeds Bradford Airport (Air Radio/Affini)
+Yeadon, LEEDS
+TX: 441.3125 MHz
+RX: 426.8125 MHz
+
+
+Jet2.Com
+Leeds Bradford Airport, Yeadon, LEEDS
+TX: 456.675 MHz
+RX: 462.175 MHz
+
+
+Jet2.Com
+Leeds Bradford Airport, Yeadon, LEEDS
+TX: 453.9875 MHz
+RX: 460.4875 MHz
+
+
+Leeds Bradford Airport
+Yeadon, LEEDS
+TX: 453.375 MHz
+RX: 459.875 MHz
+
+
+Alpha Flight UK
+Leeds Bradford Airport, Yeadon, LEEDS
+TX: 453.175 MHz
+RX: 459.675 MHz
+
+
+
+
+OTHER SIMPLEX FREQUENCIES IN USE
+
+Leeds Bradford Airport (SECURITY)
+Yeadon, LEEDS
+TX: 453.125 MHz
+RX: 453.125 MHz
+
+
+Jet2.Com
+Leeds Bradford Airport, Yeadon, LEEDS
+TX: 453.750 MHz
+RX: 453.750 MHz
+
+
+Leeds Bradford Airport (ENGINEERING)
+Yeadon, LEEDS
+TX: 453.400 MHz
+RX: 453.400 MHz
+
+
+Leeds Bradford Airport (FIRE)
+Yeadon, LEEDS
+TX: 453.075 MHz
+RX: 453.075 MHz
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

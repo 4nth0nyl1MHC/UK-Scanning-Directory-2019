@@ -1,0 +1,222 @@
+East Midlands Airport (EGNX) 2018  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : EAST MIDLANDS AIRPORT
+ICAO CODE: EGNX
+LOCATION : CASTLE DONNINGTON, LEICESTERSHIRE
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM) 
+
+East Midlands Airport
+
+East Midlands Airport Approach 	134.175 MHz (AM)
+
+East Midlands Airport Tower 	124.000 MHz (AM)
+
+East Midlands Airport Ground 	121.900 MHz (AM)
+
+East Midlands Airport Radar 	134.175 MHz (AM)
+
+East Midlands Airport Radar 	120.125 MHz (AM)
+
+East Midlands Airport Radar 	124.000 MHz (AM)
+
+East Midlands Airport Radar 	126.175 MHz (AM)
+
+East Midlands Airport ATIS 	122.675 MHz (AM)
+
+East Midlands Airport Fire 	121.600 MHz (AM)
+
+
+
+UHF (FM)
+
+East Midlands Airport
+Castle Donington
+TX: 455.4875 MHz
+RX: 460.7875 MHz
+
+
+East Midlands Airport
+Castle Donington
+TX: 455.850 MHz
+RX: 461.150 MHz
+
+
+East Midlands Airport
+Castle Donington
+TX: 455.650 MHz
+RX: 460.950 MHz
+
+
+East Midlands Airport
+Castle Donington
+TX: 455.7875 MHz
+RX: 461.0875 MHz
+
+
+East Midlands Airport
+Castle Donington
+TX: 455.750 MHz
+RX: 461.050 MHz
+
+
+East Midlands Airport
+Castle Donington
+TX: 455.600 MHz
+RX: 460.900 MHz
+
+
+East Midlands Airport
+Castle Donington
+TX: 455.825 MHz
+RX: 461.125 MHz
+
+
+East Midlands Airport
+Castle Donington
+TX: 455.5625 MHz
+RX: 461.2125 MHz
+
+
+East Midlands Airport
+Castle Donington
+TX: 455.7125 MHz
+RX: 461.0125 MHz
+
+
+East Midlands Airport
+Castle Donington
+TX: 455.525 MHz
+RX: 461.175 MHz
+
+
+East Midlands Airport
+Castle Donington
+TX: 455.625 MHz
+RX: 460.925 MHz
+
+
+East Midlands Airport (Affini)
+Castle Donington
+TX: 441.3125 MHz
+RX: 426.8125 MHz
+
+
+East Midlands Airport (Affini)
+Castle Donington
+TX: 443.325 MHz
+RX: 428.825 MHz
+
+
+East Midlands Airport (Affini)
+Castle Donington
+TX: 441.3375 MHz
+RX: 426.8375 MHz
+
+
+East Midlands International Airport
+Castle Donington
+TX: 456.650 MHz
+RX: 462.150 MHz
+
+
+North Air LTD
+East Midlands Airport
+TX: 453.025 MHz
+RX: 459.525 MHz
+
+
+Menzies Aviation
+East Midlands Airport
+TX: 456.025 MHz
+RX: 461.525 MHz
+
+
+Valero Logistics
+East Midlands Airport
+TX: 455.725 MHz
+RX: 461.225 MHz
+
+
+
+VHF (FM)
+
+Donington Aviation
+East Midlands Airport
+TX: 165.1875 MHz
+RX: 169.9875 MHz
+
+
+
+SIMPLEX UHF GROUND FREQUENCIES
+
+DHL Aviation
+East Midlands Airport
+TX: 446.3125 MHz
+RX: 446.3125 MHz
+
+
+DHL Aviation
+East Midlands Airport
+TX: 446.275 MHz
+RX: 446.275 MHz
+
+
+DHL Aviation
+East Midlands Airport
+TX: 446.2125 MHz
+RX: 446.2125 MHz
+
+
+DHL Aviation
+East Midlands Airport
+TX: 447.5625 MHz
+RX: 447.5625 MHz
+
+
+DHL Aviation (DIGITAL)
+East Midlands Airport
+TX: 446.3375 MHz
+RX: 446.3375 MHz
+
+
+Alpha Flight UK
+East Midlands Airport
+TX: 461.3875 MHz
+RX: 461.3875 MHz
+
+
+Ups Air Couriers Of America
+East Midlands Airport
+TX: 461.350 MHz
+RX: 461.350 MHz
+
+
+
+SIMPLEX VHF GROUND FREQUENCIES
+
+East Midlands International Airport
+Castle Donington
+TX: 169.2125 MHz
+RX: 169.2125 MHz
+
+
+East Midlands Airport
+Castle Donington
+TX: 169.150 MHz
+RX: 169.150 MHz
+
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

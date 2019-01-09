@@ -1,0 +1,236 @@
+London Luton Airport 2016 (EGGW)  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : LONDON LUTON AIRPORT
+ICAO CODE: EGGW
+LOCATION : AIRPORT WAY, LUTON, BEDFORDSHIRE
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM) 
+
+
+London Luton Airport
+
+Luton Airport 	Luton Radar 	129.550 MHz (AM)
+
+Luton Airport 	Luton Radar     128.750 MHz (AM)
+
+Luton Airport 	Essex Radar 	129.550 MHz (AM)
+
+Luton Airport 	Luton Tower 	132.550 MHz (AM)
+
+Luton Airport 	Luton Tower 	126.725 MHz (AM)
+
+Luton Airport 	Luton Ground 	121.750 MHz (AM)
+
+Luton Airport	Luton Delivery 	121.885 MHz (AM)
+
+Luton Airport 	Luton Director 	128.750 MHz (AM)
+
+Luton Airport 	ATIS            120.575 MHz (AM)
+
+Luton Airport 	FIRE GROUND     121.600 MHz (AM)
+
+
+
+
+UHF (FM)
+
+
+London Luton Airport Operations
+London Luton Airport
+TX: 456.600 MHz
+RX: 462.100 MHz
+
+
+London Luton Airport Operations
+London Luton Airport
+TX: 456.725 MHz
+RX: 462.225 MHz
+
+
+London Luton Airport Operations
+London Luton Airport
+TX: 456.350 MHz
+RX: 461.850 MHz
+
+
+London Luton Airport Operations
+London Luton Airport
+TX: 455.825 MHz
+RX: 461.125 MHz
+
+
+London Luton Airport Operations
+London Luton Airport
+TX: 455.6375 MHz
+RX: 460.9375 MHz
+
+
+London Luton Airport Operations
+London Luton Airport
+TX: 453.175 MHz
+RX: 459.675 MHz
+
+
+London Luton Airport Operations
+London Luton Airport
+TX: 456.800 MHz
+RX: 462.300 MHz
+
+
+London Luton Airport Operations
+London Luton Airport
+TX: 453.375 MHz
+RX: 459.875 MHz
+
+
+Air Radio
+London Luton Airport
+TX: 443.325 MHz
+RX: 428.825 MHz
+
+
+Air Radio
+London Luton Airport
+TX: 441.3375 MHz
+RX: 426.8375 MHz
+
+
+Air Radio
+London Luton Airport
+TX: 441.3125 MHz
+RX: 426.8125 MHz
+
+
+Air Radio
+London Luton Airport
+TX: 456.4125 MHz
+RX: 461.9125 MHz
+
+
+Air Radio
+London Luton Airport
+TX: 453.4375 MHz
+RX: 459.9375 MHz
+
+
+Air Radio
+London Luton Airport
+TX: 453.9875 MHz
+RX: 460.4875 MHz
+
+
+Air Radio
+London Luton Airport
+TX: 453.775 MHz
+RX: 460.275 MHz
+
+
+Air Radio
+London Luton Airport
+TX: 456.6375 MHz
+RX: 462.1375 MHz
+
+
+Air Radio
+London Luton Airport
+TX: 455.575 MHz
+RX: 461.075 MHz
+
+
+Air Radio
+London Luton Airport
+TX: 456.375 MHz
+RX: 461.875 MHz
+
+
+
+
+OTHER LONDON LUTON AIRPORT USERS (FM)
+
+
+El Al Israel Airlines
+London Luton Airport
+TX: 453.025 MHz
+RX: 459.525 MHz
+
+
+Monarch Aircraft Engineering
+London Luton Airport
+TX: 453.800 MHz
+RX: 460.300 MHz
+
+
+Monarch Airlines
+London Luton Airport
+TX: 453.875 MHz
+RX: 460.375 MHz
+
+
+Monarch Airlines
+London Luton Airport
+TX: 453.475 MHz
+RX: 459.975 MHz
+
+
+Esso Petroleum Company
+London Luton Airport
+TX: 456.875 MHz
+RX: 462.375 MHz
+
+
+
+
+SIMPLEX UHF GROUND FREQUENCIES (FM)
+
+
+Flightcare Multiservices
+London Luton Airport
+TX: 461.4625 MHz
+RX: 461.4625 MHz
+
+
+Monarch Aircraft Engineering
+London Luton Airport
+TX: 459.625 MHz
+RX: 459.625 MHz
+
+
+Monarch Aircraft Engineering
+London Luton Airport
+TX: 459.950 MHz
+RX: 459.950 MHz
+
+
+Harrods Aviation
+London Luton Airport
+TX: 446.3375 MHz
+RX: 446.3375 MHz
+
+
+Signature Flight Support London Luton
+London Luton Airport
+TX: 459.000 MHz
+RX: 459.000 MHz
+
+
+London Luton Airport Operations
+London Luton Airport
+TX: 446.3875 MHz
+RX: 446.3875 MHz
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared  to VHF air and UHF tower frequencies.
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

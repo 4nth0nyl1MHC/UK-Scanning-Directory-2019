@@ -1,0 +1,1092 @@
+Marine UK VHF Channels
+
+Also check The Main KimmyJS19 UK Scanning Directory Database for more detailed recorded
+Frequency Information for VHF MARINE between 156.300 - 163.000
+
+
+MARINE BAND FREQUENCIES
+
+TRANSMITTING CHANNEL DESIGNATORS
+
+
+Channel Vessel    Base Station  Notes
+
+0 	156.000		        UK HM Coastguard
+1 	156.050	  160.650
+2 	156.100	  160.700
+3 	156.150	  160.750
+4 	156.200	  160.800
+5 	156.250	  160.850
+6 	156.300		
+7 	156.350	  160.950
+8 	156.400	
+9 	156.450	
+10 	156.500	
+11 	156.550	
+12 	156.600	
+13 	156.650	
+14 	156.700	
+15 	156.750	
+16 	156.800		        Distress, Safety and Calling
+17 	156.850		
+18 	156.900	  161.500	
+19 	156.950	  161.550	
+20 	157.000	  161.600	
+21 	157.050	  161.650	
+22 	157.100	  161.700	
+23 	157.150	  161.750	
+24 	157.200	  161.800	
+25 	157.250	  161.850	
+26 	157.300	  161.900	
+27 	157.350	  161.950	
+28 	157.400	  162.000	
+29 	157.450	  162.050	
+30 	157.500	  162.100	
+31 	157.550	  162.150	
+32 	157.600	  162.200	
+33 	157.650		
+34 	157.700	  162.300	
+35 	157.750	  162.350	
+36 	157.800	  162.400	
+37 	157.850		        UK Marinas and Yacht Clubs
+38 	157.900		
+39 	157.950	  162.550	
+40 	158.000	  162.600	
+41 	158.050	  162.650	
+42 	158.100	  162.700	
+43 	158.150	  162.750	
+44 	158.200	  162.800	
+45 	158.250	  162.850	
+46 	158.300	  162.900	
+47 	158.350	  162.950	
+48 	158.400	  163.000	
+49 	158.450		
+50 	158.500		
+51 	158.550		
+52 	158.600		
+53 	158.650		
+54 	158.700		
+55 	158.750		
+56 	158.800		
+57 	158.850		
+58 	158.900		
+59 	158.950		
+60 	156.025	  160.625	
+61 	156.075	  160.675	
+62 	156.125	  160.725	
+63 	156.175	  160.775	
+64 	156.225	  160.825	
+65 	156.275	  160.875	
+66 	156.325	  160.925	
+67 	156.375		        UK Coastguard
+68 	156.425		
+69 	156.475		
+70 	156.525		        Digital Selective Calling (DSC)
+71 	156.575		
+72 	156.625		
+73 	156.675		
+74 	156.725		
+75 	156.775		
+76 	156.825		
+77 	156.875		
+78 	156.925	  161.525	
+79 	156.975	  161.575	
+80 	157.025	  161.625	UK Marinas
+81 	157.075	  161.675	
+82 	157.125	  161.725	
+83 	157.175	  161.775	
+84 	157.225	  161.825	
+85 	157.275	  161.875	
+86 	157.325	  161.925	
+87 	157.375	  161.975	
+88 	157.425	  162.025	
+89 	157.475	  162.075	
+90 	157.525	  162.125	
+91 	157.575	  162.175	
+92 	157.625	  162.225	
+93 	157.675	  162.275	
+94 	157.725	  162.325	
+95 	157.775	  162.375	
+96 	157.825	  162.425	
+97 	157.875	  162.475	
+98 	157.925	  162.525	
+99 	162.600		
+100 	158.025	  162.625	
+101 	158.075	  162.675	
+102 	158.125	  162.725	
+103 	158.175	  162.775	
+104 	158.225	  162.825	
+105 	158.275	  162.875	
+106 	158.325	  162.925	
+107 	158.375	  162.975	
+108 	158.425		
+109 	158.475		
+M 	157.850		
+M2 	161.425		       UK Marinas and Yacht Clubs
+AIS 1	162.025		       Automatic Identification System Data
+AIS 2	161.975		       Automatic Identification System Data
+
+
+
+BASE STATIONS, Match Channel numbers in table below with frequencies allocated in table above
+
+
+BASE STATIONS                                   CHANNELS
+
+Isles of Scilly Mevagissey Harbour Radio        14/16
+St Marys Harbour                                16/14
+ENGLAND - southwest Newlyn Harbour              09/12/16
+Penzance Harbour                                09/12/16
+Porthleven                                      16
+Helford River Sailing Club                      80/M
+Falmouth Harbour Radio                          12/16
+Falmouth Harbour Commissioners                  12/13/14/16
+Falmouth Harbour Pollution Control              10
+Falmouth Marina                                 80
+Falmouth, Royal Cornwall Yacht Club		37/M1
+Falmouth Pilot Radio				09
+Falmouth visitors yacht haven			12
+Portland Marina					80
+Port Pendennis Marina				80
+Royal Cornwall Yacht Club			80
+Mylor Yacht Harbour Marina			M/80
+Malpas Marina					M
+Salters Marina					80/M
+Lulworth Range Boats				08
+Retreat Boatyard (Exeter)			M
+Dartside Quay					80
+Winters Marina					72
+Newton Ferrers Harbour				10
+Devon Dockyard-Port Control			13/73
+Sutton Yacht Haven				80/M
+Millbay Marina					80/M
+Southdown Marina				80/M
+Par Port Radio					12/16
+Charlestown (St Austell Bay)			14 (On request)
+Charlestown Pilots				14
+St Mawes Port					12/16
+Carrick Tree (Truro)				12
+St Mawes Sailing Club				M
+Megavissey Harbour Radio			14/16
+Fowey Harbour Radio				12/16
+Fowey Harbour Patrol				12
+Fowey Pilots					09/16
+Fowey Refueller					10/16
+Fowey Water Taxi				06
+Looe Harbour					16
+Mayflower Marina Plymouth			80
+Queen Anne’s Battery				80
+Plymouth Port Control				08/12/14/16
+Plymouth VTS					14/13
+Longroom Port Control Plymouth			14
+Plymouth Yacht Haven Marina			80
+Mill Bay Docks					12/14/16
+Sutton Harbour Marina				80
+Sutton Harbour Radio				80
+Sutton Harbour Lock				12
+Torpoint Yacht Harbour				80/M
+Queen Anne's Battery				80/M
+Mayflower Int. Marina Plymouth			37/80
+Cattewater Harbour				14/16
+Salcombe Harbour				14
+Salcombe Fuel Barge				06
+Salcombe Water Taxi				12
+Lincombe Yard, Salcombe				72
+Egremont (ICC Floating HQ)			37
+Dartmouth Harbour (Dartnav)			11/16
+Darthaven Marina				80
+Dart Marina					80
+Dart Harbour Taxi				69
+Dart Harbour Res Nova Taxi			08
+Noss-on-Dart Marina				80
+Dart Sailing Club 				80
+Dartside Quay					80
+Brixham Marina					80
+Brixham Yacht Club				M
+Brixham Harbour					14
+Torquay Port					14
+Torquay Marina					80
+Torquay Marina Fuel				37
+Parkstone Bay Marina				14	
+Teignmouth Harbour Master			12/16
+Port of Exeter					12/16
+Exmouth Docks					14/16
+Exmouth Marina					06/12/14/16
+Lyme Regis Harbour Radio			14/16
+Bridport Harbour Radio				11/16
+
+
+ENGLAND - MID SOUTH   KimmyJS19
+
+Portland Port Ops				14/20/28/71/74
+Portland Marina					80
+Weymouth Harbour				12
+Weymouth Town Bridge				12
+Weymouth Army Range Control			08
+Weymouth Range Safety Boats			06/16
+Weymouth Marina					80
+Poole Harbour Control				14
+Poole Pilots					14/16
+Poole Bridge					14
+Dolphin Quay Boat Haven				80
+Poole Quay Boat Haven				80
+Poole Yacht Club Haven				80/M
+Poole Harbour water taxis			06
+Poole Bay fuels					80
+Lake Yard Marina Poole				M
+Salterns Marina					M/80
+Parkstone Yacht Club				M
+Cobbs Quay Marina				80
+
+
+ISLE OF WIGHT
+
+Isle of Wight Harbour				68
+Bembridge Harbour				80
+Bembridge Water Taxi				80
+Cowes Harbour Radio				69
+Cowes Chain Ferry				69
+Cowes Oil Pollution Control			10
+Cowes Marina East				80
+Cowes Yacht Haven				80
+Shepards Wharf Boatyard				80
+Cowes Harbour Radio				69
+Cowes Harbour Taxi & Waterbus			77
+Sally Water Taxis				06
+East Cowes Marina				80
+Island Harbour Marina				80
+Newport Yacht Harbour				69
+Ryde Leisure Harbour				80
+Yarmouth Harbour				68
+Yarmouth Water Taxi				15
+Yar Bridge					68
+Folly Ferry					69
+Sally Water Taxi				06
+Ventnor Haven					80
+Wicor Marina					80
+Southampton VTS					12/14/16/18/20/22
+QHM Portsmouth (Primary)			11
+QHM Portsmouth (Standby)                        13
+Southampton Pilots				09/71
+Southampton Tugs				71
+Marchwood Military Port Southampton		73
+Hamble Harbour Radio				68
+Hamble Point Marina				80
+Hamble Marina/Port				80
+Hamble Yacht Services				80
+Esso Marine Terminal/BP Hamble			19
+Mercury Yacht Harbour				80
+Universal Marina				80
+Foulke’s & Sons Riverside Boatyard		08
+Swanwick Marina River Hamble			80
+Hythe Marina					80
+Ocean Village Marina				80
+Itchen Marina					12
+Shamrock Quay Southampton Water			80
+Saxon Wharf					80
+Ocean Quay Marina				80
+Bucklers Hard Yacht Harbour			80/M
+Berthon Lymington Marina			37/80
+Lymington Yacht Haven				37/80
+Little Avon Marina				80/M
+Gosport-Camper Base				80/M/37
+Gosport Marina					80
+Gunwharf Quays					80
+Port Solent Marina				80
+Portsmouth/Queens Harbour Radio			11
+Portsmouth Royal Clarence Marina		80
+Haslar Marina					80
+QHM Portsmouth (In Harbour Comms)		13
+Port Solent Marina				80
+Fareham Marina					80/M
+Langstone Harbour				12/16
+Langstone Harbour Pilots			11/12
+Langstone Marina				80/M
+Chichester Harbour Radio			14/16
+Chichester Marina & Lock Control		80
+Birdham Pool Marina				80
+Emsworth Yacht Harbour				80/M
+Emsworth Ferry (Emsworth Mobile)		14
+Itchenor Ferry					08
+Sparkes Marina Hayling Island			80
+Southsea Marina					80
+Warsash Marina					80
+Tarquin Yacht Harbour				80/M
+Northney Marine					80
+Sovereign Lock					17
+Newhaven Swing Bridge				12
+Arun Yacht Club					37 (M1)
+
+
+ENGLAND - SOUTH EAST
+
+Littlehampton Harbour                           71
+Littlehampton Marina                            80
+Shoreham Pilots					14
+Shoreham Harbour Radio				16/06/09/11/14
+Shoreham Harbour Tugs				11
+Aldrington Quay					14
+Lady Bee Marina Shoreham Harbour		14
+Brighton Marina					M/80
+Newhaven Radio					12/16
+Newhaven Marina					80
+Eastbourne (Sovereign Harbour) Inner Harbour 	15
+Eastbourne (Sovereign Harbour) Lock Gates	17
+Harbour of Rye					14
+Folkestone Port Control				15
+Dover Port Control				12/16/74
+Dover Marina					80
+Dover Tugs					69/71/06/08
+Ramsgate Port Control				14
+Ramsgate North East Split Pilots		09
+Ramsgate Royal Harbour Marina			14/80
+Warp/Oaze Pilot (Sheerness)			69/74
+Sheerness Pilots				09
+
+
+ENGLAND - EAST    KimmyJS19
+
+Whitstable Harbour Radio			09
+Allington Marina				37/80
+Kingsferry Bridge				10
+Queensborough Harbour				37/74/80
+Queensborough Yacht Club QYC-Trot Boat		08
+Queen Base					80/M
+Gillingham Marina				80
+Chatham Maritime Marina				80
+Hoo Marina					80
+Medway Radio					16/74/22
+Medway VTS					09/11/16/22/73/74
+Medway Pier Marine				80/M
+Medway Port Operations				74
+Medway Bridge Marina				16/80
+Port Medway Marina				37/80
+Rochester Cruising Club				06
+Mariners Farm Boatyard				37/80
+Thames Lock					74
+Thames Patrol					06/13/14/16/68/69
+Tugs (Oil Refineries)				10/36
+Tugs (River Berths)				08/13/72
+London VTS					14/16/18/22/68/69
+North Fleet Hope Container Terminal		77
+London Pilots					09
+King George V Dock/Lock				68
+Poplar Dock Marina				13
+S. Katherine Haven				80
+S. Katherine Haven fuel barge callsign Burgan 	14
+Penton Hook Marina				80
+Windsor Marina					80
+Bray Marina					80
+Brentford Dock Marina				M
+Greenwich Yacht Club				M
+Galleons Point Marina				M/80
+South Dock Marina				M
+Bow Lock					16/74
+Chiswick Quay Marina				14
+Whitton Marina					37/80
+Elmhaven Marina					37/80
+Conyer Marina					37/80
+Cuxton Marina					No Radio
+Poplar Dock Marina				13
+Cadogan Pier					14
+Limehouse Marina				80
+St Katharine Haven				80
+Chelsea Harbour Marina				80
+Havengore - Shoe Bridge				16/72
+Havengore - Shoe Base				16/72
+Havengore - Shoe Radar				16/72
+Crouch Harbour					80
+Essex Marina R Crouch Wallasea Is		37
+Essex Marina					80
+Leigh on sea Sailing Club			37
+Southend Marine Activity Centre			16/68
+Burnham Yacht Harbour				80
+Rice & Cole Sea end Boathouse			37
+Bridgemouth Marina				80
+W. Wick Marina					80/M
+Bradwell Marina					M/80
+Tollesbury Marina				M/80
+Hythe Quay, Maldon, River Blackwater		16/37
+Blackwater Marina				M
+Heybridge Basin					80
+Brightlingsea Port Radio			68
+Brightlingsea Water Taxi			37
+Titchmarsh Marina Walton Backwaters		80
+Harwich Harbour Radio				11/14/16/71
+Harwich VTS					71
+Harwich Port					13
+Sunk Pilots Harwich				09
+Sunk VTS Harwich				14
+Harwich Harbour Radar				20
+Shotley Point Marina				80
+Ipswich Port Radio				12/14/16
+Ipswich Haven Marina				37/80
+River Orwell & Ipswich Lock Control		68
+Tidemill Yacht Harbour Woodbridge		80
+Tidemill Yacht Harbour Berthing			M/37 P1
+Felixstowe Ferry Pilot				08
+Felixstowe Ferry Boat Yard			08
+Felixstowe					74
+Fembridge Yacht Haven				M/80
+Parkeston Quay					16/18
+West Mersea Marina				M
+West Mersea Yacht Club				37
+Tollesbury Saltings Marina			37/80
+North Fambridge Yacht Centre			80/M
+Rice & Cole Sea End Boathouse			M
+Halcon Marina					M
+Holehaven Marina				12/M
+Suffolk Yacht Harbour				80
+Woolverstone Marina				80
+Royal Harwich Yacht Club Marina			77
+Fox's Marina					80
+Ipswich Haven Marina				M/68/80
+Neptune Marina					80/M
+Deben Ferry Harbour				08/16
+Tide Mill Yacht Harbour				80
+Tide Mill Yacht Harbour Berthing		M/37
+Southwold Port Radio				12
+Hamilton Dock					M/80
+Lowestoft Harbour Bridge & Port Control		14
+Lowestoft Haven Marina				M/80
+Lowestoft Marina				14
+Oulton Broad Marina				73
+Royal Norfolk & Suffolk Yacht Club		14/80
+Wisbech Pilot					09
+Wisbech Port					09/16/72
+Wisbech Yacht Harbour				09
+Wells Harbour Radio				12
+Kings Lynn (KLCB)				11/12/14/16
+Kings Harbour Radio				14/16
+Sutton Bridge Port				09
+Sutton Bridge Pilot				09
+Boston Dock					12/16
+Boston Marina					06/M
+Great Yarmouth Harbour				12/09/11
+Yarmouth Radio					12
+Yarmouth Tugs					11
+Haven & Breydon Bridges Yarmouth		12
+Royal Norfolk/Suffolk Yacht C.			80
+Grafham Water Sailing Club			M/M2
+
+UKSCANNINGDIRECTORY.CO.UK
+
+
+ENGLAND - NORTH EAST
+
+VTS Humber					12/14/15/16
+VTS Humber area INTER-SHIP			13/10
+Grimsby Docks Radio				18/74/79
+Grimsby Fish Dock Island			74
+Grimsby Marina Meridan Quay			74
+Grimsby & Cleethorps Yacht Club			M1
+Goole Bridge					09
+Howendyke					09
+Selby Lock					16/74
+Burton Upon Stather Lock			17
+Keadby Lock					16/74
+Gainsborough					17
+West Stockwith Lock				16/74
+Denver Sluice					73
+Carrow Bridge					12
+Trouse Bridge					12
+Immingham Docks Radio				19/68
+Drypool Radio					22
+Hull Marina					80
+Albert Dock Pier				09
+South Ferriby Lock				16/74
+S. Ferriby Marina				80/M
+Humber Yacht Club				M
+Goole Docks Radio				09/14/19
+Boothferry Bridge				09
+Selby Toll Bridge				09
+Fish Dock Island				74
+Naburn Marina					80/M
+Bridlington Harbour				12/16
+Selby Bypass Swing bridge			09
+Scarborough Harbour (Lighthouse)		12
+Whitby Radio					11/16
+Whitby Bridge					11/16
+Whitby Marina					11/16
+Tees Tugs					14/16/08/14
+Tees Port Authority Maintenance Craft		16/06/11/14
+Tees VTS					14
+Tees Barrage Radio				M
+Hartlepool Dock Radio				12
+Hartlepool Marina				M/37/80
+Hartlepool Yacht Club				M
+Seaham Harbour					12
+Sunderland Port					14/16
+Sunderland Marina				37 (M)/80
+Tyne VTS					12/08/11/16/69
+Royal Quays Marina				80
+St Peters Marina				M/80
+Tyne harbour Radio				12/16
+Queensferry					16/71/74
+Blyth Harbour Control				11/12/16
+Royal Northumberland Yacht Club Blyth		12
+Aldeburgh Yacht Club				Unknown
+Amble Marina					80
+Warkworth Harbour				14/16
+Cocquet Yacht Club				M
+Berwick upon Tweed Harbour                      12/16
+
+
+SCOTLAND - EAST    KimmyJS19
+
+Arbroath Harbour				11/16
+Eyemouth Harbour				12/16
+Forth Navigation				12/16/20/71
+Forth Ports Pilots				72
+Forth & Tay Navigation				71
+Leith Harbour Radio				12/16
+Leith Harbour Tugs				06/08/11/12/14
+Royal Forth Yacht Club (Boswell)		80/M
+Port Edgar Marina				80
+Port Ellen Marina				No VHF
+Rosyth Docks (QHM)				11/71/74
+Faslane Naval Base Callsign (QHM)		73
+Grangemouth Docks				14/16
+Grangemouth Tugs				10
+Grangemouth Harbour				14/16
+Methil Docks Radio				14/16/71
+Anstruther Harbour				11
+Dundee Harbour Radio				12/16
+Montrose Port Control				12/16
+Stonehaven Harbour				11
+Dunbar Harbour					06/12/16
+Aberdeen Port Control				11/12/16
+Fraserburgh Harbour Control			16/12
+Methill Docks Radio				14/16
+Peterhead Harbour Radio				14/16
+Perth Harbour					09/16
+Macduff						12/16
+Banff Harbour					14
+Whitehills Harbour Radio			14
+Buckie						12
+Lossiemouth Marina				12/16
+Burghead Radio					12/14/16
+Findhorn (Chadwick Base)			M
+Nairn						M
+Inverness Pilots				12
+Inverness Harbour Office			12
+Inverness Boat Centre				80/M
+Caledonian Canal				74
+Clachnaharry Sea Lock				74
+Seaport Marina					16/74
+Cromarty Firth Port				11/13/16
+Helmsdale					12/16
+Wick						14/16
+Scrabaster Harbour				12/16
+Whitehills Marine				14/16
+
+
+UKSCANNINGDIRECTORY.CO.UK
+
+
+ORKNEY ISLANDS    KimmyJS19
+
+Orkney Harbour Radio				09/11/12/16
+Orkney VTS					11/16
+Pierowall Harbour				16
+Stromness Marina				12/16
+Stromness Pilots				12/16/09/11/12
+Stromness Harbour Radio				14
+Scapa Flow Pilots				12/16/09/11/12
+Kirkwall Harbour Radio				14
+Kirkwall Pilots					12/16/09/11/12
+
+
+SHETLAND ISLANDS
+
+Lerwick Harbour Port Control			16
+Sullom Voe Harbour Radio			14
+Balta Sound Harbour				16/20
+Scalloway Harbour Radio				09/12/16
+
+
+WESTERN ISLES
+
+Stornoway (Hebrides)				12/16
+Loch Maddy					12/16
+Kilda Radio					12/16/73
+
+
+SCOTLAND - WEST
+
+craignure Pier (Isle of Mull)			31
+Gott Bay Tiree Port				31
+Skye Bridge Control				12
+Uig, Isle of Skye port				08/16
+Sponish Harbour					12/16
+Kinlochbervie Port				06/14/16
+Lochinver Harbour				09/16
+Ullapool Harbour				14/16
+Caledonian MacBrayne Ferries Ullapool		31
+Westray Marina					12/16
+Gairloch Harbour				16
+Portree Harbour (Skye)				12/16
+Rona Range					16
+Loch Alsh					11/16
+Old Forge					12/16
+Eigg Harbour					08
+Mallaig Harbour Radio				09/16
+Arisaig						16/M
+Arran Yacht Club				No Radio
+Salen Jetty					16
+Loch Eatharna					31
+Tobermory					12/16
+Corpach Sea Lock				16/74
+Caledonian Canal				74
+Dunstaffnage					80/M
+North Pier (Oban)				12/16
+Calmac (Railway Quay)				06/12/16
+Kimelford Yacht Haven				M/80
+Troon Port					12/14
+Troon Marina					37/80
+Irvine Bridge					12
+Irvine Harbour Office				12/16
+Ardrossan Port					12/14/16
+Melfort Pier					12/16
+Craoibh Marina					80/M
+Ardfern Yacht Centre				37/80/M
+Crinan Boatyard					12/16/M
+Crinan Canal					16/74
+Crinan Harbour					74
+Crinan Boatyard					12/16/M
+Ardrishaig Sea Lock				16/74
+Bowling Harbour					16/74
+Tarbert Harbour					14
+The Old Forge					12
+Campbeltown Port				12/13/16
+Rothesay Harbour				12
+Ardoran Marina					16/M
+Largs Yacht Haven				80/37/M/M2
+Kip Marina Inverkip				16/M/80
+Gareloch					16
+Rhu Marina					37
+Holy Loch Marina				80/M/37
+Oban Yachts Marina				16/80
+Silvers Marine					M
+Portavadie Marina Loch Fyne			M
+Loch Lomond Water Borne Rangers			16/M
+Cameron House Marina				80
+Clyde Port Estuary Radio			12/16
+Clyde Port Control				12/14/16
+Clyde Marina					80
+Clyde Ferry Movement Announcements		14/16/80
+Craobh Haven					37/80
+Sandpoint Marina				16/37
+Irvine Port					12/16
+Troon Yacht Haven				37/80
+Ayr Yacht & Cruising Club			14/16
+Girvan Harbour					12/16
+Loch Ryan Harbour				14
+Kirkcudbright Marina				12/16
+Range Control					16/73
+Isle of Whithorn				80
+Salen Jetty					16
+
+
+ENGLAND - NORTH EAST
+
+Mayport						12/16
+Mayport Marina					16/80/M
+Workington					11/14/16
+Silloth (Cumbria)				12/16
+Whitehaven Harbour				12
+Eskmeals Gun Range				13/16
+Garston Docks					16/20
+Glasson Dock					69
+Glasson Basin Marina				08/16
+Ramsden Dock					12/16
+Heysham Port Control				14
+Fleetwood Harbour village marina		12
+Fleetwood Docks					11/12/16
+Wyre Dock Marina				80
+Preston Marina					14/16
+Riversway Marine				80
+Mersey Radio					09/12/16
+Liverpool Marina				M/37
+Liverpool Pilots				11
+Canning Dock/Marina				M
+Blundellsands Sailing Club			M
+Langton Port Ops				21
+Eastham Port Operations Control Centre		07/14/20
+Eastham Port Operations Control Centre VTS 	08/10
+Maryport Harbour				12
+Maryport Marina					80/12/37
+Albert Dock					M
+Weaver Navigation				14/71/73
+
+
+
+ISLE OF MAN    KimmyJS19
+
+Port St Mary					12/16
+Laxey						12/16
+Castletown Bay					12/16
+Derbyhaven Marina				12/16
+Douglas Harbour Control				12/16
+Douglas Boatyard				16
+Laxey Marina					12/16
+Port Erin					12/16
+Port S. Mary					12/16
+Peel						12/16
+Ramsey Harbour					12/16
+
+
+IRELAND    KimmyJS19
+
+Ardglass Marina, Phennick Cove			M/80
+Arklow Harbour Master				08/16
+Arklow Marina Racing				10/16
+Arklow Marina					16
+Ballycastle Marina				80
+Bangor Harbour					11
+Bangor Marina					80
+Belfast Harbour Radio				12/16
+Belfast Port Ops				06/08/10/12/16
+Belfast River Warden				71 or 156.575 MHz
+Cahersiveen Marina				37
+Carlingford Lough				12/16
+Carlingford Marina				06
+Carrickfergus Marina				37/80/M2
+Carrickfergus Waterfront Office			37/80/M2
+Cromaine Harbour Kerry				37/74
+Crosshaven Boat Yard Marina			M
+Castlepark Marina				06/16
+Castlepark Marina Harbourmaster			14/16
+Dingle Marina					11/M
+Drogheda Port Control				11
+Dublin City Berthing Master			12
+Dublin Port Radio				06/09/12/13/14/16
+Dublin Port Tugs				09/12/13/16
+Dundalk						06/12/16
+Dundalk Pilot					14
+Dungarvan County Waterford Mine Head Radio	16/67/83
+Dun Laoghaire Marina				37A (M)/80A (M2)/16
+Dun Laoghaire					14
+East Ferry Marina				80
+Foyle Harbour					14
+Galway Harbour					12/16
+Greenore					12/16
+Green’s Quay					16/14
+Howth						08/16
+Howth Marina					M (37A)/80
+Kilmore Quay Marina				09/16
+Kilrush Marina					80
+Kinsdale Harbour				14/16
+Kinsdale Yacht Club & Marina			37
+Lawrence Cove Marina				16
+Larne Port Control				14/11/16
+Limerick Port					14/11
+Malahide Marina					37/80
+Oysterhaven Yacht Marina			16/68
+Poolbeg Marina					16-37A (M1) M2
+Rossavell					16-12-14
+Rosslare Harbour				06/12/14/16
+Royal Cork Yacht Club Marina			M
+Shannon Ports Radio				16/11
+Shannon Pilots Radio				16/11
+Seatons Marina					M
+Trident Hotel Marina Kisdale			06
+Warrenpoint					12/16
+Waterford Port					12/14/16
+Waterford City Marina				12
+Wexford						16/69
+Wicklow						02/14/16
+
+
+Foyle Search & Rescue, Derry                    162.1750 157.5750
+
+
+UKSCANNINGDIRECTORY.CO.UK
+
+
+IRISH COAST GUARD
+
+DUBLIN COAST GUARD RADIO
+
+Carlingford					04/16/67
+Dublin						16/67/83
+Mine Head					16/67/83
+Rosslare					16/23/67
+Wicklow Head					02/16/67
+
+
+MALIN HEAD COAST GUARD RADIO (EJM)
+
+Belmullet					16/67/83
+Clifden						16/26/67
+Donegal Bay					02/16/67
+Glen Head					16/24/67
+Malin Head					16/23/67/85
+
+
+VALENTIA COAST GUARD RADIO (EJK)
+
+Bantry						16/23/67
+Cork						16/26/67
+Galway						04/16/67
+Mizen Head					04/16/67
+Shannon						16/28/67
+Valentia					16/24/67
+Lough Derg Coast Guard Radio			16/61
+Lough Ree Coast Guard Radio			16/62
+
+
+
+WALES    KimmyJS19
+
+Anglesey Terminal Amlwch			10/12/19/26/28
+Mostyn Dock & River Dee Pilots			14
+Llandudno Pier					06/12
+Conwy Harbour Ops				08/12/14/16/72
+Conwy Marina					80
+Conwy Yacht Marina				M
+Deganwy Quay Marina				80
+Pwllheli Harbour Master				08
+Llanddulas					14
+Bangor Harbour Master				09/16
+Victoria Port					14/16
+Victoria Dock Marina				80
+Dickies (Menai Strait)				09/16/M
+Port Dinorwic Marina				80
+Liverpool Pilot Station (Point Lynas, Anglesey) 09
+Holyhead Port Control				14/16
+Holyhead Sailing Club				M
+Holyhead Marina					M
+South Caernarfon Yacht Club			80/M
+Hafen Pwllheli Harbour				80/M
+Hafen Pwllheli Marina				80/12/16
+Porthmadog Harbour				12/16
+Lawrenny Yacht Station				M
+Milford Marina Pierhead				14
+Milford Duty Berthing Master			37
+Milford Port Control				12
+Abersoch Land Sea				M
+Caernafon Harbour				12/14/16
+Dinorwic Marina					80
+Menai Pier					16/69
+Madoc Yacht Club				M
+Barmouth Harbour				12/16
+Aberdovey Harbour				12/16
+Aberaeron Harbour				14/16
+New Quay Harbour (Ceredigion)			14/16
+Aberysrwyth Harbour				14/16
+Aberysrwyth Marina (Call Abermarina)		80
+Aberporth Marine Control			13/16
+Fishguard Harbour				14/16
+Goodwick Marina					M
+Milford Haven Port Control			11/12/14/16
+Milford Pier Head				18
+Milford Marina Port Control			12
+Milford Marina Duty Berthing Master		37
+Neyland Yacht Haven				37/80
+Tenby Harbour					16/80
+Saundersfoot Harbour				14/16
+Castlemartin Range				16/73
+Manorbier Range Control				16/73
+Pendine Range					16/73
+Swansea Docks Radio (Port)			14
+Swansea Port Tugs				69/71
+Swansea Tawe Lock				18
+Swansea Marina					80
+Swansea Pilot					11/12/14/16
+Monkstone Sailing Club				M
+Barry Radio					11/16
+Barry Pilots					06
+
+LPS Callsign South Wales Radio
+Cardiff, Barry, Newport and the independent	69
+Berths on the River Usk
+
+Burry Port Marina				37
+Cardiff Port Radio				69
+Cardiff Harbour Authority			14
+
+Cardiff Barrage Control				18
+Cardigan Pilots					12
+Penarth Quays Marina				80
+Newport Harbour					16/69/71
+Newport Radio					71/09/74
+Neath Pilot					08/16/77
+Port Talbot					12/16
+
+
+BRISTOL CHANNEL
+
+Porthcawl Harbour				80
+Sharpness Radio					13/16
+Sharpness Pierhead				17
+Sharpness Marina				17
+Sharpness Bridge				74
+Avonmouth Radio					09/12
+Avonmouth Port Ops				14
+Royal Portbury Dock Radio			12/14/16
+Prince Street Bridge				73
+Royal Edward Dock Radio				12/14/16
+Bristol City Docks Radio			11/14
+Bristol Harbour					16/73
+Bristol VTS					12
+Bristol Marina					80/M
+Severn VTS					69
+Gloucester Pilots (Gloucester Harbour)		06
+Prince Street Bridge				73
+Netham Lock					73
+Portishead Quays Marina				80
+Weston Bay					80
+Burnham on Sea Harbour				08/16
+Watchet Port					09/12/14/16
+Bridgewater Pilots				08
+Watchet Marina					80
+Uphill Boat Services-Weston SM			16
+Minehead Harbour				12/14/16
+Ilfracombe Harbour				12/14/16
+Appledore - Bideford Pilots			16/12
+Bideford Harbour				12/16
+Albert Dock Appledore				37
+Two Rivers Port					12/16
+Bude Harbour					12/16
+Padstow Harbour					12/16
+Newquay Harbour					12/16
+Hayle Harbour					14/16/18
+St Ives Harbour					12/16
+
+
+CHANNEL ISLANDS
+
+ALDERNEY
+
+Alderney Radio					16/74
+Mainbrayce Water Taxi Braye Harbour		37/80
+Mainbrayce Chandlers Braye Harbour		80
+
+
+GUERNSEY
+
+St Peter Port Radio				16/20
+St Peter Port Control				12
+St Peter Port Marina				37/80
+St Peter Port Water Taxi			10
+St Sampson's Harbour				12
+Beaucette Marina				80
+Water Taxi					10
+
+
+SARK
+
+Sark						10
+
+JERSEY
+
+Jersey Coastguard				14/16/25/70/82/67
+St Helier VTS					14
+St Helier Marina				14
+St Helier Pierhead				18 (broadcast every 2 mins)
+Gorey Harbour					74
+Beaucette Marina				80
+Victoria Marina					37/80
+
+
+Locks
+
+Aire						74
+Calder						74
+Castleford					74
+Whitley						74
+Apperley					74
+
+ 
+
+Marine UK VHF channels - COMMON - UKSCANNINGDIRECTORY.CO.UK
+
+International VHF Channels   
+	  	  	  	 
+0 	156.000 	156.000 	PRIVATE 	Used by UK HM Coastguard  
+1 	156.050 	160.650 	DUPLEX 	   	
+2 	156.100 	160.700 	DUPLEX 	   	
+3 	156.150 	160.750 	DUPLEX 	   	
+4 	156.200 	160.800 	DUPLEX 	   	
+5 	156.250 	160.850 	DUPLEX 	   	
+6 	156.300 	157.300 	SIMPLEX 	INTER-SHIP 	  	 
+7 	156.350 	160.950 	DUPLEX 	   	
+8 	156.400 	157.400 	SIMPLEX 	INTER-SHIP 	  	  
+9 	156.450 	156.450 	SIMPLEX 	INTER-SHIP
+10 	156.500 	156.500 	SIMPLEX 	INTER-SHIP 
+11 	156.550 	156.550 	SIMPLEX 	
+12 	156.600 	156.600 	SIMPLEX 
+13 	156.650 	156.650 	SIMPLEX 	INTER-SHIP
+14 	156.700 	156.700 	SIMPLEX 	 
+15 	156.750 	156.750 	SIMPLEX 	INTER-SHIP
+16 	156.800 	156.800 	SIMPLEX 	DISTRESS, SAFETY AND CALLING
+17 	156.850 	156.850 	SIMPLEX 	INTER-SHIP 
+18 	156.900 	161.500 	DUPLEX 	   
+19 	156.950 	161.550 	DUPLEX 	   
+20 	157.000 	161.600 	DUPLEX 	  
+21 	157.050 	161.650 	DUPLEX 	  
+22 	157.100 	161.700 	DUPLEX 	  
+23 	157.150 	161.750 	DUPLEX 	   
+24 	157.200 	161.800 	DUPLEX 	 
+25 	157.250 	161.850 	DUPLEX 	   	  
+26 	157.300 	161.900 	DUPLEX 	   	 
+27 	157.350 	161.950 	DUPLEX 	   	 
+28 	157.400 	162.000 	DUPLEX 	   	 
+29 to   PRIVATE         PRIVATE         PRIVATE
+36 	PRIVATE	  	PRIVATE 	PRIVATE 	  	 
+37 (M) 	157.850 	157.850 	PRIVATE 	Used by UK Marines and Yacht Clubs  
+38 to   PRIVATE         PRIVATE         PRIVATE
+59 	PRIVATE  	PRIVATE 	PRIVATE  	  	 
+60 	156.025 	160.625 	DUPLEX 	
+61 	156.075 	160.675 	DUPLEX 	 
+62 	156.125 	160.725 	DUPLEX 	  
+63 	156.175 	160.775 	DUPLEX 	  	
+64 	156.225 	160.825 	DUPLEX 	  	
+65 	156.275 	160.875 	DUPLEX 	  	
+66 	156.325 	160.925 	DUPLEX 	  	
+67 	156.375 	156.375 	SIMPLEX 	INTER-SHIP 	UK Coastguard  
+68 	156.425 	156.425 	SIMPLEX 	  	
+69 	156.475 	156.475 	SIMPLEX 	INTER-SHIP 		 
+70 	156.525 	156.525 	smiplex 	Digital Selective Calling (DSC)  
+71 	156.575 	156.575 	SIMPLEX 	  		 
+72 	156.625 	156.625 	SIMPLEX 	INTER-SHIP 	  	 
+73 	156.675 	156.675 	SIMPLEX 	INTER-SHIP 	 
+74 	156.725 	156.725 	SIMPLEX 	  		 
+75 	156.775 	156.775 	SIMPLEX 	  		 
+76 	156.825 	156.825 	SIMPLEX 	  		 
+77 	156.875 	156.875 	SIMPLEX 	INTER-SHIP 	  	 
+78 	156.925 	161.525 	DUPLEX 	  	
+79 	156.975 	161.575 	DUPLEX 	  		 
+80 	157.025 	161.625 	DUPLEX 	  	UK Marinas 	 
+81 	157.075 	161.675 	DUPLEX 	  	
+82 	157.125 	161.725 	DUPLEX 	  	
+83 	157.175 	161.775 	DUPLEX 	  	 
+84 	157.225 	161.825 	DUPLEX 	  	
+85 	157.275 	161.875 	DUPLEX 	  	  	
+86 	157.325 	161.925 	DUPLEX 	  	  	
+87 	157.375 	157.375 	SIMPLEX 	  	  	
+88 	157.425 	157.425 	SIMPLEX 	  	  	
+M2 	161.425 	161.425 	PRIVATE 	Used by UK Marines and Yacht Clubs  
+ASI 1 	162.025 	162.025 	SIMPLEX 	Automatic Ship Identification (data)
+ASI 2 	161.975 	161.975 	SIMPLEX 	Automatic Ship Identification (data)
+
+
+Primary INTER-SHIP working channels 06, 08, 72, 77
+
+Shared INTER-SHIP working channels  06, 08, 09, 10, 13, 15, 17, 67, 69, 72, 73, 77 	
+
+UK Coastguard Channels 67, 10, 73, 23, 84, 86
+
+M1 & M2 used by UK Yacht Clubs 	
+
+UK Marines use channel 80 or 37
+  	 
+The following channels are SIMPLEX in the USA:
+1A, 2A, 3A, 4A, 5A, 7A, 18A, 19A, 20A, 21A, 22A, 23A, 60A, 61A, 62A, 63A, 
+64A, 65A, 66A, 78A, 79A, 80A, 81A, 82A, 83A, 86A, 88A 
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

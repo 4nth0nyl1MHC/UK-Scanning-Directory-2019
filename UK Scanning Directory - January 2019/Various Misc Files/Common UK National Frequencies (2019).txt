@@ -1,0 +1,501 @@
+Common UK Frequencies (2019)     KimmyJS19
+
+
+SIMPLE UK LIGHT 2019 (Formerly UK General) 
+
+VHF Low Band
+
+86.3375 MHz
+86.3500 MHz
+86.3625 MHz
+86.3750 MHz
+77.6875 MHz
+
+VHF Mid Band
+
+164.0500 MHz
+164.0625 MHz
+169.0875 MHz
+169.3125 MHz
+
+VHF High Band
+
+173.0500 MHz
+173.0625 MHz
+173.0875 MHz
+
+UHF1
+
+449.3125 MHz
+449.4000 MHz
+449.4750 MHz
+
+UHF2 (NEW FREQUENCIES INTRODUCED MAY 2017)
+458.7875 MHz
+458.8000 MHz
+458.8125 MHz
+458.8250 MHz
+
+
+What is Simple UK Light?
+
+The PBR Simple UK Light Licence allows customers to use hand-portable or mobile radio equipment anywhere 
+within the UK without the need to inform Ofcom. The licence for this service has been designed to allow 
+customers access to one or more of fifteen frequencies spread across four PMR bands. 
+
+As this is a "go-anywhere" type of service, the use of base stations is not permitted unless prior 
+authorisation has been obtained from Ofcom. There is no limitation on the number of sites where a 
+licensee can use radios covered by the Simple UK Light licence, or on the duration of use at any location.
+The maximum permitted effective radiated power of equipment used under this licence is 5 watts. 
+
+Simple UK Light channels are in wide use accross the UK by a wide varied user base including shops,
+quarries, private investigators, sporting events, rescue, security and many, many more.
+
+There are fifteen simplex channels available for use with this service as listed above. Please note that 
+Simple UK Light frequencies may only be used in simplex (Back to Back) mode.You will find the UHF1 and VHF 
+Mid Band set of frequencies are the most popular.
+
+
+
+
+PMR 446 (Licence Free)
+
+PMR446 is one of the most popular used radio systems in The UK due to being low cost and licence free, 
+PMR446 Walkie Talkies can be bought from places like Argos or more proffesional models can be bought 
+from radio suppliers. Due to ease of access and use there are many varied users of these radios including 
+shops, warehouses, motorcycle training, schools, scouts, security and even kids who got them as presents.
+
+There are 8 UHF channels in FM as follows....
+
+Channel 1 - 446.00625
+Channel 2 - 446.01875
+Channel 3 - 446.03125
+Channel 4 - 446.04375
+Channel 5 - 446.05625
+Channel 6 - 446.06875
+Channel 7 - 446.08125
+Channel 8 - 446.09375
+
+There are also  8 digital 446 channels available, these are not anywhere near as popular as the standard 
+ones above (equipment is more expensive and not as easily available) and known as dPMR 446
+
+Digital Channel 1 - 446.10625
+Digital Channel 2 - 446.11875
+Digital Channel 3 - 446.13125
+Digital Channel 4 - 446.14375
+Digital Channel 5 - 446.15625
+Digital Channel 6 - 446.16875
+Digital Channel 7 - 446.18125
+Digital Channel 8 - 446.19375
+
+
+
+
+
+UK CB AND CEPT (Citizen band radio), The 80 Channel Frequency List
+
+The UK CB AND CEPT bands are still fairly popular today though not as busy as they once were. 
+Both sets of 40 channels can be used legally and now Licence Free in The UK, you may hear 
+long distance contacts on these, interference from other countries and local truck drivers.
+
+UK CB FREQUENCIES - 27.60125 – 27.99125
+
+27.60125 FM Nationwide CB Channel 1        27.61125 FM Nationwide CB Channel 2
+27.62125 FM Nationwide CB Channel 3        27.63125 FM Nationwide CB Channel 4
+27.64125 FM Nationwide CB Channel 5        27.65125 FM Nationwide CB Channel 6
+27.66125 FM Nationwide CB Channel 7        27.67125 FM Nationwide CB Channel 8
+27.68125 FM Nationwide CB Channel 9        27.69125 FM Nationwide CB Channel 10
+27.70125 FM Nationwide CB Channel 11       27.71125 FM Nationwide CB Channel 12
+27.72125 FM Nationwide CB Channel 13       27.73125 FM Nationwide CB Channel 14
+27.74125 FM Nationwide CB Channel 15       27.75125 FM Nationwide CB Channel 16
+27.76125 FM Nationwide CB Channel 17       27.77125 FM Nationwide CB Channel 18
+27.78125 FM Nationwide CB Channel 19       27.79125 FM Nationwide CB Channel 20
+27.80125 FM Nationwide CB Channel 21       27.81125 FM Nationwide CB Channel 22
+27.82125 FM Nationwide CB Channel 23       27.83125 FM Nationwide CB Channel 24
+27.84125 FM Nationwide CB Channel 25       27.85125 FM Nationwide CB Channel 26
+27.86125 FM Nationwide CB Channel 27       27.87125 FM Nationwide CB Channel 28
+27.88125 FM Nationwide CB Channel 29       27.89125 FM Nationwide CB Channel 30
+27.90125 FM Nationwide CB Channel 31       27.91125 FM Nationwide CB Channel 32
+27.92125 FM Nationwide CB Channel 33       27.93125 FM Nationwide CB Channel 34
+27.94125 FM Nationwide CB Channel 35       27.95125 FM Nationwide CB Channel 36
+27.96125 FM Nationwide CB Channel 37       27.97125 FM Nationwide CB Channel 38
+27.98125 FM Nationwide CB Channel 39       27.99125 FM Nationwide CB Channel 40
+
+
+
+CEPT (Citizen band radio) UK & Europe
+
+UK/EU CEPT FREQUENCIES - 26.9650 – 27.40507
+
+26.965 FM Nationwide Channel 1        26.975 FM Nationwide Channel 2
+26.985 FM Nationwide Channel 3        27.005 FM Nationwide Channel 4
+27.015 FM Nationwide Channel 5        27.025 FM Nationwide Channel 6
+27.035 FM Nationwide Channel 7        27.055 FM Nationwide Channel 8
+27.065 FM Nationwide Channel 9        27.075 FM Nationwide Channel 10
+27.085 FM Nationwide Channel 11       27.105 FM Nationwide Channel 12
+27.115 FM Nationwide Channel 13       27.125 FM Nationwide Channel 14
+27.135 FM Nationwide Channel 15       27.155 FM Nationwide Channel 16
+27.165 FM Nationwide Channel 17       27.175 FM Nationwide Channel 18
+27.185 FM Nationwide Channel 19       27.205 FM Nationwide Channel 20
+27.215 FM Nationwide Channel 21       27.225 FM Nationwide Channel 22
+27.255 FM Nationwide Channel 23       27.235 FM Nationwide Channel 24
+27.245 FM Nationwide Channel 25       27.265 FM Nationwide Channel 26
+27.275 FM Nationwide Channel 27       27.285 FM Nationwide Channel 28
+27.295 FM Nationwide Channel 29       27.305 FM Nationwide Channel 30
+27.315 FM Nationwide Channel 31       27.325 FM Nationwide Channel 32
+27.335 FM Nationwide Channel 33       27.345 FM Nationwide Channel 34
+27.355 FM Nationwide Channel 35       27.365 FM Nationwide Channel 36
+27.375 FM Nationwide Channel 37       27.385 FM Nationwide Channel 38
+27.395 FM Nationwide Channel 39       27.405 FM Nationwide Channel 40
+
+
+
+
+
+UK FIRE FIGHTER HANDHELDS
+
+Although Fire Control along with Police and Ambulance are on a digital system that cant be heard on a
+scanner you can still pick up FireFighter Handhelds which are still analogue as listed below. There is 
+a slow move to DMR Digital for these frequencies lead by Greater Manchester Fire Service though most 
+remain analogue at this time.
+
+Firefighter Fireground On Scene of Incidents - Handhelds (UHF)
+
+MAINSCHEME FREQUENCIES
+
+Firefighter Handhelds 457.0375
+Firefighter Handhelds 457.0875
+Firefighter Handhelds 457.0125
+Firefighter Handhelds 457.1375
+Firefighter Handhelds 457.1875
+Firefighter Handhelds 457.2375
+Firefighter Handhelds 457.4875
+
+OTHER Firefighter Frequencies
+
+Firefighter ALERTING PAGERS 147.800
+
+Firefighter 455.9875
+Firefighter 462.5875
+Firefighter 462.6375
+
+
+NEW DMR DIGITAL/ANALOGUE FIRE FIGHTER FREQUENCIES
+
+Ch1 Digital 457.0375 General incident
+Ch2 Digital 462.5875/457.0875 Portable repeaters
+Ch3 Digital 457.4875 Breathing apparatus (BA) communications 
+Ch4 Digital 457.1875 Command support 
+Ch5 Digital 462.6375/ 457.1375 Fixed site repeaters 
+Ch6 Digital 457.2375 BA sector/functional roles 
+Ch7 Digital 450.1000 Service defined
+Ch8 Digital 464.1000 Incident defined
+Ch9 Analogue 457.0375 General incident 
+Ch10 Analogue 462.5875/457.0875 Portable repeaters 
+Ch11 Analogue 457.4875 BA communications 
+Ch12 Analogue 457.1875 Command support
+Ch13 Analogue 462.6375/457.1375 Fixed site repeaters
+Ch14 Analogue 457.2375 BA sector/functional roles 
+
+
+
+
+TRAINS & RAIL
+
+There are various frequencies in use up and down the UK by rail companies both digital and 
+analogue however you will find the two most common frequencies below.
+
+UK Rail Common - 453.5500
+UK Rail Common - 453.9000
+
+
+
+
+
+BAOFENG BF-888s DEFAULT UHF FREQUENCIES & TONES (COMMON)
+
+CH1 462.125 CTCSS 69.3          CH2 462.225
+CH3 462.325                     CH4 462.425 CTCSS 103.5
+CH5 462.525 CTCSS 114.8         CH6 462.625 CTCSS 127.3
+CH7 462.725 CTCSS 136.5         CH8 462.825 CTCSS 162.2
+CH9 462.925 DCS 025             CH10 463.025 DCS 032
+CH11 463.125 DCS 125            CH12 463.225 DCS 331
+CH13 463.525 DCS 023            CH14 450.225
+CH15 469.945 CTCSS 203.5        CH16 469.950 CTCSS 203.5
+
+
+
+
+
+GMRS & FRS HANDHELDS
+
+GMRS & FRS are The US Equivalent of PMR446. High Power is available on GMRS Channels (5watt) and half a watt 
+on FRS Channels. 
+
+These are not allowed to be used in The UK although are quite common due to them being easily available from 
+sites like ebay.
+
+Ch 1 GMRS/FRS 462.5625    Ch 2 GMRS/FRS 462.5875    Ch 3 GMRS/FRS 462.6125
+Ch 4 GMRS/FRS 462.6375    Ch 5 GMRS/FRS 462.6625    Ch 6 GMRS/FRS 462.6875
+Ch 7 GMRS/FRS 462.7125    Ch 8 FRS 467.5625         Ch 9 FRS 467.5875
+Ch 10 FRS 467.6125        Ch 11 FRS 467.6375        Ch 12 FRS 467.6625
+Ch 13 FRS 467.6875        Ch 14 FRS 467.7125        Ch 15 GMRS 462.5500
+Ch 16 GMRS 462.5750       Ch 17 GMRS 462.6000       Ch 18 GMRS 462.6250
+Ch 19 GMRS 462.6500       Ch 20 GMRS 462.6750       Ch 21 GMRS 462.7000
+Ch 22 GMRS 462.7250
+
+
+
+
+TESCO STORES NATIONAL
+
+Tesco have a national plan, on these you will find Security and shop workers, please 
+note these are handheld frequencies and usually analogue, headset frequencies are now 
+mostly digital.
+
+TESCO STORES NATIONAL 1 - 453.5875
+TESCO STORES NATIONAL 2 - 460.0875
+TESCO STORES NATIONAL 3 - 449.3125 (Simple Light)
+TESCO STORES NATIONAL 4 - 449.4000 (Simple Light)
+TESCO STORES NATIONAL 5 - 449.4750 (Simple Light)
+
+
+
+
+UK JOB CENTRE SECURITY FREQUENCIES G4S
+
+G4S/Securitas are stationed at all UK Job Centres and often do more work than the standard 
+security duties. Most of these are analogue in the clear but some are encrypted/scrambled.
+
+447.8750  (G4S National)
+461.3000  (G4S National)
+449.3125  (Simple Light)
+449.4000  (Simple Light)
+449.4750  (Simple Light)
+
+
+
+
+SRBR RADIO (Short Range Business Radio) Ended 31/12/03
+
+SRBR is no longer permitted and finished 31st December 2003 being replaced by PMR446, there are still a 
+lot of sets in use however on the following frequencies:
+
+SRBR Channel 1 - 461.2625 MHz
+SRBR Channel 2 - 461.4750 MHz
+SRBR Channel 3 - 461.4875 MHz 
+
+
+
+
+UK SIMPLE SITE
+
+The UK Simple Site set of frequencies are popular up and down the UK and used often by councils, 
+at events, TV Companies and on a Short Term Hire/Suppliers basis.
+
+The full list of frequencies are below, the most common are the following 8 frequencies in the 
+456 MHz band.
+
+
+
+UK SIMPLE SITE COMMON
+
+UK Simple Site Common - 456.0125
+UK Simple Site Common - 456.3375
+UK Simple Site Common - 456.3875
+UK Simple Site Common - 456.4625
+UK Simple Site Common - 456.5625
+UK Simple Site Common - 456.6875
+UK Simple Site Common - 456.8625
+UK Simple Site Common - 456.9875
+
+
+
+UK BUSINESS RADIO, SUPPLIERS LIGHT (UK Events/Short term Hire) Full Frequencies
+
+PMR Hire Frequencies (Dual Frequencies)
+
+Base          Mobile
+85.87500 MHz  72.37500 MHz
+163.2875 MHz  158.7875 MHz
+163.9250 MHz  159.4250 MHz
+163.9000 MHz  159.4000 MHz
+456.3875 MHz  461.8875 MHz
+456.9875 MHz  462.4875 MHz
+
+
+
+PMR Hire Frequencies (Single Frequencies)
+
+72.37500 MHz     85.87500 MHz
+158.7875 MHz     159.4875 MHz
+159.5000 MHz     159.5875 MHz
+159.6250 MHz     159.6875 MHz
+163.2875 MHz     163.9000 MHz
+163.9250 MHz     163.9875 MHz
+164.0000 MHz     164.0875 MHz
+164.1250 MHz     164.1875 MHz
+169.0125 MHz     169.1375 MHz
+169.1625 MHz     169.1875 MHz
+456.3875 MHz     456.8625 MHz
+456.9875 MHz     461.8875 MHz
+462.3625 MHz     462.4750 MHz
+
+
+
+PMR Hire Construction Projects (Dual Frequencies)
+
+Base          Mobile
+163.7500 MHz  159.2500 MHz
+163.8500 MHz  159.3500 MHz
+163.6875 MHz  159.1875 MHz
+
+
+PMR Hire Construction Projects (Single Frequencies)
+
+163.7500 MHz
+159.2500 MHz
+163.8500 MHz
+159.3500 MHz
+163.6875 MHz
+159.1875 MHz
+
+
+Trunked PMR Hire Frequencies
+
+Base          Mobile
+456.0125 MHz  461.5125 MHz
+456.3375 MHz  461.8375 MHz
+456.4625 MHz  461.9625 MHz
+456.5625 MHz  462.0625 MHz
+456.6875 MHz  462.1875 MHz
+456.9625 MHz  462.4625 MHz
+
+
+
+Radio Paging Hire Frequencies
+
+26.8350 MHz     26.9200 MHz
+48.9750 MHz     48.9875 MHz
+
+
+
+PMR Parking and Demonstration Frequencies
+
+Base            Mobile
+82.12500 MHz    68.62500 MHz
+85.87500 MHz    72.37500 MHz
+163.9500 MHz    159.4500 MHz
+167.2000 MHz    172.0000 MHz
+440.5375 MHz    426.0375 MHz  (Restricted in some areas)
+456.9250 MHz    462.4250 MHz
+
+
+
+PMR Parking and Demonstration SRBP Simplex
+
+461.3000 MHz
+
+These Short term Hire Frequencies are now known and classed by Ofcom as 
+Business Radio Suppliers Light, though they used to be called Short Term Hire.
+
+
+
+ANALOGUE CORDLESS TELEPHONES
+
+31.0375	  39.9375 UK Home Cordless Phone Ch1
+31.0625	  39.9625 UK Home Cordless Phone Ch2
+31.0875	  39.9875 UK Home Cordless Phone Ch3
+31.1125	  40.0125 UK Home Cordless Phone Ch4
+31.1375	  40.0375 UK Home Cordless Phone Ch5
+31.1625	  40.0625 UK Home Cordless Phone Ch6
+31.1875	  40.0875 UK Home Cordless Phone Ch7
+31.2125	  40.1125 UK Home Cordless Phone Ch8
+
+
+
+
+Search, Rescue, NRC and Emergency Frequencies 2018   KimmyJS19
+
+NOTE British Red Cross (and SJA) also use the UKG (Simple Light) frequencies below, these are UKG 
+so frequencies are shared with other users.
+
+British Red Cross/SJA/UKG 164.0500 MHz
+British Red Cross/SJA/UKG 164.0625 MHz
+British Red Cross/SJA/UKG 169.0875 MHz
+British Red Cross/SJA/UKG 169.3125 MHz
+British Red Cross/SJA/UKG 173.0500 MHz
+British Red Cross/SJA/UKG 173.0625 MHz
+British Red Cross/SJA/UKG 173.0875 MHz
+British Red Cross/SJA/UKG 449.3125 MHz
+British Red Cross/SJA/UKG 449.4000 MHz
+British Red Cross/SJA/UKG 449.4750 MHz
+
+NOTE: In most cases RED CROSS frequencies are allocated on a NATIONAL bases, this means the frequencies 
+are available for use UK WIDE.
+
+
+
+COMMON SEARCH AND RESCUE/EMERGENCY/DISTRESS FREQUENCIES
+
+2182.0  HF Int. Distress Freq
+3023.0  HF Int. SAR Rescue
+4125.0  HF Distress and safety
+5680.0  HF Int. SAR Rescue
+6125.0  HF Distress and safety
+8364.0  HF Maritime Safety
+121.5000  Aircraft Emergency
+123.1000  Air Search & Rescue
+124.7500  Search and Rescue Ops
+147.4750  UKSAR Search & Rescue
+149.1000  USAF Air-Air Rescue
+153.7125  British Red Cross
+153.7125  ST John Ambulance
+155.3500  UKSAR Search & Rescue
+156.0000  UKSAR Ch.0 Emergency
+156.1250  UK SAR Emergency
+156.16875 UK Search Rescue HOME
+156.18125 UK Search Rescue HOME
+156.21875 UK Search Rescue HOME
+156.23125 UK Search Rescue HOME
+157.26875 UK Search Rescue HOME
+157.28125 UK Search Rescue HOME
+160.71875 UK Search Rescue HOME
+160.73125 UK Search Rescue HOME
+160.76875 UK Search Rescue HOME
+160.78125 UK Search Rescue HOME
+160.81875 UK Search Rescue HOME
+160.83125 UK Search Rescue HOME
+160.79375 UK Search Rescue HOME
+161.80625 UK Search Rescue HOME
+161.86875 UK Search Rescue HOME
+161.88125 UK Search Rescue HOME
+164.05000 UKG Land SAR ALLOCATED
+164.06250 UKG Land SAR ALLOCATED
+166.43750 Emer Ambulance/Helimed
+243.0000  Military Air Distress
+282.8000  Military Search/Rescue
+406.0000  Emergency Locator Tx's
+419.1125  SAR Polycon Common
+449.5375  SAR Polycon Common
+
+
+
+Bristow Helicopters (UK SAR SEARCH & RESCUE)
+
+BRISTOW HELICOPTERS OPERATIONS 122.950 MHz
+BRISTOW HELICOPTERS OPERATIONS 130.375 MHz
+BRISTOW HELICOPTERS OPERATIONS 130.700 MHz
+BRISTOW HELICOPTERS OPERATIONS 131.700 MHz
+
+
+
+St. John Ambulance UK WIDE Licence
+ 	
+453.3625 MHz     166.7500 MHz
+163.3000 MHz     163.5125 MHz
+163.0875 MHz     166.2875 MHz
+
+
+
+UK Common Frequencies 2019 - UKSCANNINGDIRECTORY.CO.UK  KimmyJS19

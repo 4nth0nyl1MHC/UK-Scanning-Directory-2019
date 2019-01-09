@@ -1,0 +1,91 @@
+Oxford Airport (EGTK) 2018  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : LONDON OXFORD AIRPORT
+ICAO CODE: EGTK
+LOCATION : KIDLINGTON, OXFORDSHIRE
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+
+OXFORD AIRPORT
+
+Oxford Kidlington Airport Approach      119.980 MHz (AM)
+
+Oxford Kidlington Airport Tower         133.430 MHz (AM)
+
+Oxford Kidlington Airport Ground        121.950 MHz (AM)
+
+Oxford Kidlington Airport Director      119.980 MHz (AM)
+
+Oxford Kidlington Airport ATIS 	        136.230 MHz (AM)
+
+Oxford LARS Radar (RAF Brize Norton)    124.275 MHz (AM)
+
+Oxford Kidlington Airport Fire Grnd     121.600 MHz (AM)
+
+Oxford Kidlington Airport Emergency     121.500 MHz (AM)
+
+
+
+UHF (FM)
+
+
+Oxford Aviation Services
+Oxford Airport, KIDLINGTON
+TX: 453.9875 MHz
+RX: 460.4875 MHz
+
+
+Oxford Aviation Services
+Oxford Airport, KIDLINGTON
+TX: 456.325 MHz
+RX: 461.825 MHz
+
+
+Oxford Aviation Services
+Oxford Airport, KIDLINGTON
+TX: 456.0375 MHz
+RX: 461.5375 MHz
+
+
+
+
+SIMPLEX UHF GROUND FREQUENCIES
+
+
+Oxford Aviation Services
+Oxford Airport, KIDLINGTON
+TX: 455.600 MHz
+RX: 455.600 MHz
+
+
+Oxford Aviation Services
+Oxford Airport, KIDLINGTON
+TX: 455.5625 MHz
+RX: 455.5625 MHz
+
+
+Oxford Aviation Services
+Oxford Airport, KIDLINGTON
+TX: 455.625 MHz
+RX: 455.625 MHz
+
+
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

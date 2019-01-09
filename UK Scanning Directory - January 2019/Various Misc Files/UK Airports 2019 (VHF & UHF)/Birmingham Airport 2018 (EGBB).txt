@@ -1,0 +1,261 @@
+Birmingham International Airport (EGBB) 2018  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : BIRMINGHAM AIRPORT
+ICAO CODE: EGBB
+LOCATION : BICKENHILL, BIRMINGHAM, WEST MIDLANDS
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+
+Birmingham Approach 	       123.980 MHz (AM)
+
+Birmingham Radar 	       123.980 MHz (AM)
+
+Birmingham Tower 	       118.305 MHz (AM)
+
+Birmingham Ground 	       121.805 MHz (AM)
+
+Birmingham Clearance/Delivery  121.930 MHz (AM)
+
+Birmingham Approach 	       131.005 MHz (AM)
+
+Birmingham Radar/Director      131.330 MHz (AM)
+
+Birmingham ATIS INFO	       136.030 MHz (AM)
+
+Birmingham Emergency           121.500 MHz (AM)
+
+Birmingham Fire Ground	       121.600 MHz (AM)
+
+
+
+
+UHF FREQUENCIES (FM)
+
+
+Birmingham International Airport
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 455.475 MHz
+RX: 460.775 MHz
+
+
+Birmingham International Airport
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 455.575 MHz
+RX: 461.225 MHz
+
+
+Affini Technology (AIR RADIO)
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 454.750 MHz
+RX: 461.750 MHz
+
+
+Affini Technology (AIR RADIO)
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 454.650 MHz
+RX: 461.650 MHz
+
+
+Affini Technology (AIR RADIO)
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 445.775 MHz
+RX: 425.275 MHz
+
+
+Affini Technology (AIR RADIO)
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 445.7125 MHz
+RX: 425.2125 MHz
+
+
+Affini Technology (AIR RADIO)
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 445.6375 MHz
+RX: 425.1375 MHz
+
+
+Affini Technology (AIR RADIO)
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 443.0875 MHz
+RX: 428.5875 MHz
+
+
+Affini Technology (AIR RADIO)
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 443.0125 MHz
+RX: 428.5125 MHz
+
+
+Birmingham International Airport
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 443.450 MHz
+RX: 428.950 MHz
+
+
+Birmingham International Airport
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 443.250 MHz
+RX: 428.750 MHz
+
+
+Birmingham International Airport
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 442.525 MHz
+RX: 428.025 MHz
+
+
+Birmingham International Airport
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 441.8625 MHz
+RX: 427.3625 MHz
+
+
+Birmingham International Airport
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 441.0375 MHz
+RX: 426.5375 MHz
+
+
+Birmingham International Airport
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 440.8625 MHz
+RX: 426.3625 MHz
+
+
+Birmingham International Airport
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 440.275 MHz
+RX: 425.775 MHz
+
+
+Birmingham International Airport
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 440.025 MHz
+RX: 425.525 MHz
+
+
+PREMIERE HANDLING (BHX/Alpha Flight UK)
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 453.925 MHz
+RX: 460.425 MHz
+
+
+SWISSPORT GB
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 453.4125 MHz
+RX: 459.9125 MHz
+
+
+SWISSPORT GB
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 456.750 MHz
+RX: 462.250 MHz
+
+
+SWISSPORT GB
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 456.525 MHz
+RX: 462.025 MHz
+
+
+Esso Petroleum Co
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 456.875 MHz
+RX: 462.375 MHz
+
+
+Esso Petroleum Co
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 455.475 MHz
+RX: 460.775 MHz
+
+
+Shell UK
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 453.025 MHz
+RX: 459.525 MHz
+
+
+Flightcare Multiservices
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 455.775 MHz
+RX: 461.075 MHz
+
+
+National Car Parks
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 456.675 MHz
+RX: 462.175 MHz
+
+
+British Airways
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 442.9625 MHz
+RX: 428.4625 MHz
+
+
+British Airways
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 442.625 MHz
+RX: 428.125 MHz
+
+
+
+
+
+VHF GROUND FREQUENCIES
+
+
+Airport Parking And Hotels
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 167.9375 MHz
+RX: 172.7375 MHz
+
+
+
+
+
+OTHER SIMPLEX UHF GROUND FREQUENCIES IN USE (FM)
+
+
+Airline Services 'DIGITAL'
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 456.725 MHz
+RX: 456.725 MHz
+
+
+National Car Parks
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 462.125 MHz
+RX: 462.125 MHz
+
+
+Shell UK
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 460.775 MHz
+RX: 460.775 MHz
+
+
+Execair Aviation Services
+Birmingham Airport, Bikenhill, BIRMINGHAM
+TX: 446.2875 MHz
+RX: 446.2875 MHz
+
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

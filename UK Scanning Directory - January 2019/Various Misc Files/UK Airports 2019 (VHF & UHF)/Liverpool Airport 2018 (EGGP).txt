@@ -1,0 +1,168 @@
+Liverpool John Lennon Airport (EGGP) 2018  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : LIVERPOOL JOHN LENNON AIRPORT
+ICAO CODE: EGGP
+LOCATION : SPEKE, LIVERPOOL, MERSEYSIDE
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+Liverpool Airport Radar         118.450 MHz AM
+
+Liverpool Airport Approach      119.850 MHz AM
+
+Liverpool Airport Radar         119.850 MHz AM
+
+Liverpool Airport Ground        121.950 MHz AM
+
+Liverpool Airport Ground        121.805 MHz AM
+
+Liverpool Airport ATIS          124.325 MHz AM
+
+Liverpool Airport Tower         126.350 MHz AM
+
+Liverpool Airport Emergency     121.500 MHz AM
+
+Liverpool Airport Fire Ground   121.605 MHz AM
+
+
+
+
+
+UHF (FM)
+
+
+Liverpool Airport (FIRE/CRASH)
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 455.8375 MHz
+RX: 461.1375 MHz
+
+
+Liverpool Airport (SECURITY/AIR TRAFFIC SERVICES)
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 456.6375 MHz
+RX: 462.1375 MHz
+
+
+Liverpool Airport (RAMP/AIR TRAFFIC SERVICES)
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 453.500 MHz
+RX: 460.000 MHz
+
+
+Liverpool Airport (GROUND/AIR TRAFFIC SERVICES)
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 455.800 MHz
+RX: 461.100 MHz
+
+
+Liverpool Airport (AIR TRAFFIC SERVICES)
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 453.1125 MHz
+RX: 459.6125 MHz
+
+
+Cheshire Flying Services
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 453.0875 MHz
+RX: 459.5875 MHz
+
+
+Affini Technology (AIR RADIO/TRUNKED)
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 441.9375 MHz
+RX: 427.4375 MHz
+
+
+Affini Technology (AIR RADIO/TRUNKED)
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 441.3375 MHz
+RX: 426.8375 MHz
+
+
+Affini Technology (AIR RADIO/TRUNKED)
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 441.3125 MHz
+RX: 426.8125 MHz
+
+
+Affini Technology (AIR RADIO/TRUNKED)
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 443.325 MHz
+RX: 428.825 MHz
+
+
+Liverpool Airport (TOWER/AIR TRAFFIC SERVICES)
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 455.600 MHz
+RX: 460.900 MHz
+
+
+Liverpool Airport (APRON/AIR TRAFFIC SERVICES)
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 456.850 MHz
+RX: 462.350 MHz
+
+
+
+
+OTHER LJLA
+
+Liverpool Apron Control
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 455.4875 MHz
+RX: 460.7875 MHz
+
+
+Liverpool Tower
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 455.6375 MHz
+RX: 460.9375 MHz
+
+
+Liverpool Security
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 455.7500 MHz
+RX: 461.0500 MHz
+
+
+
+
+
+
+SIMPLEX UHF GROUND FREQUENCIES
+
+
+Flightcare Multiservices (SERVISAIR)
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 461.325 MHz
+RX: 461.325 MHz
+
+
+Esso Petroleum Company
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 446.2375 MHz
+RX: 446.2375 MHz
+
+
+Securitas Security Services
+Liverpool John Lennon Airport, LIVERPOOL
+TX: 459.8500 MHz
+RX: 459.8500 MHz
+
+
+
+
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

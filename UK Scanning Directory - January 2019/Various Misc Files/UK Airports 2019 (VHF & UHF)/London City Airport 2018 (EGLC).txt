@@ -1,0 +1,92 @@
+London City Airport (EGLC) 2018  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : LONDON CITY AIRPORT
+ICAO CODE: EGLC
+LOCATION : NEWHAM, LONDON
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+
+London City Airport, CITY TOWER       118.080 MHz
+
+London City Airport, CITY TOWER       129.455 MHz
+
+London City Airport, GROUND           121.830 MHz
+
+London City Airport, THAMES DIRECTOR  132.705 MHz
+
+London City Airport, THAMES DIRECTOR  133.455 MHz
+
+London City Airport, HEATHROW RADAR   125.630 MHz
+
+London City Airport, THAMES DIRECTOR  128.025 MHz
+
+London City Airport, CITY ATIS        136.355 MHz
+
+London City Airport, FIRE GROUND      121.600 MHz
+
+London City Airport, THAMES RADAR     132.705 MHz
+
+
+
+
+UHF (FM)
+
+
+London City Airport (TANGO)
+LONDON CITY
+TX: 455.4875 MHz
+RX: 460.7875 MHz
+
+
+London City Airport (OPS)
+LONDON CITY
+TX: 453.0625 MHz
+RX: 459.5625 MHz
+
+
+London City Airport (EMERGENCY)
+LONDON CITY
+TX: 456.875 MHz
+RX: 462.375 MHz
+
+
+London City Airport (FM)
+LONDON CITY
+TX: 456.675 MHz
+RX: 462.175 MHz
+
+
+NATS National Air Traffic Services
+London City Airport
+TX: 455.7875 MHz
+RX: 461.0875 MHz
+
+
+NATS National Air Traffic Services
+London City Airport
+TX: 455.7125 MHz
+RX: 461.0125 MHz
+
+
+Sitelink Communications
+London City Airport
+TX: 453.200 MHz
+RX: 459.700 MHz
+
+
+
+
+
+NOTE: UHF frequencies will have limited range
+compared to VHF air frequencies.
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

@@ -1,0 +1,51 @@
+Shoreham Airport (EGKA) 2016  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : SHOREHAM AIRPORT (BRIGHTON CITY AIRPORT)
+ICAO CODE: EGKA
+LOCATION : SHOREHAM BY SEA, WEST SUSSEX
+
+
+
+FREQUENCIES
+
+
+
+VHF MAIN (AM)
+
+
+SHOREHAM AIRPORT (EGKA)
+
+Shoreham Airport APPROACH     123.150 MHz (AM)
+
+Shoreham Airport TOWER 	      123.150 MHz (AM)
+
+Shoreham Airport TOWER 	      125.400 MHz (AM)
+
+Shoreham Airport RADIO 	      123.150 MHz (AM)
+
+Shoreham Airport ATIS	      130.975 MHz (AM)
+
+
+
+
+SIMPLEX FREQUENCIES
+
+
+Albemarle Shoreham Airport (SATCO/TOWER)
+Shoreham Airport, Shoreham-by-Sea
+TX: 169.275 MHz
+RX: 169.275 MHz
+
+
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

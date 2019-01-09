@@ -1,0 +1,132 @@
+Bournemouth International Airport (EGHH) 2018  -  VHF & UHF KimmyJS19
+
+
+
+AIRPORT  : BOURNEMOUTH INTERNATIONAL AIRPORT
+ICAO CODE: EGHH
+LOCATION : CHRISTCHURCH, DORSET
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+
+BOURNEMOUTH AIRPORT APPROACH     119.475 MHz
+
+BOURNEMOUTH AIRPORT TOWER        125.600 MHz
+
+BOURNEMOUTH AIRPORT GROUND       121.700 MHz
+
+BOURNEMOUTH AIRPORT RADAR        119.475 MHz
+
+BOURNEMOUTH AIRPORT DIRECTOR     118.650 MHz
+
+BOURNEMOUTH AIRPORT ATIS INFO    133.725 MHz
+
+BOURNEMOUTH AIRPORT FIRE GROUND  121.600 MHz
+
+BOURNEMOUTH AIRPORT EMERGENCY    121.500 MHz
+
+
+
+
+UHF (FM)
+
+
+Bournemouth International Airport (TOWER)
+Bournemouth Airport, CHRISTCHURCH, DORSET
+TX: 455.4875 MHz
+RX: 460.7875 MHz
+
+
+Bournemouth International Airport (HURN)
+Bournemouth Airport, CHRISTCHURCH, DORSET
+TX: 455.700 MHz
+RX: 461.000 MHz
+
+
+Bournemouth International Airport (ALPHA)
+Bournemouth Airport, CHRISTCHURCH, DORSET
+TX: 453.500 MHz
+RX: 460.000 MHz
+
+
+
+
+VHF (FM)
+
+
+FR Aviation (COBHAM 10)
+Bournemouth Airport, CHRISTCHURCH, DORSET
+TX: 166.7625 MHz
+RX: 171.5625 MHz
+
+
+
+
+
+OTHER SIMPLEX UHF GROUND FREQUENCIES IN USE (FM)
+
+
+WORLD FUEL SERVICES 'REDLINE' (Esso Petroleum Co)
+Bournemouth Airport, CHRISTCHURCH, DORSET
+TX: 461.3875 MHz
+RX: 461.3875 MHz
+
+
+Bournemouth International Airport (FIRE)
+Bournemouth Airport, CHRISTCHURCH, DORSET
+TX: 459.950 MHz
+RX: 459.950 MHz
+
+
+F R Aviation (RUSHTON)
+Bournemouth Airport, CHRISTCHURCH, DORSET
+TX: 456.775 MHz
+RX: 456.775 MHz
+
+
+Shell UK
+Bournemouth Airport, CHRISTCHURCH, DORSET
+TX: 460.7875 MHz
+RX: 460.7875 MHz
+
+
+Jet2.Com (CARGO)
+Bournemouth Airport, CHRISTCHURCH, DORSET
+TX: 453.650 MHz
+RX: 453.650 MHz
+
+
+
+
+OTHER SIMPLEX VHF GROUND FREQUENCIES IN USE (FM)
+
+
+F R Aviation (TARRANT)
+Bournemouth Airport, CHRISTCHURCH, DORSET
+TX: 169.175 MHz
+RX: 169.175 MHz
+
+
+F R Aviation (CRAFTEK)
+Bournemouth Airport, CHRISTCHURCH, DORSET
+TX: 169.275 MHz
+RX: 169.275 MHz
+
+
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

@@ -1,0 +1,179 @@
+Aberdeen Dyce Airport (EGPD) 2018  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : ABERDEEN AIRPORT
+ICAO CODE: EGPD
+LOCATION : DYCE, ABERDEEN, SCOTLAND
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+ABERDEEN AIRPORT TOWER         118.105 MHz
+
+ABERDEEN AIRPORT APPROACH      119.055 MHz
+
+ABERDEEN AIRPORT RADAR         119.055 MHz
+
+ABERDEEN AIRPORT GROUND        121.705 MHz
+
+ABERDEEN AIRPORT DELIVERY      121.680 MHz
+
+ABERDEEN AIRPORT ATIS INFO     121.855 MHz
+
+ABERDEEN AIRPORT APPROACH      128.305 MHz
+
+ABERDEEN AIRPORT ATIS INFO     114.300 MHz
+
+ABERDEEN AIRPORT FIRE GROUND   121.600 MHz
+
+
+
+
+UHF (FM)
+
+British Airways (GMC)
+Aberdeen Dyce Airport, ABERDEEN
+TX: 455.8125 MHz
+RX: 461.1125 MHz
+
+
+Aberdeen Airport
+Aberdeen Dyce Airport, ABERDEEN
+TX: 453.9875 MHz
+RX: 460.4875 MHz
+
+
+Aberdeen Airport
+Aberdeen Dyce Airport, ABERDEEN
+TX: 456.700 MHz
+RX: 462.200 MHz
+
+
+Aberdeen Airport
+Aberdeen Dyce Airport, ABERDEEN
+TX: 456.825 MHz
+RX: 462.325 MHz
+
+
+Aberdeen Airport
+Aberdeen Dyce Airport, ABERDEEN
+TX: 456.675 MHz
+RX: 462.175 MHz
+
+
+Aberdeen Airport
+Aberdeen Dyce Airport, ABERDEEN
+TX: 456.350 MHz
+RX: 461.850 MHz
+
+
+Aberdeen Airport (NATS)
+Aberdeen Dyce Airport, ABERDEEN
+TX: 455.775 MHz
+RX: 461.075 MHz
+
+
+Aberdeen Airport (NATS)
+Aberdeen Dyce Airport, ABERDEEN
+TX: 455.8125 MHz
+RX: 461.1125 MHz
+
+
+Aberdeen Airport (NATS)
+Aberdeen Dyce Airport, ABERDEEN
+TX: 455.8375 MHz
+RX: 461.1375 MHz
+
+
+Bristow Helicopters
+Aberdeen Dyce Airport, ABERDEEN
+TX: 453.025 MHz
+RX: 459.525 MHz
+
+
+Bristow Helicopters
+Aberdeen Dyce Airport, ABERDEEN
+TX: 456.525 MHz
+RX: 462.025 MHz
+
+
+Aircraft Service International Group (ASIG)
+Aberdeen Dyce Airport, ABERDEEN
+TX: 456.750 MHz
+RX: 462.250 MHz
+
+
+Aircraft Service International Group (ASIG)
+Aberdeen Dyce Airport, ABERDEEN
+TX: 456.875 MHz
+RX: 462.375 MHz
+
+
+Affini Technology (AIRRADIO)
+Aberdeen Dyce Airport, ABERDEEN
+TX: 440.9625 MHz
+RX: 426.4625 MHz
+
+
+Affini Technology (AIRRADIO)
+Aberdeen Dyce Airport, ABERDEEN
+TX: 440.325 MHz
+RX: 425.825 MHz
+
+
+Affini Technology (AIRRADIO)
+Aberdeen Dyce Airport, ABERDEEN
+TX: 440.8625 MHz
+RX: 426.3625 MHz
+
+
+
+
+VHF (FM)
+
+Bristow Helicopters
+Aberdeen Dyce Airport, ABERDEEN
+TX: 165.1625 MHz
+RX: 169.9625 MHz
+
+
+
+
+
+OTHER SIMPLEX GROUND FREQUENCIES IN USE (FM)
+
+Aberdeen Airport (ALPHA)
+Aberdeen Dyce Airport, ABERDEEN
+TX: 460.150 MHz
+RX: 460.150 MHz
+
+
+Aberdeen Airport (RED)
+Aberdeen Dyce Airport, ABERDEEN
+TX: 461.3875 MHz
+RX: 461.3875 MHz
+
+
+Flightcare Multiservices 'ICS' (SERVISAIR)
+Aberdeen Dyce Airport, ABERDEEN
+TX: 446.400 MHz
+RX: 446.400 MHz
+
+
+
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

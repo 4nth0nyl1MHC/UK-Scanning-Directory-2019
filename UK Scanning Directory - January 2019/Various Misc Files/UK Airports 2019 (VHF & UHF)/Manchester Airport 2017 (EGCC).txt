@@ -1,0 +1,364 @@
+Manchester Airport Frequencies 2017 (EGCC) VHF & UHF KimmyJS19
+
+
+AIRPORT  : MANCHESTER AIRPORT
+ICAO CODE: EGCC
+LOCATION : GREATER MANCHESTER/CHESHIRE
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+
+MAIN VHF FREQUENCIES
+
+Manchester Airport RADAR           118.575 MHz (AM)
+
+Manchester Airport RADAR           135.000 MHz (AM)
+
+Manchester Airport DIRECTOR        121.350 MHz (AM)
+
+Manchester Airport TOWER           118.625 MHz (AM)
+
+Manchester Airport TOWER           119.400 MHz (AM)
+
+Manchester Airport DELIVERY        121.700 MHz (AM)
+
+Manchester Airport GROUND          121.850 MHz (AM)
+
+Manchester Airport GROUND          121.700 MHz (AM)
+
+Manchester Airport ATIS, ARRIVAL   128.175 MHz (AM)
+
+Manchester Airport ATIS, ARRIVAL   113.550 MHz (AM)
+
+Manchester Airport ATIS, DEPARTURE 121.975 MHz (AM)
+
+Manchester Airport FIRE, GROUND    121.600 MHz (AM)
+
+
+
+
+OTHER MANCHESTER VHF AIR FREQUENCIES (AM)
+
+
+ATC Sector 29 Manchester Control  118.775 MHz (AM)
+
+Manchester Airport ATC            119.525 MHz (AM)
+
+Manchester Monarch Air Fuelling   122.050 MHz (AM)
+
+Manchester Airport, Air Kilroe    122.350 MHz (AM)
+
+Manchester Ringway Handling       130.600 MHz (AM)
+
+Manchester, Atlantic Ops          130.625 MHz (AM)
+
+Manchester, NEA Ops               130.650 MHz (AM)
+
+Manchester, Aer Lingus Ops        130.750 MHz (AM)
+
+Manchester, Air 2000 Ops          131.700 MHz (AM)
+
+Manchester, Air Scandic Ops       131.775 MHz (AM)
+
+Manchester, British Airways Ops   131.850 MHz (AM)
+
+MCR ATC TMA Isle of Man Sector    133.050 MHz (AM)
+
+MCR TMA Trent Sector Secondary    133.400 MHz (AM)
+
+Manchester Airport ATC            133.800 MHz (AM)
+
+Manchester Airport ATC            134.430 MHz (AM)
+
+Manchester Airport ATC Secondary  134.925 MHz (AM)
+
+Manchester Airport TMA North East 135.400 MHz (AM)
+
+MCR TMA Isle Of Man Sector        136.575 MHz (AM)
+
+Manchester, My Travel Ops         136.800 MHz (AM)
+
+Manchester, Monarch Ops           136.875 MHz (AM)
+
+
+
+
+MANCHESTER AIRPORT UHF (FM)
+
+
+440.0250 425.5250 MHz  Manchester Airport Air radio
+
+440.2000 425.7000 MHz  Manchester Airport Air radio
+
+440.2250 425.7250 MHz  Manchester Airport Air radio
+
+440.3000 425.8000 MHz  Manchester Airport Air radio
+
+440.1250 425.6250 MHz  Manchester Airport NCP Carparks
+
+440.2750 425.7750 MHz  Manchester Airport, Virgin Atlantic Airways
+
+440.3750 425.8750 MHz  Manchester Airport
+
+440.9125 426.4125 MHz  Manchester Airport, British Airways
+
+441.1375 426.6375 MHz  Manchester Airport, British Airways
+
+441.1625 426.6625 MHz  Manchester Airport Air radio
+
+441.2375 426.7375 MHz  Manchester Airport Air radio
+
+441.2625 426.7625 MHz  Manchester Airport, British Airways
+
+441.9125 427.4125 MHz  Manchester Airport Air radio
+
+442.7250 428.2250 MHz  Manchester Airport Baggage/Check in/American Airlines
+
+453.5000 460.0000 MHz  Manchester Airport (DUSTY)
+
+453.7375 460.2375 MHz  BP Oil (BRAVO) Manchester Airport
+
+455.5000 460.8000 MHz  Manchester Aiport TOWER/MAINTENENCE (NATS)
+
+455.5250 461.1750 MHz  Manchester Aiport Fire Crash Ops
+
+455.5500 460.8500 MHz  Manchester Tower (NATS)
+
+455.6125 460.9125 MHz  Manchester Aiport Security
+
+455.6375 460.9375 MHz  Manchester Airport
+
+455.6500 460.9500 MHz  Manchester Aiport Ground (NATS)/SHELL UK
+
+455.7125 461.0125 MHz  Manchester Airport Tug Control
+
+455.7375 461.0375 MHz  Manchester Airport Ops
+
+455.7625 461.0625 MHz  Manchester Tower (NATS)
+
+455.7875 461.0875 MHz  Manchester Airport
+
+455.8125 461.1125 MHz  Manchester Airport Maintenance
+
+455.8375 461.1375 MHz  Manchester Airport
+
+456.0250 461.5250 MHz  Manchester Boarding
+
+456.5000 462.0000 MHz  Manchester Catering
+
+456.7000 462.2000 MHz  Manchester Aircraft Maintenance
+
+456.8750 462.3750 MHz  Manchester Airport Catering
+
+456.9000 462.4000 MHz  Manchester Servisair
+
+
+
+
+
+OTHER MANCHESTER AIRPORT UHF FREQUENCIES
+
+AIR RADIO (AFFINI)
+Manchester Airport
+TX: 454.725 MHz
+RX: 461.725 MHz
+
+
+AIR RADIO (AFFINI)
+Manchester Airport
+TX: 454.650 MHz
+RX: 461.650 MHz
+
+
+AIR RADIO (AFFINI)
+Manchester Airport
+TX: 454.600 MHz
+RX: 461.600 MHz
+
+
+Manchester Airport (ALPHA)
+MANCHESTER
+TX: 453.025 MHz
+RX: 459.525 MHz
+
+
+Federal Express Europe
+Manchester Airport, MANCHESTER
+TX: 456.600 MHz
+RX: 462.100 MHz
+
+
+
+
+MANCHESTER AIRPORT VHF TUNKED
+
+BP Oil UK
+Manchester Airport, MANCHESTER
+TX: 177.450 MHz
+RX: 185.450 MHz
+
+
+BP Oil UK
+Manchester Airport, MANCHESTER
+TX: 177.800 MHz
+RX: 185.800 MHz
+
+
+
+
+MANCHESTER AIRPORT HOTELS (FM)
+
+Crowne Plaza Hotel (LRG Hotels)
+Manchester Airport, MANCHESTER
+TX: 165.1875 MHz
+RX: 169.9875 MHz
+
+
+Forte Posthouse Hotel
+Manchester Airport, MANCHESTER
+TX: 165.2125 MHz
+RX: 170.0125 MHz
+
+
+Cathay Pacific Airways
+Manchester Airport, MANCHESTER
+TX: 169.100 MHz
+RX: 169.100 MHz
+
+
+Rezidor Hotel Manchester
+Chicago Avenue, Manchester Airport, MANCHESTER
+TX: 446.3875 MHz
+RX: 446.3875 MHz
+
+
+Airport Parking & Hotels
+Manchester Airport, MANCHESTER
+TX: 164.0125 MHz
+RX: 164.0125 MHz
+
+
+
+
+OTHER SIMPLEX GROUND FREQUENCIES IN USE (FM)
+
+Cathay Pacific Airways
+Manchester Airport
+TX: 169.100 MHz
+RX: 169.100 MHz
+
+
+Monarch Aircraft Engineering
+Manchester Airport
+TX: 446.300 MHz
+RX: 446.300 MHz
+
+
+Shell UK
+Manchester Airport
+TX: 446.050 MHz
+RX: 446.050 MHz
+
+
+Northern Executive Aviation/RSS Jet Centre
+Manchester Airport
+TX: 446.2125 MHz
+RX: 446.2125 MHz
+
+
+Thomas Cook Aircraft Engineering
+Manchester Airport
+TX: 461.4625 MHz
+RX: 461.4625 MHz
+
+
+Thomas Cook Aircraft Engineering
+Manchester Airport
+TX: 461.3625 MHz
+RX: 461.3625 MHz
+
+
+Thomas Cook Aircraft Engineering
+Manchester Airport
+TX: 461.350 MHz
+RX: 461.350 MHz
+
+
+Thomas Cook Aircraft Engineering
+Manchester Airport
+TX: 461.3375 MHz
+RX: 461.3375 MHz
+
+
+First/Keolis Transpennine 'DIGITAL'
+Manchester Airport
+TX: 460.400 MHz
+RX: 460.400 MHz
+
+
+Reliance Secure Task Management
+Manchester Airport
+TX: 448.90625 MHz
+RX: 448.90625 MHz
+
+
+Reliance Secure Task Management
+Manchester Airport
+TX: 449.4500 MHz
+RX: 449.4500 MHz
+
+
+Thomas Cook Aircraft Engineering
+Manchester Airport
+TX: 456.800 MHz
+RX: 456.800 MHz
+
+
+Thomas Cook Aircraft Engineering
+Manchester Airport
+TX: 461.350 MHz
+RX: 461.350 MHz
+
+
+Shell UK
+Manchester Airport, MANCHESTER
+TX: 453.475 MHz
+RX: 459.975 MHz
+
+
+Hertz Car Rental
+Manchester Airport, MANCHESTER
+TX: 453.300 MHz
+RX: 453.300 MHz
+
+
+Tascor Services (ROMEO)
+MANCHESTER AIRPORT
+TX: 448.90625 MHz
+RX: 448.90625 MHz
+
+
+Tascor Services (ROMEO)
+MANCHESTER AIRPORT
+TX: 449.450 MHz
+RX: 449.450 MHz
+
+
+
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

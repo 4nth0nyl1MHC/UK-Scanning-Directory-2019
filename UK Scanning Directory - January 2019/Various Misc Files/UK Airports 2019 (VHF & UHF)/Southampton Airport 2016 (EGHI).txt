@@ -1,0 +1,142 @@
+Southampton Airport (EGHI) 2016  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : SOUTHAMPTON AIRPORT
+ICAO CODE: EGHI
+LOCATION : SOUTHAMPTON, HAMPSHIRE
+
+
+
+FREQUENCIES
+
+
+
+VHF MAIN (AM)
+
+
+SOUTHAMPTON AIRPORT
+
+Southampton Airport Approach 	 128.850 MHz (AM)
+
+Southampton Airport Radar 	 128.850 MHz (AM)
+
+Southampton (Solent) Radar       120.225 MHz (AM)
+
+Southampton Airport Tower 	 118.200 MHz (AM)
+
+Southampton Airport ATIS 	 113.350 MHz (AM)
+
+Southampton Airport Fire Gnd	 121.600 MHz (AM)
+
+
+
+
+UHF (FM)
+
+
+Southampton International Airport
+SOUTHAMPTON
+TX: 455.7375 MHz
+RX: 461.0375 MHz
+
+
+Southampton International Airport
+SOUTHAMPTON
+TX: 455.475 MHz
+RX: 460.775 MHz
+
+
+Southampton International Airport
+SOUTHAMPTON
+TX: 455.825 MHz
+RX: 461.125 MHz
+
+
+Southampton International Airport
+SOUTHAMPTON
+TX: 453.2375 MHz
+RX: 459.7375 MHz
+
+
+Southampton International Airport
+SOUTHAMPTON
+TX: 455.550 MHz
+RX: 461.200 MHz
+
+
+Southampton International Airport
+SOUTHAMPTON
+TX: 455.7125 MHz
+RX: 461.0125 MHz
+
+
+Affini Technology (AIRADIO)
+Southampton Airport, SOUTHAMPTON
+TX: 453.9875 MHz
+RX: 460.4875 MHz
+
+
+Affini Technology (AIRADIO)
+Southampton Airport, SOUTHAMPTON
+TX: 453.925 MHz
+RX: 460.425 MHz
+
+
+Affini Technology (AIRADIO)
+Southampton Airport, SOUTHAMPTON
+TX: 453.025 MHz
+RX: 459.525 MHz
+
+
+
+
+SIMPLEX UHF GROUND FREQUENCIES
+
+
+Aurigny Air Services
+Southampton Airport, SOUTHAMPTON
+TX: 462.275 MHz
+RX: 462.275 MHz
+
+
+Southampton International Airport
+SOUTHAMPTON
+TX: 461.400 MHz
+RX: 461.400 MHz
+
+
+Southampton International Airport
+SOUTHAMPTON
+TX: 461.1875 MHz
+RX: 461.1875 MHz
+
+
+Southampton International Airport
+SOUTHAMPTON
+TX: 460.250 MHz
+RX: 460.250 MHz
+
+
+Southampton International Airport
+SOUTHAMPTON
+TX: 459.925 MHz
+RX: 459.925 MHz
+
+
+REDLINE OIL SERVICES
+SOUTHAMPTON AIRPORT
+TX: 460.025 MHz
+RX: 460.025 MHz
+
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

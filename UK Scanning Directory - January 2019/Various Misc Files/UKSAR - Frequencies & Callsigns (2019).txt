@@ -1,0 +1,340 @@
+UKSAR & MOUNTAIN RESCUE Frequencies and Callsigns - KimmyJS19 (2019)
+
+PLEASE NOTE: The original UKSAR bandplan is slowly being replaced by new Digital DMR frequencies
+throughout 2018. Please see the page bottom for the latest new frequencies.
+
+
+UKSAR & MOUNTAIN RESCUE Frequencies (VHF FM)
+
+
+147.35000  UK SAR Search & Rescue Rebroadcast Uplink  Ch.96
+147.47500  UK SAR Search & Rescue (Simplex or Repeater IN) Ch.942
+155.35000  UK SAR Search & Rescue (Simplex or Repeater OUT) Ch.941
+156.00000  UK SAR Ch.0 Emergency (HMCG Primary)
+156.12500  UK SAR CALLING CHANNEL, ATG, HELO, Contact Ch.62a
+156.16875  UK Search & Rescue HOME (Repeater in) Ch.631
+156.18125  UK Search & Rescue HOME (TWC) Ch.632
+156.18125  Langdale Ambleside MRT
+156.18125  Cleveland SRT
+156.18125  Llanberis MRT
+156.18125  Buxton MRT
+156.21875  UK Search & Rescue HOME (TWC) Ch.641
+156.21875  Coniston MRT
+156.21875  Calder Valley SRT
+156.21875  Northumberland National Park SRT
+156.21875  OB Wales SART
+156.23125  UK Search & Rescue HOME (TWC) Ch.642
+156.23125  Lowland Search & Rescue (ALSAR UK & Northern Ireland)
+156.23125  Staffordshire SAR
+157.20000  UK Search & Rescue Channel - WINCHING Ch.24a
+157.26875  UK Search & Rescue (TWC) ROYAL AIR FORCE RAF Ch.851
+157.28125  UK Search & Rescue HOME (TWC) Ch.852
+157.28125  Rossendale and Pendle MRT
+157.28125  North of Tyne SRT
+157.28125  Dartmoor SAR
+157.28125  Edale MRT
+158.64375  UK Search & Rescue (SARDA PRIMARY) Ch.531
+158.65625  UK Search & Rescue (SARDA SECONDARY) Ch.532
+160.71875  UK Search & Rescue HOME (TWC) Ch.623
+160.71875  Keswick MRT
+160.71875  Upper Wharfedale Fell Rescue Association (UWFRA)
+160.71875  Aberglaslyn MRT
+160.71875  Glossop MRT
+160.73125  UK Search & Rescue HOME (TWC) Ch.624
+160.73125  Cockermouth MRT
+160.73125  Derby MRT
+160.73125  Bowland Pennine MRT
+160.76875  UK Search & Rescue HOME (Repeater out) Ch.633
+160.78125  UK Search & Rescue HOME (TWC) Ch.634
+160.78125  Kinder MRT
+160.78125  South Snowdonia SRT
+160.78125  Scarborough & District SRT
+160.78125  Kendal MSRT
+160.81875  Search & Rescue HOME (TWC) Ch.643
+160.81875  Oldham MRT
+160.81875  Duddon & Furness MRT
+160.81875  Teesdale & Weardale SRT
+160.83125  Search & Rescue HOME (TWC) Ch.644
+160.83125  Holme Valley MRT
+160.83125  Penrith MRT
+161.79375  Search & Rescue HOME (TWC) Ch.243
+161.79375  Cave Rescue Org
+161.79375  North East Wales SAR
+161.79375  Patterdale MRT
+161.80625  UK Search & Rescue HOME (TWC) Ch.244
+161.80625  Kirkby Stephen MRT
+161.80625  Ogwen Valley Mountain Rescue
+161.80625  Woodhead, Peak District
+161.86875  UK Search & Rescue HOME (TWC) Ch.853
+161.86875  Swaledale MRT
+161.86875  Wasdale MRT
+161.88125  UK Search & Rescue HOME (TWC) Ch.854
+161.88125  Lowland Search & Rescue (ALSAR UK & Northern Ireland)
+164.05000  Land SAR ALLOCATED UK Wide (Shared UK Simple Light Licence)
+164.06250  Land SAR ALLOCATED UK Wide (Shared UK Simple Light Licence)
+169.08750  Land SAR ALLOCATED UK Wide (Shared UK Simple Light Licence)
+169.31250  Land SAR ALLOCATED UK Wide (Shared UK Simple Light Licence)
+
+164.11250 159.61250 Mountain Rescue Wide Area Repeater
+
+
+TWC = Team Working Channel
+MRT = Mountain Rescue Team
+ATG = Air to Ground
+SARDA = Search & Rescue Dog Association
+
+
+
+
+UKSAR & MOUNTAIN RESCUE Callsigns
+
+CALLSIGN              USER
+
+ALPINE HOTEL        - Reserved
+ALPINE KILO         - RAF Kinloss MRT
+ALPINE LIMA         - RAF Leuchars MRT
+ALPINE SIERRA       - Reserved
+ALPINE TANGO        - RAF Leeming MRT
+ALPINE VICTOR       - RAF Valley MRT
+ARRAN               - Arran MRT
+ARROCHAR            - Arrochar MRT
+ASSYNT              - Assynt MRT
+AVALANCHE           - SARDA (Wales)
+
+BLACKS              - Longtown MRT
+BOLTON              - Bolton MRT
+BRAEMAR             - Braemar MRA
+BRAVO               - Western Beacons MSRT
+BSAR                - Buckinghamshire SAR
+BUXTON              - Buxton MRT
+
+CAIRNGORM           - Cairngorm MRT
+CALDER              - Calder Valley SRT
+CAMSAR              - Cambridge Lowland SAR
+CANINE              - SARDA (South Wales)
+CAVER               - Derbyshire CRO
+CEESAR              - Cheshire Lowland SAR
+COCKERMOUTH         - Cockermouth MRT
+COMRU               - COMRU
+CONISTON            - Coniston MRT
+CRAGDALE            - Cave Rescue Org. Settle Base
+CRO                 - Cave Rescue Org.
+CURLEW              - Northumberland National Park SART
+
+DART                - Dartmoor RG
+DERBY               - Derby MRT
+DERWENT             - Edale MRT
+DOG                 - SARDA (Scotland)
+DOG                 - SARDA (Southern Scotland)
+DORSET              - Dorset Search and Rescue
+DRAGON              - West Brecon CRT
+DUNDONNELL          - Dundonnell MRT
+
+EKSAR               - Kent SAR
+ESCROW              - Scottish Cave Rescue Org.
+ESSEX               - Essex SAR
+EXMOOR              - Exmoor SRT
+
+FELL                - Upper Wharfdale FRA
+
+GALLOWAY            - Galloway MRT
+GLASLYN             - Aberglaslyn MRT
+GLENCOE             - Glencoe MRT
+GLENELG             - Glenelg MRT
+GLENMORE            - Glenmore Lodge MRT
+GLEVUM              - Gloucestershire CRG
+GLOSSOP             - Glossop MRT
+GWENT               - Gwent CRT
+
+HANTSAR             - Hampshire SAR
+HARLECH             - South Snowdonia SRT
+HELIMED             - Air Ambulances
+HOLME VALLEY        - Holme Valley MRT
+HUNTER              - Mendip Rescue Org
+
+ICE DELTA           - Aberdeen MRT
+
+KENDAL              - Kendal MSRT
+KERNOW              - Cornwall RG
+KESWICK             - Keswick MRT
+KEY                 - North of Tyne SRT
+KILLIN              - Killin MRT
+KINDER              - Kinder MRT
+KINLOSS RESCUE      - ARCC Kinloss
+KINTAIL             - Kintail MRT
+KIRKBY              - Kirkby Stephen MRT
+
+LANGDALE            - Langdale Ambleside MRT
+LOMOND              - Lomond MRT
+
+MIDLAND             - Midlands Cave Rescue Org.
+MIKE                - Duddon & Furness MRT
+MIKE BRAVO BRAVO    - Cumbria Constabulary
+MIKE BRAVO DELTA    - Lancashire Constabulary
+MIKE CHARLIE KILO   - Greater Manchester Police
+MIKE LIMA BRAVO     - Northumbria Police
+MIKE MIKE PAPA      - Metropolitan Police
+MIKE NOVEMBER       - PDMRO Controllers
+MIKE QUEBEC PAPA    - Avon & Somerset Constabulary
+MIKE WHISKY ALPHA   - North Wales Police
+MIKE X-RAY WHISKY   - West Yorkshire Metropolitan. Police
+MOFFAT              - Moffat MRT
+MOORJOCK            - Scarborough & District SRT
+MORLAIS             - Central Beacons MRT
+MSAR                - Midshires Search & Rescue Org.
+
+NAVY                - RN HMS Gannet (Training)
+NESRA               - North East Search & Rescue Assoc.
+NEVIS               - Lochaber MRT
+NEWSAR              - North East Wales SAR
+NORCON              - Northern Constabulary
+NORFOLK             - Norfolk Lowland Search & Rescue
+
+OBAN                - Oban MRT
+OCHIL               - Ochils MRT
+OGGI                - Ogwen Valley MRO
+OLDHAM              - Oldham MRT
+OSCAR               - OB Wales SART
+
+PATRICK             - Patterdale MRT
+PENNINE             - Penrith MRT
+PERIS               - Llanberis MRT
+PHOENIX             - Cornwall Mines Rescue Org.
+
+QUEBEC BRAVO CHARLIE  - Devon & Cornwall Constabulary
+
+REIVER                - Borders SAR UNIT
+RESCUE                - RN HMS Gannet (Operational)
+RESCUE                - RAF 22 Sqn (Operational)
+RESCUE                - RAF 202 Sqn (Operational)
+ROSSENDALE            - Rossendale & Pendle MRT
+
+SARA                  - Severn Area RA
+SCEPTRE               - Avon & Somerset SAR
+SEARCH DOG            - SARDA (England)
+SEBEV                 - SEBEV SAR
+SECRO                 - South East CRO
+SIERRA ROMEO DELTA    - RAF 22 Sqn (Training)
+SIERRA ROMEO GOLF     - RAF 202 Sqn (Training)
+SIERRA ROMEO WHISKY   - RAF HQ SAR Wing
+SKYE                  - Skye MRT
+SNOWFLAKE             - Snowdonia Nat. Park Wardens
+SPELEO                - Devon Cave Rescue Org.
+STAFFS                - Staffordshire SART
+STRATHPOL             - Strathclyde Police MRT
+SUFFOLK               - Suffolk Lowland SAR
+SUSSAR                - Sussex SAR
+SWALE                 - Swaledale FRO
+
+TAY CIV               - Tayside MRT
+TAYPOL                - Tayside Police MRT
+TEESDALE              - Teesdale & Weardale SRT
+TORRIDON              - Torridon & Kinlochewe MRT
+TROUGH                - Bowland Pennine MRT
+TWEED                 - Tweed Valley MRT
+
+VIKING                - Cleveland SRT
+
+WASDALE               - Wasdale MRT
+WEST MIDS             - West Midlands Ambulance Service
+WILSAR                - Wiltshire SA
+
+
+
+
+DMR MOUNTAIN RESCUE FREQUENCIES OUTSIDE THE MAIN COMMON BANDPLAN
+
+152.1375  147.1375  SEARCH DOGS BUCKINGHAMSHIRE, HIGH WYCOMBE (DMR DIGITAL)
+
+152.1500  147.1500  SARCOMM DMR REPEATER, STOCKPORT, GREATER MANCHESTER (DMR DIGITAL)
+
+152.1875  147.1875  SARCOMM DMR REPEATER, NEAR OSWESTRY, SHROPSHIRE (DMR DIGITAL)
+
+152.2000  147.2000  SEARCH DOGS BUCKINGHAMSHIRE, BRACKNELL (DMR DIGITAL)
+
+152.2250  147.2250  SEARCH DOGS BUCKINGHAMSHIRE, HIGH WYCOMBE (DMR DIGITAL)
+
+152.3000  147.3000  SEARCH DOGS BUCKINGHAMSHIRE, BRACKNELL (DMR DIGITAL)
+
+152.5000  147.5000  SARCOMM DMR SYSTEMS, ENGLAND & WALES (DMR DIGITAL)
+
+152.8750  147.8750  SEARCH DOGS BUCKINGHAMSHIRE, CHIPPING NORTON, OXFORDSHIRE (DMR DIGITAL)
+
+162.4750  157.8750  SARCOMM, STRATFORD UPON AVON, WARWICKSHIRE (DMR DIGITAL)
+
+85.10000  71.60000  SARCOMM, STRATFORD UPON AVON, WARWICKSHIRE (DMR DIGITAL)
+
+166.60937 171.40937 SARCOMM, MUCH WENLOCK, SHROPSHIRE (DMR DIGITAL)
+
+166.46250 171.26250 Staffordshire Search and Rescue MRT (DMR DIGITAL)
+
+155.81875 Woodhead Mountain Rescue Team, PEAK DISTRICT (DMR DIGITAL)
+
+155.84375 Edale Mountain Rescue Team, PEAK DISTRICT (DMR DIGITAL)
+
+155.90625 Buxton Mountain Rescue Team, DERBYSHIRE (DMR DIGITAL)
+
+155.94375 Woodhead Mountain Rescue Team, PEAK DISTRICT (DMR DIGITAL)
+
+
+
+
+
+OTHER SARCOMM FREQUENCIES
+
+165.6375 170.4375  SARCOMM, SEDGLEY, WOLVERHAMPTON, WEST MIDLANDS
+
+87.47500 77.47500  SARCOMM, BROWN CLEE HILL, CRAVEN ARMS, SHROPSHIRE
+
+85.52500 72.02500  SARCOMM, BROWN CLEE HILL, CRAVEN ARMS, SHROPSHIRE
+
+
+
+
+SARCOMM PAGING FREQUENCIES
+
+138.100  SARCOMM (PAGING), CLEE HILL, SHROPSHIRE
+
+138.175  SARCOMM (PAGING), CLEE HILL, SHROPSHIRE
+
+147.525  SARCOMM (PAGING), CLEE HILL, SHROPSHIRE
+
+153.400  SARCOMM (PAGING), CLEE HILL, SHROPSHIRE
+
+
+
+NEW SAR BANDPLAN 2019
+
+147.35625
+147.36875
+147.38125
+147.39375
+147.40625
+147.41875
+147.43125
+147.44375
+147.45625
+147.46875
+147.48125
+
+155.78125
+155.79375
+155.80625
+155.81875
+155.83125
+155.84375
+155.85625
+155.86875
+155.88125
+155.89375
+155.90625
+155.91875
+155.93125
+155.94375
+155.95625
+155.96875
+155.98125
+
+
+
+KimmyJS19  ukscanningdirectory.co.uk

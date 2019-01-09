@@ -1,0 +1,89 @@
+Coventry Airport (EGBE) 2016  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : COVENTRY AIRPORT
+ICAO CODE: EGBE
+LOCATION : BAGINTON, COVENTRY, WARWICKSHIRE
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+Coventry Airport Approach      123.825 MHz
+
+Coventry Airport Tower         123.825 MHz
+
+Coventry Airport Tower         118.175 MHz
+
+Coventry Airport Ground        121.700 MHz
+
+Coventry Airport Radar         123.825 MHz
+
+Coventry Airport Radar         136.150 MHz
+
+Coventry Airport ATIS INFO     126.050 MHz
+
+Coventry Airport Handling Ops  130.075 MHz
+
+Coventry Airport Fire Ground   121.600 MHz
+
+
+
+
+UHF (FM)
+
+Coventry Airport
+COVENTRY
+TX: 455.800 MHz
+RX: 461.100 MHz
+
+
+Coventry Airport
+COVENTRY
+TX: 455.7375 MHz
+RX: 461.0375 MHz
+
+
+Coventry Airport
+COVENTRY
+TX: 455.525 MHz
+RX: 461.175 MHz
+
+
+Coventry Airport (BAGGAGE)
+COVENTRY
+TX: 441.1625 MHz
+RX: 426.6625 MHz
+
+
+Coventry Airport (HANDLING)
+COVENTRY
+TX: 453.0875 MHz
+RX: 459.5875 MHz
+
+
+
+
+
+
+SIMPLEX UHF GROUND FREQUENCIES
+
+Atlantic Air Transport
+Coventry Airport
+TX: 461.350 MHz
+RX: 461.350 MHz
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared  to VHF air and UHF tower frequencies.
+
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

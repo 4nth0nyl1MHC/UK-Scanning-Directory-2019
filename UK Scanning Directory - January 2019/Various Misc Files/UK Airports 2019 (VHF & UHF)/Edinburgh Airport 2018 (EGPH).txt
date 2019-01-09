@@ -1,0 +1,253 @@
+Edinburgh Airport 2018 (EGPH) 2018  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : EDINBURGH AIRPORT
+ICAO CODE: EGPH
+LOCATION : INGLISTON, EDINBURGH, SCOTLAND
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+
+Edinburgh Airport Approach 	121.200 MHz (AM)
+
+Edinburgh Airport Tower 	118.700 MHz (AM)
+
+Edinburgh Airport Emergency 	121.500 MHz (AM)
+
+Edinburgh Airport Ground 	121.905 MHz (AM)
+
+Edinburgh Airport Radar 	121.200 MHz (AM)
+
+Edinburgh Airport Radar 	128.975 MHz (AM)
+
+Edinburgh Airport Information 	131.350 MHz (AM)
+
+Edinburgh Airport Fire Ground   121.600 MHz (AM)
+
+
+
+
+
+UHF (FM)
+
+
+NATS National Air Traffic Services
+Edinburgh Airport, INGLISTON
+TX: 455.8375 MHz
+RX: 461.1375 MHz
+
+
+NATS National Air Traffic Services
+Edinburgh Airport, INGLISTON
+TX: 455.8125 MHz
+RX: 461.1125 MHz
+
+
+Affini Technology (Air Radio)
+Edinburgh Airport, INGLISTON
+TX: 443.275 MHz
+RX: 428.775 MHz
+
+
+Affini Technology (Air Radio)
+Edinburgh Airport, INGLISTON
+TX: 443.1125 MHz
+RX: 428.6125 MHz
+
+
+Affini Technology (Air Radio)
+Edinburgh Airport, INGLISTON
+TX: 442.9625 MHz
+RX: 428.4625 MHz
+
+
+Affini Technology (Air Radio)
+Edinburgh Airport, INGLISTON
+TX: 442.950 MHz
+RX: 428.450 MHz
+
+
+Edinburgh Airport (OPERATIONS)
+Edinburgh Airport, INGLISTON
+TX: 456.650 MHz
+RX: 462.150 MHz
+
+
+Edinburgh Airport (OPERATIONS)
+Edinburgh Airport, INGLISTON
+TX: 453.175 MHz
+RX: 459.675 MHz
+
+
+Edinburgh Airport (AIRPORT)
+Edinburgh Airport, INGLISTON
+TX: 455.700 MHz
+RX: 461.000 MHz
+
+
+Edinburgh Airport (AIRPORT)
+Edinburgh Airport, INGLISTON
+TX: 455.725 MHz
+RX: 461.025 MHz
+
+
+Edinburgh Airport (AIRPORT)
+Edinburgh Airport, INGLISTON
+TX: 455.775 MHz
+RX: 461.075 MHz
+
+
+Edinburgh Airport (SECURITY) 'DIGITAL'
+Edinburgh Airport, INGLISTON
+TX: 453.4625 MHz
+RX: 459.9625 MHz
+
+
+BAA (ENGINEERS)
+Edinburgh Airport, INGLISTON
+TX: 453.0875 MHz
+RX: 459.5875 MHz
+
+
+Menzies Aviation
+Edinburgh Airport, INGLISTON
+TX: 453.925 MHz
+RX: 460.425 MHz
+
+
+Menzies Aviation
+Edinburgh Airport, INGLISTON
+TX: 453.750 MHz
+RX: 460.250 MHz
+
+
+Omni Serve 'DIGITAL'
+Edinburgh Airport, INGLISTON
+TX: 453.125 MHz
+RX: 459.625 MHz
+
+
+Edinburgh Airport
+Edinburgh Airport, INGLISTON
+TX: 453.200 MHz
+RX: 459.700 MHz
+
+
+Edinburgh Airport (AUS)
+Edinburgh Airport, INGLISTON
+TX: 453.050 MHz
+RX: 459.550 MHz
+
+
+Air Radio
+Edinburgh Airport, INGLISTON
+TX: 454.775 MHz
+RX: 461.775 MHz
+
+
+Air Radio
+Edinburgh Airport, INGLISTON
+TX: 454.700 MHz
+RX: 461.700 MHz
+
+
+British Airways
+Edinburgh Airport, INGLISTON
+TX: 442.750 MHz
+RX: 428.250 MHz
+
+
+
+
+
+SIMPLEX UHF GROUND FREQUENCIES
+
+Edinburgh Airport
+Edinburgh Airport, INGLISTON
+TX: 462.225 MHz
+RX: 462.225 MHz
+
+
+Signature Flight Support/Execair Aviation Services
+Edinburgh Airport, INGLISTON
+TX: 456.775 MHz
+RX: 456.775 MHz
+
+
+Alpha Flight UK
+Edinburgh Airport, INGLISTON
+TX: 461.350 MHz
+RX: 461.350 MHz
+
+
+Edinburgh Airport (ENGINEERING)
+Edinburgh Airport, INGLISTON
+TX: 460.950 MHz
+RX: 460.950 MHz
+
+
+Hertz UK
+Edinburgh Airport, INGLISTON
+TX: 453.225 MHz
+RX: 453.225 MHz
+
+
+Express Handling
+Edinburgh Airport, INGLISTON
+TX: 446.225 MHz
+RX: 446.225 MHz
+
+
+Express Handling
+Edinburgh Airport, INGLISTON
+TX: 453.525 MHz
+RX: 453.525 MHz
+
+
+DERICHEBOURG MULTISERVICES
+Edinburgh Airport, INGLISTON
+TX: 453.725 MHz
+RX: 453.725 MHz
+
+
+Menzies Aviation
+Edinburgh Airport, INGLISTON
+TX: 453.300 MHz
+RX: 453.300 MHz
+
+
+S & JD Robertson North Air
+Edinburgh Airport, INGLISTON
+TX: 460.075 MHz
+RX: 460.075 MHz
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared  to VHF air and UHF tower frequencies.
+
+
+
+
+
+Other Edinburgh Airport Users
+
+NCP Parking Services (Eastfield Rd)
+Edinburgh Airport, INGLISTON
+TX: 453.9875 MHz
+RX: 460.4875 MHz
+
+
+Secure Airpark
+Edinburgh Airport, INGLISTON
+TX: 165.1375 MHz
+RX: 169.9375 MHz
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

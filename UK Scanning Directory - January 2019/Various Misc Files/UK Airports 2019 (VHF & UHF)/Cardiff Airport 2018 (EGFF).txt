@@ -1,0 +1,161 @@
+Cardiff International Airport (EGFF) 2018  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : CARDIFF AIRPORT
+ICAO CODE: EGFF
+LOCATION : RHOOSE, VALE OF GLAMORGAN
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+
+Cardiff International Airport Approach  125.855 MHz (AM)
+
+Cardiff International Airport Approach 	119.150 MHz (AM)
+
+Cardiff International Airport Tower 	133.100 MHz (AM)
+
+Cardiff International Airport Radar 	125.855 MHz (AM)
+
+Cardiff International Airport ATIS 	132.480 MHz (AM)
+
+Cardiff Airport CWL Signature Ops       122.350 MHz (AM)
+
+Cardiff Airport Swissport Ops           129.750 MHz (AM)
+
+
+
+CARDIFF MILITARY
+
+Cardiff Military LARS                   251.375 MHz (AM)
+
+Cardiff International Airport Tower 	233.425 MHz (AM)
+
+
+
+CARDIFF HELIPORT
+
+Cardiff Heliport Air to Ground          120.650 MHz (AM)
+
+
+
+
+UHF FREQUENCIES (FM)
+
+Affini Technology, Air Radio (SPEEDWING)
+Cardiff Airport, VALE OF GLAMORGAN
+TX: 455.8125 MHz
+RX: 461.1125 MHz
+
+
+Affini Technology, Air Radio (SPEEDWING)
+Cardiff Airport, VALE OF GLAMORGAN
+TX: 455.575 MHz
+RX: 461.225 MHz
+
+
+Affini Technology, Air Radio (SPEEDWING)
+Cardiff Airport, VALE OF GLAMORGAN
+TX: 455.600 MHz
+RX: 460.900 MHz
+
+
+Cardiff International Airport
+Cardiff Airport, VALE OF GLAMORGAN
+TX: 455.825 MHz
+RX: 461.125 MHz
+
+
+Cardiff International Airport
+Cardiff Airport, VALE OF GLAMORGAN
+TX: 455.700 MHz
+RX: 461.000 MHz
+
+
+Cardiff International Airport
+Cardiff Airport, VALE OF GLAMORGAN
+TX: 456.825 MHz
+RX: 462.325 MHz
+
+
+S & JD Robertson North Air
+Cardiff Airport, VALE OF GLAMORGAN
+TX: 453.5125 MHz
+RX: 460.0125 MHz
+
+
+Cardiff International Airport (British Airways)
+Cardiff Airport, VALE OF GLAMORGAN
+TX: 453.700 MHz
+RX: 460.200 MHz
+
+
+
+
+
+OTHER SIMPLEX UHF GROUND FREQUENCIES IN USE (FM)
+
+Cardiff International Airport (EMERGENCY)
+Cardiff International Airport, VALE OF GLAMORGAN
+TX: 459.575 MHz
+RX: 459.575 MHz
+
+
+Cardiff International Airport (EMERGENCY)
+Cardiff International Airport, VALE OF GLAMORGAN
+TX: 460.100 MHz
+RX: 460.100 MHz
+
+
+Cardiff International Airport (TERMINAL)
+Cardiff International Airport, VALE OF GLAMORGAN
+TX: 459.925 MHz
+RX: 459.925 MHz
+
+
+British Airways Maintenance Cardiff
+Cardiff International Airport, VALE OF GLAMORGAN
+TX: 456.975 MHz
+RX: 456.975 MHz
+
+
+BP International
+Cardiff International Airport, VALE OF GLAMORGAN
+TX: 462.275 MHz
+RX: 462.275 MHz
+
+
+British Airways Maintenance
+Cardiff International Airport, VALE OF GLAMORGAN
+TX: 456.800 MHz
+RX: 456.800 MHz
+
+
+Flightcare Multiservices, SERVISAIR
+Cardiff International Airport, VALE OF GLAMORGAN
+TX: 461.3625 MHz
+RX: 461.3625 MHz
+
+
+Execair Aviation Services, SERVISAIR
+Cardiff International Airport, VALE OF GLAMORGAN
+TX: 453.300 MHz
+RX: 453.300 MHz
+
+
+
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

@@ -1,0 +1,191 @@
+Glasgow Airport (EGPF) 2018 - VHF & UHF KimmyJS19
+
+
+AIRPORT  : GLASGOW INTERNATIONAL AIRPORT
+ICAO CODE: EGPF
+LOCATION : PAISLEY, RENFREWSHIRE, SCOTLAND
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+GLASGOW AIRPORT TOWER          118.805 MHz (AM)
+
+GLASGOW AIRPORT GROUND         121.705 MHz (AM)
+
+GLASGOW AIRPORT RADAR/APP      125.250 MHz (AM)
+
+GLASGOW AIRPORT RADAR/APP      128.755 MHz (AM)
+
+GLASGOW AIRPORT RADAR/APP      119.100 MHz (AM)
+
+GLASGOW AIRPORT ATIS INFO      129.575 MHz (AM)
+
+GLASGOW AIRPORT AG             130.900 MHz (AM)
+
+GLASGOW AIRPORT FIRE (GROUND)  121.600 MHz (AM)
+
+
+
+
+
+UHF (FM)
+
+
+Glasgow Airport (SECURITY CON)
+Glasgow Airport, Paisley, GLASGOW
+TX: 455.725 MHz
+RX: 461.025 MHz
+
+
+LHR Airports (APRON SER CO)
+Glasgow Airport, Paisley, GLASGOW
+TX: 455.625 MHz
+RX: 460.925 MHz
+
+
+NATS National Air Traffic Services
+Glasgow Airport, Paisley, GLASGOW
+TX: 455.8375 MHz
+RX: 461.1375 MHz
+
+
+NATS National Air Traffic Services
+Glasgow Airport, Paisley, GLASGOW
+TX: 455.775 MHz
+RX: 461.075 MHz
+
+
+Swissport GB (PASSENGER HANDLING/AIRWAY)
+Glasgow Airport, Paisley, GLASGOW
+TX: 453.925 MHz
+RX: 460.425 MHz
+
+
+S&JD Robertson North Air (NORTH)
+Glasgow Airport, Paisley, GLASGOW
+TX: 453.100 MHz
+RX: 459.600 MHz
+
+
+Glasgow Airport (ALPHA)
+Glasgow Airport, Paisley, GLASGOW
+TX: 455.7375 MHz
+RX: 461.0375 MHz
+
+
+Glasgow Airport (ALPHA)
+Glasgow Airport, Paisley, GLASGOW
+TX: 455.700 MHz
+RX: 461.000 MHz
+
+
+Menzies Aviation
+Glasgow Airport, Paisley, GLASGOW
+TX: 453.775 MHz
+RX: 460.275 MHz
+
+
+Glasgow Airport (BAGGAGE)
+Glasgow Airport, Paisley, GLASGOW
+TX: 455.650 MHz
+RX: 460.950 MHz
+
+
+Affini Technology (AIRRADIO)
+Glasgow Airport, Paisley, GLASGOW
+TX: 440.9125 MHz
+RX: 426.4125 MHz
+
+
+Affini Technology (AIRRADIO)
+Glasgow Airport, Paisley, GLASGOW
+TX: 441.1875 MHz
+RX: 426.6875 MHz
+
+
+Affini Technology (AIRRADIO)
+Glasgow Airport, Paisley, GLASGOW
+TX: 441.0375 MHz
+RX: 426.5375 MHz
+
+
+
+
+
+PARKING ENFORCEMENT
+
+National Car Parks (NCP)
+Glasgow Airport, Paisley, GLASGOW
+TX: 453.9875 MHz
+RX: 460.4875 MHz
+
+
+Flying Scot Parking
+Glasgow Airport, Paisley, GLASGOW
+TX: 447.5375 MHz
+RX: 447.5375 MHz
+
+
+
+
+
+SIMPLEX UHF GROUND FREQUENCIES (FM)
+
+Signature Flight Support
+Glasgow Airport, Paisley, GLASGOW
+TX: 456.775 MHz
+RX: 456.775 MHz
+
+
+LHR Airports (BA COMMS)
+Glasgow Airport, Paisley, GLASGOW
+TX: 460.900 MHz
+RX: 460.900 MHz
+
+
+Airline Services
+Glasgow Airport, Paisley, GLASGOW
+TX: 462.400 MHz
+RX: 462.400 MHz
+
+
+Express By Holiday Inn
+Glasgow Airport, Paisley, GLASGOW
+TX: 456.8000 MHz
+RX: 456.8000 MHz
+
+
+BAA, Glasgow Airport
+Glasgow Airport, Paisley, GLASGOW
+TX: 460.9000 MHz
+RX: 460.9000 MHz
+
+
+Alpha Flight UK, Glasgow Airport
+Glasgow Airport, Paisley, GLASGOW
+TX: 459.9000 MHz
+RX: 459.9000 MHz
+
+
+Airline Services
+Glasgow Airport, Paisley, GLASGOW
+TX: 462.4000 MHz
+RX: 462.4000 MHz
+
+
+
+
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

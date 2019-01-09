@@ -1,0 +1,67 @@
+Southend Airport 2018 (EGMC)  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : LONDON SOUTHEND AIRPORT
+ICAO CODE: EGMC
+LOCATION : SOUTHEND ON SEA, ESSEX
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+
+Southend Airport Approach      130.775 MHz (AM)
+
+Southend Airport Tower 	       127.730 MHz (AM)
+
+Southend Airport Radar 	       130.775 MHz (AM)
+
+Southend Airport Director      132.450 MHz (AM)
+
+Southend Airport ATIS 	       136.055 MHz (AM)
+
+Southend Airport Fire Ground   121.600 MHz (AM)
+
+Southend Airport Emergency     121.500 MHz (AM)
+
+
+
+UHF (FM)
+
+
+London Southend Airport (SOUTHEND TOWER)
+SOUTHEND-ON-SEA
+TX: 455.6375 MHz
+RX: 460.9375 MHz
+
+
+London Southend Airport (SOUTHEND TOWER)
+SOUTHEND-ON-SEA
+TX: 455.4875 MHz
+RX: 460.7875 MHz
+
+
+London Southend Airport (SOUTHEND TOWER)
+SOUTHEND-ON-SEA
+TX: 456.500 MHz
+RX: 462.000 MHz
+
+
+London Southend Airport (SOUTHEND TOWER)
+SOUTHEND-ON-SEA
+TX: 456.475 MHz
+RX: 461.975 MHz
+
+
+
+
+
+NOTE: UHF frequencies will have limited range
+compared to VHF air frequencies.
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

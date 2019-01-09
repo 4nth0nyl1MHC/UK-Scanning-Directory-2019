@@ -1,0 +1,228 @@
+London Stansted Airport (EGSS) 2016 -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : LONDON STANSTED AIRPORT
+ICAO CODE: EGSS
+LOCATION : STANSTED, ESSEX
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+
+London Stansted Airport ESSEX RADAR             120.625 MHz
+
+London Stansted Airport TOWER                   123.800 MHz
+
+London Stansted Airport TOWER                   125.550 MHz
+
+London Stansted Airport GROUND                  121.725 MHz
+
+London Stansted Airport DELIVERY                121.950 MHz
+
+London Stansted Airport RADAR (DIRECTOR)        136.200 MHz
+
+London Stansted Airport ATIS INFO               127.175 MHz
+
+London Stansted Airport ATIS INFO (CLACTON VOR) 114.550 MHz
+
+London Stansted Airport FIRE GROUND             121.600 MHz
+
+London Stansted Airport EMERGENCY               121.500 MHz
+
+
+
+
+UHF (FM)
+
+BAA
+Stansted Airport
+TX: 453.9875 MHz
+RX: 460.4875 MHz
+
+
+NATS National Air Traffic Services
+Stansted Airport
+TX: 455.550 MHz
+RX: 461.200 MHz
+
+
+NATS National Air Traffic Services
+Stansted Airport
+TX: 455.650 MHz
+RX: 460.950 MHz
+
+
+NATS National Air Traffic Services
+Stansted Airport
+TX: 455.8375 MHz
+RX: 461.1375 MHz
+
+
+Stansted Airport
+London Stansted Airport
+TX: 456.825 MHz
+RX: 462.325 MHz
+
+
+Stansted Airport
+London Stansted Airport
+TX: 456.600 MHz
+RX: 462.100 MHz
+
+
+Stansted Airport
+London Stansted Airport
+TX: 456.525 MHz
+RX: 462.025 MHz
+
+
+Stansted Airport
+London Stansted Airport
+TX: 453.500 MHz
+RX: 460.000 MHz
+
+
+Stansted Airport
+London Stansted Airport
+TX: 453.025 MHz
+RX: 459.525 MHz
+
+
+Stansted Airport
+London Stansted Airport
+TX: 456.975 MHz
+RX: 462.475 MHz
+
+
+Stansted Airport
+London Stansted Airport
+TX: 456.750 MHz
+RX: 462.250 MHz
+
+
+Stansted Airport
+London Stansted Airport
+TX: 453.775 MHz
+RX: 460.275 MHz
+
+
+Stansted Fuelling Co
+London Stansted Airport
+TX: 455.550 MHz
+RX: 461.200 MHz
+
+
+Universal Aviation
+London Stansted Airport
+TX: 455.550 MHz
+RX: 461.200 MHz
+
+
+Stansted Fuelling Co
+London Stansted Airport
+TX: 453.0875 MHz
+RX: 459.5875 MHz
+
+
+BAA, Stansted Airport
+London Stansted Airport
+TX: 440.400 MHz
+RX: 425.900 MHz
+
+
+BAA, Stansted Airport
+London Stansted Airport
+TX: 441.6625 MHz
+RX: 427.1625 MHz
+
+
+BAA, Stansted Airport
+London Stansted Airport
+TX: 441.800 MHz
+RX: 427.300 MHz
+
+
+BAA, Stansted Airport
+London Stansted Airport
+TX: 441.2375 MHz
+RX: 426.7375 MHz
+
+
+BAA, Stansted Airport
+London Stansted Airport
+TX: 441.1125 MHz
+RX: 426.6125 MHz
+
+
+BAA, Stansted Airport
+London Stansted Airport
+TX: 442.000 MHz
+RX: 427.500 MHz
+
+
+BAA, Stansted Airport
+London Stansted Airport
+TX: 441.6875 MHz
+RX: 427.1875 MHz
+
+
+BAA, Stansted Airport
+London Stansted Airport
+TX: 441.950 MHz
+RX: 427.450 MHz
+
+
+
+
+SIMPLEX UHF GROUND FREQUENCIES	
+
+Stansted Airport
+London Stansted Airport
+TX: 446.300 MHz
+RX: 446.300 MHz
+
+
+Stansted Airport
+London Stansted Airport
+TX: 461.400 MHz
+RX: 461.400 MHz
+
+
+Stansted Airport
+London Stansted Airport
+TX: 460.075 MHz
+RX: 460.075 MHz
+
+
+Diamond Hanger
+London Stansted Airport
+TX: 462.125 MHz
+RX: 462.125 MHz
+
+
+Diamond Hanger
+London Stansted Airport
+TX: 462.400 MHz
+RX: 462.400 MHz
+
+
+Universal Aviation
+London Stansted Airport
+TX: 461.350 MHz
+RX: 461.350 MHz
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared  to VHF air and UHF tower frequencies.
+
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

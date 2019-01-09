@@ -1,0 +1,208 @@
+Belfast (Aldergrove) International Airport (EGAA) 2018  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : BELFAST INTERNATIONAL AIRPORT
+ICAO CODE: EGAA
+LOCATION : ALDERGROVE, BELFAST, BT29 4AB, NORTHERN IRELAND
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+
+BELFAST INTERNATIONAL AIRPORT APPROACH     128.500 MHz (AM)
+
+BELFAST INTERNATIONAL AIRPORT TOWER        118.300 MHz (AM)
+
+BELFAST INTERNATIONAL AIRPORT DIRECTOR     120.900 MHz (AM)
+
+BELFAST INTERNATIONAL AIRPORT ATIS INFO    128.200 MHz (AM)
+
+BELFAST INTERNATIONAL AIRPORT EMERGENCY    121.500 MHz (AM)
+
+BELFAST INTERNATIONAL AIRPORT GROUND       121.750 MHz (AM)
+
+
+
+
+UHF (FM)
+
+
+Belfast International Airport
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 453.700 MHz
+RX: 460.200 MHz
+
+
+Belfast International Airport
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 453.025 MHz
+RX: 459.525 MHz
+
+
+Belfast International Airport
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 456.825 MHz
+RX: 462.325 MHz
+
+
+Belfast International Airport
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 456.750 MHz
+RX: 462.250 MHz
+
+
+NATS National Air Traffic Services
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 455.8375 MHz
+RX: 461.1375 MHz
+
+
+NATS National Air Traffic Services
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 455.650 MHz
+RX: 460.950 MHz
+
+
+NATS National Air Traffic Services
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 455.550 MHz
+RX: 461.200 MHz
+
+
+NATS National Air Traffic Services
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 455.775 MHz
+RX: 461.075 MHz
+
+
+NATS National Air Traffic Services
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 455.8125 MHz
+RX: 461.1125 MHz
+
+
+NATS National Air Traffic Services
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 455.725 MHz
+RX: 461.025 MHz
+
+
+NATS National Air Traffic Services
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 455.625 MHz
+RX: 460.925 MHz
+
+
+NATS National Air Traffic Services
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 455.500 MHz
+RX: 460.800 MHz
+
+
+Belfast International Airport (AERO)
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 456.025 MHz
+RX: 461.525 MHz
+
+
+Belfast International Airport (AERO)
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 456.950 MHz
+RX: 462.450 MHz
+
+
+Belfast International Airport (AERO)
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 453.4375 MHz
+RX: 459.9375 MHz
+
+
+Belfast International Airport (AERO)
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 453.0875 MHz
+RX: 459.5875 MHz
+
+
+Belfast International Airport (AERO)
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 456.600 MHz
+RX: 462.100 MHz
+
+
+Belfast International Airport (PADFOTT) 'DIGITAL'
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 455.725 MHz
+RX: 461.225 MHz
+
+
+Belfast Airport Handling
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 453.050 MHz
+RX: 459.550 MHz
+
+
+
+
+
+VHF (FM)
+
+
+Martin Baker Aircraft Company
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 167.7625 MHz
+RX: 172.5625 MHz
+
+
+
+
+
+OTHER SIMPLEX GROUND FREQUENCIES IN USE (FM)
+
+
+Belfast International Airport (MAINTENANCE/CAR PARKS)
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 169.3625 MHz
+RX: 169.3625 MHz
+
+
+Airport Car Parking (ECHO)
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 169.175 MHz
+RX: 169.175 MHz
+
+
+Mccausland Airport Garages
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 169.2375 MHz
+RX: 169.2375 MHz
+
+
+Martin Baker Aircraft Company
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 169.350 MHz
+RX: 169.350 MHz
+
+
+S & JD Robertson North Air (BP)
+Belfast Airport, ALDERGROVE, BELFAST
+TX: 169.2875 MHz
+RX: 169.2875 MHz
+
+
+
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

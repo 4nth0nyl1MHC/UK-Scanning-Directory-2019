@@ -1,0 +1,70 @@
+Lydd Airport (EGMD) 2017  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : LYDD LONDON ASHFORD AIRPORT
+ICAO CODE: EGMD
+LOCATION : ROMNEY MARSH, KENT
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+
+APPROACH, LYDD AIRPORT        120.700 MHz (AM)
+
+TOWER, LYDD AIRPORT           119.375 MHz (AM)
+
+ATIS INFO, LYDD AIRPORT       129.225 MHz (AM)
+
+TOWER/APPROACH, LYDD AIRPORT  121.500 MHz (AM)
+
+EMERGENCY, LYDD AIRPORT       121.500 MHz (AM)
+
+FIRE GROUND, LYDD AIRPORT     121.600 MHz (AM)
+
+
+
+
+
+OTHER SIMPLEX UHF GROUND FREQUENCIES IN USE (FM)
+
+
+London Ashford Airport
+Lydd Airport, KENT
+TX: 461.450 MHz
+RX: 461.450 MHz
+
+
+London Ashford Airport
+Lydd Airport, KENT
+TX: 461.1375 MHz
+RX: 461.1375 MHz
+
+
+London Ashford Airport
+Lydd Airport, KENT
+TX: 455.8375 MHz
+RX: 455.8375 MHz
+
+
+Fal Aviation UK
+Lydd Airport, KENT
+TX: 461.3125 MHz
+RX: 461.3125 MHz
+
+
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

@@ -1,0 +1,87 @@
+Cambridge Airport (EGSC) 2017  -  VHF & UHF KimmyJS19
+
+
+AIRPORT  : CAMBRIDGE AIRPORT
+ICAO CODE: EGSC
+LOCATION : CAMBRIDGE, CAMBRIDGESHIRE
+
+
+
+FREQUENCIES
+
+
+VHF MAIN (AM)
+
+
+CAMBRIDGE AIRPORT
+
+Cambridge Airport Approach     123.600 MHz (AM)
+
+Cambridge Airport Tower        125.900 MHz (AM)
+
+Cambridge Airport Radar        123.600 MHz (AM)
+
+Cambridge Airport Director     124.975 MHz (AM)
+
+Cambridge Airport ATIS Info    134.600 MHz (AM)
+
+Cambridge Airport Fire Ground  121.600 MHz (AM)
+
+
+
+
+UHF (FM)
+
+
+Marshall Of Cambridge Aerospace
+Cambridge Airport, CAMBRIDGE
+TX: 455.7375 MHz
+RX: 461.0375 MHz
+
+
+Marshall Of Cambridge Aerospace (FIRE/CRASH)
+Cambridge Airport, CAMBRIDGE
+TX: 455.7875 MHz
+RX: 461.0875 MHz
+
+
+Marshall Of Cambridge Engineering (WORKS)
+Cambridge Airport, CAMBRIDGE
+TX: 453.175 MHz
+RX: 459.675 MHz
+
+
+Marshall Of Cambridge Engineering (SIERRA)
+Cambridge Airport, CAMBRIDGE
+TX: 456.700 MHz
+RX: 462.200 MHz
+
+
+
+
+SIMPLEX UHF GROUND FREQUENCIES
+
+
+Marshall Of Cambridge Aerospace (TRAINING)
+Cambridge Airport, CAMBRIDGE
+TX: 462.400 MHz
+RX: 462.400 MHz
+
+
+Marshall Of Cambridge Aerospace (TRAINING)
+Cambridge Airport, CAMBRIDGE
+TX: 461.3625 MHz
+RX: 461.3625 MHz
+
+
+
+
+NOTE: Simplex ground frequencies will have limited range
+compared to VHF air and UHF tower frequencies.
+
+
+
+
+
+
+KimmyJS19  UKSCANNINGDIRECTORY.CO.UK

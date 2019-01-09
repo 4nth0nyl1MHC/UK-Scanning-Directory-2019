@@ -1,0 +1,1829 @@
+25.000 - 107.900 MHz    JANUARY 2019
+
+
+25.1000                 HF Marine Simplex Worldwide             NATIONAL USAGE     USB  KimmyJS19    Feb 2010
+25.1030                 HF Marine Simplex Worldwide             NATIONAL USAGE     USB  KimmyJS19    Feb 2010
+25.1060                 HF Marine Simplex Worldwide             NATIONAL USAGE     USB  KimmyJS19    Feb 2010
+25.1120                 HF Marine Simplex Worldwide             NATIONAL USAGE     USB  KimmyJS19    Feb 2010
+25.1150                 HF Marine Simplex Worldwide             NATIONAL USAGE     USB  KimmyJS19    Feb 2010
+25.1180                 HF Marine Simplex Worldwide             NATIONAL USAGE     USB  KimmyJS19    Feb 2010
+26.2375                 On-Site PBR Paging NON SPEECH, UK WIDE  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+26.4100                 On-Site PBR Paging NON SPEECH, UK WIDE  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+26.4375                 On-Site PBR Paging NON SPEECH, UK WIDE  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+26.4625                 On-Site PBR Paging NON SPEECH, UK WIDE  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+26.5450                 On-Site PBR Paging NON SPEECH, UK WIDE  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+26.5880                 On-Site PBR Paging NON SPEECH, UK WIDE  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+26.6155                 On-Site PBR Paging NON SPEECH, UK WIDE  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+26.6170                 Civil Air Patrol CAP Search and Rescue  NATIONAL USAGE     USB  KimmyJS19    Feb 2010
+26.6200                 Civil Air Patrol CAP Search and Rescue  NATIONAL USAGE     USB  KimmyJS19    Feb 2010
+26.6695                 On-Site PBR Paging NON SPEECH, UK WIDE  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+26.7255                 On-Site PBR Paging NON SPEECH, UK WIDE  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+26.8155                 On-Site PBR Paging NON SPEECH, UK WIDE  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+26.8350                 RADIO PAGING EQUIPMENT, SHORT TERM HIRE NATIONAL USAGE     FM   KimmyJS19    Feb 2015
+26.8650                 On-Site PBR Paging NON SPEECH, UK WIDE  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+26.8655                 On-Site PBR Paging NON SPEECH, UK WIDE  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+26.9200                 RADIO PAGING EQUIPMENT, SHORT TERM HIRE NATIONAL USAGE     FM   KimmyJS19    Feb 2015
+26.9600                 Model Cars/Planes Ctrl 26.96 to 27.28   UK WIDE            FM   KimmyJS19    Feb 2010
+26.9650                 CEPT (Citizen band radio) Channel 1     UK WIDE 	   FM	KimmyJS19    May 2010
+26.9750                 CEPT (Citizen band radio) Channel 2     UK WIDE 	   FM	KimmyJS19    May 2010
+26.9850                 CEPT (Citizen band radio) Channel 3     UK WIDE 	   FM	KimmyJS19    May 2010
+27.0050                 CEPT (Citizen band radio) Channel 4     UK WIDE 	   FM	KimmyJS19    May 2010
+27.0150                 CEPT (Citizen band radio) Channel 5     UK WIDE 	   FM	KimmyJS19    May 2010
+27.0250                 CEPT (Citizen band radio) Channel 6     UK WIDE 	   FM	KimmyJS19    May 2010
+27.0350                 CEPT (Citizen band radio) Channel 7     UK WIDE 	   FM	KimmyJS19    May 2010
+27.0550                 CEPT (Citizen band radio) Channel 8     UK WIDE 	   FM	KimmyJS19    May 2010
+27.0650                 CEPT (Citizen band radio) Channel 9     UK WIDE 	   FM	KimmyJS19    May 2010
+27.0750                 CEPT (Citizen band radio) Channel 10    UK WIDE 	   FM	KimmyJS19    May 2010
+27.0850                 CEPT (Citizen band radio) Channel 11    UK WIDE 	   FM	KimmyJS19    May 2010
+27.1050                 CEPT (Citizen band radio) Channel 12    UK WIDE 	   FM	KimmyJS19    May 2010
+27.1150                 CEPT (Citizen band radio) Channel 13    UK WIDE 	   FM	KimmyJS19    May 2010
+27.1250                 CEPT (Citizen band radio) Channel 14    UK WIDE 	   FM	KimmyJS19    May 2010
+27.1350                 CEPT (Citizen band radio) Channel 15    UK WIDE 	   FM	KimmyJS19    May 2010
+27.1550                 CEPT (Citizen band radio) Channel 16    UK WIDE 	   FM	KimmyJS19    May 2010
+27.1650                 CEPT (Citizen band radio) Channel 17    UK WIDE 	   FM	KimmyJS19    May 2010
+27.1750                 CEPT (Citizen band radio) Channel 18    UK WIDE 	   FM	KimmyJS19    May 2010
+27.1850                 CEPT (Citizen band radio) Channel 19    UK WIDE 	   FM	KimmyJS19    May 2010
+27.1850            	Irish Common CB Calling Channel (Ch.19) REP OF IRELAND     AM	KimmyJS19    Jul 2013
+27.2050                 CEPT (Citizen band radio) Channel 20    UK WIDE 	   FM	KimmyJS19    May 2010
+27.2150                 CEPT (Citizen band radio) Channel 21    UK WIDE 	   FM	KimmyJS19    May 2010
+27.2250                 CEPT (Citizen band radio) Channel 22    UK WIDE 	   FM	KimmyJS19    May 2010
+27.2550                 CEPT (Citizen band radio) Channel 23    UK WIDE 	   FM	KimmyJS19    May 2010
+27.2350                 CEPT (Citizen band radio) Channel 24    UK WIDE 	   FM	KimmyJS19    May 2010
+27.2450                 CEPT (Citizen band radio) Channel 25    UK WIDE 	   FM	KimmyJS19    May 2010
+27.2650                 CEPT (Citizen band radio) Channel 26    UK WIDE 	   FM	KimmyJS19    May 2010
+27.2750                 CEPT (Citizen band radio) Channel 27    UK WIDE 	   FM	KimmyJS19    May 2010
+27.2850                 CEPT (Citizen band radio) Channel 28    UK WIDE 	   FM	KimmyJS19    May 2010
+27.2950                 CEPT (Citizen band radio) Channel 29    UK WIDE 	   FM	KimmyJS19    May 2010
+27.3050                 CEPT (Citizen band radio) Channel 30    UK WIDE 	   FM	KimmyJS19    May 2010
+27.3150                 CEPT (Citizen band radio) Channel 31    UK WIDE 	   FM	KimmyJS19    May 2010
+27.3250                 CEPT (Citizen band radio) Channel 32    UK WIDE 	   FM	KimmyJS19    May 2010
+27.3350                 CEPT (Citizen band radio) Channel 33    UK WIDE 	   FM	KimmyJS19    May 2010
+27.3450                 CEPT (Citizen band radio) Channel 34    UK WIDE 	   FM	KimmyJS19    May 2010
+27.3550                 CEPT (Citizen band radio) Channel 35    UK WIDE 	   FM	KimmyJS19    May 2010
+27.3650                 CEPT (Citizen band radio) Channel 36    UK WIDE 	   FM	KimmyJS19    May 2010
+27.3750                 CEPT (Citizen band radio) Channel 37    UK WIDE 	   FM	KimmyJS19    May 2010
+27.3850                 CEPT (Citizen band radio) Channel 38    UK WIDE 	   FM	KimmyJS19    May 2010
+27.3950                 CEPT (Citizen band radio) Channel 39    UK WIDE 	   FM	KimmyJS19    May 2010
+27.4050                 CEPT (Citizen band radio) Channel 40    UK WIDE 	   FM	KimmyJS19    May 2010
+27.5550                 11m Pirate Illegal Band (Long Rng DX)   NATIONAL USAGE     SSB  KimmyJS19    May 2010
+27.60125                UK CB Channel 1                         UK WIDE 	   FM	KimmyJS19    May 2010
+27.61125                UK CB Channel 2                         UK WIDE 	   FM	KimmyJS19    May 2010
+27.62125                UK CB Channel 3                         UK WIDE 	   FM	KimmyJS19    May 2010
+27.63125                UK CB Channel 4                         UK WIDE 	   FM	KimmyJS19    May 2010
+27.64125                UK CB Channel 5                         UK WIDE 	   FM	KimmyJS19    May 2010
+27.65125                UK CB Channel 6                         UK WIDE 	   FM	KimmyJS19    May 2010
+27.66125                UK CB Channel 7                         UK WIDE 	   FM	KimmyJS19    May 2010
+27.67125                UK CB Channel 8                         UK WIDE 	   FM	KimmyJS19    May 2010
+27.68125                UK CB Channel 9                         UK WIDE 	   FM	KimmyJS19    May 2010
+27.69125                UK CB Channel 10                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.70125                UK CB Channel 11                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.71125                UK CB Channel 12                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.72125                UK CB Channel 13                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.73125                UK CB Channel 14                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.74125                UK CB Channel 15                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.75125                UK CB Channel 16                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.76125                UK CB Channel 17                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.77125                UK CB Channel 18                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.78125                UK CB Channel 19                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.79125                UK CB Channel 20                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.80125                UK CB Channel 21                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.81125                UK CB Channel 22                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.82125                UK CB Channel 23                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.83125                UK CB Channel 24                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.84125                UK CB Channel 25                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.85125                UK CB Channel 26                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.86125                UK CB Channel 27                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.87125                UK CB Channel 28                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.88125                UK CB Channel 29                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.88125		CB27 Gateway, Plymouth, EFFORD          DEVON              FM   KimmyJS19    Sep 2013
+27.88125                CB27 Gateway, Clacton-On-Sea            ESSEX    	   FM	KimmyJS19    Dec 2013
+27.89125                UK CB Channel 30                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.90125                UK CB Channel 31                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.91125                UK CB Channel 32                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.92125                UK CB Channel 33                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.93125                UK CB Channel 34                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.94125                UK CB Channel 35                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.94125        	Part Time CB Gateway, RICHMOND  	NORTH YORKSHIRE	   FM   KimmyJS19    Nov 2014
+27.95125                UK CB Channel 36                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.96125                UK CB Channel 37                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.97125                UK CB Channel 38                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.98125                UK CB Channel 39                        UK WIDE 	   FM	KimmyJS19    May 2010
+27.99125                UK CB Channel 40                        UK WIDE 	   FM	KimmyJS19    May 2010
+28.0550                 UK Amateur QRS Slow Telegraphy (RSGB12) UK WIDE 	   FM	KimmyJS19    Sep 2012
+28.0600                 UK Amateur QRP LOW POWER (RSGB2012)     UK WIDE 	   FM	KimmyJS19    Sep 2012
+28.3300                 UK Amateur DIGITAL MODES (RSGB2012)     UK WIDE 	  DIG	KimmyJS19    Sep 2012
+29.1000                 UK Amateur ALL MODES (RSGB2012)         UK WIDE      SB/AM/FM	KimmyJS19    Sep 2012
+29.2000                 UK Amateur ALL MODES (RSGB2012)         UK WIDE      SB/AM/FM	KimmyJS19    Sep 2012
+29.2100  50.5200 	GB3WX MERE, 10M REPEATER 77.0Hz         WILTSHIRE          FM	KimmyJS19    Jan 2019
+29.3000                 UK Amateur ALL MODES (RSGB2012)         UK WIDE      SB/AM/FM	KimmyJS19    Sep 2012
+29.6000                 UK AMATEUR CALLING AND CONTACT CHANNEL  UK WIDE 	   FM	KimmyJS19    Sep 2012
+29.6100                 UK AMATEUR FM simplex repeater (Parrot) UK WIDE 	   FM	KimmyJS19    Sep 2012
+29.6200                 UK Amateur ALL MODES (RSGB2012)         UK WIDE      SB/AM/FM	KimmyJS19    Sep 2012
+29.6300                 UK Internet voice gateway Unattended    UK WIDE 	   FM	KimmyJS19    Sep 2012
+29.6400	 29.5400	GB3CJ NORTHAMPTON, 10M REPEATER 77.0	NORTHAMPTONSHIRE   FM	KimmyJS19    Jan 2019
+29.6500  29.5500        GB3TX CATTON, NORWICH 94.8 10M REPEATER NORFOLK            FM	KimmyJS19    Jan 2019
+29.6600  29.5600  	RH1 10M UK Amateur Repeater Allocation  UK WIDE 	   FM	KimmyJS19    Jan 2011
+29.6700  29.5700 	RH2 10M UK Amateur Repeater Allocation  UK WIDE 	   FM	KimmyJS19    Jan 2011
+29.6800  29.5800 	RH3 10M UK Amateur Repeater Allocation  UK WIDE 	   FM	KimmyJS19    Jan 2011
+29.6900  29.5900 	GB3GX LUDLOW, ANALOGUE REPEATER 103.5	SHROPSHIRE         FM	KimmyJS19    Mar 2018
+29.6900  29.5900 	RH4 10M UK Amateur Repeater Allocation  UK WIDE 	   FM	KimmyJS19    Jan 2011
+30.000			36 Signals Regiment 			UK WIDE            FM	KimmyJS19    Nov 2005
+30.750			ARMY AIR TO GROUND                      SALISBURY PLAIN    FM	KimmyJS19    Sep 2006
+30.800			SALISBURY PLAIN	MILITARY                WILTSHIRE          FM	KimmyJS19    Sep 2006
+30.825			1st Battalion The Royal Anglia Regiment UK WIDE 	   FM	KimmyJS19    May 2005
+31.0375	 39.9375        HOME CORDLESS ANALOGUE TELEPHONES CH.1  NATIONAL USAGE     FM	KimmyJS19    Aug 2003
+31.0625	 39.9625        HOME CORDLESS ANALOGUE TELEPHONES CH.2  NATIONAL USAGE     FM	KimmyJS19    Aug 2003
+31.0875	 39.9875        HOME CORDLESS ANALOGUE TELEPHONES CH.3  NATIONAL USAGE     FM	KimmyJS19    Aug 2003
+31.1125	 40.0125        HOME CORDLESS ANALOGUE TELEPHONES CH.4  NATIONAL USAGE     FM	KimmyJS19    Aug 2003
+31.1375	 40.0375        HOME CORDLESS ANALOGUE TELEPHONES CH.5  NATIONAL USAGE     FM	KimmyJS19    Aug 2003
+31.1625	 40.0625        HOME CORDLESS ANALOGUE TELEPHONES CH.6  NATIONAL USAGE     FM	KimmyJS19    Aug 2003
+31.1875	 40.0875        HOME CORDLESS ANALOGUE TELEPHONES CH.7  NATIONAL USAGE     FM	KimmyJS19    Aug 2003
+31.2125	 40.1125        HOME CORDLESS ANALOGUE TELEPHONES CH.8  NATIONAL USAGE     FM	KimmyJS19    Aug 2003
+31.400                  FORWARD AIR CONTROL MIL COMMON CAS/FAC  NATIONAL USAGE     FM	KimmyJS19    Jun 2010
+31.525			Salisbury Plain TACTICAL AND TRAINING	WILTSHIRE	   FM	KimmyJS19    Apr 2002
+31.575			RAF Regiment 			        UK WIDE	           FM	KimmyJS19    Dec 2006
+31.725  		Castle Hill Hospital, COTTINGHAM, HULL  EAST YORKSHIRE     FM   KimmyJS19    Oct 2014
+31.725   161.000        On Site Hospital Paging, DATA & SPEECH  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+31.750   161.025        On Site Hospital Paging, DATA & SPEECH  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+31.750                  Heatherwood Hospital Paging, ASCOT      BERKSHIRE	   FM	KimmyJS19    May 2016
+31.750                  Queens Park Hospital, BLACKBURN         BLACKBURN          FM   KimmyJS19    Jan 2011
+31.750                  Sloane Independent Hospitals, BECKENHAM BROMLEY            FM   KimmyJS19    Jan 2011
+31.750                  Leighton Hospital, Leighton, CREWE      CHESHIRE           FM   KimmyJS19    Aug 2011
+31.750                  Bishop Auckland and Darlington NHS      COUNTY DURHAM      FM   KimmyJS19    Jan 2011
+31.750                  CUMBERLAND INFIRMARY, CARLISLE          CUMBRIA            FM	KimmyJS19    Nov 2014
+31.750                  Bolsover Hospital, CHESTERFIELD         DERBYSHIRE         FM   KimmyJS19    Jun 2015
+31.750          	Chesterfield Royal Hospital, CALOW      DERBYSHIRE	   FM   KimmyJS19    Nov 2017
+31.750                  Gloucester Royal Hospital (PAGING)      GLOUCESTERSHIRE    FM   KimmyJS19    Aug 2017
+31.750                  Royal Bolton Hospital, FARNWORTH        GREATER MANCHESTER FM	KimmyJS19    Nov 2017
+31.750                  Leigh Infirmary, The Avenue, LEIGH      GREATER MANCHESTER FM	KimmyJS19    Mar 2016
+31.750                  Royal Albert Edward Infirmary, WIGAN    GREATER MANCHESTER FM	KimmyJS19    Nov 2016
+31.750                  Trafford General Hospital, URMSTON      GREATER MANCHESTER FM   KimmyJS19    Sep 2015
+31.750                  St. Marys Hospital, NEWPORT, GWENT      ISLE OF WIGHT      FM   KimmyJS19    Nov 2011
+31.750                  Victoria Hospital (PAGING), ACCRINGTON	LANCASHIRE	   FM   KimmyJS19    Mar 2016
+31.750                  Wrightington Hospital, APPLEY BRIDGE    LANCASHIRE	   FM	KimmyJS19    Nov 2017
+31.750                  Edgware Community Hospital, EDGWARE     LONDON             FM   KimmyJS19    Jan 2011
+31.750                  Queens Park Hospital, BLACKBURN         LANCASHIRE         FM   KimmyJS19    Nov 2016
+31.750                  Victoria Hospital, ACCRINGTON           LANCASHIRE	   FM   KimmyJS19    May 2016
+31.750                  Leicester Royal Infirmary Paging        LEICESTER          FM   KimmyJS19    Aug 2012
+31.750                  Pilgrim Health NHS Trust, BOSTON        LINCOLNSHIRE       FM   KimmyJS19    Jan 2011
+31.750                  Scunthorpe General Hospital, SCUNTHORPE LINCOLNSHIRE	   FM   KimmyJS19    Jun 2017
+31.750                  Hospital Of St John & St Elizabeth      LONDON             FM   KimmyJS19    Mar 2011
+31.750                  Chase Farm Hospital, Enfield            MIDDLESEX          FM   KimmyJS19    Mar 2011
+31.750           	Friarage Hospital Site, NORTHALLERTON	NORTH YORKSHIRE	   FM   KimmyJS19    Nov 2014
+31.750                  Ninewells Hospital & Medical, DUNDEE    SCOTLAND           FM   KimmyJS19    Dec 2010
+31.750                  Ashludie Hospital, DUNDEE               SCOTLAND           FM   KimmyJS19    Dec 2010
+31.750                  Royal Victoria Hospital, DUNDEE         SCOTLAND           FM   KimmyJS19    Dec 2010
+31.750                  Perth Royal Infirmary, PERTH            SCOTLAND           FM   KimmyJS19    Apr 2011
+31.750                  Arbroath Infirmary, ARBROATH            SCOTLAND           FM   KimmyJS19    Jul 2015
+31.750                  Astley Ainslie Hospital, EDINBURGH      SCOTLAND           FM   KimmyJS19    Apr 2011
+31.750                  Southampton General Hospital            SOUTHAMPTON        FM   KimmyJS19    Mar 2011
+31.750                  Frimley Park Hospital Paging, CAMBERLEY SURREY	           FM	KimmyJS19    Feb 2018
+31.750                  St. Richards Hospital, CHICHESTER       SUSSEX             FM   KimmyJS19    Mar 2011
+31.750                  Royal Hampshire County Hospital         WINCHESTER         FM   KimmyJS19    Jan 2011
+31.775                  NHS, SANKEY VALLEY PARK, WARRINGTON     CHESHIRE           FM   KimmyJS19    Mar 2014
+31.775	                Spire Hartswood Hospital, BRENTWOOD     ESSEX	           FM   KimmyJS19    Jan 2016
+31.775                  Wrightington Hospital NHS, WIGAN        GREATER MANCHESTER FM   KimmyJS19    Jan 2011
+31.775                  Trafford Healthcare NHS, MANCHESTER     GREATER MANCHESTER FM   KimmyJS19    Jan 2011
+31.775                  Withington Hospital NHS, MANCHESTER     GREATER MANCHESTER FM   KimmyJS19    Jan 2011
+31.775                  Springfield Hospital (PAGING), LONDON   LONDON             FM   KimmyJS19    May 2018
+31.775                  Fazakerley Hospital, LIVERPOOL          MERSEYSIDE         FM   KimmyJS19    Jan 2011
+31.775                  North East Wales NHS Trust, WREXHAM     NORTH WALES        FM   KimmyJS19    Aug 2012
+31.775	                James Cook Uni Hospital, MIDDLESBROUGH  NORTH YORKSHIRE    FM   KimmyJS19    Nov 2017
+31.775                  Southampton University General Hospital SOUTHAMPTON        FM   KimmyJS19    Oct 2011
+31.775                  Cefn Coed Hospital, Cockett, SWANSEA    WALES              FM   KimmyJS19    Mar 2011
+31.775   161.075        Withington Community Hospital           MANCHESTER         FM   KimmyJS19    Jan 2011
+31.775   161.075        On Site Hospital Paging, DATA & SPEECH  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+31.775   164.200 	Northern General Hospital, SHEFFIELD	SOUTH YORKSHIRE    FM   KimmyJS19    Aug 2017
+31.825			Thetford Army Training Area, THETFORD 	NORFOLK	           FM	KimmyJS19    Dec 2003
+31.900			Korean Navy Intership 			NATIONAL USAGE     FM	KimmyJS19    May 2005
+32.700			RAF Regiment, AIR TO AIR		UK WIDE 	   FM	KimmyJS19    Apr 2002
+34.300			Lynx/Gazelle Exercise Eagles Strike	UK WIDE            FM	KimmyJS19    May 2005
+34.925			SHORT RANGE EMERGENCY ELDERLY ALARMS 	UK WIDE 	   FM	KimmyJS19    Feb 2000
+36.025			Larkhill Range Tactical  LARKHILL       WILTSHIRE          FM	KimmyJS19    Apr 2002
+36.200			847 Naval Air Squadron Royal Marines 	UK WIDE		   FM	KimmyJS19    Apr 2002
+36.250			847 Naval Air Squadron Royal Marines 	UK WIDE		   FM	KimmyJS19    Apr 2002
+36.350			27 SQUADRON OPS, RAF ODIHAM 	        HAMPSHIRE	   FM	KimmyJS19    Jul 2006
+36.375                  AAC WATTISHAM, DRAGON OPS (EGUW)        SUFFOLK	           FM	KimmyJS19    Nov 2015
+36.550			APACHE AIR TO AIR EXERCISES 2006	UK WIDE		   FM	KimmyJS19    Feb 2006
+36.610	  	        JFMG TOURING CONFERENCE RADIO MICS	UK WIDE		   FM	KimmyJS19    Apr 2002
+36.790			JFMG TOURING CONFERENCE RADIO MICS	UK WIDE		   FM	KimmyJS19    Apr 2002
+36.800			Air Training Corps V12		        NATIONAL USAGE     FM	KimmyJS19    Apr 2002
+37.010			JFMG TOURING CONFERENCE RADIO MICS	NATIONAL USAGE     FM	KimmyJS19    Apr 2002
+37.025			RAF Regiment 			        UK WIDE            FM	KimmyJS19    Mar 2002
+37.190			JFMG TOURING CONFERENCE RADIO MICS	UK WIDE		   FM	KimmyJS19    Apr 2002
+37.200			East Anglian Regiment 			UK WIDE            FM	KimmyJS19    Apr 2002
+37.300			Air Training Corps V11		        NATIONAL USAGE	   FM	KimmyJS19    Apr 2002
+37.375                  RAF LAKENHEATH, AIR TO AIR (EGUL) 	SUFFOLK	           FM	KimmyJS19    Feb 2017
+37.600                  Common Fixed surveillance Bug HF-3 Band NATIONAL USAGE	   FM	KimmyJS19    Jan 2009
+38.000			653 & 663  SQDN Army Air Corps		UK WIDE            FM	KimmyJS19    Apr 2004
+38.000			Army Cadet Force			NATIONAL USAGE     FM	KimmyJS19    Dec 2003
+38.025			3 CAS Gazelles RNAS YEOVILTON	        SOMERSET	   FM	KimmyJS19    Apr 2004
+38.050                  Merlin & Puma Helicopters (RAF)         NATIONAL USAGE	   FM	KimmyJS19    Jul 2015
+38.100			Air Training Corps V13 		        NATIONAL USAGE	   FM	KimmyJS19    Apr 2002
+38.100			18 Sqdn Chinook Air-Air  		NATIONAL USAGE 	   FM	KimmyJS19    Apr 2005
+38.175                  AAC WATTISHAM, DRAGON OPS (EGUW)        SUFFOLK	           FM	KimmyJS19    Nov 2015
+38.550			RAF BRIZE NORTON, AIR TO AIR (EGVN)     NATIONAL USAGE	   FM	KimmyJS19    Oct 2015
+38.600			RAF Regiment Stanford  	THETFORD 	NORFOLK	           FM	KimmyJS19    Dec 2003
+38.600			NEPTUNE CONTROL RAF TCW EXERCISE 2006   NATIONAL USAGE     FM	KimmyJS19    Feb 2006
+38.625			657 Sqdn Army Air Corps Ops		NATIONAL USAGE     FM	KimmyJS19    Jul 2006
+38.750                  BRITISH ARMY EXERCISE COMMON (TAG1/FAC) NATIONAL USAGE     FM	KimmyJS19    Feb 2011
+38.950			Unid Helo Air to Air Exercises		UK WIDE	           FM	KimmyJS19    Jun 2005
+39.000			Medics/Ambulance Crews Exercise Eagles  UK WIDE		   FM	KimmyJS19    Dec 2001
+39.250			36 Signals Regiment 			NATIONAL USAGE     FM	KimmyJS19    Jul 2006
+39.800                  RAF BENSON, 33/28 SQDN AIR TO AIR       OXFORDSHIRE        FM	KimmyJS19    Jun 2013
+39.850			3 CAS Gazelles, RNAS YEOVILTON	        SOMERSET	   FM	KimmyJS19    Apr 2006
+40.025                  RAF ODIHAM, AIR TO AIR (EGVO)	        HAMPSHIRE	   FM	KimmyJS19    Feb 2017
+40.075			7 SQUADRON OPS, RAF ODIHAM 	        HAMPSHIRE	   FM	KimmyJS19    Jul 2006
+40.200			Air Training Corps V14		        NATIONAL USAGE	   FM	KimmyJS19    Mar 2006
+40.200			Army Tactical Assault Landings 		NATIONAL USAGE 	   FM	KimmyJS19    May 2006
+40.225			Army Tactical Assault Landing Salisbury WILTSHIRE          FM	KimmyJS19    Dec 2002
+40.275			Army Salisbury Plain 		        WILTSHIRE          FM	KimmyJS19    May 2006
+40.300			Army Tactical Assault Landings 		NATIONAL USAGE     FM	KimmyJS19    May 2006
+40.665			BABY MONITORS/LOW POWER DEVICES		UK WIDE	           FM	KimmyJS19    Nov 2007
+40.675			BABY MONITORS/LOW POWER DEVICES		UK WIDE	           FM	KimmyJS19    Nov 2007
+40.685			BABY MONITORS/LOW POWER DEVICES		UK WIDE	           FM	KimmyJS19    Nov 2007
+40.695			BABY MONITORS/LOW POWER DEVICES		UK WIDE	           FM	KimmyJS19    Nov 2007
+41.100			RAF Odiham Wing Ops, RAF ODIHAM 	HAMPSHIRE	   FM	KimmyJS19    Apr 2006
+41.4375			Thetford Army Training Area THETFORD 	NORFOLK	           FM	KimmyJS19    Dec 2002
+42.250			Army Salisbury Plain Ex Desert Dragon 	WILTSHIRE	   FM	KimmyJS19    Sep 2006
+42.325			Royal Artillery Salisbury Plain 	WILTSHIRE	   FM	KimmyJS19    Dec 2002
+43.350			7 Sqdn Chinook Air-Air 			NATIONAL USAGE     FM	KimmyJS19    Aug 2006
+43.375			ROYAL NAVY YEOVILTON, AIR TO AIR COMMON	SOMERSET	   FM	KimmyJS19    Jan 2008
+43.700                  RAF & USAFE MILDENHALL, ATA (EGUN)      SUFFOLK	           FM	KimmyJS19    Mar 2015
+44.550			Army Salisbury Plain 		        WILTSHIRE	   FM	KimmyJS19    May 2006
+44.650                  MIDDLE WALLOP, 671 SQD, AIR TO AIR      NATIONAL USAGE     FM	KimmyJS19    Aug 2014
+45.000			UK Military Air To Air			NATIONAL USAGE     FM	KimmyJS19    Jul 2005
+45.725			Army Salisbury Plain 		        WILTSHIRE	   FM	KimmyJS19    May 2006
+45.750			RAF Regiment 			        NATIONAL USAGE     FM	KimmyJS19    May 2006
+46.325			Army Salisbury Plain 		        WILTSHIRE	   FM	KimmyJS19    Dec 2002
+46.425			3 AAC OPERATIONS, AAC WATTISHAM	        SUFFOLK	           FM	KimmyJS19    Mar 2006
+46.450                  RNAS YEOVILTON, AIR TO AIR (EGDY)       SOMERSET	   AM	KimmyJS19    Oct 2014
+46.450			Royal Marines, Air To Air Common	NATIONAL USAGE     FM	KimmyJS19    Sep 2006
+46.450			ROYAL NAVY/SEAKING Air to Air Common	NATIONAL USAGE     FM	KimmyJS19    Sep 2009
+46.500			Army Comms Exercise Eagles Flight 	NATIONAL USAGE	   FM	KimmyJS19    Dec 2002
+46.500                  RAF BENSON, 33 SQDN, AIR TO AIR         OXFORDSHIRE        FM	KimmyJS19    Jun 2013
+46.625 	  	        DRAGON OPERATIONS, UK                   NATIONAL USAGE	   FM	KimmyJS19    Nov 2012
+46.800                  RAF BRIZE NORTON, AIR TO AIR (EGVN)     NATIONAL USAGE	   FM	KimmyJS19    Oct 2015
+46.800			JACKDAW HELO, AIR TO AIR		NATIONAL USAGE     FM	KimmyJS19    Apr 2007
+46.850                  AIR TO AIR OPS, RAF SHAWBURY (EGOS)     SHROPSHIRE	   FM	KimmyJS19    Oct 2014
+47.100			YEOVIL WESTLAND AIRFIELD (EGHG)	        SOMERSET	   FM	KimmyJS19    Oct 2009
+47.100			MoD BOSCOMBE DOWN AIRFIELD (EGDM)	WILTSHIRE	   FM	KimmyJS19    Mar 2008
+47.400			VEHICLE PAGING ALARMS			UK WIDE            FM	KimmyJS19    Feb 2002
+47.41875  77.550	CT 1 CORDLESS PHONE FARMING EXTENDED	UK WIDE		   FM	KimmyJS19    Feb 2000
+47.43125  77.5125	CT 1 CORDLESS PHONE FARMING EXTENDED	UK WIDE		   FM	KimmyJS19    Feb 2000
+47.44375  1.762		OLD CT0 CORDLESS PHONE CH7     	        UK WIDE		   FM   KimmyJS19    Feb 2000
+47.45625  1.642		OLD CT0 CORDLESS PHONE CH1      	UK WIDE            FM   KimmyJS19    Feb 2000
+47.46875  1.662		OLD CT0 CORDLESS PHONE CH2		UK WIDE            FM   KimmyJS19    Feb 2000
+47.48125  1.682		OLD CT0 CORDLESS PHONE CH3		UK WIDE            FM   KimmyJS19    Feb 2000
+47.49375  1.702		OLD CT0 CORDLESS PHONE CH4		UK WIDE            FM   KimmyJS19    Feb 2000
+47.50625  1.722		OLD CT0 CORDLESS PHONE CH5		UK WIDE            FM   KimmyJS19    Feb 2000
+47.51875  1.742		OLD CT0 CORDLESS PHONE CH6		UK WIDE            FM   KimmyJS19    Feb 2000
+47.53125  1.762		OLD CT0 CORDLESS PHONE CH7		UK WIDE            FM   KimmyJS19    Feb 2000
+47.54375  1.782		OLD CT0 CORDLESS PHONE CH8              UK WIDE            FM   KimmyJS19    Feb 2000
+47.5500			JFMG LOCATION TALKBACK BASE		NATIONAL USAGE     FM	KimmyJS19    Oct 2002
+47.64375		BBC RADIO MIC CH			NATIONAL USAGE     FM	KimmyJS19    Jan 2002
+47.650			BBC RADIO SUFFOLK O/B LINK		SUFFOLK	           FM	KimmyJS19    Jan 2002
+47.94375                ITV Engineers Channel, STOCKPORT        CHESHIRE           FM	KimmyJS19    Mar 2000
+47.94375                ITV Engineers Channel 1                 UK WIDE            FM	KimmyJS19    Feb 2000
+47.95625                ITV Engineers Channel 2                 UK WIDE            FM	KimmyJS19    Feb 2000
+47.96875                ITV Engineers Channel 3                 UK WIDE            FM	KimmyJS19    Feb 2000
+48.025			845 Sqdn RNAS Yeovilton	RNAS YEOVILTON	SOMERSET	   FM	KimmyJS19    Oct 2003
+48.300			JFMG STEREO SOUND LINK			NATIONAL USAGE     FM	KimmyJS19    Oct 2002
+48.425			XPRESSION FM UNIVERSITY RADIO EXETER	DEVON	           FM	KimmyJS19    Jul 2006
+48.425			JFMG MONO SOUND LINK			NATIONAL USAGE     FM	KimmyJS19    Oct 2002
+48.425			WESSEX FM MONO SOUND LINK	 	WEST DORSET        FM	KimmyJS19    Oct 1998
+48.425			Birmingham BHBN Hospital Radio Link     WEST MIDLANDS      FM	KimmyJS19    Jun 2011
+48.450			RADIO CAROLINE LINK TX 		        ESSEX	           WFM	KimmyJS19    Oct 2002
+48.450			COASTWAY HOSPITAL RADIO LINK  	        SOUTH COAST        WFM	KimmyJS19    Oct 2002
+48.475			JFMG MONO SOUND LINK			NATIONAL USAGE     FM	KimmyJS19    Oct 2002
+48.525			JFMG MONO SOUND LINK			NATIONAL USAGE     FM	KimmyJS19    Oct 2002
+48.800			JFMG LOCATION TALKBACK BASE		NATIONAL USAGE     FM	KimmyJS19    Oct 2002
+48.975                  RADIO PAGING EQUIPMENT, SHORT TERM HIRE NATIONAL USAGE     FM   KimmyJS19    Feb 2015
+48.9875                 RADIO PAGING EQUIPMENT, SHORT TERM HIRE NATIONAL USAGE     FM   KimmyJS19    Feb 2015
+49.0000                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.0125                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.0250                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.0375                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.0500                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.0625                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.0750                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.0875                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.1000                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.1125                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.1250                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.1375                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.1500                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.1625                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.1750                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.1875                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.2000                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.2125                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.2250                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.2375                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.2500                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.2625                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.2750                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.2875                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.3000                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.3125                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.3250                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.3375                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.3500                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.3625                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.3750                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.3875                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.4000                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.4125                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.425   161.050        Prince Philip Hospital, LLANELLI, WALES CARMARTHENSHIRE	   FM   KimmyJS19    Apr 2018
+49.425   161.000        Leighton Hospital (PAGING), CREWE       CHESHIRE           FM	KimmyJS19    Jul 2017
+49.425   161.000        On Site Hospital Paging, DATA & SPEECH  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.425   161.000        Queen Alexandra Hospital Home, WORTHING SUSSEX             FM	KimmyJS19    Nov 2013
+49.425   161.050        Saint David's Hospital, CARMARTHEN      WALES              FM	KimmyJS19    Jan 2015
+49.425                  Duchy Private Hospital, TRURO (PAGING)  CORNWALL 	   FM	KimmyJS19    Aug 2015
+49.425                  Springfield Hospital, CHELMSFORD        ESSEX              FM   KimmyJS19    Jan 2016
+49.425                  Trafford General Hospital, URMSTON      GREATER MANCHESTER FM	KimmyJS19    Aug 2017
+49.425                  Leicester Royal Infirmary, LEICESTER    LEICESTERSHIRE     FM	KimmyJS19    Mar 2016
+49.425                  Liberton Hospital PAGING, EDINBURGH     SCOTLAND           FM	KimmyJS19    Feb 2016
+49.425                  BMI, The Runnymede Hospital, CHERTSEY   SURREY             FM	KimmyJS19    Jan 2011
+49.425                  Sussex Nuffield Hospital, BRIGHTON      SUSSEX             FM	KimmyJS19    Nov 2010
+49.425                  Nuffield Health Haywards Heath Hospital WEST SUSSEX        FM	KimmyJS19    Nov 2010
+49.4375  161.025        On Site Hospital Paging, DATA & SPEECH  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.4375                 Spire Cheshire Hospital, WARRINGTON     CHESHIRE           FM	KimmyJS19    Mar 2011
+49.4375                 BMI, Shirley Oaks Hospital, CROYDON     LONDON             FM	KimmyJS19    Jul 2016
+49.4375                 Clock House Medical Practice, EPSOM     SURREY             FM	KimmyJS19    Dec 2010
+49.450	 161.075 	Spire Bristol Hospital, Data & Paging   GLOUCESTERSHIRE    FM	KimmyJS19    Oct 2017
+49.450   161.050        On Site Hospital Paging, DATA & SPEECH  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.450   164.200        Royal Hallamshire Hospital, SHEFFIELD   SOUTH YORKSHIRE	   FM   KimmyJS19    Jan 2018
+49.450	 454.325	IPSWICH HOSPITAL PAGING, IPSWICH	SUFFOLK	           FM	KimmyJS19    Oct 2016
+49.450   161.000        Classic Hospitals (PAGING), ELLAND      WEST YORKSHIRE     FM   KimmyJS19    Dec 2016
+49.450   		Luton & Dunstable Hospital Pager, LUTON BEDFORDSHIRE	   FM   KimmyJS19    Jun 2016
+49.450			Orthapaedic Spine Hospital PETERBOROUGH CAMBRIDGESHIRE     FM	KimmyJS19    Feb 2011
+49.450			Carleton Clinic (Cumbria NHS)           CARLISLE           FM	KimmyJS19    Oct 2011
+49.450			Priory Royal Hospital, Cheadle Hulme    CHESHIRE           FM	KimmyJS19    Dec 2012
+49.450                  Hollins Park Hospital, WARRINGTON       CHESHIRE           FM   KimmyJS19    Oct 2015
+49.450                  Royal Cornwall Hospital Paging, TRURO	CORNWALL           FM	KimmyJS19    Nov 2017
+49.450                  St Micheals Hospital, Penpol Ave, HAYLE CORNWALL	   FM	KimmyJS19    Jun 2018
+49.450                  West Cumberland Hospital, WHITEHAVEN    CUMBRIA   	   FM	KimmyJS19    Apr 2016
+49.450			Weymouth Community Hospital DATA/PAGING DORSET             FM	KimmyJS19    Nov 2013
+49.450                  Nuffield Health Bournemouth Hospital    DORSET	           FM   KimmyJS19    May 2018
+49.450			Hull And East Yorkshire Hospitals, HULL EAST YORKSHIRE     FM	KimmyJS19    Sep 2010
+49.450			Thurrock Community Hospital, GRAYS      ESSEX              FM	KimmyJS19    Apr 2013
+49.450			Sancta Maria Hospital PAGING, SWANSEA   GLAMORGANSHIRE     FM	KimmyJS19    Aug 2012
+49.450		        Gloucestershire Royal Hospital Paging   GLOUCESTERSHIRE	   FM	KimmyJS19    Apr 2013
+49.450		 	BIRCH HILL HOSPITAL (PAGING) ROCHDALE   GREATER MANCHESTER FM   KimmyJS19    Sep 2015
+49.450		 	Tameside Gen Hospital ASHTON-UNDER-LYNE GREATER MANCHESTER FM   KimmyJS19    Nov 2015
+49.450                  BMI The Beaumont Hospital, BOLTON       GREATER MANCHESTER FM   KimmyJS19    Dec 2017
+49.450			SOUTHAMPTON GENERAL HOSPITAL, PAGING    HAMPSHIRE	   FM   KimmyJS19    Mar 2015
+49.450  		Wessex Nuffield Hospital, EASTLEIGH     HAMPSHIRE 	   FM   KimmyJS19    Oct 2016
+49.450			Wye Valley Nuffield Hospital, HEREFORD  HEREFORDSHIRE      FM	KimmyJS19    Sep 2010
+49.450                  Saint Albans City Hospital, ST ALBANS   HERTFORDSHIRE      FM	KimmyJS19    Apr 2018
+49.450			St Josephs Hospice, BISHOPSDALE	        KENT	           FM   KimmyJS19    Jan 2014
+49.450			Lincoln County Hospital DATA & PAGING   LINCOLNSHIRE       FM	KimmyJS19    Feb 2014
+49.450			Victoria Hospital, KINGSTON UPON THAMES LONDON	           FM   KimmyJS19    May 2014
+49.450			Hammersmith Hospitals NHS Trust         LONDON             FM	KimmyJS19    Jan 2011
+49.450		        St Marks Hospital, PAGING, LONDON       LONDON 	           FM   KimmyJS19    May 2014
+49.450			The Kings Oak Private Hospital, ENFIELD LONDON             FM	KimmyJS19    Jan 2011
+49.450			Great Ormond St Hospital For Children   LONDON             FM	KimmyJS19    Jan 2011
+49.450			North Manchester General Hospital 	MANCHESTER         FM	KimmyJS19    Oct 2009
+49.450		 	Kings Lynn & Wisbech Hospital           NORFOLK            FM	KimmyJS19    Sep 2010
+49.450		        Queen Elizabeth Hospital, KINGS LYNN    NORFOLK	           FM	KimmyJS19    Jan 2016
+49.450                  Whiteabbey Hospital, NEWTOWNABBEY	NORTHERN IRELAND   FM	KimmyJS19    Nov 2016
+49.450                  The Retreat PAGING, Heslington Rd, YORK NORTH YORKSHIRE    FM   KimmyJS19    Aug 2017
+49.450			DONCASTER ROYAL INFIRMARY, DONACASTER   SOUTH YORKSHIRE    FM	KimmyJS19    Jan 2015
+49.450			LLANDOUGH HOSPITAL Voice PAGING CARDIFF	SOUTH WALES	   FM	KimmyJS19    Dec 2002
+49.450			Wordsley Hospital, VOICE/DATA/PAGING    STOURBRIDGE        FM	KimmyJS19    Sep 2010
+49.450                  St Helier Hospital (PAGING), CARSHALTON SURREY             FM   KimmyJS19    Mar 2017
+49.450		        Glangwili General Hospital, CARMARTHEN  WALES              FM	KimmyJS19    Jan 2015
+49.450			Crawley Horsham NHS Trust, WAKEFIELD    WEST YORKSHIRE     FM	KimmyJS19    Jan 2011
+49.450			Bradford Royal Infirmary, BRADFORD      WEST YORKSHIRE     FM	KimmyJS19    Sep 2010
+49.4625  161.075        On Site Hospital Paging, DATA & SPEECH  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.475   161.100        On Site Hospital Paging, DATA & SPEECH  NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.475                  BMI Shelbourne Hospital, HIGH WYCOMBE   BUCKINGHAMSHIRE	   FM   KimmyJS19    Aug 2016
+49.475			Lincoln County Hospital DATA & PAGING   LINCOLNSHIRE       FM	KimmyJS19    Feb 2014
+49.4875                 On-Site PBR Paging, NON SPEECH, UK WIDE NATIONAL USAGE     FM   KimmyJS19    Nov 2014
+49.800			WIRELESS HEADPHONES NATIONAL		UK WIDE            WFM	KimmyJS19    Jan 2000
+49.820			JFMG TOURING CONFERENCE RADIO MICS	NATIONAL USAGE	   FM	KimmyJS19    Oct 2002
+49.820			Channel 1 LPD	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.830			Channel 2 LPD	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.830			LOW P BABY MONITORS/WALKIE TALKIES CH1 	UK WIDE            FM	KimmyJS19    Oct 2002
+49.830			Maxon Channel 1	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.830			Channel 3 LPD	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.830                  Common Fixed surveillance Bug HF-4 Band NATIONAL USAGE	   FM	KimmyJS19    Jan 2009
+49.845			Maxon Channel 2 	                UK WIDE            FM	KimmyJS19    Jan 2003
+49.845			LOW P BABY MONITORS/WALKIE TALKIES CH2 	UK WIDE            FM	KimmyJS19    Oct 2002
+49.850			Channel 4 LPD	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.855                  Common Fixed surveillance Bug HF-4 Band NATIONAL USAGE	   FM	KimmyJS19    Jan 2009
+49.860			LOW P BABY MONITORS/WALKIE TALKIES CH3 	UK WIDE            FM	KimmyJS19    Oct 2002
+49.860			Channel 5 LPD	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.860			Maxon Channel 3	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.870			Channel 6 LPD	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.875			LOW P BABY MONITORS/WALKIE TALKIES CH4 	UK WIDE            FM	KimmyJS19    Oct 2002
+49.875			Maxon Channel 4	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.890			Maxon Channel 5	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.890			Channel 7 LPD	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.890			LOW P BABY MONITORS/WALKIE TALKIES CH5 	UK WIDE            FM	KimmyJS19    Oct 2002
+49.890                  Common Fixed surveillance Bug HF-4 Band NATIONAL USAGE	   FM	KimmyJS19    Jan 2009
+49.900			Channel 8 LPD	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.910			Channel 9 LPD	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.920			Channel 10 LPD	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.930			Channel 11 LPD	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.940			Channel 12 LPD	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.950			Channel 13 LPD	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.960			Channel 14 LPD	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.970			Channel 15 LPD	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+49.980			JFMG TOURING CONFERENCE RADIO MICS	NATIONAL USAGE	   FM	KimmyJS19    Oct 2002
+49.960			Channel 16 LPD	                        NATIONAL USAGE	   FM	KimmyJS19    Jan 2003
+50.0000  50.1000        Beacons/Amateur Telegraphy 50-50.1 MHz  NATIONAL USAGE	   CW	KimmyJS19    Aug 2010
+50.000	                GB3BUX, AMATEUR BEACON, BUXTON          DERBYSHIRE         FM   KimmyJS19    Sep 2015
+50.016                  GB3BAA TRING, AMATEUR BEACON            HERTFORDSHIRE      FM   KimmyJS19    Jun 2014
+50.0424                 GB3MCB ST AUSTELL, BEACON               CORNWALL           FM   KimmyJS19    Jun 2014
+50.050                  GB3RAL DIDCOT, Rutherford Appleton Lab  OXFORDSHIRE        FM   KimmyJS19    Jun 2014
+50.060                  GB3RMK BEACON, INVERGORDON, HIGHLAND    SCOTLAND           FM   KimmyJS19    Jun 2014
+50.0625                 GB3NGI BALLYMENA, AMATEUR BEACON        NORTHERN IRELAND   FM   KimmyJS19    Jun 2014
+50.064                  GB3LER LERWICK, BEACON, SHETLAND ISLAND SCOTLAND           FM   KimmyJS19    Jun 2014
+50.065                  GB3IOJ, BEACON, LA MOYE, JERSEY         JERSEY             FM   KimmyJS19    Jun 2014
+50.4000                 MAOT MOBILE AIR OPERATIONS 		NATIONAL USAGE	   FM	KimmyJS19    Mar 2006
+50.5200  29.2100 	GB3WX-6 MERE, 6M REPEATER 77.0Hz        WILTSHIRE          FM	KimmyJS19    Jan 2019
+50.7200  51.2200        6M AMATEUR REPEATER ALLOCATION R50-01 	NATIONAL USAGE     FM	KimmyJS19    Jun 2014
+50.7200	 51.2200	GB3EF STOWMARKET, MARTLESHAM 110.9	SUFFOLK	           FM	KimmyJS19    Jan 2019
+50.7200	 51.2200	GB3AE PEMBROKE DOCK, PEMBROKESHIRE 94.8 WALES	           FM	KimmyJS19    Feb 2018
+50.7200	 51.2200	GB3BY KIDDERMINSTER  67                 WORCESTERSHIRE	   FM	KimmyJS19    Nov 2004
+50.7300  51.2300        GB3GC GUNNISLAKE, 6M REPEATER 77.0Hz    CORNWALL           FM	KimmyJS19    Jan 2019
+50.7300  51.2300        GB3XD LOUTH, 6M REPEATER 71.9Hz         LINCOLNSHIRE       FM	KimmyJS19    Mar 2018
+50.7300  51.2300        6M AMATEUR REPEATER ALLOCATION R50-02   NATIONAL USAGE     FM	KimmyJS19    Jun 2014
+50.7300  51.2300        GB3SL KILSYTH, 6M REPEATER 103.5Hz      NORTH LANARKSHIRE  FM	KimmyJS19    Jan 2019
+50.7400  51.2400        6M AMATEUR REPEATER ALLOCATION R50-03	NATIONAL USAGE     FM	KimmyJS19    Jun 2014
+50.7400	 51.2400	GB3UM MARKFIELD, 6M REPEATER 77.0       LEICESTERSHIRE	   FM	KimmyJS19    Jan 2019
+50.7400	 51.2400	GB3KB LONDON, 6M REPEATER 103.5 Hz      LONDON             FM	KimmyJS19    Jan 2019
+50.7500	 51.2500       	GB3TQ PAIGNTON, 6M REPEATER 77.0Hz      DEVON    	   FM	KimmyJS19    Sep 2013
+50.7500	 51.2500       	GB3LP LIVERPOOL	6M REPEATER 77.0Hz      MERSEYSIDE	   FM	KimmyJS19    Jan 2019
+50.7500  51.2500        6M AMATEUR REPEATER ALLOCATION R50-04 	NATIONAL USAGE     FM	KimmyJS19    Jun 2014
+50.7600  51.2600	6M AMATEUR REPEATER ALLOCATION R50-05   NATIONAL USAGE     FM	KimmyJS19    Jun 2014
+50.7600	 51.2600	GB3HF BARNSLEY 6M REPEATER 71.9Hz       SOUTH YORKSHIRE	   FM	KimmyJS19    Nov 2017
+50.7700	 51.2700	GB3DB DANBURY, 6 METRE REPEATER 110.9   ESSEX	           FM	KimmyJS19    Jan 2019
+50.7700  51.2700        6M AMATEUR REPEATER ALLOCATION R50-06   NATIONAL USAGE     FM	KimmyJS19    Jun 2014
+50.7700	 51.2700	GB3FH SOMERSET, 6 METRE REPEATER 77.0   SOMERSET	   FM	KimmyJS19    Jan 2019
+50.7800  51.2800 	GB3PX BARKWAY, ROYSTON, REPEATER 77.0Hz HERTFORDSHIRE      FM	KimmyJS19    Oct 2018
+50.7800  51.2800        6M AMATEUR REPEATER ALLOCATION R50-07   NATIONAL USAGE     FM	KimmyJS19    Jun 2014
+50.7800	 51.2800	GB3TY CARRICKFERGUS, 6 METRE 110.9      NORTHERN IRELAND   FM	KimmyJS19    Oct 2018
+50.7900	 51.2900	GB3SX STOKE ON TRENT, 6M REPEATER 103.5 STAFFORDSHIRE	   FM	KimmyJS19    Oct 2018
+50.7900  51.2900        6M AMATEUR REPEATER ALLOCATION R50-08   NATIONAL USAGE     FM	KimmyJS19    Jun 2014
+50.8000  51.3000        GB3ZY BRISTOL, 6 METRE REPEATER 77.0    GLOUCESTERSHIRE    FM	KimmyJS19    Nov 2018
+50.8000  51.3000        6M AMATEUR REPEATER ALLOCATION R50-09   NATIONAL USAGE     FM	KimmyJS19    Jun 2014
+50.8000	 51.3000	GB3WY WAKEFIELD, 6M REPEATER 82.5	WEST YORKSHIRE	   FM	KimmyJS19    Jan 2019
+50.8100  51.3100        6M AMATEUR REPEATER ALLOCATION R50-10   NATIONAL USAGE     FM	KimmyJS19    Jun 2014
+50.8100	 51.3100	GB3FX FARNHAM, 6M REPEATER 82.5         SURREY	           FM	KimmyJS19    Jan 2019
+50.8200  51.3200        6M AMATEUR REPEATER ALLOCATION R50-11   NATIONAL USAGE     FM	KimmyJS19    Jun 2014
+50.8200  51.3200 	GB3HM BELPER, 6M REPEATER 71.9Hz        DERBYSHIRE	   FM	KimmyJS19    Oct 2018
+50.8200	 51.3200	GB3RR HUCKNALL, 6M REPEATER 71.9        NOTTINGHAMSHIRE	   FM	KimmyJS19    Nov 2004
+50.8300  51.3300        6M AMATEUR REPEATER ALLOCATION R50-12   NATIONAL USAGE     FM	KimmyJS19    Jun 2014
+50.8300  51.3300	GB3JX NORWICH, 6M REPEATER 94.8Hz	NORFOLK	           FM	KimmyJS19    Mar 2015
+50.8300  51.3300 	GB3GT LUDLOW, 6M REPEATER 103.5         SHROPSHIRE         FM	KimmyJS19    Aug 2016
+50.8300  51.3300        GB3EC BURY ST EDMUNDS 110.9Hz           SUFFOLK            FM	KimmyJS19    Jan 2019
+50.8400	 51.3400	GB3AM AMERSHAM, 6M REPEATER 77.0Hz      BUCKINGHAMSHIRE	   FM	KimmyJS19    Feb 2018
+50.8400  51.3400        6M AMATEUR REPEATER ALLOCATION R50-13   NATIONAL USAGE     FM	KimmyJS19    Jun 2014
+50.8500  51.3500        GB3PD PORTSMOUTH, 6M REPEATER 71.9      HAMPSHIRE          FM	KimmyJS19    Feb 2011
+50.8500  51.3500        6M AMATEUR REPEATER ALLOCATION R50-14   NATIONAL USAGE     FM	KimmyJS19    Jun 2014
+50.8600  51.3600	6M AMATEUR REPEATER ALLOCATION R50-15   NATIONAL USAGE     FM	KimmyJS19    Jun 2014
+50.8600  51.3600        GB3VI SUTTON COLDFIELD, 6MTR 67.0Hz     WEST MIDLANDS      FM	KimmyJS19    Oct 2018
+51.100			33 AND 28 SQDN AIR TO AIR  RAF BENSON 	OXFORDSHIRE	   FM	KimmyJS19    Apr 2006
+51.210			RAYNET Emergency Ham Radio Network	NATIONAL USAGE	   FM	KimmyJS19    Jun 2004
+51.250			Military AIR TO AIR EXERCISES		NATIONAL USAGE     FM	KimmyJS19    Feb 2006
+51.400			RAF ODIHAM, 18 SQUADRON OPS (EGVO) 	HAMPSHIRE	   FM	KimmyJS19    Dec 2008
+51.400			33 Sqdn, Chinook Air-Air, RAF BENSON 	OXFORDSHIRE	   FM	KimmyJS19    Aug 2005
+51.400                  RAF ODIHAM, AIR TO AIR                  NATIONAL USAGE     FM	KimmyJS19    May 2009
+51.410                  AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.420                  AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.430			AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.440			AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.450			AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.460                  AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.470			AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.480                  AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.490			AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.500                  AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.510			AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.520                  AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.530			AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.530			6M GB2RS NEWS (ALSO TX ON 3.650 MHz)	NATIONAL USAGE	   FM	KimmyJS19    Oct 2006
+51.540                  AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.550			AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.560			AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.570			AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.580                  AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.590			AMATEUR RADIO 6 METER SIMPLEX           NATIONAL USAGE     FM	KimmyJS19    Sep 2013
+51.650			AAC Woodbridge, WOODBRIDGE	        SUFFOLK	           FM	KimmyJS19    Aug 2005
+51.650                  RAYNET Radio Amateurs Emergency Network NATIONAL USAGE     FM	KimmyJS19    Sep 2015
+51.725                  MIDDLE WALLOP, 670 SQD, AIR TO AIR      NATIONAL USAGE     FM	KimmyJS19    Aug 2014
+51.750                  RAYNET Radio Amateurs Emergency Network NATIONAL USAGE     FM	KimmyJS19    Sep 2015
+51.770                  RAYNET Radio Amateurs Emergency Network NATIONAL USAGE     FM	KimmyJS19    Sep 2015
+51.790                  RAYNET Radio Amateurs Emergency Network NATIONAL USAGE     FM	KimmyJS19    Sep 2015
+51.910			AMATEUR RADIO 6 M INTERNET GATEWAY	UK		   FM	KimmyJS19    Oct 2004
+51.930			AMATEUR RADIO 6 M INTERNET GATEWAY	UK		   FM	KimmyJS19    Oct 2004
+51.950			AMATEUR RADIO 6 M INTERNET GATEWAY	UK		   FM	KimmyJS19    Oct 2004
+52.000		        JFMG LOCATION TALKBACK MOBILE		NATIONAL USAGE     FM	KimmyJS19    Oct 2002
+52.225			BBC TV O/B LINK			        UK WIDE            FM	KimmyJS19    Jan 2002
+52.225			36 Signals Regiment 			UK WIDE            FM	KimmyJS19    Oct 2002
+52.700			RAF Regiment 			        UK WIDE            FM	KimmyJS19    Oct 2002
+52.750			GTFM COMMUNITY RADIO LINK, PONTYPRDD	SOUTH WALES	   FM	KimmyJS19    Dec 2002
+52.750			JFMG STEREO SOUND LINK			UK WIDE            FM	KimmyJS19    Oct 2002
+52.875			BBC RADIO SHEFFIELD, SHEFFIELD	        SOUTH YORKSHIRE	   FM	KimmyJS19    Apr 2003
+52.875			JFMG MONO SOUND LINK			UK WIDE            FM	KimmyJS19    Oct 2002
+52.900			ROOKWOOD HOSPITAL RADIO LINK CARDIFF	SOUTH WALES	   FM	KimmyJS19    Dec 2002
+52.925			SWANSEA UNIVERSITY RADIO LINK 1431 KHZ  SOUTH WALES	   FM	KimmyJS19    Aug 2000
+52.925			JFMG MONO SOUND LINK			UK WIDE            FM	KimmyJS19    Oct 2002
+52.950			JFMG LOCATION TALKBACK MOBILE		NATIONAL USAGE     FM	KimmyJS19    Oct 2002
+52.950			OAP HOMES RADIO NET,CASTLEPOINT,CANVEY 	ESSEX	           FM	KimmyJS19    Dec 2005
+53.750			JFMG PORTABLE AUDIO LINKS		UK WIDE	           FM	KimmyJS19    Oct 2002
+53.750			JFMG PORTABLE AUDIO LINKS		UK WIDE        	   FM	KimmyJS19    Jun 2005
+53.800			JFMG L/POWER FIXED SITE CONFERENCE	UK WIDE		   FM	KimmyJS19    Oct 2002
+53.950			JFMG PORTABLE AUDIO LINKS		UK WIDE	           FM	KimmyJS19    Jun 2005
+54.100			JFMG L/POWER FIXED SITE CONFERENCE	UK WIDE		   FM	KimmyJS19    Oct 2002
+54.150			JFMG PORTABLE AUDIO LINKS		UK WIDE	           FM	KimmyJS19    Jun 2005
+54.300			JFMG L/POWER FIXED SITE CONFERENCE	UK WIDE		   FM	KimmyJS19    Oct 2002
+54.350			JFMG PORTABLE AUDIO LINKS		UK WIDE	           FM	KimmyJS19    Jun 2005
+54.550			JFMG PORTABLE AUDIO LINKS		UK WIDE	           FM	KimmyJS19    Jun 2005
+54.700			JFMG L/POWER FIXED SITE CONFERENCE	UK WIDE		   FM	KimmyJS19    Oct 2002
+54.750			JFMG PORTABLE AUDIO LINKS		UK WIDE	           FM	KimmyJS19    Jun 2005
+54.775			36 Signals Regiment 			UK WIDE            FM	KimmyJS19    Jun 2005
+54.800			845 Sqdn Yeovilton Sea King Air-Air 	SOMERSET	   FM	KimmyJS19    Jun 2005
+54.950			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE     FM	KimmyJS19    Jun 2005
+55.000			Royal Marines Security Command		NATIONAL USAGE 	   FM	KimmyJS19    Jun 2005
+55.150			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE     FM	KimmyJS19    Jun 2005
+55.350			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+55.400			JFMG L/POWER FIXED SITE CONFERENCE	NATIONAL USAGE     FM	KimmyJS19    Oct 2002
+55.500			JFMG L/POWER FIXED SITE CONFERENCE	NATIONAL USAGE     FM	KimmyJS19    Oct 2002
+55.550			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+55.750			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Oct 2002
+55.750			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+60.000			36 Signals Regiment 0500		NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+60.4125                 Westermo Data Communications, UK WIDE   NATIONAL USAGE     FM	KimmyJS19    Feb 2015
+60.4625                 Network Rail, ENGLAND/WALES/SCOTLAND    NATIONAL USAGE	   FM   KimmyJS19    Jan 2018
+60.750			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Oct 2002
+60.750			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+60.950			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+61.150			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+61.250			36 Signals Regiment 0500		NATIONAL USAGE	   FM	KimmyJS19    Jul 2005
+61.350			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+61.550			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+61.750			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+61.800			BBC RADIO ESSEX RADIO MIC		ESSEX	           FM	KimmyJS19    Sep 2004
+61.800			MILLENIUM STADIUM AUDIO LINK, CARDIFF 	SOUTH WALES	   WFM	KimmyJS19    Mar 2004
+61.950			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+62.150			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+62.350			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+62.550			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+62.750			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Oct 2002
+62.750			JFMG PORTABLE AUDIO LINKS		NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+64.8125                 Ambitalk (Maxxwave) Trunked Radio       NATIONAL USAGE	   FM	KimmyJS19    Oct 2018
+64.8375                 Ambitalk (Maxxwave) Trunked Radio       NATIONAL USAGE	   FM	KimmyJS19    Oct 2018
+66.21875                Ambitalk (Maxxwave) Trunked Radio       NATIONAL USAGE	   FM	KimmyJS19    Oct 2018
+66.2250  67.4250        Ambitalk (Maxxwave) Trunked Radio       NATIONAL USAGE	   FM	KimmyJS19    Oct 2018
+66.3250  67.5250        Ambitalk (Maxxwave) Trunked Radio       NATIONAL USAGE	   FM	KimmyJS19    Oct 2018
+66.4000  67.6000        Ambitalk (Maxxwave) Trunked Radio       NATIONAL USAGE	   FM	KimmyJS19    Oct 2018
+66.4500  67.6500        Ambitalk (Maxxwave) Trunked Radio       NATIONAL USAGE	   FM	KimmyJS19    Oct 2018
+66.5250  67.7250        Ambitalk (Maxxwave) Trunked Radio       NATIONAL USAGE	   FM	KimmyJS19    Oct 2018
+66.6250  67.8250        Ambitalk (Maxxwave) Trunked Radio       NATIONAL USAGE	   FM	KimmyJS19    Oct 2018
+66.7000  67.9000        Ambitalk (Maxxwave) Trunked Radio       NATIONAL USAGE	   FM	KimmyJS19    Oct 2018
+66.8125                 Ambitalk (Maxxwave) Trunked Radio       NATIONAL USAGE	   FM	KimmyJS19    Oct 2018
+66.8375                 Ambitalk (Maxxwave) Trunked Radio       NATIONAL USAGE	   FM	KimmyJS19    Oct 2018
+67.21875 60.21875       MET OFFICE, ENGLAND WIDE LICENCE        ENGLAND            FM	KimmyJS19    Feb 2015
+67.61875                Network Rail Infrastructure, UK Wide    NATIONAL USAGE	   FM	KimmyJS19    Oct 2014
+67.76875 74.71250	JFMG TEMPORARY TALKBACK BBC MAIN USERS	UK WIDE 	   FM	KimmyJS19    Oct 2002
+67.79375 75.28125	JFMG TEMPORARY TALKBACK BBC MAIN USERS	UK WIDE		   FM	KimmyJS19    Oct 2002
+67.80625		JFMG TEMPORARY TALKBACK BBC MAIN USERS	UK WIDE		   FM	KimmyJS19    Oct 2002
+67.83125 75.29375	BBC TALKBACK  ROLF ON ART BIG PICTURE	LONDON             FM	KimmyJS19    Oct 2005
+67.83125 75.29375	JFMG TEMPORARY TALKBACK BBC MAIN USERS	UK WIDE		   FM	KimmyJS19    Oct 2002
+67.93125                Antelope Mental Health Unit             SOUTHAMPTON        FM   KimmyJS19    Mar 2011
+67.94375                Arrowe Park Hospital, WIRRAL            CHESHIRE	   FM	KimmyJS19    Feb 2013
+67.94375                Treetops School, Buxton Road, GRAYS     ESSEX   	   FM	KimmyJS19    Nov 2013
+67.94375                Gloucester College, CHELTENHAM          GLOUCESTERSHIRE    FM   KimmyJS19    Mar 2014
+67.94375                Tewkesbury Borough Council, CHELTENHAM  GLOUCESTERSHIRE    FM   KimmyJS19    Jan 2011
+67.94375                Denton Community College, DENTON        GREATER MANCHESTER FM   KimmyJS19    Apr 2012
+67.94375                Sevenoaks School, SEVENOAKS             KENT               FM   KimmyJS19    Dec 2015
+67.94375		St Georges Hospital, LINCOLN            LINCOLNSHIRE       FM	KimmyJS19    Feb 2014
+67.94375                Baxter Healthcare (LOW POWER), THETFORD NORFOLK            FM   KimmyJS19    Dec 2017
+67.94375        	New Cross Hospital, WOLVERHAMPTON       WEST MIDLANDS      FM	KimmyJS19    Dec 2014
+67.95625        	CHESTERFIELD ROYAL HOSPITAL             DERBYSHIRE	   FM   KimmyJS19    Aug 2014
+67.95625                Northgate Primary School, CRAWLEY       EAST SUSSEX        FM   KimmyJS19    Oct 2011
+67.95625                Baxter Healthcare (LOW POWER), THETFORD NORFOLK            FM   KimmyJS19    Dec 2017
+67.95625                Staffordshire Ambulance Service         STAFFORDSHIRE      FM   KimmyJS19    Mar 2011
+67.95625		Monkseaton High School, WHITLEY BAY     TYNE AND WEAR      FM	KimmyJS19    Mar 2013
+67.95625                Woodside Primary School, BRADFORD       WEST YORKSHIRE     FM   KimmyJS19    Nov 2012
+67.95625         	Bradford Royal Infirmary, BRADFORD 	WEST YORKSHIRE	   FM	KimmyJS19    Oct 2014
+67.96875           	Wilberforce College, HULL	        EAST YORKSHIRE     FM	KimmyJS19    Apr 2014
+67.96875                AB World Foods Limited                  LANCASHIRE         FM   KimmyJS19    Dec 2010
+67.96875                Castle Hill Primary School, GLOUCESTER  GLOUCESTERSHIRE    FM   KimmyJS19    Dec 2010
+67.96875                Lord Wandsworth College, Long Sutton    HAMPSHIRE          FM   KimmyJS19    Oct 2011
+67.98125                Adelaide Primary School                 EAST YORKSHIRE     FM   KimmyJS19    Nov 2010
+67.98125                Kitchen Range Foods, Hinchingbrooke Pk  HUNTINGDONSHIRE    FM   KimmyJS19    Mar 2011
+67.98125                St Nicholas Cofe School DATA, BLACKPOOL LANCASHIRE         FM   KimmyJS19    Jul 2016
+67.98125                Royal Academy Music, Marylebone LONDON  MIDDLESEX          FM   KimmyJS19    Dec 2011
+67.98125                Warburtons, Meadowbank Way, Eastwood    NOTTINGHAMSHIRE    FM   KimmyJS19    Oct 2011
+67.98125                Nottingham High School, Waverley Mount  NOTTINGHAMSHIRE    FM	KimmyJS19    May 2014
+67.98125                Hunslet Carr Primary School, LEEDS      WEST YORKSHIRE     FM   KimmyJS19    Jul 2011
+67.98125            	South Craven School, KEIGHLEY           WEST YORKSHIRE	   FM	KimmyJS19    Jan 2015
+67.99375                Astrazeneca Uk, MACCLESFIELD            CHESHIRE           FM   KimmyJS19    Feb 2011
+67.99375                Moorlands Junior School, SALE           GREATER MANCHESTER FM   KimmyJS19    Aug 2014
+67.99375                Renfrewshire Council, GLASGOW           SCOTLAND           FM   KimmyJS19    Mar 2011
+67.99375                Thurcroft Junior School, ROTHERHAM      SOUTH YORKSHIRE    FM   KimmyJS19    Apr 2012
+67.99375                University Of Bradford, BRADFORD        WEST YORKSHIRE     FM   KimmyJS19    Nov 2012
+68.2250			DERBYSHIRE BBC ENGINEERS CH4	        DERBYSHIRE	   FM	KimmyJS19    Jan 2002
+68.4750			QINETIQ RANGE, BENBECULA HEBRIDES	SCOTLAND	   FM	KimmyJS19    Dec 2002
+68.5000                 Govan Primary School, GLASGOW           SCOTLAND           FM   KimmyJS19    Mar 2011
+68.5250			QINETIQ RANGE, BENBECULA HEBRIDES 	SCOTLAND	   FM	KimmyJS19    Dec 2002
+68.6250			PMR PARKING & DEMONSTRATION, SINGLE	NATIONAL USAGE     FM	KimmyJS19    Feb 2015
+68.6500                 Bradford MC, Beckfoot School, BINGLEY   WEST YORKSHIRE     FM	KimmyJS19    Nov 2013
+68.6750			QINETIQ RANGE, BENBECULA HEBRIDES 	SCOTLAND	   FM	KimmyJS19    Dec 2002
+68.7250                 Duloch Taxis, DUNFERMLINE, FIFE         SCOTLAND	   FM   KimmyJS19    Jan 2016
+68.8375	                Kingstanding Taxis, BIRMINGHAM          WEST MIDLANDS      FM   KimmyJS19    Mar 2011
+68.8750			Honington Army, RAF HONINGTON 	        SUFFOLK	           FM	KimmyJS19    Dec 2002
+69.0125                 Bridgewater High School, WARRINGTON     CHESHIRE           FM   KimmyJS19    Apr 2012
+69.1000 		THISTLE TAXIS, PERTH, PERTH & KINROSS   SCOTLAND	   FM   KimmyJS19    Dec 2016
+69.1000 		Tudor Grange Academy, WORCESTER         WORCESTERSHIRE	   FM   KimmyJS19    Jun 2014
+69.15625 82.65625	JFMG LOCATION TALKBACK DUPLEX		NATIONAL USAGE     FM	KimmyJS19    Jun 2005
+69.16875 82.66875	JFMG LOCATION TALKBACK DUPLEX		NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+69.18125 82.68125	JFMG LOCATION TALKBACK DUPLEX		NATIONAL USAGE	   FM	KimmyJS19    Jul 2005
+69.500                  I T T DEFENCE, VIABLES, BASINGSTOKE     HAMPSHIRE          FM	KimmyJS19    Oct 2017
+69.575			QINETIQ RANGE, BENBECULA HEBRIDES 	SCOTLAND	   FM	KimmyJS19    Dec 2002
+70.000                  GB3BUX BUXTON, Buxton Beacon            DERBYSHIRE         CW   KimmyJS19    May 2014
+70.007                  GB3WSX, Yeovil Beacon                   SOMERSET           FM   KimmyJS19    Jun 2014
+70.016                  GB3BAA TRING, AMATEUR BEACON            HERTFORDSHIRE      FM   KimmyJS19    Jun 2014
+70.020                  GB3ANG ANGUS, AMATEUR BEACON            SCOTLAND           FM   KimmyJS19    May 2014
+70.025                  GB3MCB, St Austell Beacon               CORNWALL           FM   KimmyJS19    Jun 2014
+70.027                  GB3CFG, Carrickfergus Beacon            NORTHERN IRELAND   FM   KimmyJS19    Jun 2014
+70.050                  GB3RAL, Rutherford Appleton Lab DIDCOT  OXFORDSHIRE        FM   KimmyJS19    Jun 2014
+70.200			Army Cadet Force 		        NATIONAL USAGE	   FM	KimmyJS19    Dec 2002
+70.200			CW/SSB Calling Channel 		        UK WIDE        CW/SSB	KimmyJS19    Mar 2006
+70.260			AMATEUR RADIO 4 M CALLING		UK WIDE	        AM/FM   KimmyJS19    Oct 2004
+70.260			AM Calling Channel		        NATIONAL USAGE	   AM   KimmyJS19    Feb 2005
+70.300			Fax/RTTY Calling Channel		NATIONAL USAGE	   FM   KimmyJS19    Feb 2005
+70.3125			Amateur Packet Channel		        NATIONAL USAGE	   FM   KimmyJS19    Feb 2005
+70.325			Amateur Packet Channel		        NATIONAL USAGE	   FM   KimmyJS19    Feb 2005
+70.350			RAYNET Radio Amateurs Emergency Network NATIONAL USAGE     FM	KimmyJS19    May 2016
+70.375			RAYNET Radio Amateurs Emergency Network NATIONAL USAGE     FM	KimmyJS19    May 2016
+70.3875			AMATEUR RADIO 4 M INTERNET GATEWAY	UK WIDE		   FM	KimmyJS19    Oct 2004
+70.400			RAYNET Radio Amateurs Emergency Network NATIONAL USAGE     FM	KimmyJS19    May 2016
+70.4125			AMATEUR RADIO 4 M INTERNET GATEWAY	UK WIDE		   FM	KimmyJS19    Oct 2004
+70.425			AMATEUR 6 M GB2RS NEWS			UK WIDE            FM	KimmyJS19    Oct 2004
+70.450		        AMATEUR 6M CALLING CHANNEL		NATIONAL USAGE	   FM	KimmyJS19    Jul 2014
+70.4875			Amateur Packet Channel		        NATIONAL USAGE	   FM   KimmyJS19    Feb 2005
+70.5125	 80.425		LJ Northumbria Round Meadow Scan & Vote NORTHUMBRIA	   FM	KimmyJS19    Dec 2002
+70.6875	 80.425		LJ Northumbria Loansdean Scan Vote 	NORTHUMBRIA	   FM	KimmyJS19    Dec 2002
+70.775	 80.425		LJ Northumbria High Scan And Vote 	NORTHUMBRIA	   FM	KimmyJS19    Dec 2002
+70.8625	 80.425		LJ Northumbria Ottercops Scan And Vote 	NORTHUMBRIA	   FM	KimmyJS19    Dec 2002
+70.9125			London Fire Brigade Data Ch, LONDON	LONDON	           FM   KimmyJS19    Jun 2007
+71.0625	 80.425		LJ Northumbria Camphill [Scan And Vote] NORTHUMBRIA	   FM	KimmyJS19    Dec 2002
+71.2625                 Windsor Castle Park Rangers 118.8       BERKSHIRE	   FM	KimmyJS19    Mar 2007
+71.5600                 Bug or Baby Monitor in Home Constant TX DERBYSHIRE         FM   KimmyJS19    Nov 2009
+72.1000                 Buxton Health and Safety Labs, BUXTON   DERBYSHIRE         FM   KimmyJS19    Feb 2011
+72.375			PEA HARVESTERS, HUMBERSIDE 162.2	HUMBERSIDE	   FM	KimmyJS19    Jun 2006
+72.375			PMR PARKING & DEMONSTRATION, OFCOM	NATIONAL USAGE     FM	KimmyJS19    Feb 2015
+72.375			SHORT TERM HIRE, SUPPLIERS LIGHT        NATIONAL USAGE     FM	KimmyJS19    Feb 2015
+72.375			VARIOUS MIXED USERS ACCROSS UK          NATIONAL USAGE     FM	KimmyJS19    Feb 2015
+72.400                  I T T DEFENCE, VIABLES, BASINGSTOKE     HAMPSHIRE          FM	KimmyJS19    Oct 2017
+72.8125			HM Naval Base Security PORTSMOUTH 123	HAMPSHIRE	   FM	KimmyJS19    May 2007
+72.950			Military Unid, Hampshire 		HAMPSHIRE	   FM	KimmyJS19    Dec 2001
+72.9875			MOD Security Devonport, PLYMOUTH	DEVON	           FM	KimmyJS19    Jun 2004
+73.2125			RN Transport, Portsmouth 123 	        HAMPSHIRE	   FM	KimmyJS19    May 2003
+73.225			Unid Military, Hampshire 		HAMPSHIRE	   FM	KimmyJS19    Dec 2001
+73.2875			Unid Military, Poss RN Porstmouth 	HAMPSHIRE	   FM	KimmyJS19    Dec 2001
+73.3375			Sea Cadets, UK WIDE		        NATIONAL USAGE	   FM	KimmyJS19    Apr 2007
+73.350			Lulworth Range Safety Land	        DORSET	           FM	KimmyJS19    Dec 2004
+73.3625			Sea Cadets SCL22 1299		        NATIONAL USAGE	   FM	KimmyJS19    Apr 2007
+73.3875			Sea Cadets SCL23 1299		        NATIONAL USAGE	   FM	KimmyJS19    Apr 2007
+73.3875			Swansea Sea Cadets		        SOUTH WALES	   FM	KimmyJS19    May 2007
+73.425			RN Portsmouth Electricians 	        HAMPSHIRE	   FM	KimmyJS19    May 2003
+73.450  		RN Portsmouth Movements, PORTSMOUTH 	HAMPSHIRE	   FM	KimmyJS19    Dec 2001
+73.4625			Army Cadet Force 0602		        NATIONAL USAGE	   FM	KimmyJS19    Dec 2002
+73.4875			Sea Cadets SCL24 1299		        NATIONAL USAGE	   FM   KimmyJS19    Apr 2007
+73.500                  MoD Boscombe Down, Westland Ops (EGDM)  WILTSHIRE          FM	KimmyJS19    Jul 2015
+73.5875			Royal Marines, POOLE 151.4              DORSET	           FM	KimmyJS19    Dec 2001
+73.750			RADEX LYNX, WESTLAND YEOVIL AIRFIELD	SOMERSET	   FM	KimmyJS19    Jan 2007
+73.750                  MOD BOSCOMBE DOWN QINETIQ, OPERATIONS	WILTSHIRE	   FM	KimmyJS19    Jul 2014
+73.950			RN Portsmouth Electricians, PORTSMOUTH 	HAMPSHIRE	   FM	KimmyJS19    Dec 2001
+75.7375			DVP/Cougarnet, North Surrey 		SURREY	           FM	KimmyJS19    Dec 2002
+75.9375			Army Cadets, Salisbury Plain		WILTSHIRE	   FM	KimmyJS19    Jun 2004
+76.500			QINETIQ, Aberporth Range, CARDIGAN BAY  WEST WALES	   FM	KimmyJS19    Dec 2002
+76.600			QINETIQ, Aberporth Range, CARDIGAN BAY  WEST WALES	   FM	KimmyJS19    Dec 2002
+77.300			Scottish Office Emergency Voice Network SCOTLAND	   FM	KimmyJS19    Dec 2001
+77.500			Duddon & Furness Mountain Rescue Team   CUMBRIA	           FM	KimmyJS19    Jan 2018
+77.500                  St Leonards School Scotland ST. ANDREWS FIFESHIRE          FM	KimmyJS19    Aug 2012
+77.500  		RWB Motor Engineers, EDINBURGH          SCOTLAND	   FM   KimmyJS19    Mar 2015
+77.525                  Langdale Ambleside Mountain Rescue Team CUMBRIA            FM   KimmyJS19    Jun 2015
+77.525                  Driffield School, DRIFFIELD             EAST YORKSHIRE     FM   KimmyJS19    Jan 2018
+77.525                  St. Charles Sixth Form College          LONDON             FM   KimmyJS19    Mar 2011
+77.525			Warwicks Carillion Highway Maintenance	WARWICKSHIRE       FM	KimmyJS19    Nov 2012
+77.5375			Manor Farm, Sherington, NEWPORT PAGNELL BUCKINGHAMSHIRE    FM   KimmyJS19    Oct 2011
+77.5375			Mount View Farm, Constantine, FALMOUTH  CORNWALL	   FM	KimmyJS19    Aug 2018
+77.5375		        BOGEE FARM, St Ervan, WADEBRIDGE        CORNWALL	   FM	KimmyJS19    Jun 2015
+77.5375			R PROUSE CONTRACTORS, HOLSWORTHY        DEVON    	   FM	KimmyJS19    Jan 2018
+77.5375			UNID MOBILES WANTAGE WORKS 67 MA15	OXFORDSHIRE	   FM	KimmyJS19    Jan 2007
+77.5375			Jackson's Taxis, Stonehaven, Perth      SCOTLAND           FM   KimmyJS19    Mar 2011
+77.5375			A1 CABS TAXIS, ELGIN, MORAY             SCOTLAND           FM   KimmyJS19    Dec 2016
+77.5375			Rainbow Taxis, DENNY, FALKIRK           SCOTLAND           FM   KimmyJS19    Feb 2015
+77.5375			Mairs Taxis, Lerwick, SCOTLAND          SHETLAND ISLANDS   FM   KimmyJS19    Oct 2017
+77.5375 	        Guisley J & N School, LEEDS             WEST YORKSHIRE     FM	KimmyJS19    Aug 2013
+77.650            	242 Cars Taxis, WARRINGTON              CHESHIRE           FM   KimmyJS19    Oct 2015
+77.650            	GMC Great British Taxis, DAVENTRY       NORTHAMPTONSHIRE   FM   KimmyJS19    Apr 2014
+77.675			Duddon & Furness Mountain Rescue Team   CUMBRIA	           FM	KimmyJS19    Jan 2018
+77.675                  Beechenwood Farm House, CROWBOROUGH     EAST SUSSEX        FM	KimmyJS19    Nov 2016
+77.675			AC CABS, KIRKCALDY, FIFE 	        SCOTLAND	   FM   KimmyJS19    Jul 2015
+77.675			A & B, S R Taxis, PITLOCHRY, PERTHSHIRE SCOTLAND           FM	KimmyJS19    Dec 2012
+77.675			J.K Taxis, STIRLING, STIRLINGSHIRE 	SCOTLAND	   FM   KimmyJS19    Jun 2015
+77.6875  		UKG Simple Light LOW VHF1 UK Wide       NATIONAL USAGE     FM	KimmyJS19    Mar 2013
+77.6875			B & M TAXIS, CUPAR, FIFE                SCOTLAND	   FM	KimmyJS19    Sep 2006
+77.6875			LSJ 1 ST JOHN AMBULANCE UK GENERAL 	UK WIDE 	   FM	KimmyJS19    Dec 2003
+77.725			Wayne Morris Taxis, Skegness	        LINCOLNSHIRE       FM	KimmyJS19    Oct 2011
+77.725			M T S Taxis, Crossgate, Cupar, Fife     SCOTLAND	   FM	KimmyJS19    Oct 2011
+77.725			Steves Taxis, STRATHAVEN, NEAR GLASGOW  SCOTLAND	   FM	KimmyJS19    Jul 2014
+77.800                  I T T DEFENCE, VIABLES, BASINGSTOKE     HAMPSHIRE          FM	KimmyJS19    Oct 2017
+77.875			ITN O/B LINK NATIONAL		        NATIONAL USAGE     FM	KimmyJS19    Jan 2002
+78.025			Pembroke Military Range Wales		WALES	           FM	KimmyJS19    Jun 2004
+78.100			Bicester Barracks 0401		        OXFORDSHIRE	   FM	KimmyJS19    Dec 2001
+78.100			Air Training Corps V3			NATIONAL USAGE  FM/AM	KimmyJS19    Jun 2004
+78.1125	73.175		MOD Guard Navy Dockyard PORTSMOUTH      HAMPSHIRE	   FM	KimmyJS19    Jul 2005
+78.1375			Royal Signals Security Blandford	DORSET	           FM	KimmyJS19    Jun 2004
+78.1625			Atomic Weapons Establishment Berkshire	BERKSHIRE	   FM   KimmyJS19    Sep 2006
+78.1625			Atomic Weapons Security Burghfield	BERKSHIRE	   FM	KimmyJS19    Sep 2006
+78.1625			Salisbury Plain Scrambled		WILTSHIRE	   FM	KimmyJS19    Sep 2006
+78.200			BBC TV CAMERA LINK			UK WIDE            FM	KimmyJS19    Jan 2002
+78.2125			BBC TV CAMERA LINK [USED BY HELI TELE]  UK WIDE		   FM	KimmyJS19    Jan 2002
+78.225			BBC TV O/B CAMERA LINK			UK WIDE            FM	KimmyJS19    Jan 2002
+78.2375			Royal Navy Devonport, PLYMOUTH 	        DEVON	           FM	KimmyJS19    Jun 2004
+78.2375			BBC TV O/B CAMERA			UK WIDE            FM	KimmyJS19    Jan 2002
+78.250			BBC TV CAMERA LINK			UK WIDE            FM	KimmyJS19    Jan 2002
+78.275			Army Cadet Force 0602			UK WIDE            FM	KimmyJS19    Dec 2002
+78.275			BBC TV CAMERA LINK			NATIONAL USAGE     FM	KimmyJS19    Jan 2002
+78.2875			Range Safety Officers Larkhill 0702     WILTSHIRE	   FM	KimmyJS19    Dec 2002
+78.2875			Main Army Control Exercises             NATIONAL USAGE	   FM	KimmyJS19    Dec 2002
+78.300			Army Air Corps Middle Wallop	        HAMPSHIRE	   FM	KimmyJS19    Nov 2003
+78.300			Army Cadet Force 0602			NATIONAL USAGE     FM	KimmyJS19    Dec 2002
+78.300			Combined Cadet Force			NATIONAL USAGE     FM	KimmyJS19    Nov 2003
+78.325			MOD Munitions Eastriggs DUMFRIES        SCOTLAND	   FM	KimmyJS19    Nov 2006
+78.3375			Bisley Army Range Con trol, BISLEY	SURREY	           FM	KimmyJS19    Oct 2003
+78.4125			Army Air Corps Middle Wallop, AAC	HAMPSHIRE	   FM	KimmyJS19    Nov 2003
+78.475			Pembroke Military Range Wales		PEMBROKESHIRE	   FM	KimmyJS19    Nov 2003
+78.550			Middle Wallop Ch.1, AAC MIDDLE WALLOP	HAMPSHIRE	   FM	KimmyJS19    Nov 2003
+78.550			Netheravon Tower 0601		        HAMPSHIRE	   FM	KimmyJS19    Dec 2001
+78.550			Shropshire Army Fire Brigade	        SHROPSHIRE         FM   KimmyJS19    Nov 2003
+78.775			Middle Wallop Ch.2 AAC                  HAMPSHIRE          FM	KimmyJS19    May 2004
+78.800			Hampshire Army		                HAMPSHIRE	   FM	KimmyJS19    May 2007
+78.8125			Newbury Army Ops, NEWBURY 	        BERKSHIRE	   FM	KimmyJS19    Mar 2006
+78.825			Middle Wallop Tower To Ground Ch.3 AAC	HAMPSHIRE	   FM	KimmyJS19    Apr 2007
+78.825			Donington Salop Army Fire Brigade	DONINGTON	   FM	KimmyJS19    May 2006
+78.850			Brecon Beacons Army Use		        SOUTH WALES	   FM	KimmyJS19    Apr 2007
+78.900			RNAS Prestwick Navy Helo Ops Air-Gnd    AYRSHIRE SCOTLAND  FM	KimmyJS19    May 2004
+78.975			Firing Control Officers Larkhill Range  WILTSHIRE	   FM	KimmyJS19    Dec 2002
+79.350			Air Training Corps Ch.V5 		NATIONAL USAGE	   FM	KimmyJS19    Jul 2003
+79.500			Wattisham Tower AAC WATTISHAM 	        SUFFOLK	           FM	KimmyJS19    Dec 2002
+79.825	84.825		Royal Ordnance Factory Nuclear Transprt	BERKSHIRE	   FM	KimmyJS19    May 2004
+80.0125			Ch.21 Fire Brigade Manpacks		NATIONAL USAGE	AM/FM	KimmyJS19    May 2007
+80.075			Ch.07 Fire Brigade Vehicle-Vehicle	NATIONAL USAGE	AM/FM	KimmyJS19    May 2007
+80.075			Ch.22 Fire Brigade Manpacks             NATIONAL USAGE	AM/FM	KimmyJS19    May 2007
+80.325	70.550		Scottish Office Emergency Network Ch1 	SCOTLAND	   FM   KimmyJS19    Feb 2002
+80.3375	70.5625		Scottish Office Emergency Network Ch2 	SCOTLAND	   FM   KimmyJS19    Feb 2002
+80.350	70.575		Scottish Office Emergency Network Ch3 	SCOTLAND	   FM   KimmyJS19    Feb 2002
+80.3625	70.5875		Scottish Office Emergency Network Ch4 	SCOTLAND	   FM   KimmyJS19    Feb 2002
+80.375	70.600		Scottish Office Emergency Network Ch5 	SCOTLAND	   FM   KimmyJS19    Feb 2002
+80.800	71.025		Scottish Office Emergency Network Ch6	SCOTLAND	   FM   KimmyJS19    Feb 2002
+80.875	71.100		Scottish Office Emergency Network Ch7	SCOTLAND	   FM   KimmyJS19    Feb 2002
+81.025	71.250		Scottish Office Emergency Network Ch8	SCOTLAND	   FM   KimmyJS19    Feb 2002
+81.2375	71.4625		Scottish Office Emergency Network Ch9	SCOTLAND	   FM   KimmyJS19    Feb 2002
+81.525                  Greggs, UPPER SKELMORLIE, SCOTLAND      NORTH AYRSHIRE     FM	KimmyJS19    Aug 2013
+81.525                  Otley Private Hire Taxis, OTLEY, LEEDS  WEST YORKSHIRE     FM	KimmyJS19    Feb 2016
+81.5375                 RAC, RALLY MOTOR SPORT UK WIDE          NATIONAL USAGE	   FM	KimmyJS19    Aug 2015
+81.5625 	        Royal Brompton Hospital, CHELSEA        LONDON 	           FM	KimmyJS19    Apr 2014
+81.5625 	        London School For Girls, BARBICAN       LONDON 	           FM	KimmyJS19    Apr 2014
+81.5625 	        Greenhead Beechcliffe School, KEIGHLEY  WEST YORKSHIRE	   FM	KimmyJS19    Feb 2011
+81.575                  RAC, RALLY MOTOR SPORT UK WIDE          NATIONAL USAGE	   FM	KimmyJS19    Aug 2015
+81.575			MSA Safety & Medical Communications	NATIONAL USAGE	   FM	KimmyJS19    Apr 2014
+81.575			SMMC SCOTTISH MOTOR SPORT MARSHALS 	NATIONAL USAGE	   FM	KimmyJS19    Feb 2013
+81.575			ULSTER AUTOMOBILE CLUB		        NORTHERN IRELAND   FM	KimmyJS19    Sep 2008
+81.650  68.150          NEWTOWN CARS MIDWALES, NEWTOWN, POWYS   WALES              FM	KimmyJS19    Feb 2018
+81.650  68.150          M I Taxi Services, NUNEATON             WARWICKSHIRE       FM	KimmyJS19    Oct 2017
+81.675  68.175		Crown Estate, The Great Park, WINDSOR   BERKSHIRE 	   FM   KimmyJS19    May 2017
+81.7875 68.2875 	Brighton and Hove Streamline Taxis      EAST SUSSEX        FM	KimmyJS19    Aug 2017
+81.800	68.300		COMREP, SHARED USERS, WHIPSNADE  	BEDFORDSHIRE	   FM	KimmyJS19    Dec 2007
+81.800	68.300		COMREP SKIP HIRE WHIPSNADE 173.8	BEDFORDSHIRE	   FM	KimmyJS19    Feb 2007
+81.800	68.300		DELIVERY CO HEATING OIL	WHIPSNADE 186.2	BEDFORDSHIRE	   FM	KimmyJS19    Jan 2007
+81.800	68.300		Ian Strange [Tansley Ltd] CBS, MATLOCK  DERBYSHIRE     	   FM	KimmyJS19    Oct 2015
+81.800	68.300		Cornilo, Sutton Court Farm, DOVER	EAST KENT     	   FM	KimmyJS19    Aug 2012
+81.800	68.300		BR5's CARS TAXIS, ORPINGTON, BROMLEY    WEST KENT          FM	KimmyJS19    Mar 2017
+81.8125	68.3125		COOPER COMMS COMREP, LYME PK, STOCKPORT	GREATER MANCHESTER FM	KimmyJS19    Jan 2017
+81.8125	68.3125		COMREP CODER COMMS [OWNERS], WROTHAM	KENT	           FM	KimmyJS19    Dec 2002
+81.8125	68.3125		TONI'S RADIO CARS KEW BRIDGE            LONDON	           FM	KimmyJS19    Sep 2004
+81.825	68.325          Brighton and Hove Streamline, BRIGHTON  SUSSEX             FM	KimmyJS19    Oct 2017
+81.850	68.350		SOUTH LONDON RADIO CARS	WANSWORTH       LONDON	           FM	KimmyJS19    Sep 2004
+81.850	68.350		Zed Cars Taxis, Cambuslang, GLASGOW	SCOTLAND       	   FM	KimmyJS19    Oct 2011
+81.850	68.350		Lucky 7 Taxis, STOKE-ON-TRENT           STAFFORDSHIRE	   FM   KimmyJS19    Apr 2014
+81.850	68.350          M I Taxi Services, NUNEATON             WARWICKSHIRE       FM	KimmyJS19    Oct 2017
+81.8625	68.3625		L293 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+81.8875 68.3875         Dept For Regional Development, BELFAST  NORTHERN IRELAND   FM	KimmyJS19    Jun 2014
+81.8875 68.3875         Silverline Cabs Taxis, GATESHEAD        TYNE AND WEAR      FM	KimmyJS19    Jun 2014
+81.9125	68.4125 	Top Mini Cabs, Balham Station Road      LONDON	           FM   KimmyJS19    Dec 2015
+81.9125	68.4125		SOUTHGATE SWIFT COURIER CAR SERVICE	LONDON   	   FM	KimmyJS19    Sep 2004
+81.9125	68.4125		Personal Cars Taxis, Ruislip, LONDON	MIDDLESEX     	   FM	KimmyJS19    Aug 2012
+81.925	68.425		Plymouth Taxis, Stoke, PLYMOUTH	        DEVON   	   FM	KimmyJS19    Nov 2018
+81.925	68.425		VIP Cars Taxis, LOUGHTON	        ESSEX   	   FM	KimmyJS19    Mar 2017
+81.925	68.425		WINGS CABS, HAYES	                MIDDLESEX          FM	KimmyJS19    Oct 2004
+81.9375	68.4375 	Lakeside and Purfleet Taxis, GRAYS      ESSEX	           FM   KimmyJS19    Mar 2017
+81.9375	68.4375		D G Private Hire Taxis, NOTTINGHAM	NOTTINGHAMSHIRE    FM	KimmyJS19    Apr 2014
+81.950	68.450		L300 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+81.9625	68.4625		Dumbarton & Alexandria Taxis, SCOTLAND  DUMBARTONSHIRE     FM	KimmyJS19    Apr 2014
+81.9625	68.4625		Sunniside Farm House	                HOUGHTON LE SPRING FM	KimmyJS19    Jan 2011
+81.9625	68.4625		CITY CARS TAXIS, CARDIFF, GLAMORGAN	SOUTH WALES	   FM	KimmyJS19    Feb 2018
+81.975	68.475		L302 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+81.9875	68.4875		COMREP CODER COMMS [OWNERS] WROTHAM	KENT	           FM	KimmyJS19    Feb 2003
+81.9875	68.4875		L303 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.000	68.500		L304 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.0125	68.5125		ATLAS CARS, ILFORD	                ESSEX	           FM	KimmyJS19    Sep 2004
+82.0125	68.5125		ARROW CABS TAMESIDE, ASHTON-UNDER-LYNE  GREATER MANCHESTER FM	KimmyJS19    Nov 2016
+82.0125	68.5125		PREMIER TAXIS, STAMFORD	118.8           LINCOLNSHIRE	   FM	KimmyJS19    Sep 2004
+82.0125	68.5125		AJ CARS	LONDON	                        LONDON             FM	KimmyJS19    Sep 2004
+82.0125	68.5125		WHETSTONE CARS, WHETSTONE LONDON 	LONDON	           FM	KimmyJS19    Sep 2004
+82.0125	68.5125         Byrne Taxis, Castlederg, CO TYRONE      NORTHERN IRELAND   FM   KimmyJS19    Feb 2017
+82.0125	68.5125		Sadlers Taxis, Loughton                 SOUTH ESSEX	   FM	KimmyJS19    Apr 2012
+82.0125	68.5125		Ace Taxis, NEWCASTLE UPON TYNE          TYNE AND WEAR      FM	KimmyJS19    Jan 2018
+82.025	68.525		Master Cars UK, GREENFORD               WEST LONDON        FM	KimmyJS19    Nov 2010
+82.025	68.525		SKJ PRIVATE HIRE TAXIS, YEADON, LEEDS   WEST YORKSHIRE	   FM	KimmyJS19    Oct 2013
+82.0375	68.5375		SOUTHWARK RADIO CARS, LONDON SE1	LONDON 	           FM	KimmyJS19    Dec 2006
+82.0375	68.5375		Choice Cars Taxis, WALTHAM ABBEY	LONDON     	   FM	KimmyJS19    Apr 2014
+82.0500                 Rickmansworth Town Centre Partnership	HERTFORDSHIRE      FM	KimmyJS19    Apr 2014
+82.0500                 Swiftline Minicabs & Couriers, CLAPTON	LONDON             FM	KimmyJS19    Apr 2014
+82.0500		        Northern General Hospital, SHEFFIELD    SOUTH YORKSHIRE    FM   KimmyJS19    Aug 2017
+82.0625 68.5625         Dept For Regional Development, BELFAST  NORTHERN IRELAND   FM	KimmyJS19    Jun 2014
+82.0750 68.5750		Lucky 7 Taxis, STOKE-ON-TRENT           STAFFORDSHIRE	   FM   KimmyJS19    Mar 2017
+82.0875 68.5875         Tower Cars Taxis, SHOREDITCH	        LONDON     	   FM	KimmyJS19    Jan 2014
+82.0875 68.5875         Albany Cars Taxis, East Molesey, LONDON SURREY    	   FM	KimmyJS19    Jul 2015
+82.100	68.600		PREMIER CARS, LLANGOLLEN, WALES         DENBIGHSHIRE	   FM	KimmyJS19    Oct 2017
+82.100	68.600		ROADRUNNER TAXIS, SOUTH BERMONDSEY	LONDON  	   FM	KimmyJS19    Sep 2004
+82.100	68.600		Brownes Minibus Hire, UXBRIDGE, LONDON  MIDDLESEX	   FM	KimmyJS19    Jan 2015
+82.1125	68.6125         Brighton and Hove Streamline, BRIGHTON  SUSSEX             FM	KimmyJS19    Oct 2017
+82.125	68.625		PMR PARKING & DEMONSTRATION, DUAL	NATIONAL USAGE     FM	KimmyJS19    Feb 2015
+82.125  		PMR PARKING & DEMONSTRATION, SINGLE	NATIONAL USAGE     FM	KimmyJS19    Feb 2015
+82.1375	68.6375		SHARED COMREP CODER COMMS, WROTHAM      KENT	           FM	KimmyJS19    Mar 2003
+82.1375	68.6375		L315 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.1625 68.6625         Berwick Ponds Farm, RAINHAM             LONDON             FM	KimmyJS19    Nov 2015
+82.1625 68.6625         MOD QinetiQ RANGE, Isle of Benbecula    OUTER HEBRIDES     FM	KimmyJS19    Nov 2015
+82.1750 68.6750         Brighton & Hove Streamline Taxis        SUSSEX     	   FM	KimmyJS19    May 2016
+82.1875 68.6875         Mr Maqbool Ahmed Business Radio         WALSALL            FM	KimmyJS19    Sep 2010
+82.2000                 I T T DEFENCE, VIABLES, BASINGSTOKE     HAMPSHIRE          FM	KimmyJS19    Oct 2017
+82.2125 68.7125	        Cue Cars Taxis, HUDDERSFIELD            WEST YORKSHIRE	   FM	KimmyJS19    Mar 2014
+82.2375 68.7375         Tameside Taxis, HYDE GREATER MANCHESTER	TAMESIDE	   FM   KimmyJS19    Feb 2013
+82.2500 68.7500		Brockhole National Park, WINDERMERE     CUMBRIA            FM	KimmyJS19    Oct 2010
+82.2500 68.7500		LYNCH STREETWAYS TAXIS, SWINTON         MANCHESTER         FM	KimmyJS19    Apr 2013
+82.2500 68.7500 	Target Taxis, CRAMLINGTON               NORTHUMBERLAND     FM	KimmyJS19    Mar 2014
+82.2500 68.7500         Friendly Cab Company, CAERPHILLY        SOUTH WALES        FM   KimmyJS19    Dec 2015
+82.2500 68.7500         Brighton and Hove Streamline, BRIGHTON  SUSSEX             FM	KimmyJS19    Oct 2017
+82.2625	68.7625 	Amber Cars, WATFORD & HEMEL HEMPSTEAD	HERTFORDSHIRE	   FM   KimmyJS19    Sep 2013
+82.2625	68.7625 	Taxiline Newry Taxis, NEWRY             NORTHERN IRELAND   FM	KimmyJS19    Oct 2017
+82.2625	68.7625 	Haywards Heath Stn Taxis, BURGESS HILL  SUSSEX             FM	KimmyJS19    Dec 2017
+82.2625	68.7625		M1 Taxi Service, NUNEATON               WARWICKSHIRE	   FM   KimmyJS19    Dec 2014
+82.2625	68.7625 	Starline Taxis, CHICHESTER              WEST SUSSEX        FM	KimmyJS19    Feb 2016
+82.2625	68.7625		Hunslet Cars Taxis, HUNSLET, LEEDS	WEST YORKSHIRE     FM	KimmyJS19    Dec 2016
+82.275	68.775		Borough Taxis, Royton, OLDHAM           GREATER MANCHESTER FM	KimmyJS19    Feb 2018
+82.275	68.775		Blue Bell Taxis, HUYTON, LIVERPOOL      MERSEYSIDE         FM	KimmyJS19    Jan 2017
+82.275	68.775		Comet Cars Taxis, SHREWSBURY            SHROPSHIRE         FM	KimmyJS19    Jul 2016
+82.275	68.775          Brighton and Hove Streamline, BRIGHTON  SUSSEX             FM	KimmyJS19    Oct 2017
+82.275	68.775		Stanningley Taxis Private Hire, LEEDS   WEST YORKSHIRE     FM	KimmyJS19    Feb 2012
+82.2875	68.7875		L327 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.300	68.800		COMREP CODER COMMS [OWNERS] WROTHAM	KENT	           FM	KimmyJS19    Dec 2002
+82.300	68.800		L328 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.3125	68.8125		L329 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.3125	68.8125		Radcomm Uk Limited   	                NOTTINGHAM         FM	KimmyJS19    Dec 2010
+82.325	68.825		COMREP PATRICK NOEL PURCELL PADDINGTON  LONDON  	   FM	KimmyJS19    Oct 2005
+82.325	68.825		L330 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.350	68.850		L332 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.3625	68.8625		L333 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.3750 68.8750 	Chequers Cars, Kensington & Kingsbury   LONDON             FM   KimmyJS19    Mar 2013
+82.3750 68.8750         WALLASEY CARS TAXIS, WALLASEY, WIRRAL   MERSEYSIDE	   FM   KimmyJS19    Jul 2017
+82.3750 68.8750 	Club Taxis, MOTHERWELL, SCOTLAND        NORTH LANARKSHIRE  FM	KimmyJS19    Dec 2016
+82.3750 68.8750         D G Private Hire, NOTTINGHAM            NOTTINGHAM         FM	KimmyJS19    Apr 2010
+82.3750 68.8750         Gee Gee Cars Taxis, BEESTON, LEEDS      WEST YORKSHIRE     FM	KimmyJS19    Oct 2017
+82.3875	68.8875		L335 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.400	68.900		Radlett Radio Cars, RADLETT             HERTFORDSHIRE      FM	KimmyJS19    Jan 2015
+82.400	68.900		EMBASSY/LADY/AMBASSADOR CARS, LONDON	LONDON	           FM	KimmyJS19    Sep 2004
+82.400	68.900		Harrys Cars Taxis, Abbey Wood, LONDON   LONDON             FM	KimmyJS19    Aug 2015
+82.4125	68.9125		Personal Cars Taxis, Ruislip, LONDON	MIDDLESEX     	   FM	KimmyJS19    Aug 2012
+82.4125	68.9125		L337 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.425  68.925          Angel Express Cars Ltd, Islington       LONDON             FM	KimmyJS19    Jan 2011
+82.4375 68.9375	        Stanningley Cars, PUDSEY, LEEDS         WEST YORKSHIRE     FM	KimmyJS19    Mar 2014
+82.4500 68.9500         Melville's Car Services, INVERKEITHING  SCOTLAND	   FM   KimmyJS19    Jan 2016
+82.4625	68.9625		MAINLINE TAXIS, SALFORD 67              GREATER MANCHESTER FM	KimmyJS19    Apr 2006
+82.4625	68.9625		Perwood Cars Taxis, UXBRIDGE            LONDON             FM	KimmyJS19    Jan 2011
+82.475	68.975  	A B C Cars Taxis, BRENTWOOD	        ESSEX	           FM   KimmyJS19    Feb 2018
+82.475	68.975		DEL CARS, BOW LONDON 	                LONDON	           FM	KimmyJS19    Oct 2004
+82.475	68.975		WHITE HORSE CARS, STEPNEY               EAST LONDON 	   FM	KimmyJS19    Sep 2004
+82.475	68.975		Ace Taxis (JAY), NEWCASTLE UPON TYNE	TYNE AND WEAR  	   FM	KimmyJS19    Sep 2017
+82.4875	68.9875		Peak Waste (ALPORT HEIGHTS), ASHBOURNE  DERBYSHIRE         FM	KimmyJS19    Feb 2018
+82.4875	68.9875		SENATOR CARS, LONDON	                LONDON	           FM	KimmyJS19    Sep 2004
+82.4875	68.9875		L343 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.500	69.000		GREAT NORTH CARS, NORTH FINCHLEY        LONDON	           FM	KimmyJS19    Sep 2004
+82.500	69.000		GEDDES CONSTRUCTION, ABROATH, ANGUS 	SCOTLAND	   FM	KimmyJS19    Nov 2009
+82.500	69.000		West Renfrewshire Cars, RENFREW 	SCOTLAND	   FM	KimmyJS19    Nov 2014
+82.525	69.025		L346 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.5375	69.0375		L347 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.5375	69.0375		DHL COURIERS NATIONAL MOBILE DATA 	UK WIDE		   FM	KimmyJS19    Apr 2007
+82.5625	69.0625		DHL COURIERS NATIONAL MOBILE DATA 	UK WIDE		   FM	KimmyJS19    Apr 2007
+82.625  69.125	        Frodsham And District Taxis, FRODSHAM   CHESHIRE           FM	KimmyJS19    Mar 2014
+82.625  69.125  	Kwik Cars Taxis, SOUTHPORT              MERSEYSIDE	   FM	KimmyJS19    Jun 2013
+82.625  69.125   	Castell Cars Taxis, CAERPHILLY, GWENT   SOUTH WALES	   FM   KimmyJS19    Feb 2018
+82.625  69.125	        Bennetts Taxis, Tamworth                STAFFORDSHIRE      FM	KimmyJS19    Feb 2010
+82.625  69.125		Lucky 7 Taxis, STOKE-ON-TRENT           STAFFORDSHIRE	   FM   KimmyJS19    May 2015
+82.625  69.125	        Coney Park, LEEDS                       WEST YORKSHIRE     FM	KimmyJS19    Jan 2011
+82.650  69.150		Plymouth Taxis, Stoke, PLYMOUTH	        DEVON   	   FM	KimmyJS19    Nov 2018
+82.650  69.150		Pemberton Private Hire, WIGAN           GREATER MANCHESTER FM	KimmyJS19    Oct 2017
+82.650  69.150          ABC Danoto Taxis, LEICESTER	        LEICESTERSHIRE     FM   KimmyJS19    Mar 2016
+82.650  69.150  	Discount Cabs, LINCOLN (MDT DATA)       LINCOLNSHIRE       FM	KimmyJS19    Oct 2017
+82.650  69.150          Pemberton Private Hire, ST. HELENS      MERSEYSIDE	   FM   KimmyJS19    Apr 2016
+82.650  69.150  	Taxiline Newry Taxis, NEWRY             NORTHERN IRELAND   FM	KimmyJS19    Oct 2017
+82.650  69.150  	Eagle Star Cabs Taxis, CO DOWN          NORTHERN IRELAND   FM	KimmyJS19    Jul 2015
+82.650  69.150  	Lucky Seven Taxis (DATA) STOKE-ON-TRENT STAFFORDSHIRE      FM 	KimmyJS19    Jun 2015
+82.650  69.150          Brighton and Hove Streamline, BRIGHTON  SUSSEX             FM	KimmyJS19    Oct 2017
+82.650  69.150	   	T J Taxis, NEWCASTLE UPON TYNE          TYNE AND WEAR	   FM	KimmyJS19    Dec 2014
+82.6875	69.1875		RAC, RALLY MOTOR SPORT UK WIDE          NATIONAL USAGE	   FM	KimmyJS19    Feb 2015
+82.700	69.200		L360 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.7125 69.2125 	SARCOMM DMR SYSTEMS, WALES WIDE         WALES              DIG	KimmyJS19    Oct 2015
+82.7875	69.2875		L367 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.800	69.300		L368 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+82.825  69.325		CITY CARS TAXIS, CARDIFF	        SOUTH WALES	   FM	KimmyJS19    Oct 2016
+82.825  69.325	        Geordie Taxis, NEWCASTLE UPON TYNE	TYNE AND WEAR      FM	KimmyJS19    Oct 2016
+82.825  69.325	        Blezard Business Park, NEWCASTLE        TYNE AND WEAR      FM	KimmyJS19    Apr 2009
+82.825  69.325          Gee Gee Cars Taxis, BEESTON, LEEDS      WEST YORKSHIRE     FM	KimmyJS19    Oct 2017
+82.8375 69.3375		Blackline Trinity Taxis, SALFORD	GREATER MANCHESTER FM	KimmyJS19    Nov 2017
+82.8375 69.3375         Wallasey Cars, Liscard, WALLASEY        MERSEYSIDE         FM	KimmyJS19    Oct 2017
+82.8375 69.3375         Eagle STS Taxis, LISBURN, NR BELFAST    NORTHERN IRELAND   FM	KimmyJS19    Oct 2017
+82.8375 69.3375         A C Radio Cabs Taxis, WESTCLIFF ON SEA  SOUTH ESSEX        FM	KimmyJS19    Nov 2018
+82.8625	69.3625		Mainline Private Hire Taxis, SALFORD	GREATER MANCHESTER FM	KimmyJS19    Apr 2010
+82.8625	69.3625		TAXI MOBILE DATA MDT, UK WIDE USAGE	NATIONAL USAGE     FM	KimmyJS19    Aug 2008
+82.8625 69.3625         A C Radio Cabs Taxis, WESTCLIFF ON SEA  SOUTH ESSEX        FM	KimmyJS19    Nov 2018
+82.8625	69.3625         Friendly Cab Co (Coddy), CAERPHILLY     SOUTH WALES        FM   KimmyJS19    Dec 2015
+82.8625 69.3625 	A1 TAXIS, Masbrough St, ROTHERHAM       SOUTH YORKSHIRE    FM	KimmyJS19    Oct 2017
+82.8625 69.3625   	Euro Cars Private Hire Taxis, BRADFORD  WEST YORKSHIRE     FM   KimmyJS19    Nov 2016
+82.8750 69.3750		Lucky 7 Taxis, STOKE-ON-TRENT           STAFFORDSHIRE	   FM   KimmyJS19    Apr 2014
+82.9000 69.4000         Tinto Primary School, GLASGOW           SCOTLAND           FM	KimmyJS19    Jul 2010
+82.9375 69.4375 	Amber Cars, WATFORD & HEMEL HEMPSTEAD	HERTFORDSHIRE	   FM   KimmyJS19    Sep 2013
+83.0125	69.5125		L385 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+83.025	69.525		L386 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+83.025	69.525		WEST MIDLANDS WATER	                WEST MIDLANDS	   FM	KimmyJS19    Jan 2005
+83.0375	69.5375		L387 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+83.050	69.550		L388 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+83.0625	69.5625		ATKINS LTD, BOUGHTON, CHESTER	        CHESHIRE    	   FM	KimmyJS19    Mar 2014
+83.0625	69.5625		ATKINS LTD, BERSHAM, WREXHAM 	        NORTH WALES	   FM   KimmyJS19    Jun 2015
+83.075	69.575		L390 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+83.0875	69.5875		L391 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+83.100	69.600		Nick Brookes Recycling, NANTWICH	CHESHIRE           FM	KimmyJS19    Aug 2010
+83.100	69.600 	        Buchan Town Cars, ALLOA, SCOTLAND       CLACKMANNANSHIRE   FM	KimmyJS19    Apr 2013
+83.100	69.600  	CHEQUERS CABS TAXIS, HENDON, LONDON	LONDON             FM	KimmyJS19    May 2014
+83.1125	69.6125		METER CABS, KENTISH TOWN, LONDON        LONDON	           FM	KimmyJS19    Sep 2004
+83.200			L400 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+84.200			DVP/Cougarnet Hampshire 0401		HAMPSHIRE	   FM	KimmyJS19    Dec 2001
+84.200			Cougarnet, HERTFORDSHIRE		HERTFORDSHIRE	   FM	KimmyJS19    Feb 2005
+84.2125			Cougarnet, LONDON	                LONDON	           FM	KimmyJS19    Oct 2003
+84.300			RAF Mountain Rescue Teams 0103		NATIONAL USAGE	   FM	KimmyJS19    Mar 2003
+84.3125			MOD Guard Services Larkhill Range	WILTSHIRE	   FM	KimmyJS19    Feb 2006
+84.4125			Salisbury Military C/N T O		WILTSHIRE	   FM	KimmyJS19    Feb 2006
+84.6125			MOD Marchwood, SOUTHAMPTON 	        HAMPSHIRE	   FM	KimmyJS19    Feb 2006
+84.825	79.825		Royal Ordnance Factory Weapons Transprt BERKSHIRE	   FM	KimmyJS19    Mar 2003
+84.8375			Territorial Army, PERTH TAYSIDE         SCOTLAND	   FM	KimmyJS19    Nov 2003
+84.875	78.1625		Lulworth Range Wardens LULWORTH 218.1	DORSET	           FM	KimmyJS19    Dec 2004
+84.950			Lulworth Range Safety Sea, LULWORTH     DORSET	           FM	KimmyJS19    Dec 2004
+84.975			Lulworth Camp, LULWORTH	                DORSET	           FM	KimmyJS19    Dec 2004
+85.0125	71.5125	        Countess of Chester Hospital, CHESTER   CHESHIRE	   FM   KimmyJS19    Aug 2014
+85.0125	71.5125		MICKEYS TAXIS, SHERBORNE 173.8	        DORSET	           FM	KimmyJS19    Oct 2004
+85.0125	71.5125		Norfolk County Council, BACONSTHORPE	NORFOLK            FM	KimmyJS19    May 2014
+85.0125	71.5125		SUNDERLAND COUNCIL, HOUGHTON LE SPRING 	TYNE AND WEAR	   FM	KimmyJS19    Mar 2011
+85.0125	71.5125		Wetherby Skip Services Walton, WETHERBY	WEST YORKSHIRE     FM	KimmyJS19    Jan 2011
+85.025	71.525		ANCHOR TAXIS, TRANMERE	                MERSEYSIDE	   FM	KimmyJS19    Sep 2004
+85.025	71.525		NCC NORFOLK COUNCIL HIGHWAYS, NORWICH	NORFOLK	           FM	KimmyJS19    Jan 2018
+85.025	71.525		NCC NORFOLK COUNTY COINCIL, BUNWELL	NORFOLK	           FM	KimmyJS19    Jul 2017
+85.025	71.525	        Devonport Royal Dockyard, PLYMOUTH      SOUTH DEVON        FM	KimmyJS19    Oct 2016
+85.025	71.525	        E & S Motors, Queen Street, WALSALL     WEST MIDLANDS      FM	KimmyJS19    Aug 2013
+85.0375	71.5375		HASTINGS COUNCIL, HASTINGS	        EAST SUSSEX	   FM	KimmyJS19    Oct 2002
+85.0375	71.5375 	Hyde Hall Farm, Sandon                  HERTFORDSHIRE      FM	KimmyJS19    Oct 2013
+85.0375	71.5375         ATKINS LTD, DUNDRY                      SOMERSET	   FM   KimmyJS19    Apr 2016
+85.050	71.550  	R Smith Farmers, College Farms, DUXFORD CAMBRIDGESHIRE     FM	KimmyJS19    May 2014
+85.050	71.550		SWANAGE ASSOCIATED TAXIS, SWANAGE	DORSET	           FM	KimmyJS19    Sep 2004
+85.050	71.550  	Radio Taxis (CIVIC), SOUTHAMPTON        HAMPSHIRE          FM	KimmyJS19    Sep 2016
+85.050	71.550  	R Smith & Co, College Farms, Duxford    HERTFORDSHIRE      FM	KimmyJS19    Oct 2013
+85.050	71.550          A1 Taxis, DOUGLAS	                ISLE OF MAN	   FM	KimmyJS19    Oct 2018
+85.050	71.550		A2 TAXIS, SITTINGBOURNE	                KENT	           FM	KimmyJS19    Sep 2004
+85.050	71.550  	Salle Farms Company, Reepham, Norwich   NORFOLK            FM	KimmyJS19    Aug 2015
+85.050	71.550		Starline Taxis, CHICHESTER              WEST SUSSEX        FM	KimmyJS19    Dec 2015
+85.0625	71.5625         Rankin Farms, Stambridge, ROCHFORD      ESSEX              FM	KimmyJS19    Jun 2017
+85.0625	71.5625		SIMPSON AGRICUTURAL, WINTERBOURNE	HAMPSHIRE	   FM	KimmyJS19    Jan 2000
+85.0625	71.5625		Cowan Construction, LANCASTER           LANCASHIRE         FM	KimmyJS19    Aug 2010
+85.0625	71.5625		DISCOUNT CABS TAXIS, LINCOLN	        LINCOLNSHIRE	   FM	KimmyJS19    Sep 2004
+85.0625	71.5625		BMC BERMONDSEY MINICABS	LONDON	        LONDON	           FM	KimmyJS19    Sep 2004
+85.0625	71.5625         Bishops Taxis, DOWNHAM MARKET           NORFOLK 	   FM   KimmyJS19    Sep 2016
+85.0625	71.5625         A1 Taxis, BODMIN                        NORTH CORNWALL     FM	KimmyJS19    Nov 2018
+85.0625	71.5625		Alpha Taxis, Shankill Rd, Belfast	NORTHERN IRELAND   FM	KimmyJS19    Jan 2005
+85.0625	71.5625		Castle Cabs Scotland Taxis, DUMBARTON	SCOTLAND           FM	KimmyJS19    Nov 2010
+85.0625	71.5625         EIS Waste, Mosside, Nigg, ABERDEEN      SCOTLAND	   FM   KimmyJS19    Jan 2018
+85.0625	71.5625         Cavalier Radio Cars Taxis, Stalybridge	TAMESIDE	   FM   KimmyJS19    Feb 2013
+85.0625	71.5625   	T J Taxis, NEWCASTLE UPON TYNE          TYNE AND WEAR	   FM	KimmyJS19    Dec 2014
+85.0625	71.5625		UNID TAXIS, ABERYSTWYTH	& CAERPHILLY    WALES	           FM	KimmyJS19    May 2005
+85.0625	71.5625		MOSS TYRES/BREAKDOWN RECOVERY, HULL	YORKSHIRE 	   FM	KimmyJS19    Oct 2004
+85.075	71.575		CASTLE TAXIS, KENDAL 	                CUMBRIA	           FM	KimmyJS19    Dec 2010
+85.075	71.575		SPRINGHEAD TAXIS, HULL, EAST RIDING     EAST YORKSHIRE     FM	KimmyJS19    Oct 2004
+85.075	71.575          Blackline Trinity Taxis, SALFORD        GREATER MANCHESTER FM	KimmyJS19    Sep 2017
+85.075	71.575		NEWTON FARM, FORDINGBRIDGE  110.9	HAMPSHIRE	   FM	KimmyJS19    Aug 2004
+85.075	71.575          Narborough Taxis, Narborough, LEICESTER LEICESTERSHIRE     FM	KimmyJS19    Feb 2017
+85.075	71.575	        Manor Wheels Minicabs, West Ealing      LONDON  	   FM	KimmyJS19    Sep 2013
+85.075	71.575          DIAL-A-RIDE, SCARBOROUGH                NORTH YORKSHIRE    FM	KimmyJS19    Apr 2018
+85.075	71.575	   	UNID USERS (RAPID), SHEFFIELD           SOUTH YORKSHIRE	   FM	KimmyJS19    Sep 2015
+85.075	71.575		PALMER H, FARMS, LAKENHEATH	        SUFFOLK	           FM   KimmyJS19    Feb 2006
+85.075	71.575		UNID TAXIS, CAERPHILLY	                WALES	           FM	KimmyJS19    Nov 2004
+85.0875	71.5875 	A F C Taxis (DELTA), BRISTOL            AVON               FM	KimmyJS19    Dec 2016
+85.0875	71.5875		DRINKWATER, SABEY POOLE, POOLE	        DORSET	           FM	KimmyJS19    Feb 2009
+85.0875	71.5875		Passenger Cars Taxis, Trafford	        MANCHESTER	   FM	KimmyJS19    Mar 2010
+85.0875	71.5875 	Westwick Hall, Westwick, NORWICH	NORFOLK            FM	KimmyJS19    Jan 2014
+85.0875	71.5875 	Taxiline Newry Taxis, NEWRY             NORTHERN IRELAND   FM	KimmyJS19    Oct 2017
+85.0875	71.5875         Lynch Coach Hire, Castlederg, CO TYRONE NORTHERN IRELAND   FM   KimmyJS19    Feb 2017
+85.0875	71.5875		A2b Taxis, CAMBERLEY	                SURREY   	   FM	KimmyJS19    Jul 2013
+85.0875	71.5875		Tong and Euro Taxis, BRADFORD         	WEST YORKSHIRE     FM	KimmyJS19    May 2012
+85.100	71.600		Kelvin Kabs, East Kilbride, Glasgow     SCOTLAND           FM	KimmyJS19    Apr 2013
+85.100	71.600		SUTTON AND EAST SURREY WATER CONTROL	SURREY	           FM	KimmyJS19    Nov 2005
+85.100	71.600          SARCOMM (RESCUE) STRATFORD UPON AVON    WARWICKSHIRE       DIG	KimmyJS19    Sep 2017
+85.1125	71.6125  	Radio Taxis (CIVIC), SOUTHAMPTON        HAMPSHIRE          FM	KimmyJS19    Sep 2017
+85.1125	71.6125		SUTTON AND EAST SURREY WATER CONTROL	SURREY	           FM	KimmyJS19    Nov 2005
+85.1125	71.6125		ATKINS LTD, EPSOM AND EWELL	        SURREY    	   FM	KimmyJS19    Mar 2014
+85.125	71.625		P&J CABS, Sherborne, BEAMINSTER	        DORSET             FM	KimmyJS19    Sep 2014
+85.125	71.625		Rex Radio Cars Taxis, DEWSBURY	        WEST YORKSHIRE     FM	KimmyJS19    May 2014
+85.2125	71.7125		Ballymena Borough Council, Ardeevin     NORTHERN IRELAND   FM	KimmyJS19    Aug 2012
+85.2125	71.7125		D G Private Hire Taxis, NOTTINGHAM	NOTTINGHAMSHIRE    FM	KimmyJS19    Apr 2014
+85.225	71.725		KENDAL NATIONAL PARK, KENDAL 	        CUMBRIA	           FM	KimmyJS19    Nov 2003
+85.225	71.725		Dumfries & Galloway Council, DUMFRIES	DUMFRIESSHIRE	   FM	KimmyJS19    Jun 2015
+85.225	71.725		Norfolk County Council	                NORWICH     	   FM	KimmyJS19    Feb 2012
+85.225  71.725          Shetland Islands Council, LERWICK       SHETLAND ISLES     FM	KimmyJS19    Sep 2017
+85.225	71.725		Mole Valley District Council, REIGATE   SURREY	           FM	KimmyJS19    Apr 2018
+85.2375	71.7375  	Clanrye Taxis, NEWRY                    NORTHERN IRELAND   FM	KimmyJS19    Jul 2013
+85.2375	71.7375		SUTTON AND EAST SURREY WATER VOICE      SURREY	           FM	KimmyJS19    Jan 2006
+85.250	71.750		Central Kabs Company, GLASGOW	        SCOTLAND           FM	KimmyJS19    Jan 2011
+85.250	71.750          ATKINS LTD, DUNDRY                      SOMERSET	   FM   KimmyJS19    Apr 2016
+85.250	71.750		Cabco Taxis, BOGNOR REGIS               WEST SUSSEX        FM	KimmyJS19    Mar 2015
+85.2625	71.7625 	Langdale Ambleside Mountain Rescue Team CUMBRIA    	   FM	KimmyJS19    Nov 2012
+85.2625	71.7625 	Clanrye Taxis, NEWRY                    NORTHERN IRELAND   FM	KimmyJS19    Jul 2013
+85.2625	71.7625		SUTTON AND EAST SURREY WATER  TRUNK     SURREY	           FM	KimmyJS19    Nov 2005
+85.275	71.775		L022 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+85.2875	71.7875		NATIONAL RIVERS AUTHORITY		KENT	           FM	KimmyJS19    Feb 2006
+85.2875	71.7875		SUTTON AND EAST SURREY WATER  TRUNK 	SURREY	           FM	KimmyJS19    Nov 2005
+85.2875	71.7875		L023 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+85.300	71.800		ISLE OF WIGHT HIGHWAYS DEPARTMENT       HAMPSHIRE	   FM	KimmyJS19    Feb 2009
+85.300	71.800		Internal Drainage Board, SPALDING       LINCOLNSHIRE  	   FM	KimmyJS19    Nov 2014
+85.300	71.800  	NCC COUNCIL ROADS, MORPETH & HEXHAM	NORTHUMBERLAND	   FM   KimmyJS19    Jun 2018
+85.300	71.800		Dewlands Farm, Curry Rivel, LANGPORT    SOMERSET   	   FM	KimmyJS19    Feb 2016
+85.3125	71.8125         British Red Cross Society, FARNHAM      SURREY             FM	KimmyJS19    Jun 2016
+85.3125	71.8125		British Red Cross, BANSTEAD/ASHTEAD     SURREY             FM	KimmyJS19    Jul 2015
+85.325	71.825		Park Authority, Kilbarchan, JOHNSTONE   SCOTLAND    	   FM	KimmyJS19    May 2014
+85.3375	71.8375		L027 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+85.350	71.850		BARNET COUNCIL, BARNET 67               HERTFORDSHIRE	   FM	KimmyJS19    Nov 2006
+85.350	71.850		Shetland Islands Council, Weisdale      SHETLAND ISLANDS   FM	KimmyJS19    Dec 2017
+85.350	71.850		SWANSEA CITY COUNCIL, SWANSEA	        SOUTH WALES	   FM	KimmyJS19    Feb 2000
+85.350	71.850		Sedgemoor District Council, BRIDGWATER	SOMERSET   	   FM	KimmyJS19    Dec 2014
+85.350	71.850		WELSH WATER, WALES		        SOUTH WALES	   FM	KimmyJS19    Jan 2003
+85.350	71.850		SUNDERLAND COUNCIL CH2, SUNDERLAND 	TYNE AND WEAR	   FM	KimmyJS19    Nov 2003
+85.3625	71.8625         A B C Cab Co Taxis, GREAT SHELFORD      CAMBRIDGESHIRE	   FM	KimmyJS19    Apr 2014
+85.3625	71.8625         Wallasey Cars, Liscard, WALLASEY        MERSEYSIDE         FM	KimmyJS19    Oct 2017
+85.375	71.875		SUTTON AND EAST SURREY WATER  TRUNK	SURREY	           FM	KimmyJS19    Nov 2005
+85.375	71.875		L030 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+85.3875	71.8875		L031 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+85.400	71.900		River Tweed Water Services, HORNDEAN    BERWICKSHIRE       FM	KimmyJS19    Dec 2012
+85.400	71.900		VETS SERVICE 218.1		        HERTFORDSHIRE	   FM	KimmyJS19    Feb 2007
+85.400	71.900		NORFOLK COUNCIL HIGHWAYS, NORWICH       NORFOLK            FM	KimmyJS19    Aug 2015
+85.4125	71.9125		ATKINS LTD, SHEPTON MALLET	        NORTH SOMERSET     FM	KimmyJS19    Mar 2014
+85.425	71.925		DERBYSHIRE COUNCIL		        DERBYSHIRE	   FM   KimmyJS19    Nov 2003
+85.425	71.925		ROTHERHAM COUNCIL CLEANSING/DOG WARDENS	SOUTH YORKSHIRE	   FM	KimmyJS19    Oct 2004
+85.425	71.925		L034 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+85.425	71.925		Norfolk County Council, NORWICH	        NORFOLK	           FM	KimmyJS19    Oct 2010
+85.425	71.925		Norfolk County Council, BRADENHAM	NORFOLK	           FM	KimmyJS19    Apr 2017
+85.425	71.925		Shetland Islands Council	        SHETLAND	   FM	KimmyJS19    Dec 2010
+85.425	71.925		Neath Port Talbot Borough Council	GLAMORGANSHIRE     FM	KimmyJS19    Dec 2011
+85.4375	71.9375         A.D.Taxis (BLUE), WISHAW, SCOTLAND	NORTH LANARKSHIRE  FM	KimmyJS19    Dec 2016
+85.4375	71.9375         ATKINS LTD, WESTON-SUPER-MARE           SOMERSET           FM	KimmyJS19    Nov 2017
+85.4375	71.9375		SUTTON AND EAST SURREY WATER, TRUNKED   SURREY	           FM	KimmyJS19    May 2006
+85.4375	71.9375		ATKINS LTD, EPSOM AND EWELL	        SURREY    	   FM	KimmyJS19    Mar 2014
+85.450	71.950		TONBRIDGE COUNCIL, TONBRIDGE	        KENT	           AM	KimmyJS19    Jun 2005
+85.450	71.950		L036 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+85.4625	71.9625         ATKINS LTD, WESTON-SUPER-MARE           SOMERSET           FM	KimmyJS19    Nov 2017
+85.475	71.975		WHITEHAVEN NATIONAL PARK,  WHITEHAVEN 	CUMBRIA	           FM	KimmyJS19    Nov 2003
+85.475	71.975  	R PROUSE CONTRACTORS, HOLSWORTHY        DEVON    	   FM	KimmyJS19    Jan 2018
+85.475	71.975		CHAUFFEUR CARS	BROADSTAIRS	        KENT	           FM	KimmyJS19    Sep 2004
+85.475	71.975		AIRPORT CARS C/S KILO BASE, GATWICK     SUSSEX	           FM	KimmyJS19    Sep 2004
+85.4875	71.9875		L039 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+85.5250 72.0250         SARCOMM (RESCUE), BROWN CLEE HILL       SHROPSHIRE         FM	KimmyJS19    Sep 2017
+85.575	72.075		UNID TAXIS, HASLINGDEN, ROSSENDALE	LANCASHIRE 	   FM	KimmyJS19    Dec 2014
+85.5875	72.0875		L047 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+85.600	72.100		EXETER CITY COUNCIL, CLEANSING/ETL      DEVON	           FM	KimmyJS19    Jan 2000
+85.600	72.100		BS Internal Drainage Board, Swineshead  LINCOLNSHIRE       FM	KimmyJS19    Feb 2015
+85.600	72.100	        London Borough of Hounslow Council      LONDON  	   FM	KimmyJS19    Sep 2013
+85.600	72.100	        Northumberland County Council, MORPETH  NORTHUMBERLAND     FM	KimmyJS19    Dec 2013
+85.600	72.100		SCARBOROUGH DISTRICT COUNCIL            NORTH YORKSHIRE	   FM	KimmyJS19    Jun 2000
+85.600	72.100		South Lanarkshire Council, HAMLILTON	SCOTLAND           FM	KimmyJS19    Mar 2011
+85.600	72.100		SURREY COUNCIL, REFUSE 		        SURREY	           FM	KimmyJS19    Oct 2005
+85.600	72.100		FOREST HEATH DISTRICT COUNCIL	        WEST SUFFOLK	   FM	KimmyJS19    Feb 2005
+85.6125	72.1125		CONISTON NATIONAL PARK	CONISTON 	CUMBRIA	           FM	KimmyJS19    Nov 2003
+85.6125	72.1125	        CORY ENVIRONMENTAL SOUTHEND ON SEA 	ESSEX	           FM	KimmyJS19    May 2008
+85.6125	72.1125		UNIDENTIFIED FARM, THORTON 	        NORTH LINCOLNSHIRE FM	KimmyJS19    Aug 2006
+85.6125	72.1125		TAXI, STRATFORD UPON AVON  118.8        WARWICKSHIRE	   FM	KimmyJS19    Apr 2007
+85.625	72.125		UNIDENTIFIED FARM		        EAST YORKSHIRE	   FM	KimmyJS19    Aug 2004
+85.625	72.125		A & B Airport Cars Taxis, ANDOVER	HAMPSHIRE          FM	KimmyJS19    Nov 2016
+85.625	72.125  	Reynolds Place Farm, CANTERBURY         KENT	           FM   KimmyJS19    Nov 2013
+85.625	72.125		Crofton Park Cars Taxis	                LONDON	           FM	KimmyJS19    Nov 2010
+85.625	72.125		Mural Properties Scotland, GLASGOW	SCOTLAND           FM	KimmyJS19    Nov 2010
+85.625	72.125		Comet Cars Taxis, SHREWSBURY 	        SHROPSHIRE 	   FM   KimmyJS19    Feb 2015
+85.625	72.125		REGENCY CARS, RENDLESHAM	        SUFFOLK	           FM	KimmyJS19    Oct 2004
+85.625	72.125		Viceroy Car Hire, EPSOM	                SURREY             FM	KimmyJS19    Feb 2011
+85.625	72.125		RADIO TAXIS & EXPRESS DEL, SALISBURY	WILTSHIRE	   AM	KimmyJS19    Sep 2004
+85.6375	72.1375         Mix 'N' Lay Concrete, RAINHAM, ESSEX    LONDON             FM	KimmyJS19    Mar 2017
+85.650	72.150		Cables Taxis, BISHOP AUCKLAND	        COUNTY DURHAM      FM	KimmyJS19    Sep 2017
+85.650	72.150		Trafftax, ALTRINCHAM	                CHESHIRE           FM	KimmyJS19    Nov 2010
+85.650	72.150          Amwell Car Services, WARE               HERTFORDSHIRE	   FM	KimmyJS19    Oct 2016
+85.650	72.150		Chislet Court Farm, Chislet, CANTERBURY	KENT    	   FM	KimmyJS19    Jul 2017
+85.650	72.150  	CHEQUERS CABS TAXIS, HENDON, LONDON	LONDON             FM	KimmyJS19    May 2014
+85.650	72.150  	BLACKHILLS QUARRY, TYRIE, ABERDEENSHIRE	SCOTLAND           FM	KimmyJS19    Dec 2015
+85.650	72.150		GOLDSTAR TAXIS (TUDOR), STOWMARKET	SUFFOLK	           FM	KimmyJS19    Jan 2016
+85.6625	72.1625		U Want Taxis, MAIDENHEAD     	        BERKSHIRE          FM	KimmyJS19    Dec 2017
+85.6625	72.1625         Kendal Mountain Search And Rescue Team  CUMBRIA            FM	KimmyJS19    Sep 2017
+85.6625	72.1625		MANOR FARM, GUSSAGE ST MICHAEL	        DORSET	           FM	KimmyJS19    Aug 2004
+85.6625	72.1625         Hill R S & Sons, WEST TISTED            HAMPSHIRE          FM	KimmyJS19    Nov 2017
+85.6625	72.1625		UNID FARM, LODDON  123	                NORFOLK	           FM	KimmyJS19    Apr 2007
+85.6625	72.1625		MCGILLS BUSES, GREENOCK 	        SCOTLAND	   FM	KimmyJS19    Sep 2005
+85.675	72.175          Castle Vets, Pennygillam, LAUNCESTON    CORNWALL	   FM   KimmyJS19    May 2013
+85.675	72.175		BETTA TAXIS, GILLINGHAM	                KENT	           FM	KimmyJS19    Oct 2004
+85.675	72.175          Diamond Private Hire Taxis, BLYTH       NORTHUMBERLAND	   FM   KimmyJS19    Mar 2018
+85.675	72.175          001 Alpha Cars, BICESTER                OXFORDSHIRE        FM   KimmyJS19    Dec 2015
+85.675	72.175		Tamworth Waste Disposals, TAMWORTH	STAFFORDSHIRE      FM	KimmyJS19    Apr 2016
+85.6875	72.1875		HAMPSHIRE CATTLE BREEDERS LYNDHURST	HAMPSHIRE	   FM	KimmyJS19    Feb 2009
+85.6875	72.1875  	Discount Cabs, LINCOLN (MDT DATA)       LINCOLNSHIRE       FM	KimmyJS19    Oct 2017
+85.6875	72.1875		UNID TAXIS, STAINES	                SURREY	           FM	KimmyJS19    Oct 2005
+85.700	72.200		Stoneledge Plant/Transport, COTTINGHAM	EAST YORKSHIRE     FM	KimmyJS19    Aug 2009
+85.700	72.200  	Ken Lee Private Hire Taxis, STOCKPORT   GREATER MANCHESTER FM	KimmyJS19    Aug 2014
+85.700	72.200		FLETCHWOOD VENDING, SOUTHAMPTON 	HAMPSHIRE	   FM	KimmyJS19    Feb 2009
+85.700	72.200		Martini's Taxis (B&D), LETCHWORTH 123   HERTFORDSHIRE	   FM	KimmyJS19    Jun 2016
+85.700	72.200		ADVANCE CARS, WALTHAMSTOW LONDON 127.3	LONDON	           FM	KimmyJS19    Oct 2004
+85.700	72.200          ARIS CONTRACTS (WHISKY), WEST WICKHAM   LONDON             FM   KimmyJS19    Jul 2016
+85.700	72.200		A1 CARS TAXIS, BURY ST EDMUNDS	        SUFFOLK	           FM	KimmyJS19    Sep 2004
+85.7125	72.2125         Burgh Taxis, Whitecraig, MUSSELBURGH    EAST LOTHIAN       FM   KimmyJS19    Dec 2016
+85.7125	72.2125		Bryans Taxis, BOSTON                    LINCOLNSHIRE	   FM   KimmyJS19    Nov 2018
+85.7125	72.2125		Metro Station Taxis, South Shields     	TYNE AND WEAR      FM	KimmyJS19    Mar 2013
+85.725	72.225		1ABC Radio Taxis, Darlington     	COUNTY DURHAM      FM	KimmyJS19    Sep 2013
+85.725	72.225		REDLINE	HULL, EAST RIDING               EAST YORKSHIRE 	   FM	KimmyJS19    Oct 2004
+85.725	72.225		UNIDENTIFIED FARM, EAST YORKS/LINCS     LINCOLNSHIRE       FM	KimmyJS19    Aug 2004
+85.725	72.225		Transgo Garage Services, CANNOCK        STAFFORDHIRE       FM	KimmyJS19    Dec 2014
+85.7375	72.2375		NETWORK CARS, BARNET	                HERTFORDSHIRE	   FM	KimmyJS19    Oct 2004
+85.7375	72.2375		CARDIFF COUNCIL CLEANSING DEPT  114.8   SOUTH WALES	   FM	KimmyJS19    Mar 2004
+85.7375	72.2375		CARDIFF CITY COUNCIL CLEANSING DEPT	SOUTH WALES	   FM	KimmyJS19    Dec 2002
+85.7375	72.2375		Atlas Car Hire Ltd, City of Westminster	LONDON     	   FM	KimmyJS19    Feb 2012
+85.7375	72.2375		Courtesy Cars, Boars Hill, OXFORD	OXFORDSHIRE    	   FM	KimmyJS19    Jan 2014
+85.750	72.250  	Ashwin George Hill, FAREHAM             HAMPSHIRE	   FM   KimmyJS19    May 2017
+85.750	72.250		21st Century Cars Taxis, BROMLEY     	KENT               FM	KimmyJS19    Nov 2012
+85.750	72.250          TRANSGO GARAGE SERVICES, NORTON CANES   WEST MIDLANDS	   FM   KimmyJS19    Oct 2016
+85.7625	72.2625		GALAXY CARS, LONDON	                LONDON	           FM	KimmyJS19    Sep 2004
+85.7625	72.2625    	Cardiff County Council (BC), CAERPHILLY SOUTH WALES	   FM	KimmyJS19    Jun 2016
+85.7625	72.2625		A.E. BARTHOLOMEW	                ST LEONARDS        FM	KimmyJS19    Feb 2009
+85.7625	72.2625		DIXON'S TAXIS, NEWCASTLE UPON TYNE      TYNE AND WEAR      FM	KimmyJS19    Jan 2018
+85.775	72.275		Spot On Cabs Taxis, St. Austell	        CORNWALL           FM	KimmyJS19    Apr 2012
+85.775	72.275		COUNTY CARS TAXIS, LINCOLN  71.9	LINCOLNSHIRE	   FM	KimmyJS19    Feb 2012
+85.775	72.275		KEEN CARS, FINCHLEY LONDON              LONDON	           FM	KimmyJS19    Sep 2004
+85.775	72.275		PERWOOD CARS, HILLINGDON	        MIDDLESEX	   FM	KimmyJS19    Oct 2004
+85.775	72.275  	Radio Taxis (CIVIC), SOUTHAMPTON        HAMPSHIRE          FM	KimmyJS19    Sep 2017
+85.775	72.275		ARUN TAXIS LITTLEHAMPTON, LITTLEHAMPTON	SUSSEX	           FM	KimmyJS19    Oct 2004
+85.7875	72.2875		L063 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+85.800	72.300		L064 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+85.8125	72.3125		VETS SERVICE CARDIGAN, CARDIGAN         NORTH WALES	   FM	KimmyJS19    Feb 2004
+85.8125	72.3125         Sinbad Tools, STAPLEFORD, NOTTINGHAM    NOTTINGHAMSHIRE    FM	KimmyJS19    Feb 2016
+85.825  72.325          Eskside Taxis, MUSSELBURGH, SCOTLAND    EAST LOTHIAN       FM   KimmyJS19    Dec 2016
+85.825	72.325  	Sam Allon Demolition & Waste, HULL      EAST YORKSHIRE 	   FM   KimmyJS19    Nov 2017
+85.825	72.325		STEAMLINE TAXIS, SOUTHAMPTON	        HAMPSHIRE	   FM	KimmyJS19    Sep 2004
+85.825	72.325		JOES & BARRYS TAXIS, LETCHWORTH	77.0    HERTFORDSHIRE	   FM	KimmyJS19    Feb 2016
+85.825	72.325          ABC Danoto Taxis, LEICESTER	        LEICESTERSHIRE     FM   KimmyJS19    Nov 2014
+85.825	72.325		Brahan Farms, CONON BRIDGE, INVERNESS   SCOTLAND	   FM	KimmyJS19    Apr 2013
+85.825	72.325		A C Radio Cars Taxis, WESTCLIFF ON SEA  SOUTH ESSEX        FM	KimmyJS19    Dec 2016
+85.825	72.325		RONIA MINICABS, STAINES UPON THAMES     SURREY  	   FM   KimmyJS19    May 2017
+85.8375	72.3375		T H Clements & Son, Benington, BOSTON   LINCOLNSHIRE	   FM   KimmyJS19    May 2017
+85.8375	72.3375         Z Cars Taxis (JAY), THORNTON HEATH      LONDON             FM   KimmyJS19    Dec 2015
+85.8375	72.3375		Luke Furse Earthmoving, HOLSWORTHY     	NORTH DEVON        FM	KimmyJS19    Sep 2017
+85.8375	72.3375		ST ANDREWS TAXIS, ST ANDREWS, FIFE      SCOTLAND	   FM	KimmyJS19    Sep 2004
+85.8375	72.3375         Bennetts Taxis (BEE), TAMWORTH          STAFFORDSHIRE      FM   KimmyJS19    Apr 2016
+85.8375	72.3375         Walsall Radio Taxis (SWIFT), WALSALL    WEST MIDLANDS      FM	KimmyJS19    Nov 2016
+85.850	72.350		L068 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+85.8625	72.3625		SECURE ALARMS, PARKSTONE	        DORSET	           FM	KimmyJS19    Jan 2000
+85.8625	72.3625		Alphabet Cars Taxis, LONDON     	ESSEX              FM	KimmyJS19    Aug 2012
+85.8625	72.3625		Union Cars Taxis, BURNLEY               LANCASHIRE	   FM	KimmyJS19    Dec 2014
+85.8625	72.3625		Yvonnes Taxis, Station Rd, SLEAFORD    	LINCOLNSHIRE       FM	KimmyJS19    Dec 2016
+85.8625	72.3625		BOBBY CARS, VAUXHALL, LONDON            LONDON	           FM	KimmyJS19    Dec 2015
+85.8625	72.3625		M1 Taxi Service, NUNEATON               WARWICKSHIRE	   FM   KimmyJS19    Dec 2014
+85.875	72.375          Fawley Power Station (JRC), SOUTHAMPTON HAMPSHIRE	   FM	KimmyJS19    Dec 2016
+85.875	72.375          Joint Radio Company (TUNNEL), SHEERNESS KENT    	   FM   KimmyJS19    Sep 2016
+85.875	72.375		TAXI, FINSBURY PARK, LONDON N4	        LONDON 	           FM	KimmyJS19    Jan 2007
+85.875	72.375		PMR PARKING & DEMONSTRATION, OFCOM	NATIONAL USAGE     FM	KimmyJS19    Feb 2015
+85.875	72.375		SHORT TERM HIRE, SUPPLIERS LIGHT DUAL   NATIONAL USAGE     FM	KimmyJS19    Feb 2015
+85.875	72.375		UNID TAXI COMPANY, WALES	        WALES	           FM	KimmyJS19    Nov 2004
+85.875			SHORT TERM HIRE, SUPPLIERS LIGHT        NATIONAL USAGE     FM	KimmyJS19    Feb 2015
+85.875			VARIOUS MIXED USERS ACCROSS UK          NATIONAL USAGE     FM	KimmyJS19    Feb 2015
+85.8875	72.3875 	South Molton Taxis, SOUTH MOLTON        DEVON   	   FM   KimmyJS19    Dec 2017
+85.8875	72.3875		ANIMAL VETS, Bristol Road, GLOUCESTER   GLOUCESTERSHIRE	   FM	KimmyJS19    Aug 2017
+85.8875	72.3875         TAMESIDE TAXIS, HYDE, TAMESIDE          GREATER MANCHESTER FM   KimmyJS19    May 2013
+85.8875	72.3875         Auto Reps Taxis Of Gravesend, GRAVESEND KENT	           FM	KimmyJS19    Jun 2015
+85.8875	72.3875		AYLSHAM PRODUCE, AYLSHAM                NORFOLK		   FM	KimmyJS19    May 2005
+85.8875	72.3875		ALLANS TAXIS, COVENTRY 	                WEST MIDLANDS	   FM	KimmyJS19    Jun 2005
+85.9000	72.400		BOURNE PLASTERERS PARKSTONE		DORSET	           FM	KimmyJS19    Feb 2009
+85.9000	72.400          STROOD CABS TAXIS, STROOD, ROCHESTER    KENT	           FM   KimmyJS19    Aug 2018
+85.9000	72.400		GLEN FARROW HEATING, SPALDING 110.9     LINCOLNSHIRE	   FM	KimmyJS19    Nov 2006
+85.9000	72.400  	WHC Engineering, LLANGEFNI, ANGLESEY    NORTH WALES	   FM	KimmyJS19    Jul 2015
+85.9000	72.400		Brothock Taxis, ARBROATH, ANGUS  	SCOTLAND           FM	KimmyJS19    Sep 2017
+85.9000	72.400     	Aireside Taxis, KEIGHLEY                WEST YORKSHIRE	   FM	KimmyJS19    Jan 2015
+85.9125	72.4125 	Gibbon Farms, THORRINGTON, TENDRING     ESSEX	           FM	KimmyJS19    Dec 2013
+85.9125	72.4125 	Lannis Taxis, LETCHWORTH GARDEN CITY    HERTFORDSHIRE	   FM   KimmyJS19    Jun 2016
+85.9125	72.4125		K CARS,	LONDON	                        LONDON	           FM	KimmyJS19    Sep 2004
+85.9125	72.4125		UNID FARM, MELTOSS ROSS 	        NORTH LINCOLNSHIRE FM	KimmyJS19    Aug 2004
+85.9125	72.4125   	Undercliffe Private Hire, BRADFORD      WEST YORKSHIRE     FM   KimmyJS19    Jul 2017
+85.925	72.425		PRC PARKSTONE/NEW MILTON		DORSET	           FM	KimmyJS19    Feb 2009
+85.925	72.425		Star Mini Cabs Taxis, ROMFORD           ESSEX     	   FM	KimmyJS19    Oct 2016
+85.925	72.425		Village Cars Taxis, Bushey, WATFORD	HERTFORDSHIRE 	   FM   KimmyJS19    Aug 2014
+85.925	72.425  	Chris Eley Produce, SPALDING            LINCOLNSHIRE       FM	KimmyJS19    Oct 2015
+85.925	72.425  	RHM, Black Lodge, WELLINGBOROUGH        NORTHAMPTONSHIRE   FM   KimmyJS19    Aug 2013
+85.925	72.425		DELAWARE VETS, CASTLE CARY	        SOMERSET	   FM	KimmyJS19    Mar 2012
+85.9375	72.4375		MOTOR FACTORS, BLANDFORD FORUM	        DORSET	           FM	KimmyJS19    Jan 2000
+85.9375	72.4375 	Moorside Taxis, MOORGATE, BURY	        GREATER MANCHESTER FM   KimmyJS19    Mar 2017
+85.9375	72.4375		STREAMLINE PROGRESS TAXIS, Blackpool    LANCASHIRE     	   FM	KimmyJS19    Apr 2013
+85.9375	72.4375		ABC TAXIS, STOKE ON TRENT	        STAFFORDSHIRE	   FM	KimmyJS19    Nov 2004
+85.9375	72.4375		South Lanarkshire Council, GLASGOW      SCOTLAND    	   FM	KimmyJS19    Dec 2016
+85.950	72.450		Henrys Taxis, Spennymoor, Durham        COUNTY DURHAM	   FM	KimmyJS19    May 2013
+85.950	72.450		BOBS CABS TAXIS, DORCHESTER  118.8      DORSET	           FM	KimmyJS19    Oct 2015
+85.950	72.450		South Manchester Radio Cabs, SALE	GREATER MANCHESTER FM	KimmyJS19    Dec 2017
+85.950	72.450		ACTION CARS, LONDON	                LONDON	           FM	KimmyJS19    Sep 2004
+85.950	72.450		A C Radio Cabs Taxis, WESTCLIFF ON SEA  SOUTH ESSEX        FM	KimmyJS19    Sep 2015
+85.950	72.450          Silverline Cabs Taxis, GATESHEAD        TYNE AND WEAR      FM	KimmyJS19    Jun 2014
+85.950	72.450		Maypole Motors, SURBITON	        WEST LONDON        FM	KimmyJS19    Sep 2010
+85.950	72.450  	Central Cars Taxis, CHICHESTER          WEST SUSSEX	   FM   KimmyJS19    Dec 2017
+85.9625	72.4625	        Frodsham And District Taxis, FRODSHAM   CHESHIRE           FM	KimmyJS19    Mar 2014
+85.9625	72.4625		A To B Parnells Taxis, BODMIN     	EAST CORNWALL      FM	KimmyJS19    Nov 2016
+85.9625	72.4625		GLOBE CARS, LONDON	                LONDON	           FM	KimmyJS19    Sep 2004
+85.9625	72.4625 	Bale's Private Hire Taxis, KETTERING    NORTHAMPTONSHIRE   FM	KimmyJS19    Sep 2015
+85.975	72.475		BRIDGE CARS TAXIS, HAMILTON, SCOTLAND	LANARKSHIRE        FM	KimmyJS19    Oct 2017
+85.975	72.475		KERR FARMS, LETHERINGHAM	        LINCOLNSHIRE	   FM	KimmyJS19    Nov 2006
+85.975	72.475		TAXI, FINSBURY PARK, LONDON 	        LONDON	           FM	KimmyJS19    Jan 2005
+85.975	72.475  	Guildford Taxi Association, GUILDFORD   SURREY	           FM   KimmyJS19    Nov 2014
+85.975	72.475  	Heritage Cars, Llantwit Major, WALES    VALE OF GLAMORGAN  FM	KimmyJS19    Sep 2017
+85.975	72.475  	Fleetway Taxis, YORK                    YORKSHIRE	   FM   KimmyJS19    Dec 2013
+85.9875	72.4875		NATIONS CARS, ILFORD	                ESSEX	           FM	KimmyJS19    Sep 2004
+85.9875	72.4875		Murphys Taxis, MARKET HARBOROUGH        LEICESTERSHIRE     FM	KimmyJS19    Aug 2010
+85.9875	72.4875		AVERY CARS/COMMUTER CARS, LONDON        LONDON	           FM	KimmyJS19    Feb 2005
+85.9875	72.4875	        Kings Taxis, LEVEN, FIFE                SCOTLAND           FM	KimmyJS19    Feb 2015
+85.9875	72.4875		Gander Cars Limited	                SUTTON	           FM	KimmyJS19    Jul 2010
+85.9875	72.4875         Walsingham Cars, ORPINGTON, BROMLEY     WEST KENT          FM	KimmyJS19    Jan 2016
+86.000	72.500		HANFORD FARMS, DORCHESTER 114.8	        DORSET	           FM	KimmyJS19    Aug 2004
+86.000	72.500		POOKS TAXIS SITTINGBOURNE	        KENT	           FM	KimmyJS19    Sep 2004
+86.000	72.500		KILBURN CARS, LONDON	                LONDON	           FM	KimmyJS19    Sep 2004
+86.000	72.500		Classic Cars, TIPTON, WEST BROMWICH     WEST MIDLANDS	   FM	KimmyJS19    Dec 2014
+86.000	72.500		UNID TAXIS, SWINDON 	                WILTSHIRE	   FM	KimmyJS19    Mar 2006
+86.0125	72.5125		C+S TAXIS CHESHUNT	                HERTFORDSHIRE	   FM	KimmyJS19    Sep 2004
+86.0125	72.5125		P AND P TAXIS, WORKSOP 67	        NOTTINGHAMSHIRE	   FM	KimmyJS19    Feb 2008
+86.0125	72.5125		PREMIER CARS TAXIS, MOORTOWN, LEEDS	WEST YORKSHIRE	   FM	KimmyJS19    May 2015
+86.025	72.525		UNID FARM, EAST YORKS/ NTH LINCS        NORTH LINCOLNSHIRE FM	KimmyJS19    Aug 2004
+86.025	72.525		L082 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+86.025	75.525		Brecon Mountain Rescue C/N "Sierra"	SOUTH WALES	   FM	KimmyJS19    Feb 2006
+86.0375	72.5375		COMREP COLTEL AIRTIME BANCHORY ABERDEEN	SCOTLAND	   FM	KimmyJS19    Oct 2005
+86.0375	72.5375		ALVA RECOVERY ST LEONARDS HASTINGS 	EAST SUSSEX	   FM	KimmyJS19    Oct 2005
+86.0375	72.5375		DOWNLAND RANGERS, EASTBOURNE 	        EAST SUSSEX	   FM	KimmyJS19    Oct 2005
+86.0375	72.5375		COMREP JE GUPPY FAIRLIGHT HASTINGS 	EAST SUSSEX	   FM	KimmyJS19    Oct 2005
+86.0375	72.5375		NORFOLK COM REPT		        NORFOLK	           FM	KimmyJS19    Sep 2006
+86.0375	72.5375		L083 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+86.050	72.550		L084 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+86.0625	72.5625		SANDRINGHAM ROYAL EST		        NORFOLK	           FM	KimmyJS19    Nov 2006
+86.0625	72.5625		T & S Motor Factors (Liverpool) Limited	LIVERPOOL	   FM	KimmyJS19    Nov 2010
+86.0625	72.5625 	A1 TAXIS, Masbrough St, ROTHERHAM       SOUTH YORKSHIRE    FM	KimmyJS19    Oct 2017
+86.075	72.575		L086 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+86.0875	72.5875		Ark Veterinary Centre, Belleek          IRELAND     	   FM	KimmyJS19    Jul 2011
+86.100  72.600		Atlas Radio Cars, ILFORD     	        ESSEX              FM	KimmyJS19    Apr 2012
+86.100  72.600          Atlas Radio Cars, HAVERING              LONDON         	   FM	KimmyJS19    Dec 2013
+86.100  72.600     	EDF Energy, KNOCKEWART HILLS, SCOTLAND  NORTH AYRSHIRE     FM	KimmyJS19    Jul 2013
+86.125	72.625		RHONDA CYNON TAFF COUNCIL WASTE SERVICE SOUTH WALES	   FM	KimmyJS19    Dec 2002
+86.125	72.625		UNID FARM, ANMERING 	                WEST SUSSEX	   FM	KimmyJS19    Aug 2004
+86.125	72.625		L090 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+86.1375	72.6375 	Kwik Cars Taxis, SOUTHPORT              MERSEYSIDE	   FM	KimmyJS19    Jun 2013
+86.1375	72.6375		L091 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+86.150	72.650		COMREP SKIP HIRE HERTS/BEDS 136.5       BEDFORDSHIRE	   FM	KimmyJS19    Oct 2005
+86.150	72.650  	Ely Skip Hire, GREAT SHELFORD           CAMBRIDGESHIRE     FM	KimmyJS19    Aug 2013
+86.150	72.650     	EDF Energy, KNOCKEWART HILLS, SCOTLAND  NORTH AYRSHIRE     FM	KimmyJS19    Jul 2013
+86.150	72.650		TAXI, PERTH, PERTH AND KINROSS          SCOTLAND	   FM	KimmyJS19    Nov 2006
+86.150	72.650  	Mole Valley District Council, ASHTEAD 	SURREY	           FM   KimmyJS19    Dec 2013
+86.1625	72.6625		NORTH AYRSHIRE ROADS & HIGHWAYS         SCOTLAND	   FM	KimmyJS19    Oct 2015
+86.1625	72.6625		SUTTON AND EAST SURREY WATER, TRUNKED   SURREY	           FM	KimmyJS19    Apr 2006
+86.1625	72.6625		ATKINS LTD, EPSOM AND EWELL	        SURREY    	   FM	KimmyJS19    Mar 2014
+86.175	72.675		L094 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+86.2125	72.7125 	A1-Ace Radio Taxis, BARNSLEY            SOUTH YORKSHIRE	   FM   KimmyJS19    Oct 2013
+86.2125	72.7125		L097 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+86.225	72.725		BOOTHFERRY COUCIL, BOOTHFERRY	        EAST YORKSHIRE     FM	KimmyJS19    Nov 2003
+86.225	72.725		SHARED COMREP BLACK MIXEN RADNOR FOREST POWYS	           FM	KimmyJS19    Jan 2007
+86.225	72.725		AMTRAK PARCELS DELIVERY	PERTH & KINROSS SCOTLAND	   FM	KimmyJS19    Nov 2006
+86.225	72.725		SOUTH EAST NIGHT CALL DOCTORS 131.8	SUFFOLK	           FM	KimmyJS19    Oct 2002
+86.225	72.725		C.A.L.L ALARM SERVICE REPT WOODBRIDGE	SUFFOLK	           FM	KimmyJS19    Aug 2004
+86.225	72.725		L098 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+86.2375	72.7375		JACK POCKLEY FUELS, HULL, EAST RIDING   EAST YORKSHIRE 	   FM	KimmyJS19    Oct 2002
+86.2375	72.7375		Hebenton Tay Comms, Dundee, ANGUS       SCOTLAND 	   FM	KimmyJS19    Nov 2012
+86.2375	72.7375		C.W.R LORRY HAULAGE COM REPT FELIXSTOWE SUFFOLK	           FM	KimmyJS19    Oct 2002
+86.2375	72.7375		WEST SUSSEX DOCTORS SERVICE		WEST SUSSEX	   FM	KimmyJS19    Jun 2006
+86.250	72.750		ATKINS ENGINEERING & DESIGN, WEDMORE    NORTH SOMERSET     FM	KimmyJS19    Dec 2012
+86.250	72.750		Welsh Government, CONWY & LLANDUDNO     NORTH WALES        FM	KimmyJS19    Jun 2017
+86.250	72.750		Welsh Government Traffic, PENMAENWAWR   NORTH WALES        FM	KimmyJS19    Jul 2014
+86.250	72.750		Barnbrock Farm, Kilbarchan, JOHNSTONE   RENFREWSHIRE   	   FM	KimmyJS19    Nov 2012
+86.250	72.750		River Tweed Water Services, JEDBURGH    SELKIRKSHIRE       FM	KimmyJS19    Dec 2012
+86.2625 72.7625	        Chester Le Street District Council      COUNTY DURHAM      FM	KimmyJS19    May 2013
+86.2625 72.7625	        Borough of Kensington & Chelsea, Waste  LONDON             FM	KimmyJS19    Jan 2011
+86.275	72.775		L102 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE	           FM	KimmyJS19    Feb 2006
+86.2875	72.7875		COMMUNITY SERVICES		        BUCKINGHAMSHIRE	   FM	KimmyJS19    Oct 2002
+86.2875	72.7875		UNID FARM, HORKSTOW	                NORTH LINCOLNSHIRE FM	KimmyJS19    Aug 2004
+86.300			The Kings School, Macclesfield	        CHESHIRE           FM	KimmyJS19    May 2010
+86.300			Louth County Hospital, LOUTH            LINCOLNSHIRE       FM	KimmyJS19    Dec 2012
+86.300			UK SPORT, BERNARD ST. MARYLEBONE        LONDON             FM	KimmyJS19    Sep 2017
+86.300			Parksafe Scotland, PAISLEY	        RENFREWSHIRE       FM	KimmyJS19    Nov 2010
+86.300			Aircoach Airlink, GLASGOW AIRPORT       SCOTLAND           FM	KimmyJS19    Dec 2012
+86.300                  PREMIER TAXIS, Broughty Ferry, DUNDEE   SCOTLAND           FM	KimmyJS19    Mar 2017
+86.300			M & S Doble, Hurcott Farm, Ilminster    SOMERSET           FM	KimmyJS19    Nov 2012
+86.300			AB Mini Cabs Taxis, Thornton Heath	SURREY             FM	KimmyJS19    Oct 2012
+86.300			Warwicks Carillion Highway Maintenance	WARWICKSHIRE       FM	KimmyJS19    Nov 2012
+86.3125			Mountain Rescue Ch.1 Search & Rescue	NATIONAL USAGE	   FM	KimmyJS19    Dec 2002
+86.3125			UKSAR Ch.105 Rebroadcast Feeder Link 	SCOTLAND	   FM	KimmyJS19    Nov 2004
+86.325			Langdale Ambleside Mountain Rescue Team CUMBRIA    	   FM	KimmyJS19    Nov 2012
+86.325			Peak District National Park, EDALE 	DERBYSHIRE         FM	KimmyJS19    Aug 2018
+86.325			Mountain Rescue Ch.2 Search & Rescue	NATIONAL USAGE	   FM	KimmyJS19    Dec 2002
+86.3375  		UKG Simple Light LOW VHF2 UK Wide       NATIONAL USAGE     FM	KimmyJS19    Mar 2013
+86.3375			LSJ 2 ST JOHN AMBULANCE UK GENERAL 	NATIONAL USAGE	   FM	KimmyJS19    Dec 2006
+86.3375			RA UK GENERAL 2002 ALLOCATIONS	OFCOM	UK WIDE	           FM	KimmyJS19    Feb 2006
+86.350			BRITISH STEEL (METALLURGY), SCUNTHORPE  LINCOLNSHIRE       FM	KimmyJS19    Oct 2016
+86.350  		UKG Simple Light LOW VHF3 UK Wide       NATIONAL USAGE     FM	KimmyJS19    Mar 2013
+86.350			LSJ 3 ST JOHN AMBULANCE UK GENERAL 	NATIONAL USAGE	   FM	KimmyJS19    Dec 2003
+86.350			SCOUT ASSOCIATION NATIONAL CH2 RESERVE	NATIONAL USAGE	   FM	KimmyJS19    Sep 2005
+86.350			ULSTER AUTOMOBILE CLUB CH1		NORTHERN IRELAND   FM	KimmyJS19    Apr 2005
+86.350			RA UK GENERAL 2002 ALLOCATIONS	OFCOM	UK WIDE	           FM	KimmyJS19    Feb 2006
+86.3625  		UKG Simple Light LOW VHF4 UK Wide       NATIONAL USAGE     FM	KimmyJS19    Mar 2013
+86.3625			LSJ 4 ST JOHN AMBULANCE UK GENERAL 	NATIONAL USAGE	   FM	KimmyJS19    Dec 2003
+86.3625			SCOUT ASSOCIATION NATIONAL CH1 RESERVE	NATIONAL USAGE	   FM	KimmyJS19    Sep 2005
+86.3625			RA UK GENERAL 2002 ALLOCATIONS	OFCOM	UK WIDE	           FM	KimmyJS19    Feb 2006
+86.375  		UKG Simple Light LOW VHF5 UK Wide       NATIONAL USAGE     FM	KimmyJS19    Mar 2013
+86.375			LSJ 5 ST JOHN AMBULANCE UK GENERAL 	NATIONAL USAGE	   FM	KimmyJS19    Dec 2003
+86.375			ULSTER AUTOMOBILE CLUB CH4		NORTHERN IRELAND   FM	KimmyJS19    Apr 2005
+86.375			RA UK GENERAL 2002 ALLOCATIONS	OFCOM	UK WIDE	           FM	KimmyJS19    Feb 2006
+86.3875			DG Cabs Taxis, Montrose, Scotland       ANGUS	           FM	KimmyJS19    Nov 2012
+86.3875			Orby Link, Allied Bakeries, BELFAST     NORTHERN IRELAND   FM	KimmyJS19    Aug 2012
+86.3875			Dowson Primary School, HYDE, TAMESIDE   GREATER MANCHESTER FM	KimmyJS19    Nov 2015
+86.3875			ITT Exelis Defense, BASINGSTOKE	        NORTH HAMPSHIRE	   FM	KimmyJS19    Nov 2012
+86.3875			BN Sloan & Co. Elliothead Farm, WALES	PERTHSHIRE         FM	KimmyJS19    Dec 2012
+86.3875			Cardiff County Council, Atlantic Wharf	WALES	           FM	KimmyJS19    Mar 2011
+86.400			R M Kendall Farm, LANGFORD, BIGGLESWADE BEDFORDSHIRE       FM	KimmyJS19    Nov 2012
+86.400			Imerys Minerals, Furzebroook, WAREHAM	DORSET             FM	KimmyJS19    Dec 2012
+86.400			TARMAC, STANWAY GREEN, BEACON END	NORTH ESSEX        FM	KimmyJS19    Nov 2012
+86.400			Collow Abbey Farm, MARKET RASEN, LEGSBY	NORTH LINCOLNSHIRE FM	KimmyJS19    Dec 2012
+86.400			High Wycombe Highway Maintenance	OXFORDSHIRE        FM	KimmyJS19    Nov 2012
+86.4125			HUNTERSTON POWER STATION, AYRSHIRE      SCOTLAND           FM	KimmyJS19    Nov 2002
+86.4125			John Cowie Farming, Auchininna, TURRIFF SCOTLAND           FM	KimmyJS19    Oct 2012
+86.425                  Bridge Farm, Elstronwick, HULL          EAST YORKSHIRE	   FM   KimmyJS19    Feb 2016
+86.425			BLUE BIRD BOATS, HYDE PARK, KENSINGTON  LONDON             FM	KimmyJS19    Jul 2004
+86.4375			ULSTER AUTOMOBILE CLUB CH3		NORTHERN IRELAND   FM	KimmyJS19    Apr 2005
+86.4375         	MIRA Engineering, Watling St. NUNEATON  WARWICKSHIRE       FM	KimmyJS19    Oct 2014
+86.450			Luton Central Mosque, LUTON             BEDFORDSHIRE	   FM	KimmyJS19    Jun 2016
+86.450			Royal Ballet School, RICHMOND, LONDON	SURREY             FM	KimmyJS19    Dec 2015
+86.4625	 77.750		L117 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+86.475	 77.7625	L118 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+86.475			Forrestry Comission Neath, NEATH 	SOUTH WALES	   AM	KimmyJS19    Mar 2003
+86.4875	 77.775		L119 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+86.500			SUFFOLK COUNTY COUNCIL EMGERGENCY USE	SUFFOLK	           FM	KimmyJS19    Oct 2002
+86.625			St Johns Ambulance, Guernsey	        CHANNEL ISLANDS    FM	KimmyJS19    Jan 2009
+86.675			JFMG TALKBACK WALES AND WESTERN ENGLAND NATIONAL USAGE	   FM   KimmyJS19    Jun 2005
+86.6875	 72.1875	Unid TAXI, Surrey		        SURREY	           FM	KimmyJS19    Oct 2005
+86.7125  76.7125        Cambs Aggregates, GREAT SHELFORD        CAMBRIDGESHIRE	   FM	KimmyJS19    Jan 2016
+86.750   76.750         A P L Humberside Haulage, HULL          EAST YORKSHIRE     FM	KimmyJS19    Mar 2010
+86.750   76.750         Elliott Sound, Taffs Well, CARDIFF      GLAMORGANSHIRE     FM	KimmyJS19    Feb 2013
+86.7625	 76.7625	COMREP KENNISH	                        ISLE OF MAN	   FM	KimmyJS19    Jan 2003
+86.7625	 76.7625	L141 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+86.775	 76.775         SHARED CBS REPEATER, BELFAST            NORTHERN IRELAND   FM	KimmyJS19    May 2016
+86.775	 76.775 	DEE COMMS SHARED CBS, BERSHAM, WREXHAM  NORTH WALES        FM	KimmyJS19    Oct 2015
+86.7875	 76.7875	County Council 82.5 BUCKINGHAMSHIRE     BUCKINGHAMSHIRE    FM	KimmyJS19    Dec 2003
+86.7875	 76.7875	Zycomm Electronics CBS, ALPORT HEIGHTS  DERBYSHIRE	   FM	KimmyJS19    Sep 2017
+86.7875	 76.7875	County Council OXFORDSHIRE, 136.5 	OXFORDSHIRE        FM	KimmyJS19    Jan 2004
+86.800	 76.800		PANTHER TAXIS, Waterbeach, CAMBRIDGE	CAMBRIDGESHIRE     FM	KimmyJS19    Dec 2012
+86.800	 76.800		COMREP TRUNKED DATA CHANNEL, LOUTH 	LINCOLNSHIRE	   FM   KimmyJS19    Jun 2005
+86.800	 76.800		TAXI, MILFORD HAVEN 131.8	        WALES	           FM	KimmyJS19    Nov 2004
+86.800	 76.800		WEST SUSSEX DOCTORS SERVICE		WEST SUSSEX	   FM	KimmyJS19    Jan 2006
+86.80625 76.80625	JFMG WIDE AREA DUPLEX	                NATIONAL USAGE     FM	KimmyJS19    Jun 2005
+86.8125	 76.81250       JFMG WIDE AREA DUPLEX			NATIONAL USAGE     FM	KimmyJS19    Jun 2005
+86.81875 76.81875	JFMG WIDE AREA DUPLEX	                NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+86.825	 76.825		GRANADA NORTHWEST NEWS TALKBACK		GREATER MANCHESTER FM	KimmyJS19    Feb 2007
+86.825	 76.825		JFMG WIDE AREA DUPLEX			NATIONAL USAGE     FM	KimmyJS19    Jun 2005
+86.825			MERIDIAN T.V O/B  HASTINGS	        EAST SUSSEX	   FM	KimmyJS19    Oct 2002
+86.83125 76.83125	JFMG WIDE AREA DUPLEX	                NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+86.8375	 76.8375	JFMG WIDE AREA DUPLEX			NATIONAL USAGE     FM	KimmyJS19    Jun 2005
+86.8375			SKY NEWS TALKBACK/SOUND GALLERY	LONDON	LONDON	           FM	KimmyJS19    Jul 2003
+86.84375 76.84375	JFMG WIDE AREA DUPLEX	                NATIONAL USAGE	   FM	KimmyJS19    Jun 2005
+86.8500  76.8500        Arqiva LTD, BELFAST, ANTRIM             NORTHERN IRELAND   FM   KimmyJS19    Oct 2013
+86.8625	 76.8625	COMREP TRUNKED	LOUTH 	                LINCOLNSHIRE	   FM	KimmyJS19    Oct 2002
+86.8625	 76.8625        Arqiva LTD, BELFAST, ANTRIM             NORTHERN IRELAND   FM   KimmyJS19    Oct 2013
+86.8625	 76.8625	COMREP SHARED, TITTERSTONE, CLEE HILL   SHROPSHIRE	   FM	KimmyJS19    Jan 2007
+86.8625	 76.8625	FALLEN STOCK REMOVALS TITTERSTONE 82.5  WEST MIDLANDS	   FM	KimmyJS19    Oct 2005
+86.8625	 76.8625	COMREP PLUMBERS	TITTERSTONE 156.7 	WEST MIDLANDS	   FM	KimmyJS19    Oct 2005
+86.8625	 76.8625	SAND/AGGREGATE SUPPLIES, TITTERSTONE    WEST MIDLANDS	   FM	KimmyJS19    Oct 2005
+86.8625	 76.8625	S WILLIAM POWELL, TITTERSTONE CLEE HILL WEST MIDLANDS	   FM	KimmyJS19    Oct 2005
+86.875	 76.875		COMREP, SHARED USERS, CHELTENHAM	GLOUCESTERSHIRE	   FM	KimmyJS19    Mar 2006
+86.875	 76.875         UNID USERS, GUILDFORD                   SURREY             FM	KimmyJS19    Jul 2017
+86.8875	 76.8875	T.BERMINGHAM CONTRACTOR	SCARBOROUGH 	NORTH YORKSHIRE	   FM	KimmyJS19    Oct 2005
+86.8875	 76.8875	VETS PRACITICE 	SCOTTISH BORDERS        SCOTLAND	   FM	KimmyJS19    Nov 2006
+86.8875	 76.8875	SHARED COMREP, KENNISH	                ISLE OF MAN        FM	KimmyJS19    Jan 2003
+86.8875	 76.8875	Zycomm Electronics, RIPLEY	        DERBYSHIRE         FM	KimmyJS19    Jan 2011
+86.8875	 76.8875	Zycomm Electronics CBS Repeater         STAFFORDSHIRE      FM	KimmyJS19    Dec 2015
+86.9000  76.9000        SHARED CBS REPEATER, CATERHAM           SURREY             FM	KimmyJS19    Feb 2016
+86.9125	 76.9125        Cambs Aggregates, GREAT SHELFORD        CAMBRIDGESHIRE	   FM	KimmyJS19    Jan 2016
+86.9125	 76.9125	CENTRAL TAXIS, CHELTENHAM 103.5	        GLOUCESTERSHIRE	   FM	KimmyJS19    Mar 2006
+86.9125	 76.9125	UNID TAXIS, EVESHAM	                WORCESTERSHIRE	   FM	KimmyJS19    Nov 2005
+86.9125	 76.9125	MERCIA RADIO SHARED CBS, GREAT MALVERN	WORCESTERSHIRE	   FM	KimmyJS19    Sep 2017
+86.925	 76.925		COMREP INTERLINK PARCELS 203.5		CAMBRIDGESHIRE	   FM	KimmyJS19    Dec 2005
+86.925	 76.925 	Harrys Taxis, WARRINGTON                CHESHIRE           FM   KimmyJS19    Oct 2015
+86.925	 76.925 	Crystal Cars, LONDON, Willesden         LONDON             FM   KimmyJS19    Mar 2013
+86.925	 76.925		WILTSHIRE HIGHWAYS DEPT		        WILTSHIRE	   FM	KimmyJS19    Nov 2006
+86.9625	 76.9625	FORRESTRY COMMISION, TOW LAW, DURHAM    COUNTY DURHAM	   FM	KimmyJS19    Aug 2012
+86.9625	 76.9625	FORRESTRY COMMISION SCOTLAND            CUMBERLAND	   FM	KimmyJS19    Dec 2012
+86.9625	 76.9625	WORKS POSS FORRESTRY COMMISION 156.7    GLOUCESTERSHIRE	   FM	KimmyJS19    Mar 2006
+86.9625	 76.9625	FORRESTRY COMMISION, RINGWOOD & FRITHAM HAMPSHIRE	   FM   KimmyJS19    Dec 2016
+86.9625	 76.9625	Forrestry Comission, UK Common		NATIONAL USAGE	   FM	KimmyJS19    Sep 2015
+86.9625	 76.9625	Forrestry Comission Thetford Forrest	NORFOLK	           FM	KimmyJS19    Oct 2005
+86.9625	 76.9625	FORRESTRY COMMISION SCOTTISH BORDERS    NORTHUMBERLAND	   FM	KimmyJS19    Dec 2012
+86.9625	 76.9625	FORRESTRY COMMISION, ROTHBURY           NORTHUMBERLAND	   FM	KimmyJS19    Dec 2012
+86.9625	 76.9625	FORESTRY COMMISION, ABERYSTWYTH	        NORTH WALES	   FM	KimmyJS19    Oct 2005
+86.9625	 76.9625	Forestry Commission, DALBY FOREST	NORTH YORKSHIRE    FM	KimmyJS19    Aug 2014
+86.9625	 76.9625	Forrestry Comission Sherwood Forrest	NOTTINGHAMSHIRE	   FM	KimmyJS19    Oct 2005
+86.9625	 76.9625	FORRESTRY COMMISION, NORTHUMBERLAND	TYNE AND WEAR      FM	KimmyJS19    Dec 2012
+86.975	 76.975		COMREP TRUNKED, LOUTH 	                LINCOLNSHIRE	   FM   KimmyJS19    Nov 2005
+86.975	 76.975		BIFFA WASTE SERVICES, CARDIFF	        SOUTH WALES	   FM	KimmyJS19    Dec 2002
+86.975	 76.975 	ABC Cab Co Taxis, Haverhill, CAMBS      SUFFOLK            FM	KimmyJS19    Aug 2013
+86.975	 76.975		Bats Cabs, Whitton Railway Station	WHITTON	           FM	KimmyJS19    Feb 2011
+86.9875	 76.9875	University Of Reading Security, READING BERKSHIRE	   FM   KimmyJS19    Sep 2013
+86.9875	 76.9875	Countess of Chester NHS, WIRRAL         MERSEYSIDE	   FM	KimmyJS19    May 2016
+86.9875	 76.9875	YSTWYTH VETS LLANBADARN ABERYSTWYTH	NORTH WALES	   FM	KimmyJS19    Feb 2004
+87.0500  77.0500        A2B Taxis (DELTA), SKEGNESS             LINCOLNSHIRE	   FM	KimmyJS19    Aug 2016
+87.0625	 77.0625        Elephant Car Service, NORWOOD           LONDON             FM   KimmyJS19    Dec 2015
+87.0625	 77.0625	UNID FARM, MELTON ROSS	                NORTH LINCOLNSHIRE FM	KimmyJS19    Aug 2004
+87.0625	 77.0625	Alco Taxis, Rushden                     NORTHAMPTONSHIRE   FM   KimmyJS19    Aug 2013
+87.0625	 77.0625	BOBS TAXIS, DIDCOT 	                OXFORDSHIRE	   FM	KimmyJS19    Sep 2004
+87.0625	 77.0625	WILSONS TAXIS, PERTH, PERTH & KINROSS   SCOTLAND	   FM	KimmyJS19    Oct 2004
+87.0625	 77.0625	FORRESTRY COMMISION BORDER FORREST PARK	SCOTLAND	   FM	KimmyJS19    Nov 2006
+87.0625	 77.0625	Forrestry Comission Neath Valley Wales	SOUTH WALES	   FM	KimmyJS19    Sep 2004
+87.0625	 77.0625        Haywards Heath Station Taxis, LONDON    SUSSEX   	   FM   KimmyJS19    May 2013
+87.0625	 77.0625	POWYS COUNTY COUNCIL		        WALES              FM	KimmyJS19    Sep 2004
+87.075	 77.075		BOWLERS TAXIS, ST IVES	                CAMBRIDGESHIRE     FM	KimmyJS19    Oct 2004
+87.075	 77.075		Beeline Taxis, HULL	                EAST YORKSHIRE     FM	KimmyJS19    Nov 2017
+87.075	 77.075		Pemberton Private Hire, WIGAN           GREATER MANCHESTER FM	KimmyJS19    Oct 2017
+87.075	 77.075		Circle Taxis, LEICESTER                 LEICESTERSHIRE	   FM   KimmyJS19    Nov 2014
+87.075	 77.075		Glengormley Taxis, Newtownabbey	        NORTHERN IRELAND   FM	KimmyJS19    Jan 2005
+87.075	 77.075		Cowdenbeath Taxis, Dunfermline, FIFE    SCOTLAND           FM	KimmyJS19    Jan 2015
+87.075	 77.075		Brighton & Hove Streamline Taxis        SUSSEX     	   FM	KimmyJS19    May 2016
+87.0875	 77.0875	COMREP CAMTAX, CAMBRIDGE 173.8	        CAMBRIDGESHIRE	   FM	KimmyJS19    Jan 2007
+87.0875	 77.0875	COMREP HERTFORDSHIRE/BEDFORDSHIRE/      CAMBRIDGESHIRE	   FM	KimmyJS19    Jan 2007
+87.0875	 77.0875        Castle Cabs, Carrickfergus, N IRELAND   COUNTY ANTRIM      FM	KimmyJS19    Jan 2013
+87.0875	 77.0875	Gaskell Bros (Wm&C) Ltd, Bryn Rd Garage LANCASHIRE         FM	KimmyJS19    Jan 2011
+87.0875	 77.0875	Kens Taxis, RUSHDEN                     NORTHAMPTONSHIRE   FM   KimmyJS19    Nov 2015
+87.0875	 77.0875        Brighton & Hove Streamline Taxis        SUSSEX     	   FM	KimmyJS19    May 2016
+87.0875	 77.0875	Solihull Cars, BIRMINGHAM		WEST MIDLANDS	   FM	KimmyJS19    Mar 2011
+87.0875	 77.0875	Kenwyn Veterinary Centre, TRURO	        WEST CORNWALL      FM	KimmyJS19    Jan 2018
+87.100   77.100         J & M Murdoch & Son Ltd, Scotland       GLASGOW	           FM   KimmyJS19    Dec 2010
+87.100   77.100         Lymington Taxis (LIMA), LYMINGTON       HAMPSHIRE          FM	KimmyJS19    Dec 2017
+87.100   77.100         A A Taxis, IBSTOCK                      LEICESTERSHIRE     FM	KimmyJS19    Jun 2017
+87.100   77.100         Jack Buck Farms, Green Lane, SPALDING	LINCOLNSHIRE       FM   KimmyJS19    Oct 2010
+87.100   77.100         Eagle STS Taxis, LISBURN, NR BELFAST    NORTHERN IRELAND   FM	KimmyJS19    Oct 2017
+87.100   77.100         Station Cars Taxis, Newtown             POWYS	           FM   KimmyJS19    Dec 2010
+87.100   77.100         J & M Murdoch & Son, PAISLEY, SCOTLAND  RENFREWSHIRE       FM   KimmyJS19    Jul 2017
+87.100   77.100		Brighton & Hove Streamline Taxis        SUSSEX     	   FM	KimmyJS19    May 2016
+87.1125	 77.1125	Mick George Haulage, GREAT SHELFORD     CAMBRIDGESHIRE	   FM   KimmyJS19    Apr 2014
+87.1125  77.1125        Foster Street Recycling Centre, HULL    EAST YORKSHIRE     FM	KimmyJS19    May 2010
+87.1125  77.1125        SARCOMM REPEATER, PRESTBURY, CHELTENHAM GLOUCESTERSHIRE    FM   KimmyJS19    May 2014
+87.1125  77.1125        Jubilee Cars, STANMORE, HARROW          LONDON             FM	KimmyJS19    May 2014
+87.1125  77.1125        Radio Taxis, Coleraine                  NORTHERN IRELAND   FM	KimmyJS19    Jul 2013
+87.125	 77.125 	Mick George, Chesterton, PETERBOROUGH   CAMBRIDGESHIRE	   FM	KimmyJS19    May 2017
+87.125   77.125         UNID USERS (GOLF 1), CRAIGYWARREN       NORTHERN IRELAND   FM   KimmyJS19    Dec 2015
+87.125	 77.125		BABERGH DISTRICT COUNCIL		SUFFOLK	           FM	KimmyJS19    Apr 2005
+87.1375	 77.1375	HAMPSHIRE COUNCIL		        HAMPSHIRE	   FM	KimmyJS19    Feb 2006
+87.1375	 77.1375	KENT COUNTY COUNCIL		        KENT	           FM	KimmyJS19    Nov 2006
+87.1375	 77.1375	SOUTH NORFOLK DISTRICT COUNCIL          NORFOLK	           FM	KimmyJS19    Feb 2006
+87.1375	 77.1375	RIVERS AGENCY, LISBURN, BELFAST         NORTHERN IRELAND   FM   KimmyJS19    Aug 2017
+87.1375	 77.1375	D G Private Hire Taxis, NOTTINGHAM      NOTTINGHAMSHIRE	   FM	KimmyJS19    Jan 2011
+87.1375	 77.1375    	CARDIFF COUNTY COUNCIL, HIGHWAYS        SOUTH WALES	   FM	KimmyJS19    Oct 2017
+87.1375	 77.1375	SALISBURY COUNCIL HIGHWAYS  SALISBURY 	WILTSHIRE	   FM   KimmyJS19    Mar 2004
+87.1500  77.1500	Mick George, Chesterton, PETERBOROUGH   CAMBRIDGESHIRE	   FM	KimmyJS19    May 2017
+87.1500  77.1500 	Jemma Cars Taxis, SIDCUP                LONDON 	           FM   KimmyJS19    Jan 2016
+87.1625	 77.1625	BUCKINGHAMSHIRE COUNCIL		        BUCKINGHAMSHIRE	   FM	KimmyJS19    Apr 2007
+87.1625	 77.1625	KENT COUNTY COUNCIL & SIEMENS LIGHT	KENT	           FM	KimmyJS19    Feb 2007
+87.1625	 77.1625        HIGHWAYS GRITTERS, LOUTH/LINDSEY 71.9	LINCOLNSHIRE	   FM	KimmyJS19    Jan 2007
+87.1625	 77.1625        J.R.C. (OLYMPICS PLUG), STRATFORD       LONDON  	   FM	KimmyJS19    Sep 2017
+87.1625	 77.1625    	Council Passenger Transport, SETTLE     NORTH YORKSHIRE    FM	KimmyJS19    Oct 2017
+87.1625	 77.1625    	Council Passenger Transport, GREENHOW   NORTH YORKSHIRE    FM	KimmyJS19    Oct 2017
+87.1625	 77.1625        Department Of The Environment 	        NORTHERN IRELAND   FM	KimmyJS19    Feb 2012
+87.1625	 77.1625	NORTH AYRSHIRE ROADS & HIGHWAYS 82.5    SCOTLAND	   FM	KimmyJS19    Nov 2018
+87.1625	 77.1625        Joint Radio Company, CROYDON, LONDON    SURREY             FM	KimmyJS19    Feb 2016
+87.175	 77.175		GLASGOW SUBWAY CH1, STRATHCLYDE         SCOTLAND	   FM	KimmyJS19    Sep 2005
+87.175	 77.175		CHAMBERS WASTE MANAGEMENT, GUILDFORD	SURREY	           FM	KimmyJS19    Oct 2005
+87.1875	 77.1875	BEDFORDSHIRE COUNTY COUNCIL		BEDFORDSHIRE	   FM	KimmyJS19    Mar 2004
+87.1875	 77.1875	LANCASHIRE COUNCIL HIGHWAYS/GRITTERS	LANCASHIRE	   FM	KimmyJS19    Sep 2010
+87.1875	 77.1875	Lancashire County Council, PRESTON      LANCASHIRE	   FM	KimmyJS19    Nov 2013
+87.1875	 77.1875	LCC HIGHWAYS, HAMELDON HILL, ACCRINGTON LANCASHIRE	   FM	KimmyJS19    Mar 2016
+87.1875	 77.1875        J.R.C. (OLYMPICS PLUG), STRATFORD       LONDON  	   FM	KimmyJS19    Sep 2017
+87.1875	 77.1875	OXFORDSHIRE COUNCIL		        OXFORDSHIRE	   FM	KimmyJS19    Mar 2004
+87.1875	 77.1875        Joint Radio Company, CROYDON, LONDON    SURREY             FM	KimmyJS19    Feb 2016
+87.200	 77.200		Lewes District Council, LEWES           EAST SUSSEX        FM	KimmyJS19    Dec 2017
+87.200	 77.200		Epping Forrest Rangers Charlie Control	ESSEX	           FM	KimmyJS19    Dec 2003
+87.200	 77.200		Lancashire County Council, PRESTON	LANCASHIRE         FM	KimmyJS19    Dec 2010
+87.200	 77.200         Lancashire County Council, BOLTON       LANCASHIRE	   FM	KimmyJS19    Dec 2017
+87.200	 77.200		FOREST GATE COUNCIL, LONDON	        LONDON	           FM	KimmyJS19    Feb 2005
+87.200	 77.200		MENDIP DISTRICT HIGHWAYS DEPT, MENDIP   SOMERSET	   FM	KimmyJS19    Feb 2005
+87.2125	 77.2125	NORTH WALES COUNTY COUNCIL		NORTH WALES	   FM	KimmyJS19    Feb 2004
+87.2125	 77.2125	Dumfries & Galloway Council, STRANRAER  SCOTLAND	   FM   KimmyJS19    Oct 2014
+87.2125	 77.2125	SOMERSET HIGHWAYS DEPARTMENT		SOMERSET	   FM	KimmyJS19    Mar 2003
+87.2125	 77.2125	MERTHYR TYDFIL COUNCIL, MOUNTAIN ASH    SOUTH WALES 	   FM   KimmyJS19    Feb 2014
+87.225	 77.225		OXWAY CONTROL OXFORD REFUSE CLEANERS	OXFORDSHIRE	   FM	KimmyJS19    Dec 2003
+87.225	 77.225		COMREP KENNISH	                        ISLE OF MAN	   FM	KimmyJS19    Jan 2003
+87.225	 77.225		L178 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+87.2375	 77.2375	PLYMOUTH COUNCIL HIGHWAYS DEPT          DEVON	           FM	KimmyJS19    Mar 2004
+87.2375	 77.2375	Lancashire County Council, PRESTON      LANCASHIRE         FM	KimmyJS19    Aug 2010
+87.2375	 77.2375   	LINCS HIGHWAYS GRITTERS, BOSTON 71.9    LINCOLNSHIRE	   FM	KimmyJS19    Jan 2007
+87.2375	 77.2375        London Borough of Hounslow Council      LONDON  	   FM	KimmyJS19    Sep 2013
+87.2375	 77.2375        J.R.C. (OLYMPICS PLUG), STRATFORD       LONDON  	   FM	KimmyJS19    Sep 2017
+87.2375	 77.2375	Dumfries And Galloway Council		SCOTLAND           FM	KimmyJS19    Mar 2011
+87.2375	 77.2375        Joint Radio Company, CROYDON, LONDON    SURREY             FM	KimmyJS19    Feb 2016
+87.2375	 77.2375	OAP WARDENS ON CALL, VICTOR CALLSIGNS   TAMESIDE 	   FM	KimmyJS19    Dec 2012
+87.2500	 77.250		COUNCIL HIGHWAYS, SOUTH WEST DEVON 	DEVON	           FM	KimmyJS19    Jan 2004
+87.2500  77.250         Glass City Cabs, Dunmurry, BELFAST	NORTHERN IRELAND   FM	KimmyJS19    Oct 2015
+87.2500	 77.250		CARDIFF COUNCIL WASTE SERVICES CARDIFF	SOUTH WALES	   FM	KimmyJS19    Dec 2002
+87.2625	 77.2625	DORSET HIGHWAYS DEPT		        DORSET	           FM	KimmyJS19    Feb 2006
+87.2625	 77.2625	ESSEX COUNCIL HIGHWAYS		        ESSEX	           FM	KimmyJS19    Feb 2006
+87.2625	 77.2625	Blackburn & Darwen Council, BLACKBURN 	LANCASHIRE	   FM   KimmyJS19    Jan 2018
+87.275	 77.275		Rivers Agency, Craigavon, CO ARMAGH	NORTHERN IRELAND   FM	KimmyJS19    Jan 2013
+87.275	 77.275		Rivers Agency, County Tyrone/C Armagh   NORTHERN IRELAND   FM   KimmyJS19    Apr 2014
+87.275	 77.275		North Yorks County Council, RYEDALE	NORTH YORKSHIRE    FM	KimmyJS19    Aug 2014
+87.275	 77.275		ABC CARS BURY ST EDMUNDS 	        SUFFOLK	           FM	KimmyJS19    Feb 2005
+87.2875	 77.2875	Mick George Haulage, GREAT SHELFORD     CAMBRIDGESHIRE	   FM   KimmyJS19    Sep 2015
+87.2875	 77.2875   	SOUTH LINCS HIGHWAYS GRITTERS EAST 71.9	LINCOLNSHIRE	   FM	KimmyJS19    Dec 2006
+87.300	 77.300		TAMESIDE MBC Community Response, HYDE   GREATER MANCHESTER FM	KimmyJS19    Nov 2015
+87.300	 77.300         J.R.C. (OLYMPICS PLUG), STRATFORD       LONDON  	   FM	KimmyJS19    Sep 2017
+87.300	 77.300		Western Isles Council, North Uist Isle  OUTER HEBRIDES     FM	KimmyJS19    Jan 2018
+87.300	 77.300		Western Isles Council, STORNOWAY        OUTER HEBRIDES     FM	KimmyJS19    Jan 2018
+87.300	 77.300		Dumfries & Galloway Council Bus Depot	SCOTLAND           FM	KimmyJS19    Mar 2011
+87.300	 77.300         Joint Radio Company, CROYDON, LONDON    SURREY             FM	KimmyJS19    Feb 2016
+87.3125	 77.3125	WINDSOR ROYAL PARK, WINDSOR	        BERKSHIRE	   FM	KimmyJS19    Aug 2004
+87.3125	 77.3125	Gladwin Bros Farms, BARTON ON HUMBER    NORTH LINCOLNSHIRE FM	KimmyJS19    Mar 2014
+87.325	 77.325		WHIPSNADE ACE COMMUNICATION SYSTEMS     BEDFORDSHIRE	   FM	KimmyJS19    Oct 2005
+87.325	 77.325		Zycomm Electronics CBS, ALPORT HEIGHTS  DERBYSHIRE	   FM	KimmyJS19    Oct 2017
+87.325	 77.325	  	DACORUM COUNCIL REFUSE 141.3    	HEMEL HEMPSTED	   FM	KimmyJS19    Feb 2005
+87.325	 77.325		KENT HIGHWAYS DEPT		        KENT	           FM	KimmyJS19    Aug 2004
+87.3375	 77.3375   	Apex Radio System, WREKENTON, GATESHEAD TYNE AND WEAR	   FM	KimmyJS19    Dec 2014
+87.3375	 77.3375	QUARRYMIX, COLLINGHAM	                WEST YORKSHIRE     FM	KimmyJS19    Feb 2007
+87.350	 77.350		COMREP TRUNKED, LOUTH 	                LINCOLNSHIRE	   FM	KimmyJS19    May 2005
+87.350	 77.350		COMREP EARS PLC	HIGHGATE	        LONDON	           FM	KimmyJS19    Oct 2005
+87.350	 77.350		L188 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+87.3625	 77.3625 	HIGHWAYS AGENCY BUCKS/CAMBS/            NORTHAMPTONSHIRE   FM	KimmyJS19    Dec 2005
+87.3625	 77.3625  	HIGHWAYS AGENCY NEWPORT PAGNELL	114.8   NORTHAMPTONSHIRE   FM	KimmyJS19    Dec 2005
+87.3625	 77.3625  	HIGHWAYS AGENCY PYTCHLEYM1 114.8	CAMBRIDGESHIRE	   FM	KimmyJS19    Dec 2005
+87.3625	 77.3625  	HIGHWAYS AGENCY ROADS TODDINGTON 114.8	BUCKINGHAMSHIRE    FM	KimmyJS19    Dec 2005
+87.3625	 77.3625  	HIGHWAYS AGENCY ROADS BIRCHANGER 118.8	A505/M1/M11/A14	   FM	KimmyJS19    Dec 2005
+87.3625	 77.3625  	HIGHWAYS AGENCY ROADS 118.8             ROTHERSTHORPE      FM	KimmyJS19    Dec 2005
+87.3750  77.3750        Arqiva LTD, BELFAST, ANTRIM             NORTHERN IRELAND   FM   KimmyJS19    Oct 2013
+87.3750  77.3750        ES CBS REPEATER, MERTHYR TYDFIL         SOUTH WALES	   FM   KimmyJS19    Jan 2017
+87.3875  77.3875        Rickmansworth Town Centre Partnership	HERTFORDSHIRE      FM	KimmyJS19    Apr 2014
+87.3875  77.3875        Otley Private Hire Taxis, OTLEY, LEEDS  WEST YORKSHIRE     FM	KimmyJS19    Feb 2016
+87.400                  I T T DEFENCE, VIABLES, BASINGSTOKE     HAMPSHIRE          FM	KimmyJS19    Oct 2017
+87.4125	 77.4125	L193 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+87.425	 77.425		HANDY CARS, HULL, EAST RIDING           EAST YORKSHIRE 	   FM	KimmyJS19    Oct 2004
+87.425	 77.425		COMREP TRUNKED, LOUTH 	                LINCOLNSHIRE	   FM	KimmyJS19    Oct 2005
+87.425	 77.425		Elegant Cars, Stoke Newington, London   MIDDLESEX  	   FM	KimmyJS19    Oct 2011
+87.425   77.425         Five Star Cars Taxis, BIRMINGHAM        WEST MIDLANDS      FM	KimmyJS19    Sep 2015
+87.4375	 77.4375	BEDFORDSHIRE COUNTY COUNCIL		BEDFORDSHIRE	   FM	KimmyJS19    Feb 2005
+87.4375	 77.4375	CLYDE MUIRSHIEL PARK, SOUTH CLYDE WIDE  SCOTLAND	   FM   KimmyJS19    Jun 2015
+87.4375	 77.4375	YORK HIGHWAYS, YORK	                YORKSHIRE	   FM	KimmyJS19    Jan 2004
+87.450	 77.450		PEMBROKESHIRE COUNTY COUNCIL		WALES	           FM	KimmyJS19    Feb 2004
+87.450	 77.450		DEVIZES HIGHWAY DEPARTMENT, TROWBRIDGE 	WILTSHIRE	   FM	KimmyJS19    Feb 2005
+87.450	 77.450		L196 OFCOM LOW BAND CHANNEL NUMBERS	UK WIDE     	   FM	KimmyJS19    Apr 2007
+87.450			GLASGOW SUBWAY SHUNTING STRATHCLYDE     SCOTLAND	   FM	KimmyJS19    Sep 2005
+87.4625	 77.4625	ESSEX COUNCIL HIGHWAYS		        ESSEX	           FM	KimmyJS19    Sep 2006
+87.4625	 77.4625	LINCOLNSHIRE HIGHWAYS GAINSBOROUGH 71.9 NORTH LINCOLNSHIRE FM	KimmyJS19    Jan 2007
+87.4625	 77.4625	North Yorks Transport, SCARBOROUGH	NORTH YORKSHIRE    FM	KimmyJS19    Dec 2017
+87.4625	 77.4625        North Yorks County Council, WHITBY      NORTH YORKSHIRE    FM	KimmyJS19    Jan 2019
+87.4625	 77.4625	Nth Yks Transport, KIRBY/RUSWARP/MALTON	NORTH YORKSHIRE    FM	KimmyJS19    Dec 2017
+87.4625	 77.4625	MERTHYR TYDFIL COUNCIL, MOUNTAIN ASH    SOUTH WALES 	   FM   KimmyJS19    Feb 2014
+87.4625	 77.4625	CEREDIGION COUNTY COUNCIL		WALES	           FM	KimmyJS19    Feb 2004
+87.475	 77.475		BEDFORDSHIRE HIGHWAYS  151.4	        BEDFORDSHIRE	   FM	KimmyJS19    Nov 2005
+87.475	 77.475         SARCOMM, BROWN CLEE HILL, CRAVEN ARMS   SHROPSHIRE         FM	KimmyJS19    Sep 2017
+87.475	 77.475		Sembcorp Utilities (Uk) Limited         MIDDLESBROUGH	   FM	KimmyJS19    Feb 2006
+87.4875	 77.4875	UNID SKIP HIRE CO, CAMBS  141.3	        CAMBRIDGESHIRE	   FM	KimmyJS19    Mar 2005
+87.4875	 77.4875	Union Private Hire, Wilmslow Rd, Mcr	MANCHESTER         FM	KimmyJS19    Jun 2012
+87.4875	 77.4875        Silverline Cabs Taxis, GATESHEAD        TYNE AND WEAR      FM	KimmyJS19    Jun 2014
+88.100   90.200         BBC Radio 2, Allocated 88.1 to 90.2 MHz UK WIDE            WFM  KimmyJS19    Sep 2009
+88.800                  BBC Radio Jersey 88.8 FM, JERSEY        CHANNEL ISLANDS    WFM  KimmyJS19    Mar 2016
+89.000                  MANX RADIO, SNAEFELL 89.0MHz FM         ISLE OF MAN        WFM  KimmyJS19    Dec 2013
+90.200   92.600         BBC Radio 3, Allocated 90.2 - 92.6      UK WIDE            WFM  KimmyJS19    Sep 2009
+91.200                  Energy FM, SNAEFELL MOUNTAIN 91.2 FM    ISLE OF MAN        WFM  KimmyJS19    Dec 2013
+92.300                  Halton Community Radio, HALTON, RUNCORN CHESHIRE           WFM  KimmyJS19    Dec 2013
+92.400   94.600         BBC Radio Ulster, 92.4 TO 94.6          NORTHERN IRELAND   WFM  KimmyJS19    Oct 2014
+92.500   96.100         BBC Radio 4, Allocated 92.5-96.1 MHz FM UK WIDE            WFM  KimmyJS19    Jul 2018
+92.700                  BBC Radio Scotland, Shetland Isles      SCOTLAND           WFM  KimmyJS19    Oct 2014
+93.100                  BBC Radio Foyle 93.1 FM, DERRY          NORTHERN IRELAND   WFM  KimmyJS19    Oct 2014
+93.700                  Island FM, ALDERNEY, GUERNSEY & SARK    CHANNEL ISLANDS    WFM  KimmyJS19    Mar 2016
+93.700                  BBC Radio Scotland, ORKNEY 93.7 FM      ORKNEY ISLANDS     WFM  KimmyJS19    Oct 2014
+95.000   106.000        CAPITAL FM, Allocated 95 to 106         UK WIDE            WFM  KimmyJS19    Jan 2011
+94.600                  BBC Radio Berkshire, Henley/Maidenhead  BERKSHIRE          WFM  KimmyJS19    Feb 2014
+94.600                  Signal One, 96.4 MHz (FM) CONGLETON     STAFFORDSHIRE      WFM  KimmyJS19    Jan 2011
+94.900                  BBC Radio Bristol, 94.9 Bristol         SOUTH WEST UK      WFM  KimmyJS19    Feb 2014
+94.900                  BBC Radio London, Greater London 94.9   LONDON             WFM  KimmyJS19    Aug 2014
+95.200                  BBC Radio Oxford, 95.2 FM               OXFORDSHIRE        WFM  KimmyJS19    Aug 2014
+95.200                  KINGDOM FM 95.2 MHz (FM) Dunfermline    SCOTLAND           WFM  KimmyJS19    Mar 2011
+95.300                  BBC Radio Derby, BAKEWELL & MATLOCK     DERBYSHIRE         WFM  KimmyJS19    Mar 2014
+95.400                  BBC Radio Berkshire, East Berkshire     EAST BERKSHIRE     WFM  KimmyJS19    Feb 2014
+95.700                  BBC Radio Cambridgeshire, 95.7 North    CAMBRIDGESHIRE     WFM  KimmyJS19    Feb 2014
+95.800                  BBC Radio Merseyside, Liverpool/Wirral  CHESHIRE           WFM  KimmyJS19    Aug 2014
+95.800                  CAPITAL FM (Global Radio UK)            LONDON             WFM  KimmyJS19    Jul 2018
+95.900                  BBC Radio Humberside, Yorks/Nth Lincs   EAST YORKSHIRE     WFM  KimmyJS19    Aug 2014
+96.000                  BBC Radio Cambridgeshire, 96.0 South    CAMBRIDGESHIRE     WFM  KimmyJS19    Feb 2014
+96.000                  BBC Radio Derby, BUXTON AREA RELAY      DERBYSHIRE         WFM  KimmyJS19    Mar 2014
+96.100                  KINGDOM FM 96.1 MHz (FM) Glenrothes     SCOTLAND           WFM  KimmyJS19    Mar 2011
+96.200                  CAPITAL FM (Global Radio UK)            NOTTINGHAM         WFM  KimmyJS19    Jan 2011
+96.400                  COMPASS FM Grimsby 96.4 MHz (FM)        LINCOLNSHIRE       WFM  KimmyJS19    Aug 2017
+96.500                  CAPITAL FM (Global Radio UK)            MANSFIELD          WFM  KimmyJS19    Jan 2011
+96.600                  Heart 96.6 FM St Albans                 WATFORD            WFM  KimmyJS19    Jan 2011
+96.600                  KINGDOM FM 96.6 MHz (FM) Kirkcaldy      SCOTLAND           WFM  KimmyJS19    Mar 2011
+96.700                  ASHBOURNE RADIO, ASHBOURNE & WIRKSWORTH DERBYSHIRE         WFM  KimmyJS19    Sep 2017
+96.700                  KLFM, 96.7 MHz (FM) Kings Lynn          NORFOLK            WFM  KimmyJS19    Jan 2011
+96.900                  Choice FM, Brixton                      LONDON             WFM  KimmyJS19    Jan 2011
+96.900                  Signal One, 96.9 MHz (FM) STAFFORDSHIRE STAFFORD           WFM  KimmyJS19    Jan 2011
+96.900                  Viking FM, 96.9 MHz (FM)                HUMBERSIDE         WFM  KimmyJS19    Jan 2011
+97.000   99.800         BBC Radio 1, Allocated 97 to 99.8       UK WIDE            WFM  KimmyJS19    Sep 2009
+97.000                  Mercia FM 97 MHz Coventry               COVENTRY           WFM  KimmyJS19    Jan 2011
+97.200                  MANX RADIO, CARNANE, DOUGLAS  97.2 FM   ISLE OF MAN        WFM  KimmyJS19    Dec 2013
+97.300                  LBC (News/talk/phone-ins) 97.3 FM       LONDON             WFM  KimmyJS19    Jul 2018
+97.400                  Rock FM 97.4 (FM) Preston & Blackpool   PRESTON            WFM  KimmyJS19    Sep 2009
+97.400                  HALLAM FM  97.4 MHz (FM) Sheffield      SOUTH YORKSHIRE    WFM  KimmyJS19    Mar 2011
+97.400                  CAPITAL FM (Global Radio UK) Newport    WALES              WFM  KimmyJS19    Jan 2011
+97.500                  Smooth Radio UK, NORTH EAST 97.5        NORTH EAST         WFM  KimmyJS19    Feb 2014
+97.500                  THE PULSE Pulse FM Bradford             WEST YORKSHIRE     WFM  KimmyJS19    Mar 2011
+99.800                  2BR Burnley 99.8 MHz (FM) Burnley       LANCASHIRE         WFM  KimmyJS19    Oct 2011
+99.900   101.900        Classic FM (UK) Radio Station           UK WIDE            WFM  KimmyJS19    Jul 2018
+100.000                 REAL RADIO 100 MHz   Vale of Leven      SCOTLAND           WFM  KimmyJS19    Jan 2011
+100.000                 KISS 100 Greater London 100 MHz (FM)    LONDON             WFM  KimmyJS19    Mar 2011
+100.000  106.000        The Galaxy Network (Galaxy FM)          UK WIDE            WFM  KimmyJS19    Dec 2009
+100.100                 Lakeland Radio 100.1 KENDAL             CUMBRIA            WFM  KimmyJS19    Jan 2011
+100.200                 DREAM 100 FM, 100.2 FM, TENDRING        ESSEX              WFM  KimmyJS19    Sep 2017
+100.300                 REAL RADIO 100.3 MHz Central Scotland   SCOTLAND           WFM  KimmyJS19    Jan 2011
+100.400                 Smooth Radio UK, NORTH WEST 100.4       NORTH WEST         WFM  KimmyJS19    Feb 2014
+100.700                 Heart West Midlands (Heart FM) Radio    UK WIDE            WFM  KimmyJS19    Sep 2009
+100.800                 Lakeland Radio, 100.8 MHz Windermere    CUMBRIA            WFM  KimmyJS19    Jan 2011
+101.100                 REAL RADIO 101.1 MHz  Rosneath          SCOTLAND           WFM  KimmyJS19    Jan 2011
+101.200                 REAL RADIO Sunderland 101.2 MHz (FM)    SUNDERLAND         WFM  KimmyJS19    Jan 2011
+101.400                 Smooth Radio UK, DERBY 101.4            DERBYSHIRE         WFM  KimmyJS19    Feb 2014
+102.000                 PEAK FM  102 MHz (FM) Matlock           DERBYSHIRE         WFM  KimmyJS19    Mar 2011
+102.000                 Capital FM Manchester 102 MHz (FM)      MANCHESTER         WFM  KimmyJS19    Oct 2011
+102.200                 CAPITAL FM (Global Radio UK)            BIRMINGHAM         WFM  KimmyJS19    Jan 2011
+102.200                 Smooth Radio UK, London 102.2           LONDON             WFM  KimmyJS19    Feb 2014
+102.500                 THE PULSE  Halifax and Huddersfield     WEST YORKSHIRE     WFM  KimmyJS19    Mar 2011
+102.600                 Signal One, 102.6 (FM) STAFFORDSHIRE    STOKE ON TRENT     WFM  KimmyJS19    Jan 2011
+102.700                 HEART RADIO, 102.7 FM (East Anglia)     EAST ANGLIA        WFM  KimmyJS19    Jul 2018
+102.800                 CAPITAL FM (Global Radio UK)            DERBY              WFM  KimmyJS19    Jan 2011
+102.900                 Mercia FM 102.9 Leamington Spa          LEAMINGTON SPA     WFM  KimmyJS19    Jan 2011
+102.900                 HALLAM FM 102.9 MHz (FM) Barnsley       SOUTH YORKSHIRE    WFM  KimmyJS19    Mar 2011
+103.000                 ISLES FM  Western Isles 103 MHz (FM)    ISLE OF LEWIS      WFM  KimmyJS19    Jun 2017
+103.100                 Central FM Stirling & Falkirk 103.1 FM  STIRLINGSHIRE      WFM  KimmyJS19    Oct 2011
+103.200                 CAPITAL FM (Global Radio UK) Cardiff    WALES              WFM  KimmyJS19    Jan 2011
+103.300                 High Peak Radio, 103.3 (FM) GLOSSOP     DERBYSHIRE         WFM  KimmyJS19    Jan 2011
+103.300                 Oban FM (Relays Clyde 2) 103.3 FM       SCOTLAND           WFM  KimmyJS19    Aug 2014
+103.400                 HALLAM FM 103.4 MHz (FM) Doncaster      SOUTH YORKSHIRE    WFM  KimmyJS19    Mar 2011
+103.700                 Channel 103 (Jersey 103.7 FM), JERSEY   CHANNEL ISLANDS    WFM  KimmyJS19    Mar 2016
+103.700                 MANX RADIO, JURBY  103.7 FM             ISLE OF MAN        WFM  KimmyJS19    Dec 2013
+104.100                 BBC Radio Berkshire, W Berks/Nth Hamps  BERKSHIRE          WFM  KimmyJS19    Feb 2014
+104.400                 BBC Radio Berkshire, Reading/Wokingham  BERKSHIRE          WFM  KimmyJS19    Feb 2014
+104.500                 BBC Radio Derby, DERBY & DERBYSHIRE     DERBYSHIRE         WFM  KimmyJS19    Mar 2014
+104.600                 BBC Radio Bristol, 104.6 BATH           SOMERSET           WFM  KimmyJS19    Feb 2014
+104.700                 Island FM, ALDERNEY, GUERNSEY & SARK    CHANNEL ISLANDS    WFM  KimmyJS19    Mar 2016
+104.900                 BBC Radio Leicester, Leics & Rutland    LEICESTERSHIRE     WFM  KimmyJS19    Aug 2014
+105.100                 Atlantic FM Cornwall,  105.1 MHz        EAST CORNWALL      WFM  KimmyJS19    Jan 2011
+105.100                 Capital FM Yorkshire 105.1 MHz (FM)     YORKSHIRE          WFM  KimmyJS19    Oct 2011
+105.200                 Smooth Radio UK, GLASGOW 105.2          SCOTLAND           WFM  KimmyJS19    Feb 2014
+105.200                 Planet Rock 105.2 MHz (FM) BIRMINGHAM   WEST MIDLANDS      WFM  KimmyJS19    Feb 2014
+105.400                 Magic 105.4 4 Winsley Street, London    LONDON             WFM  KimmyJS19    Jan 2011
+105.400                 REAL RADIO Manchester, 105.4 MHz (FM)   GREATER MANCHESTER WFM  KimmyJS19    Jan 2011
+105.400                 CAPITAL FM (Global Radio UK)            LEICESTER          WFM  KimmyJS19    Jan 2011
+105.400                 KINGDOM FM 105.4 MHz (FM) Fife          SCOTLAND           WFM  KimmyJS19    Mar 2011
+105.600                 CAPITAL FM SHEFFIELD                    SOUTH YORKSHIRE    WFM  KimmyJS19    Oct 2011
+105.700                 CAPITAL FM (Global Radio UK)            SCOTLAND           WFM  KimmyJS19    Jan 2011
+105.700                 REAL RADIO 105.7 MHz  South Wales       SOUTH WALES        WFM  KimmyJS19    Jan 2011
+105.800                 U105 Radio Belfast 105.8 MHz FM Belfast NORTHERN IRELAND   WFM  KimmyJS19    Mar 2011
+105.800                 Absolute Radio, Greater London 105.8 FM LONDON             WFM  KimmyJS19    Dec 2013
+105.900                 City Talk Radio, Liverpool 105.9 FM     MERSEYSIDE         WFM  KimmyJS19    Oct 2011
+106.100                 CAPITAL FM (Global Radio UK)            SCOTLAND           WFM  KimmyJS19    Jan 2011
+106.300                 DEE 106.3, CHESTER                      CHESHIRE           WFM  KimmyJS19    Sep 2017
+106.300                 BRIDGE FM 106.3 MHz (FM) Bridgend       MID GLAMORGAN      WFM  KimmyJS19    Oct 2011
+106.300                 KINGDOM FM 106.3 MHz (FM) Fife          SCOTLAND           WFM  KimmyJS19    Mar 2011
+106.400                 High Peak Radio, 106.4 MHz (FM) BUXTON  DERBYSHIRE         WFM  KimmyJS19    Jun 2018
+106.400                 Andover Sound, Andover 106.4 MHz FM     HAMPSHIRE          WFM  KimmyJS19    Oct 2011
+106.600                 High Peak Radio, Chapel-en-le-Frith     DERBYSHIRE         WFM  KimmyJS19    Feb 2011
+106.600                 Smooth Radio UK, EAST MIDLANDS 106.6    EAST MIDLANDS      WFM  KimmyJS19    Feb 2014
+106.600                 Three FM, SNAEFELL MOUNTAIN 106.6 FM    ISLE OF MAN        WFM  KimmyJS19    Dec 2013
+106.700                 BOB FM, 106.7 FM, STEVENAGE             HERTFORDSHIRE      WFM  KimmyJS19    Sep 2017
+106.900                 Silk FM, 106.9 MHz (FM) Macclesfield    CHESHIRE           WFM  KimmyJS19    Jan 2011
+106.900                 BOB FM, HERTFORD, HITCHIN & LETCHWORTH  HERTFORDSHIRE      WFM  KimmyJS19    Sep 2017
+107.000                 Atlantic FM Cornwall,  107 MHz          EAST CORNWALL      WFM  KimmyJS19    Jan 2011
+107.000                 Reading 107 FM, 107 MHz                 BERKSHIRE          WFM  KimmyJS19    Jan 2011
+107.100                 Choice FM, North London                 LONDON             WFM  KimmyJS19    Jan 2011
+107.400                 PEAK FM  107.4 MHz (FM) Chesterfield    DERBYSHIRE         WFM  KimmyJS19    Mar 2011
+107.600                 Juice, 107.6 MHz (FM) Liverpool         LIVERPOOL          WFM  KimmyJS19    Jan 2011
+107.900                 Glide FM, Oxford                        LONDON             WFM  KimmyJS19    Jan 2011
+
+
+
+
+K i m m y J S 1 9  -  ukscanningdirectory.co.uk
+
+
+
+USER GUIDE AND NOTES
+
+UNID - Unidentified User
+
+COMREP - Community Repeater - Shared Users
+
+CBS - Common Base Station - Shared Users
+
+UK WIDE - Allocation covers whole of UK (Similar to National Usage)
+
+NATIONAL USAGE - Used accross the UK
+
+FM - Frequency Modulation (Most Common PMR Mode of Operation)
+
+AM - Amplitude modulation (Mode of Operation, most common in AIR use)
+
+WFM - Wide Frequency Modulation 
+      (Most Common with Broadcast Radio and wireless short range devices/Mics)
+
+TX - Transmit Frequency, Usually the preffered one to monitor
+
+RX - Recieve Frequency
+
+UKADR - United Kingdom Air Defense Region
+
+USAFE - United States Air Forces in Europe
+
+DIG - DIGITAL MODES (Mototrbo/Tetra/DMR/dPMR etc.)
+
+FAC - Forward air control
+
+JFMG - JFMG is the dedicated band manager for TV, Entertainment, Studios and Special events
+
+OFCOM CH NUMBERS - These are simply channel allocations for PBR radio, they are not used by 
+                   ofcom they are allocated by Ofcom to the users
+
+MPT1327 - Trunking system, one or many shared users using a group of frequencies. Any scanner 
+          can hear and monitor these transmissions, however for busy trunk nets a trunk tracker 
+          type scanner is beneficial as it can follow conversations by one certain user from one 
+          frequency to another instead of relying on your scanner to pick out channels at random.
+
+
+
+
+How do I search the directory?
+
+This directory is a standard text file which can be opened in NOTEPAD. In notepad click on EDIT 
+and then click FIND. Type in what you are looking for, click FIND NEXT to move on to the next entry. 
+Remember to be wise with keywords, for example if looking for a Bus service in Stockport try all 
+connecting areas as listings are made different and  some services are regional, so if your searching 
+for something in STOCKPORT also try CHESHIRE and MANCHESTER. 
+
+Also remember some local radio users will be using national frequencies (the same from area to area) 
+so bear in mind the NATIONAL USAGE and UK WIDE Frequencies. This is only a small section of the spectrum, 
+for the full database see the Main UK Scanning Directory File and other files also on this disc.
+
+NOTE, these smaller SCANNING DIRECTORY files are updated daily but the Main UK Scanning Database Directory 
+File is updated weekly and updated from these individual databases which we maintain daily.
+
+
+
+Who are we?
+
+We are a close-nit group of radio amateurs, SWL listeners, family and friends who enjoy what we do and 
+are commited to what we do. We are a not for profit group and all money after costs is shared between
+members for radio equipment. Our directory is updated daily by the team, so please stay up to date and
+support us by getting the latest up to date copy from: ukscanningdirectory.co.uk
+
+You can also contact us below.
+
+
+The KimmyJS19 UK Scanning Directory
+
+
+Telephone: 07743 133632 (Office Hours) 
+
+Website: http://ukscanningdirectory.co.uk
+
+Online Forum: http://ukradioscanning.com
+
+Email: xtratalk@yahoo.co.uk
+
+
+
+(C) KimmyJS19
+ukscanningdirectory.co.uk
