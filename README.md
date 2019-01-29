@@ -1,6 +1,10 @@
 # UK-Scanning-Directory-2019
 A ripped collection of named radio channels and who uses them, Covers from 25MHz - 134,928.940MHz
 
+## UPDATE
+
+* Working on .csv conversion but due to poorly formatted .txt source it's taking it's time - Sorry.
+
 # USER GUIDE AND NOTES
 
 * UNID - Unidentified User
@@ -11,7 +15,7 @@ A ripped collection of named radio channels and who uses them, Covers from 25MHz
 
 * UK WIDE - Allocation covers whole of UK (Similar to National Usage)
 
-* NATIONAL USAGE - Used accross the UK
+* NATIONAL USAGE - Used across the UK
 
 * FM - Frequency Modulation (Most Common PMR Mode of Operation)
 
