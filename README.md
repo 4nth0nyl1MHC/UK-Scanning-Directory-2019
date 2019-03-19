@@ -24,7 +24,7 @@ A ripped collection of named radio channels and who uses them, Covers from 25MHz
 * WFM - Wide Frequency Modulation 
       (Most Common with Broadcast Radio and wireless short range devices/Mics)
 
-* TX - Transmit Frequency, Usually the preffered one to monitor
+* TX - Transmit Frequency, Usually the preferred one to monitor
 
 * RX - Recieve Frequency
 
