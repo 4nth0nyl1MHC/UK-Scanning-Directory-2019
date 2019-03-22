@@ -1,4 +1,4 @@
-Edinburgh Airport 2018 (EGPH) 2018  -  VHF & UHF KimmyJS19
+Edinburgh Airport 2018 (EGPH) 2018  -  VHF & UHF
 
 
 AIRPORT  : EDINBURGH AIRPORT
@@ -246,8 +246,3 @@ Secure Airpark
 Edinburgh Airport, INGLISTON
 TX: 165.1375 MHz
 RX: 169.9375 MHz
-
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
