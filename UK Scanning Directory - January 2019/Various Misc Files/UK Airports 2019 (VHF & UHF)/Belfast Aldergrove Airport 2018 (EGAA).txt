@@ -1,4 +1,4 @@
-Belfast (Aldergrove) International Airport (EGAA) 2018  -  VHF & UHF KimmyJS19
+Belfast (Aldergrove) International Airport (EGAA) 2018  -  VHF & UHF
 
 
 AIRPORT  : BELFAST INTERNATIONAL AIRPORT
@@ -199,10 +199,3 @@ RX: 169.2875 MHz
 
 NOTE: Simplex ground frequencies will have limited range
 compared to VHF air and UHF tower frequencies.
-
-
-
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
