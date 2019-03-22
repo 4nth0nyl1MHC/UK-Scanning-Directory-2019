@@ -1,4 +1,4 @@
-Bournemouth International Airport (EGHH) 2018  -  VHF & UHF KimmyJS19
+Bournemouth International Airport (EGHH) 2018  -  VHF & UHF
 
 
 
@@ -123,10 +123,3 @@ RX: 169.275 MHz
 
 NOTE: Simplex ground frequencies will have limited range
 compared to VHF air and UHF tower frequencies.
-
-
-
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
