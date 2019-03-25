@@ -1,4 +1,4 @@
-Durham Tees Valley Airport (EGNV) 2018  -  VHF & UHF KimmyJS19
+Durham Tees Valley Airport (EGNV) 2018  -  VHF & UHF
 
 
 AIRPORT  : DURHAM TEES VALLEY AIRPORT
@@ -133,9 +133,3 @@ RX: 459.900 MHz
 
 NOTE: Simplex ground frequencies will have limited range
 compared to VHF air and UHF tower frequencies.
-
-
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
