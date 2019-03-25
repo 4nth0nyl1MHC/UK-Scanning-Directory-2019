@@ -1,4 +1,4 @@
-London Heathrow Airport (EGLL) 2016  -  VHF & UHF KimmyJS19
+London Heathrow Airport (EGLL) 2016  -  VHF & UHF
 
 
 AIRPORT  : LONDON HEATHROW AIRPORT
@@ -832,9 +832,3 @@ RX: 460.025 MHz
 
 NOTE: Simplex ground frequencies will have limited range
 compared to VHF air and UHF tower frequencies.
-
-
-
-
-
-London Heathrow Airport  KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
