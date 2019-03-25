@@ -1,4 +1,4 @@
-London Luton Airport 2016 (EGGW)  -  VHF & UHF KimmyJS19
+London Luton Airport 2016 (EGGW)  -  VHF & UHF
 
 
 AIRPORT  : LONDON LUTON AIRPORT
@@ -228,9 +228,3 @@ RX: 446.3875 MHz
 
 NOTE: Simplex ground frequencies will have limited range
 compared  to VHF air and UHF tower frequencies.
-
-
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
