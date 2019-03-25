@@ -1,4 +1,4 @@
-Manchester Airport Frequencies 2017 (EGCC) VHF & UHF KimmyJS19
+Manchester Airport Frequencies 2017 (EGCC) VHF & UHF
 
 
 AIRPORT  : MANCHESTER AIRPORT
@@ -355,10 +355,3 @@ RX: 449.450 MHz
 
 NOTE: Simplex ground frequencies will have limited range
 compared to VHF air and UHF tower frequencies.
-
-
-
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
