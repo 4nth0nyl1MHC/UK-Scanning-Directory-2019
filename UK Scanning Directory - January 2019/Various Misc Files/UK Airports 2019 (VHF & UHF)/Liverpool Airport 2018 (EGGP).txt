@@ -1,4 +1,4 @@
-Liverpool John Lennon Airport (EGGP) 2018  -  VHF & UHF KimmyJS19
+Liverpool John Lennon Airport (EGGP) 2018  -  VHF & UHF
 
 
 AIRPORT  : LIVERPOOL JOHN LENNON AIRPORT
@@ -163,6 +163,3 @@ RX: 459.8500 MHz
 
 NOTE: Simplex ground frequencies will have limited range
 compared to VHF air and UHF tower frequencies.
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
