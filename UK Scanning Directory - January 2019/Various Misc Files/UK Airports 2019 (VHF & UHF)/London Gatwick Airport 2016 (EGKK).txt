@@ -1,4 +1,4 @@
-London Gatwick Airport (EGKK) 2016  -  VHF & UHF KimmyJS19
+London Gatwick Airport (EGKK) 2016  -  VHF & UHF
 
 
 AIRPORT  : LONDON GATWICK AIRPORT
@@ -159,8 +159,3 @@ RX: 169.025 MHz
 
 NOTE: Simplex ground frequencies will have limited range
 compared to VHF air and UHF tower frequencies.
-
-
-
-
-London Gatwick Airport  KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
