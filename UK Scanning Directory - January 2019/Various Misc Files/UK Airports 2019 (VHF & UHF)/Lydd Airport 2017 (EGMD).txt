@@ -1,4 +1,4 @@
-Lydd Airport (EGMD) 2017  -  VHF & UHF KimmyJS19
+Lydd Airport (EGMD) 2017  -  VHF & UHF
 
 
 AIRPORT  : LYDD LONDON ASHFORD AIRPORT
@@ -61,10 +61,3 @@ RX: 461.3125 MHz
 
 NOTE: Simplex ground frequencies will have limited range
 compared to VHF air and UHF tower frequencies.
-
-
-
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
