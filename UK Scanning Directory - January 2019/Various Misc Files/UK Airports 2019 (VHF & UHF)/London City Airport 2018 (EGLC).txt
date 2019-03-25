@@ -1,4 +1,4 @@
-London City Airport (EGLC) 2018  -  VHF & UHF KimmyJS19
+London City Airport (EGLC) 2018  -  VHF & UHF
 
 
 AIRPORT  : LONDON CITY AIRPORT
@@ -86,7 +86,3 @@ RX: 459.700 MHz
 
 NOTE: UHF frequencies will have limited range
 compared to VHF air frequencies.
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
