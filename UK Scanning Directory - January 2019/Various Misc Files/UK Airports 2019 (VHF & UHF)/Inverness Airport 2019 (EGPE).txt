@@ -1,4 +1,4 @@
-Inverness Airport (EGPE) 2019  -  VHF & UHF KimmyJS19
+Inverness Airport (EGPE) 2019  -  VHF & UHF
 
 
 AIRPORT  : INVERNESS AIRPORT
@@ -82,11 +82,3 @@ RX: 460.125 MHz
 
 NOTE: Simplex ground frequencies will have limited range
 compared to VHF air and UHF tower frequencies.
-
-
-
-
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
