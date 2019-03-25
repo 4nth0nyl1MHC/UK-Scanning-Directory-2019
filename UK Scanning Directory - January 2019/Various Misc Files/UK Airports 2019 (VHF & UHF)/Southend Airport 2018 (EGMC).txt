@@ -1,4 +1,4 @@
-Southend Airport 2018 (EGMC)  -  VHF & UHF KimmyJS19
+Southend Airport 2018 (EGMC)  -  VHF & UHF
 
 
 AIRPORT  : LONDON SOUTHEND AIRPORT
@@ -61,7 +61,3 @@ RX: 461.975 MHz
 
 NOTE: UHF frequencies will have limited range
 compared to VHF air frequencies.
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
