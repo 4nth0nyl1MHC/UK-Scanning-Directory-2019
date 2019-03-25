@@ -1,4 +1,4 @@
-Coventry Airport (EGBE) 2016  -  VHF & UHF KimmyJS19
+Coventry Airport (EGBE) 2016  -  VHF & UHF
 
 
 AIRPORT  : COVENTRY AIRPORT
@@ -80,10 +80,3 @@ RX: 461.350 MHz
 
 NOTE: Simplex ground frequencies will have limited range
 compared  to VHF air and UHF tower frequencies.
-
-
-
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
