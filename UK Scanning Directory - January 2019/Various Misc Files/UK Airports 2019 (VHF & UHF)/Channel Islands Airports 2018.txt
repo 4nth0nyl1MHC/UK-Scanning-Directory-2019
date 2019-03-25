@@ -1,4 +1,4 @@
-Channel Islands Airports 2018 -  VHF & UHF KimmyJS19
+Channel Islands Airports 2018 -  VHF & UHF
 
 CHANNEL ISLAND AIRPORTS (JERSEY, GUERNSEY & ALDERNEY AIRPORTS)
 
@@ -97,8 +97,3 @@ _______________________________________
 CHANNEL ISLANDS EMERGENCY   121.500 MHz (AM)
 
 _______________________________________
-
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
