@@ -1,4 +1,4 @@
-Newcastle Airport (EGNT) 2018  -  VHF & UHF KimmyJS19
+Newcastle Airport (EGNT) 2018  -  VHF & UHF
 
 
 AIRPORT  : NEWCASTLE INTERNATIONAL AIRPORT
@@ -156,10 +156,3 @@ RX: 446.200 MHz
 
 NOTE: Simplex ground frequencies will have limited range
 compared to VHF air and UHF tower frequencies.
-
-
-
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
