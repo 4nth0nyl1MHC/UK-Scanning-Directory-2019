@@ -1,4 +1,4 @@
-Southampton Airport (EGHI) 2016  -  VHF & UHF KimmyJS19
+Southampton Airport (EGHI) 2016  -  VHF & UHF
 
 
 AIRPORT  : SOUTHAMPTON AIRPORT
@@ -133,10 +133,3 @@ RX: 460.025 MHz
 
 NOTE: Simplex ground frequencies will have limited range
 compared to VHF air and UHF tower frequencies.
-
-
-
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
