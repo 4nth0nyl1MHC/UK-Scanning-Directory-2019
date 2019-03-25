@@ -1,4 +1,4 @@
-East Midlands Airport (EGNX) 2018  -  VHF & UHF KimmyJS19
+East Midlands Airport (EGNX) 2018  -  VHF & UHF
 
 
 AIRPORT  : EAST MIDLANDS AIRPORT
@@ -217,6 +217,3 @@ RX: 169.150 MHz
 
 NOTE: Simplex ground frequencies will have limited range
 compared to VHF air and UHF tower frequencies.
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
