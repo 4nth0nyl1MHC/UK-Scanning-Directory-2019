@@ -1,4 +1,4 @@
-Farnborough Business Airport (EGLF) 2018  -  VHF & UHF KimmyJS19
+Farnborough Business Airport (EGLF) 2018  -  VHF & UHF
 
 
 AIRPORT  : TAG FARNBOROUGH AIRPORT
@@ -83,9 +83,3 @@ RX: 459.725 MHz
 
 NOTE: Simplex ground frequencies will have limited range
 compared to VHF air and UHF tower frequencies.
-
-
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
