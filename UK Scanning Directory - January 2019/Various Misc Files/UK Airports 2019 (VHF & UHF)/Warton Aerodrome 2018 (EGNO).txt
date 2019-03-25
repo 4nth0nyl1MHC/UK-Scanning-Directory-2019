@@ -1,4 +1,4 @@
-Warton Airfield (EGNO) 2018  -  VHF & UHF KimmyJS19
+Warton Airfield (EGNO) 2018  -  VHF & UHF
 
 
 AIRPORT  : BAE WARTON
@@ -83,9 +83,3 @@ RX: 460.9250 MHz
 
 NOTE: Ground frequencies will have limited range
 compared to VHF and UHF AM air frequencies.
-
-
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
