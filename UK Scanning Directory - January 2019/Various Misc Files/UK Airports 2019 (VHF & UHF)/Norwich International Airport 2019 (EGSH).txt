@@ -1,4 +1,4 @@
-Norwich International Airport 2019 (EGSH) - VHF & UHF KimmyJS19
+Norwich International Airport 2019 (EGSH) - VHF & UHF
 
 
 AIRPORT  : NORWICH AIRPORT
@@ -74,10 +74,3 @@ Norwich Airport Ground (NORTH AIR BP)
 
 NOTE: Simplex ground frequencies will have limited range
 compared to VHF air and UHF tower frequencies.
-
-
-
-
-
-
-KimmyJS19 UKSCANNINGDIRECTORY.CO.UK
