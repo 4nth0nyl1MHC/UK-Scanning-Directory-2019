@@ -1,4 +1,4 @@
-Isle of Man Airport Ronaldsway Airport (EGNS) 2017  -  VHF & UHF KimmyJS19
+Isle of Man Airport Ronaldsway Airport (EGNS) 2017  -  VHF & UHF
 
 
 AIRPORT  : ISLE OF MAN, RONALDSWAY AIRPORT
@@ -93,10 +93,3 @@ RX: 169.125 MHz
 
 NOTE: Simplex ground frequencies will have limited range
 compared to VHF air and UHF tower frequencies.
-
-
-
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
