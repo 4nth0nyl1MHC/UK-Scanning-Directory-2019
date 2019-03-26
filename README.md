@@ -4,6 +4,7 @@ A ripped collection of named radio channels and who uses them, Covers from 25MHz
 ## UPDATE
 
 * Working on .csv conversion but due to poorly formatted .txt source it's taking it's time - Sorry.
+* Also working on a Python Tkinter GUI for searching and filtering the main directory
 
 # USER GUIDE AND NOTES
 
