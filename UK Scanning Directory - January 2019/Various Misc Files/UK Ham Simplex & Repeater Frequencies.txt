@@ -1,4 +1,4 @@
-UK Ham Simplex & Repeater Frequencies - KimmyJS19
+UK Ham Simplex & Repeater Frequencies
 
 
 VHF Repeaters
@@ -192,7 +192,7 @@ BAND 	CHANNEL TX 	        RX
 
 
 
-2011 REPEATER LIST KimmyJS19
+2011 REPEATER LIST
 
 (See main directory for up to date listings, this page is a ham reference guide to the bands)
 
@@ -583,13 +583,8 @@ GB3WC 	ANALOGUE 	RM15 	1297.3750 	1291.3750 	IO93EP 	FLOCKTON 	SE229157 	NOR 	82
 10065.0000 10340.0000 - GB3XV EASTBOURNE, TV, SE
 10065.0000 10315.0000 - GB3XY HULL, TV, NOR
 
-	
 
-UKSCANNINGDIRECTORY.CO.UK
-
-
-
-UK HF Bandplan For Amateur Radio HF   KimmyJS19
+UK HF Bandplan For Amateur Radio HF
 
 160m 
 1.8 - 2.0 Mhz
@@ -657,7 +652,7 @@ UK HF Bandplan For Amateur Radio HF   KimmyJS19
 29.550-29.700 	Phone and CW
 
 
-Amateur Radio UK VHF and UHF Bandplan  KimmyJS19
+Amateur Radio UK VHF and UHF Bandplan
 
 6m
 50.720-51.360   6m Repeaters
@@ -738,9 +733,9 @@ M5 + 3 letters
 
 To look up a Ham Operator, type their callsign into qrz.com
 
-UK Ham Simplex & Repeater Frequencies 2011 KimmyJS19
+UK Ham Simplex & Repeater Frequencies 2011
 
-UK 2 METRE (VHF) SIMPLEX USE  KimmyJS19
+UK 2 METRE (VHF) SIMPLEX USE
 
 144.2600 RAYNET NATIONAL USAGE  USB
 144.6250 RAYNET EMERGENCY COMMS PRIORITY NATIONAL USAGE FM
@@ -785,6 +780,4 @@ UK 2 METRE (VHF) SIMPLEX USE  KimmyJS19
 145.5875 AMATEUR RADIO 2M V47 FM
 
 
-For more frequencies please see the main KimmyJS19 Directory
-
-UKSCANNINGDIRECTORY.CO.UK
+For more frequencies please see the main Directory
