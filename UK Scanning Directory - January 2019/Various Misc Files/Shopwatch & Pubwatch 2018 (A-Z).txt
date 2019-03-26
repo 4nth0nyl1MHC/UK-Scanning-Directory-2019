@@ -189,7 +189,6 @@ Bury St Edmunds - Suffolk, Shopsafe - 453.1000
 Buxton - Derbyshire, Shopwatch & Pubwatch - 453.9875 (DIGITAL)
 Buxton - Derbyshire, Spring Gardens - 453.0250 (DIGITAL)
 Byfleet - Surrey - Storenet Security - 455.6375
-
 Caernarfon - North Wales - Shopwatch (Apex) - 456.8750
 Caerphilly - South Wales - Storenet Security - 453.1000
 Caerphilly - South Wales - (Bargoed) - Storenet Security - 456.7500
@@ -335,7 +334,6 @@ Durham - County Durham - The Gates Shopping Centre - 456.3250
 Durham - County Durham - Durham City - 456.0250
 Durham - County Durham - Durham City - 456.7500
 Durham - County Durham - Bishop Auckland - (Apex) - 453.9750
-
 East Kilbride - Shopwatch - 456.6500
 Eastbourne - East Sussex - Eastbourne Borough Council - 456.5250
 Eastbourne - East Sussex - Langney Shopping Centre - 455.6125
@@ -363,7 +361,6 @@ Evesham - Worcestershire - 453.5000
 Exeter - Devon - Shopwatch - 165.1625
 Exeter - Devon - Shopwatch 453.9250
 Exmouth - Shopwatch - 165.5250
-
 Falkirk - Scotland - Shopwatch and Pubwatch - 456.8250 462.3250 (DIGITAL)
 Falkirk - Scotland - Howgate Shopping Centre - 453.9250 460.4250
 Falmouth - Cornwall - Shopwatch Security - 453.0500 459.5500
@@ -383,7 +380,6 @@ Flint - Flintshire - Flintshire County Council, Shopwatch - 455.6500 460.9500 (D
 Folkestone - Kent - 456.6500 462.1500
 Forfar - Angus - Scotland - 453.0625 459.5625 (DIGITAL)
 Frome - Somerset - Westway Shopping Centre (Frome Business Against Crime) - 456.5000 462.0000
-
 Gainsborough - Shopwatch (Simple Inversion) - 456.7500 462.2500
 Gainsborough - Shopwatch (Simple Inversion) - 456.7000 462.2000
 Gateshead - Tyne and Wear - (Trinity Square) - 453.1875 459.6875 (DIGITAL)
@@ -444,7 +440,6 @@ Guildford - Surrey - Debenhams Security - 453.8000 460.3000
 Guildford - Surrey - The Friary Shopping Centre - 453.7500 460.2500
 Guildford - Surrey - House Of Fraser Store - 456.4125 461.9125
 Guildford - Surrey - 453.0875 459.5875
-
 Hadfield - Glossop, High Peak, Derbyshire - Shopwatch Security - 453.7500 460.2500
 Halesowen - West Midlands - 453.0875 459.5875
 Halesowen - West Midlands - 453.9875 460.4875
@@ -502,7 +497,6 @@ Hull - East Yorkshire - St Stephens Shopping Centre - 453.3750 459.8750
 Hull - East Yorkshire - St Stephens Shopping Centre - 455.4750 460.7750
 Huntingdon - Cambridgeshire - Storenet Security - 453.8000 460.3000
 Hyde - Tameside, Greater Manchester - Clarendon Square Shopping Centre - 459.9500 (SIMPLEX)
-
 Ilford - Shopwatch - 456.9500 462.4500
 Ilford - Shopwatch - 455.5000 461.0000
 Ilkley - Shopwatch - 456.8250 462.3250
@@ -518,7 +512,6 @@ Ipswich - Suffolk - Buttermilk Shopping Centre - 456.0250 461.5250
 Ipswich - Suffolk - Eastgate Shopping Centre - 169.0750
 Irvine - North Ayrshire - Shopwatch & Pubwatch Security - 453.2375 459.7375 (DIGITAL)
 Irvine - North Ayrshire - The Rivergate Shopping Centre - 453.3375 459.8375 (DIGITAL)
-
 Keighley - West Yorks - 456.8250 462.3250
 Kendal - Cumbria - 456.9500 462.4500
 Kendal - Cumbria - 453.0625 459.5625
@@ -725,7 +718,6 @@ Morecambe - Shopwatch - 453.6000 460.1000
 Morecambe - Shopwatch - 453.7000 460.2000
 Morecambe - Shopwatch - 453.9875 460.4875
 Motherwell - Lanarkshire - Scotland - 453.8500 460.3500
-
 Nantwich - Cheshire - 453.1125 459.6125
 Nantwich - Cheshire - 453.0875 459.5875
 Nantwich - Cheshire - 453.4750 459.9750
@@ -784,7 +776,6 @@ Oxford - Oxfordshire - The Clarendon Shopping Centre - 456.6250 462.1250
 Oxford - Oxfordshire - Shopwatch - City Radiolink - 453.8000 460.3000 (DIGITAL)
 Oxford - Oxfordshire - Shopwatch - City Radiolink - 453.7000 460.2000
 Oxford - Oxfordshire - Storenet Shopwatch Security - 453.9250 460.4250
-
 Paignton - Devon - 456.5250 462.0250
 Paisley - 456.6000 462.1000
 Paisley Johnstone - 456.8750 462.3750
@@ -839,7 +830,6 @@ Preston - Lancashire, St Georges Shopping Centre - 456.3750 461.8750
 Preston - Lancashire, Shopwatch, Bamber Bridge - 453.7500 460.2500
 Preston - Lancashire, Shopwatch - 456.9500 462.4500
 Preston - Lancashire, Debenhams Retail - 453.7000 460.2000
-
 Rainham - Kent - (Safer Medway) - 453.7750 460.2750
 Ramsgate - Kent - Thanet Shop Safe - 453.0625 459.5625
 Reading - Berkshire - Shopwatch - Oracle Shopping Centre - 453.7000 460.2000
@@ -874,7 +864,6 @@ Rushden - Northamptonshire - Shopwatch - 456.6000 462.1000
 Rushden - Northamptonshire - Shopwatch - (Higham Ferrers) - 453.9250 460.4250
 Rustington - Sussex - 456.8750 462.3750
 Ryde - Shopwatch, Isle Of Wight - 456.0250 461.5250
-
 Sale - Manchester - 456.8250 462.3250
 Salisbury - Wiltshire, Shopwatch - 456.4750 461.9750
 Salisbury - Wiltshire, Shopwatch - 456.6750 462.1750
@@ -1007,9 +996,7 @@ Torquay - Devon - (Torre) - Shopwatch Storenet Security - 456.6500 462.1500
 Troon - South Ayrshire - 453.8250 460.3250
 Truro - Cornwall - 165.5625 170.3625
 Tunbridge Wells - Kent - Community Safety Unit - 455.6500 460.9500
-
 Uttoxeter - Staffordshire - 456.6750 462.1750
-
 Wakefield - West Yorks - Shopwatch (DCRS) - 453.7000 460.2000
 Wakefield - West Yorks - Ridings Shopping Centre - 456.7500 462.2500
 Wakefield - West Yorks - Ridings Shopping Centre - 453.9250 460.4250
@@ -1090,7 +1077,6 @@ Worksop - Shopwatch - 453.7500 460.2500
 Worthing - Sussex - 453.9250 460.4250
 Wrexham - North Wales - Shopwatch - (Wrexham Council) - 456.6750 462.1750
 Wrexham - North Wales - Eagles Meadow Shopping Centre - 456.5250 462.0250
-
 Yate - Gloucestershire - 453.1000 459.6000
 Yeovil - Somerset - 165.2125 170.0125
 York - Rawcliffe - 453.5000 460.0000
@@ -1112,6 +1098,3 @@ You will find many towns schemes use the same frequencies for Shop Watch in the 
 for Pub Watch at night though some areas do have separate frequencies for this. We are 
 painstakingly keeping this list up to date on a regular basis so please let us know if you 
 have any updates or comments.
-
-
-ukscanningdirectory.co.uk
