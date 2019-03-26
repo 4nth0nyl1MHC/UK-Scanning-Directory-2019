@@ -1,4 +1,4 @@
-HF Frequencies Database (kHz)  Kimmyjs19  2019
+HF Frequencies Database (kHz) 2019
 
 
 Unlike our other frequency listings which are in MHz our HF Database is in kHz up 
@@ -12,27 +12,27 @@ detailed broadcast and utility station listings see further below.
 
 HF Frequencies Database (kHz)
 
-9.0	 SFERICS - Weather electromagnetic effects studies receiver             KimmyJS19
+9.0	 SFERICS - Weather electromagnetic effects studies receiver             
 
-10.2	 Omega Navigation (10 to 14 kHz) Now Mostly Replaced by GPS             KimmyJS19
+10.2	 Omega Navigation (10 to 14 kHz) Now Mostly Replaced by GPS             
 
-37.5     Underwater Locator Beacon. Aircraft ULB Emergency Beacon               KimmyJS19
+37.5     Underwater Locator Beacon. Aircraft ULB Emergency Beacon               
 
-136.0    UK Amateur CW, QRSS and narrow-band digital modes (135.7-137.8kHz)	KimmyJS19
+136.0    UK Amateur CW, QRSS and narrow-band digital modes (135.7-137.8kHz)	
 
-252.0	 RTE Radio 1 - Ex Frequency for Longwave Radio Atlantic 252             KimmyJS19
+252.0	 RTE Radio 1 - Ex Frequency for Longwave Radio Atlantic 252             
 
-396.5	 Plymouth NDB - Marine 'Non-directional Beacon'                         KimmyJS19
+396.5	 Plymouth NDB - Marine 'Non-directional Beacon'                         
 
-693.0    BBC Radio Five Live - BBC News, Sport & Talk Broadcast Channel         KimmyJS19
+693.0    BBC Radio Five Live - BBC News, Sport & Talk Broadcast Channel         
 
-810.0    BBC Radio Scotland                                                     KimmyJS19
+810.0    BBC Radio Scotland                                                     
 
-930.0    CJYQ Newfoundland, CANADA - Newcap Radio Broadcast Station             KimmyJS19
+930.0    CJYQ Newfoundland, CANADA - Newcap Radio Broadcast Station             
 
-945.0	 Capital Gold AM - Derbyshire UK                                        KimmyJS19
+945.0	 Capital Gold AM - Derbyshire UK                                        
 
-1116.0   BBC Radio Derby - Derby 1116 AM                                        KimmyJS19
+1116.0   BBC Radio Derby - Derby 1116 AM                                        
 
 1215.0   Absolute Radio - 1215 AM UK BROADCAST STATION                          KimmyJS19
 
@@ -146,7 +146,7 @@ HF Frequencies Database (kHz)
 
 2252.0   US Navy CWC (BF) USS Eisenhower Link 11 Voice coordination net USB     Kimmyjs19
 
-2252.0   US Navy FACSFAC Frequency Virginia Capes, VA ìGiant Killerî            Kimmyjs19
+2252.0   US Navy FACSFAC Frequency Virginia Capes, VA ‚ÄúGiant Killer‚Äù            Kimmyjs19
 
 2259.5   Danish Air Force Network, Denmark Navy                                 Kimmyjs19
 
@@ -346,7 +346,7 @@ HF Frequencies Database (kHz)
 
 3026.0   RAF Strike Command Integrated Communications System (STCICS)           KimmyJS19
 
-3029.0   Aero Off Route US Air Force Worldwide ñ Mystic Star VIP Network        KimmyJS19
+3029.0   Aero Off Route US Air Force Worldwide ‚Äì Mystic Star VIP Network        KimmyJS19
 
 3032.0   Aero Off Route US Air Force Worldwide                                  KimmyJS19
 
@@ -366,7 +366,7 @@ HF Frequencies Database (kHz)
 
 3038.0   Norwegian Navy MARPAT                                                  KimmyJS19
 
-3041.0   Aero Off Route US Air Force Worldwide - NASA Operations ìCape Radioî   KimmyJS19
+3041.0   Aero Off Route US Air Force Worldwide - NASA Operations ‚ÄúCape Radio‚Äù   KimmyJS19
 
 3044.0   Aero Off Route US Air Force Worldwide                                  KimmyJS19
 
@@ -402,9 +402,9 @@ HF Frequencies Database (kHz)
 
 3071.0   Mystic Star VIP Network/NATO MPA, ARCN111                              KimmyJS19
 
-3074.0   Aero Off Route US Air Force Worldwide ñ Mystic Star VIP Network        KimmyJS19
+3074.0   Aero Off Route US Air Force Worldwide ‚Äì Mystic Star VIP Network        KimmyJS19
 
-3078.0   Aero Off Route US Air Force Worldwide ñ Mystic Star VIP Network        KimmyJS19
+3078.0   Aero Off Route US Air Force Worldwide ‚Äì Mystic Star VIP Network        KimmyJS19
 
 3080.0   Aero Off Route US Air Force Worldwide                                  KimmyJS19
 
@@ -416,7 +416,7 @@ HF Frequencies Database (kHz)
 
 3089.0   Aero Off Route US Navy Worldwide                                       KimmyJS19
 
-3089.0   NATO AWACS Discrete DHN66 Geilemkirchen ìMagicî A01                    KimmyJS19
+3089.0   NATO AWACS Discrete DHN66 Geilemkirchen ‚ÄúMagic‚Äù A01                    KimmyJS19
 
 3092.0   Aero Off Route US Navy Worldwide                                       KimmyJS19
 
@@ -440,13 +440,13 @@ HF Frequencies Database (kHz)
 
 3107.0   Aero Off Route US Navy Worldwide/German Air Force Network GAF          KimmyJS19
 
-3107.0   French Navy Atlantic Network CCMAR Atlantique ìArmourî                 KimmyJS19
+3107.0   French Navy Atlantic Network CCMAR Atlantique ‚ÄúArmour‚Äù                 KimmyJS19
 
 3110.0   Aero Off Route US Air Force Worldwide                                  KimmyJS19
 
 3110.0   RAF Strike Command Integrated Communications System (STCICS)           KimmyJS19
 
-3113.0   Aero Off Route US Air Force Worldwide ñ Mystic Star VIP Network        KimmyJS19
+3113.0   Aero Off Route US Air Force Worldwide ‚Äì Mystic Star VIP Network        KimmyJS19
 
 3116.0   Aero Off Route US Air Force Worldwide/German Navy MATELO ARCN          KimmyJS19
 
@@ -464,13 +464,13 @@ HF Frequencies Database (kHz)
 
 3122.0   German Navy Glucksburg Rescue (USB/RTTY)                               KimmyJS19
 
-3125.0   Aero Off Route US Navy Worldwide ñ Link 11 Voice Coordination Net      KimmyJS19
+3125.0   Aero Off Route US Navy Worldwide ‚Äì Link 11 Voice Coordination Net      KimmyJS19
 
 3125.0   RAF Strike Command Integrated Communications System (STCICS)           KimmyJS19
 
-3128.0   Aero Off Route US Navy Worldwide ñ Dutch Navy PBB NAS Valkenburg       KimmyJS19
+3128.0   Aero Off Route US Navy Worldwide ‚Äì Dutch Navy PBB NAS Valkenburg       KimmyJS19
 
-3131.0   Aero Off Route US Navy Worldwide ñ Belgium Air Force Network <YA>      KimmyJS19
+3131.0   Aero Off Route US Navy Worldwide ‚Äì Belgium Air Force Network <YA>      KimmyJS19
 
 3131.0   RAF Strike Command Integrated Communications System (STCICS)           KimmyJS19
 
@@ -492,7 +492,7 @@ HF Frequencies Database (kHz)
 
 3143.0   German Air Force Transport Command Network, Germany GAF                KimmyJS19
 
-3146.0   Aero Off Route US Air Force Worldwide ñ Italian Navy                   KimmyJS19
+3146.0   Aero Off Route US Air Force Worldwide ‚Äì Italian Navy                   KimmyJS19
 
 3149.0   Aero Off Route US Navy Worldwide
 
@@ -658,7 +658,7 @@ HF Frequencies Database (kHz)
 
 3855.0   Russian Military CW                                                    UKSCANNINGDIRECTORY.CO.UK
 
-3900.0   Aero Off Route Region 1 ñ NATO AWACS Discrete DHN66 Geilemkirchen ìMagicî
+3900.0   Aero Off Route Region 1 ‚Äì NATO AWACS Discrete DHN66 Geilemkirchen ‚ÄúMagic‚Äù
 
 3900.0	 75m Broadcast Band                                                     K i m m y js19
 
@@ -684,7 +684,7 @@ HF Frequencies Database (kHz)
 
 3930.0   Aero Off Route Region 1                                                UKSCANNINGDIRECTORY.CO.UK
 
-3933.0   Aero Off Route Region 1 ñ Spanish Air Force Network                    UKSCANNINGDIRECTORY.CO.UK
+3933.0   Aero Off Route Region 1 ‚Äì Spanish Air Force Network                    UKSCANNINGDIRECTORY.CO.UK
 
 3936.0   Aero Off Route Region 1                                                UKSCANNINGDIRECTORY.CO.UK
 
@@ -796,7 +796,7 @@ HF Frequencies Database (kHz)
 
 4363.0   UK Combined Cadet Force/Army Cadet Force USB                           UKSCANNING DIRECTORY.CO.UK
 
-4372.0   US Navy FACSFAC Frequency Virginia Capes, VA ìGiant Killerî
+4372.0   US Navy FACSFAC Frequency Virginia Capes, VA ‚ÄúGiant Killer‚Äù
 
 4375.0   Royal Australian Navy Worldwide <A2>                                   UKSCANNING DIRECTORY.CO.UK
 
@@ -918,7 +918,7 @@ HF Frequencies Database (kHz)
 
 4687.0   Aero LDOC Croatia Airline Company Discrete          UKSCANNING DIRECTORY.CO.UK
 
-4700.0   Aero Off Route US Navy Worldwide ñ Tactical Support Center (TSC) Pacific Region
+4700.0   Aero Off Route US Navy Worldwide ‚Äì Tactical Support Center (TSC) Pacific Region
 
 4703.0   Aero Off Route US Navy Worldwide                    KimmyJS19
 
@@ -950,7 +950,7 @@ HF Frequencies Database (kHz)
 
 4718.0   RAF/NMOC SEARCH AND RESCUE USB                      KimmyJS19
 
-4721.0   Aero Off Route US Air Force Worldwide (USB/ALE) ñ Scope Command ALE Network
+4721.0   Aero Off Route US Air Force Worldwide (USB/ALE) ‚Äì Scope Command ALE Network
 
 4721.0   German Air Force Network/French Air Force-Navy/Italian Navy Patrol Aircraft
 
@@ -974,7 +974,7 @@ HF Frequencies Database (kHz)
 
 4736.0   Norwegian Navy MARPAT                               KimmyJS19
 
-4739.0   Aero Off Route US Air Force/US Navy Worldwide ñ Tactical Support Center (TSC) 
+4739.0   Aero Off Route US Air Force/US Navy Worldwide ‚Äì Tactical Support Center (TSC) 
 
 4739.0   Atlantic/Pacific Areas/Canadian Forces SAR Network/Spanish Air Force SAR Services
 
@@ -1056,7 +1056,7 @@ HF Frequencies Database (kHz)
 
 5071.0   NATO/US DoD TADIL-A single channel Link 11            UKSCANNING DIRECTORY.CO.UK
 
-5080.0   US Air Force Western Missile Range ìPlead Controlî    UKSCANNINGDIRECTORY.CO.UK
+5080.0   US Air Force Western Missile Range ‚ÄúPlead Control‚Äù    UKSCANNINGDIRECTORY.CO.UK
 
 5080.0	 East Coast Control - Air Defence Radar                UKSCANNINGDIRECTORY.CO.UK
 
@@ -1072,7 +1072,7 @@ HF Frequencies Database (kHz)
 
 5140.0   US Federal/State Government Operation Secure Nationwide
 
-5171.0   US Navy FACSFAC Frequency Virginia Capes, VA ìGiant Killerî
+5171.0   US Navy FACSFAC Frequency Virginia Capes, VA ‚ÄúGiant Killer‚Äù
 
 5180.0   NASA Space Shuttle SRB Recovery Net Atlantic Ocean    UKSCANNING DIRECTORY.CO.UK
 
@@ -1314,7 +1314,7 @@ HF Frequencies Database (kHz)
 
 5687.0   RNZAF AOCCAK General Purpose Net USB                   KimmyJS19
 
-5690.0   Aero Off Route US Air Force Worldwide ñ Swedish Air Force
+5690.0   Aero Off Route US Air Force Worldwide ‚Äì Swedish Air Force
 
 5690.0   Irish Air Corps National   USB                         KimmyJS19
 
@@ -1358,7 +1358,7 @@ HF Frequencies Database (kHz)
 
 5708.0   Scope Command ALE Network                             KimmyJS19
 
-5708.0   French Navy Atlantique Network ìArmourî CCMAR France  KimmyJS19
+5708.0   French Navy Atlantique Network ‚ÄúArmour‚Äù CCMAR France  KimmyJS19
 
 5711.0   Aero Off Route US Air Force Worldwide (USB/ALE)       KimmyJS19
 
@@ -1390,7 +1390,7 @@ HF Frequencies Database (kHz)
 
 5723.0   Aero Off Route US Navy Worldwide                     UKSCANNINGDIRECTORY.CO.UK
 
-5726.0   Aero Off Route US Navy Worldwide ñ Antarctica Operations
+5726.0   Aero Off Route US Navy Worldwide ‚Äì Antarctica Operations
 
 5727.0   Chinese Navy Enigma M89 CW                           KimmyJS19
 
@@ -1594,7 +1594,7 @@ HF Frequencies Database (kHz)
 
 6688.0   NATO AWACS Discrete DHN66 Geilemkirchen Magic/UK Royal Navy Network
 
-6691.0   Aero Off Route US Navy Worldwide ñ Strategic Comm Wing 1 discrete <CA>
+6691.0   Aero Off Route US Navy Worldwide ‚Äì Strategic Comm Wing 1 discrete <CA>
 
 6691.0   RAF Strike Command Integrated Communications System (STCICS)
 
@@ -1612,7 +1612,7 @@ HF Frequencies Database (kHz)
 
 6700.0   German Air Force Network                            KimmyJS19
 
-6700.0   NATO AWACS Discrete DHN66 Geilemkirchen ìMagicî     KimmyJS19
+6700.0   NATO AWACS Discrete DHN66 Geilemkirchen ‚ÄúMagic‚Äù     KimmyJS19
 
 6703.0   Aero Off Route US Navy Worldwide                    KimmyJS19
 
@@ -1644,9 +1644,9 @@ HF Frequencies Database (kHz)
 
 6718.0   Tactical Support Center (TSC) Pacific Area/French Naval Network
 
-6721.0   Aero Off Route US Air Force/US Navy Worldwide (USB/ALE) ñ Scope Command ALE Network
+6721.0   Aero Off Route US Air Force/US Navy Worldwide (USB/ALE) ‚Äì Scope Command ALE Network
 
-6724.0   Aero Off Route US Navy Worldwide ñ NASA Shuttle Support
+6724.0   Aero Off Route US Navy Worldwide ‚Äì NASA Shuttle Support
 
 6724.0   Italian Navy Network/Spanish Air Force Network      KimmyJS19
 
@@ -1662,7 +1662,7 @@ HF Frequencies Database (kHz)
 
 6730.0   Aero Off Route US Air Force Worldwide               KimmyJS19
 
-6730.0   Special Operations/AMC Command Post Ramstein AB ìMetaphorî
+6730.0   Special Operations/AMC Command Post Ramstein AB ‚ÄúMetaphor‚Äù
 
 6730.0   Danish Air Force Network/German Air Force           KimmyJS19
 
@@ -1700,9 +1700,9 @@ HF Frequencies Database (kHz)
 
 6750.0   Georgia Military GS2 Net ALE/USB                    UKSCANNINGDIRECTORY.CO.UK
 
-6751.0   Aero Off Route US Air Force Worldwide ñ E-8 JStars Aircraft Discrete
+6751.0   Aero Off Route US Air Force Worldwide ‚Äì E-8 JStars Aircraft Discrete
 
-6751.0   NASA Shuttle Mission Support ìCape Radioî           KimmyJS19
+6751.0   NASA Shuttle Mission Support ‚ÄúCape Radio‚Äù           KimmyJS19
 
 6751.0   Air National Guard Operations/German Air Force Network
 
@@ -1710,15 +1710,15 @@ HF Frequencies Database (kHz)
 
 6754.0   Canadian Military Aeronautical Communications System (MACS weather only)
 
-6754.0   NATO AWACS Discrete DHN66 Geilemkirchen ìMagicî     UKSCANNINGDIRECTORY.CO.UK
+6754.0   NATO AWACS Discrete DHN66 Geilemkirchen ‚ÄúMagic‚Äù     UKSCANNINGDIRECTORY.CO.UK
 
-6757.0   Aero Off Route US Air Force Worldwide (USB/ALE) ñ Airborne Command Post Network <Z-165>
+6757.0   Aero Off Route US Air Force Worldwide (USB/ALE) ‚Äì Airborne Command Post Network <Z-165>
 
 6760.0   Aero Off Route US Air Force Worldwide                KimmyJS19
 
 6760.0   French Navy Tactical Network                         KimmyJS19
 
-6760.0   NATO AWACS Discrete DHN66 Geilemkirchen ìMagicî      KimmyJS19
+6760.0   NATO AWACS Discrete DHN66 Geilemkirchen ‚ÄúMagic‚Äù      KimmyJS19
 
 6761.0   US Air Force Air Refueling Tactical Worldwide        UKSCANNINGDIRECTORY.CO.UK
 
@@ -1740,11 +1740,11 @@ HF Frequencies Database (kHz)
 
 6815.0   US Coast Guard Tactical                              UKSCANNINGDIRECTORY.CO.UK
 
-6820.0   US Air Force Western Missile Range ìAria Controlî    UKSCANNINGDIRECTORY.CO.UK
+6820.0   US Air Force Western Missile Range ‚ÄúAria Control‚Äù    UKSCANNINGDIRECTORY.CO.UK
 
 6821.0   Environmental Protection Agency Point to Point Network Nationwide
 
-6835.0   US Navy FACSFAC Frequency Pensacola, FL ìSeabreezeî  UKSCANNINGDIRECTORY.CO.UK
+6835.0   US Navy FACSFAC Frequency Pensacola, FL ‚ÄúSeabreeze‚Äù  UKSCANNINGDIRECTORY.CO.UK
 
 6840.0   Federal Aviation Administration (FAA) Network Nationwide (USB/ALE)
 
@@ -2188,7 +2188,7 @@ HF Frequencies Database (kHz)
 
 8971.0   Fixed Wing Aircraft Safety of Flight/Dutch Navy PBB NAS Valkenburg
 
-8971.0   NATO AWACS Discrete DHN66 Geilemkirchen ìMagicî     KimmyJS19
+8971.0   NATO AWACS Discrete DHN66 Geilemkirchen ‚ÄúMagic‚Äù     KimmyJS19
 
 8972.0   French Air Force Circus Network <Racontar 1>        KimmyJS19
 
@@ -2212,7 +2212,7 @@ HF Frequencies Database (kHz)
 
 8980.0   US Navy Tactical Support Center (TSC) Pacific-Atlantic
 
-8980.0   NATO AWACS Discrete DHN66 Geilemkirchen ìMagicî     KimmyJS19
+8980.0   NATO AWACS Discrete DHN66 Geilemkirchen ‚ÄúMagic‚Äù     KimmyJS19
 
 8983.0   Aero Off Route US Coast Guard Worldwide             KimmyJS19
 
@@ -2240,7 +2240,7 @@ HF Frequencies Database (kHz)
 
 8998.0   NATO/DoD Link 11 data transmission                  KimmyJS19
 
-8998.0   Aero Off Route US Navy Worldwide ñ Antarctica Operations
+8998.0   Aero Off Route US Navy Worldwide ‚Äì Antarctica Operations
 
 9001.0   Aero Off Route US Navy Worldwide                    KimmyJS19
 
@@ -2252,7 +2252,7 @@ HF Frequencies Database (kHz)
 
 9001.6   US Coast Guard Tactical Net USB/ANDVT               KimmyJS19
 
-9004.0   Aero Off Route US Navy Worldwide ñ Tactical Support Center (TSC) Atlantic
+9004.0   Aero Off Route US Navy Worldwide ‚Äì Tactical Support Center (TSC) Atlantic
 
 9007.0   Aero Off Route US Navy Worldwide                    KimmyJS19
 
@@ -2270,7 +2270,7 @@ HF Frequencies Database (kHz)
 
 9013.0   US Army European Aviation Net ALE/USB               Kimmyjs19
 
-9016.0   Aero Off Route US Air Force Worldwide ñ Airborne Command Post Network <Z-175>
+9016.0   Aero Off Route US Air Force Worldwide ‚Äì Airborne Command Post Network <Z-175>
 
 9016.0   UK DHFCS TASCOMM  USB                               KimmyJS19
 
@@ -2278,7 +2278,7 @@ HF Frequencies Database (kHz)
 
 9019.0   Special Operations/E-8 JStars aircraft discrete     KimmyJS19
 
-9022.0   Aero Off Route US Air Force Worldwide ñ AMC Command Post Ramstein AB ìMetaphorî
+9022.0   Aero Off Route US Air Force Worldwide ‚Äì AMC Command Post Ramstein AB ‚ÄúMetaphor‚Äù
 
 9022.0   Japanese Defense Forces Patrol Aircraft             KimmyJS19
 
@@ -2298,7 +2298,7 @@ HF Frequencies Database (kHz)
 
 9026.0   US Air Force Special Operations Europe
 
-9028.0   Aero Off Route US Navy Worldwide ñ Tactical communications noted here
+9028.0   Aero Off Route US Navy Worldwide ‚Äì Tactical communications noted here
 
 9031.0   Aero Off Route US Navy Worldwide / UK DHFCS - TASCOMM USB
 
@@ -2440,7 +2440,7 @@ HF Frequencies Database (kHz)
 
 10168   Rodhe & Schwarz, British Mil Interop Test ALE/USB
 
-10172   NATO AWACS Discrete DHN66 Geilemkirchen ìMagicî
+10172   NATO AWACS Discrete DHN66 Geilemkirchen ‚ÄúMagic‚Äù
 
 10194   Federal Emergency Management Agency (FEMA) FNARS Network Nationwide (USB/LSB)
 
@@ -2458,7 +2458,7 @@ HF Frequencies Database (kHz)
 
 10305   US Air Force Hurricane Contingency Support Net Eastern Test Range
 
-10315   NATO AWACS Discrete DHN66 Geilemkirchen ìMagicî <Primary>
+10315   NATO AWACS Discrete DHN66 Geilemkirchen ‚ÄúMagic‚Äù <Primary>
 
 10320   Armed Forces Network (AFN) Hawaii Local Day
 
@@ -2470,7 +2470,7 @@ HF Frequencies Database (kHz)
 
 10405   Libyan Army, used by USAF for Psyops during 2011 Libya military ops
 
-10429   NATO AWACS Discrete DHN66 Geilemkirchen ìMagicî
+10429   NATO AWACS Discrete DHN66 Geilemkirchen ‚ÄúMagic‚Äù
 
 10464   Russian Military MS-5/4800
 
@@ -2490,7 +2490,7 @@ HF Frequencies Database (kHz)
 
 10759   US Coast Guard Tactical
 
-10780   NASA Space Shuttle Support Network Atlantic Ocean ìCape Radioî
+10780   NASA Space Shuttle Support Network Atlantic Ocean ‚ÄúCape Radio‚Äù
 
 10788   US Coast Guard Tactical
 
@@ -2532,7 +2532,7 @@ HF Frequencies Database (kHz)
 
 11108   Federal Emergency Management Agency (FEMA) FNARS Network Nationwide (USB/LSB/ALE)
 
-11110   US Air Force Western Missile Range ìPlead/Aria Controlî
+11110   US Air Force Western Missile Range ‚ÄúPlead/Aria Control‚Äù
 
 11157   US Coast Guard Tactical
 
@@ -2544,7 +2544,7 @@ HF Frequencies Database (kHz)
 
 11175   HF Global Communications System 
 
-11178   Aero Off Route US Air Force Worldwide ñ Caribbean Anti-Narco Network
+11178   Aero Off Route US Air Force Worldwide ‚Äì Caribbean Anti-Narco Network
 
 11181   Aero Off Route US Air Force Worldwide 
 
@@ -2552,17 +2552,17 @@ HF Frequencies Database (kHz)
 
 11181   E-8 JStars aircraft discrete
 
-11184   Aero Off Route US Navy Worldwide ñ RAF Strike Command Integrated Communications System (STCICS)
+11184   Aero Off Route US Navy Worldwide ‚Äì RAF Strike Command Integrated Communications System (STCICS)
 
 11184.4 BAF Network (EBMB) Brussels-Melsbroeck Belgium USB  KimmyJS19
 
-11187   Aero Off Route US Navy Worldwide ñ Strategic Comm Wing 1 discrete <CB>
+11187   Aero Off Route US Navy Worldwide ‚Äì Strategic Comm Wing 1 discrete <CB>
 
 11187   Tactical Support Center (TSC) Pacific Area//Belgium Air Force <YH>
 
 11189   US Navy Tactical Support Center (TSC) Patrol and Recon Wing One, Task Force 57 Diego Garcia
 
-11190   Aero Off Route US Navy Worldwide ñ Canadian Forces Military Discrete
+11190   Aero Off Route US Navy Worldwide ‚Äì Canadian Forces Military Discrete
 
 11193   Aero Off Route US Navy Worldwide
 
@@ -2572,15 +2572,15 @@ HF Frequencies Database (kHz)
 
 11199   NIPR (Non-Secret Internet Protocol Router) Network
 
-11202   Aero Off Route Frequency US Coast Guard Worldwide ñ Swedish Air Force
+11202   Aero Off Route Frequency US Coast Guard Worldwide ‚Äì Swedish Air Force
 
-11205   Aero Off Route US Navy Worldwide ñ Tactical Support Center (TSC) Atlantic Area
+11205   Aero Off Route US Navy Worldwide ‚Äì Tactical Support Center (TSC) Atlantic Area
 
 11205   Canadian Forces Military Discrete/UK Royal Air Force Architect Network
 
-11208   Aero Off Route US Navy Worldwide ñ RAF Strike Command Integrated Communications System (STCICS)
+11208   Aero Off Route US Navy Worldwide ‚Äì RAF Strike Command Integrated Communications System (STCICS)
 
-11211   Aero Off Route US Navy Worldwide ñ Tactical Support Center (TSC) Pacific Area
+11211   Aero Off Route US Navy Worldwide ‚Äì Tactical Support Center (TSC) Pacific Area
 
 11211   Belgium Air Force/Spanish Air Force Network
 
@@ -2590,25 +2590,25 @@ HF Frequencies Database (kHz)
 
 11214   Canadian Military Aeronautical Communications System Discrete (MACS)
 
-11217   Aero Off Route US Air Force Worldwide (USB/ALE) ñ US Government SHARES SCN ALE Network Nationwide <Channel 6>
+11217   Aero Off Route US Air Force Worldwide (USB/ALE) ‚Äì US Government SHARES SCN ALE Network Nationwide <Channel 6>
 
 11217   Danish Air Force Network/German Air Force Network
 
 11220   US DoD Airborne Command Post Data duplex frequency with 11460 kHz Data/USB
 
-11220   Aero Off Route US Air Force Worldwide ñ Mystic Star VIP/HF-GCS Discrete
+11220   Aero Off Route US Air Force Worldwide ‚Äì Mystic Star VIP/HF-GCS Discrete
 
-11223   Aero Off Route US Air Force Worldwide ñ Canada/Alaska Shared
+11223   Aero Off Route US Air Force Worldwide ‚Äì Canada/Alaska Shared
 
-11226   Aero Off Route US Air Force Worldwide (USB/ALE) ñ Scope Command ALE Network
+11226   Aero Off Route US Air Force Worldwide (USB/ALE) ‚Äì Scope Command ALE Network
 
-11229   Aero Off Route US Air Force Worldwide ñ Airborne Command Post Network <Z-210>
+11229   Aero Off Route US Air Force Worldwide ‚Äì Airborne Command Post Network <Z-210>
 
-11232   Aero Off Route US Air Force Worldwide ñ Canadian Military Aeronautical Communications System (MACS)
+11232   Aero Off Route US Air Force Worldwide ‚Äì Canadian Military Aeronautical Communications System (MACS)
 
 11234	RAF Control
 
-11235   Aero Off Route US Navy Worldwide ñ German Navy/Spanish Air Force Network/Royal Australian Air Force
+11235   Aero Off Route US Navy Worldwide ‚Äì German Navy/Spanish Air Force Network/Royal Australian Air Force
 
 11235   Royal New Zealand Air Force AOCS GPN Local Day/UK Royal Air Force Architect Network
 
@@ -2616,7 +2616,7 @@ HF Frequencies Database (kHz)
 
 11238   Aero Off Route US Air Force Worldwide
 
-11241   Aero Off Route US Air Force Worldwide ñ RAF Strike Command Integrated Communications System (STCICS)
+11241   Aero Off Route US Air Force Worldwide ‚Äì RAF Strike Command Integrated Communications System (STCICS)
 
 11244   Aero Off Route US Air Force Worldwide 
 
@@ -2626,29 +2626,29 @@ HF Frequencies Database (kHz)
 
 11247   UK Royal Air Force Architect Network / UK DHFCS TASCOMM USB
 
-11250   Aero Off Route US Air Force Worldwide ñ HF-GCS Discrete
+11250   Aero Off Route US Air Force Worldwide ‚Äì HF-GCS Discrete
 
 11253   Aero Off Route US Navy Worldwide 
 
 11253   UK Royal Air Force VOLMET  SSB
 
-11256   Aero Off Route US Navy Worldwide ñ German Navy MATELO ARCN (USB/RTTY)
+11256   Aero Off Route US Navy Worldwide ‚Äì German Navy MATELO ARCN (USB/RTTY)
 
-11259   Aero Off Route US Navy Worldwide ñ AW C&R Net
+11259   Aero Off Route US Navy Worldwide ‚Äì AW C&R Net
 
-11262   Aero Off Route US Navy Worldwide ñ Spanish Air Force Network
+11262   Aero Off Route US Navy Worldwide ‚Äì Spanish Air Force Network
 
-11265   Aero Off Route US Navy Worldwide ñ Link 11 Voice Coordination Net
+11265   Aero Off Route US Navy Worldwide ‚Äì Link 11 Voice Coordination Net
 
 11265   Canadian Military Aeronautical Communications System (MACS)/German Air Force Network
 
-11268   Aero Off Route US Navy Worldwide ñ Belgium Air Force Network <YJ>
+11268   Aero Off Route US Navy Worldwide ‚Äì Belgium Air Force Network <YJ>
 
 11268   RAF Strike Command Integrated Communications System (STCICS)
 
 11269.4 BAF Network (EBMB) Brussels-Melsbroeck Belgium USB  KimmyJS19
 
-11271   Aero Off Route US Air Force Worldwide ñ HF-GCS Discrete
+11271   Aero Off Route US Air Force Worldwide ‚Äì HF-GCS Discrete
 
 11279   Aero North Atlantic (NAT-D) Major World Air Route Area
 
@@ -2778,51 +2778,51 @@ HF Frequencies Database (kHz)
 
 13155   US Navy/DoD EAM Broadcast Discrete
 
-13200   Aero Off Route US Air Force Worldwide ñ HF Global Communications System (HF-GCS) <Primary>
+13200   Aero Off Route US Air Force Worldwide ‚Äì HF Global Communications System (HF-GCS) <Primary>
 
-13203   Aero Off Route US Air Force Worldwide ñ German Air Force Transport Command Network
+13203   Aero Off Route US Air Force Worldwide ‚Äì German Air Force Transport Command Network
 
 13204   US Air Force HF Command Post/Special Operations/E-8 JStars aircraft discrete
 
-13206   Aero Off Route US Air Force Worldwide ñ Special Operations/Canadian Forces Military Discrete
+13206   Aero Off Route US Air Force Worldwide ‚Äì Special Operations/Canadian Forces Military Discrete
 
 13206   Royal Australian Air Force/Royal New Zealand Air Force AOCS GPN
 
 13206   RNZAF AOCCAK General Purpose Net USB
 
-13209   Aero Off Route US Air Force Worldwide ñ Japanese Self Defense Forces Discrete
+13209   Aero Off Route US Air Force Worldwide ‚Äì Japanese Self Defense Forces Discrete
 
-13212   Aero Off Route US Air Force Worldwide ñ Various Command Post
+13212   Aero Off Route US Air Force Worldwide ‚Äì Various Command Post
 
-13215   Aero Off Route US Air Force Worldwide (USB/ALE) ñ Scope Command ALE Network/E-8 JStars aircraft discrete
+13215   Aero Off Route US Air Force Worldwide (USB/ALE) ‚Äì Scope Command ALE Network/E-8 JStars aircraft discrete
 
 13215   Spanish Air Force Network
 
-13218   Aero Off Route US Air Force Worldwide ñ 412TW/452FLTS Operations ìAria Opsî
+13218   Aero Off Route US Air Force Worldwide ‚Äì 412TW/452FLTS Operations ‚ÄúAria Ops‚Äù
 
 13221   Aero Off Route US Coast Guard Worldwide
 
-13224   Aero Off Route US Navy Worldwide (USB/ALE) ñ Brazilian Air Force/Navy Network/Swedish Air Force
+13224   Aero Off Route US Navy Worldwide (USB/ALE) ‚Äì Brazilian Air Force/Navy Network/Swedish Air Force
 
 13228.4 BAF Network (EBMB) Brussels-Melsbroeck Belgium USB  KimmyJS19
 
-13227   Aero Off Route US Navy Worldwide ñ Belgium Air Force
+13227   Aero Off Route US Navy Worldwide ‚Äì Belgium Air Force
 
 13230   Aero Off Route US Navy Worldwide
 
-13233   Aero Off Route US Navy Worldwide ñ German Air Force Network
+13233   Aero Off Route US Navy Worldwide ‚Äì German Air Force Network
 
-13236   Aero Off Route US Navy Worldwide ñ French Air Force Circus Network <Reconfort 3>
+13236   Aero Off Route US Navy Worldwide ‚Äì French Air Force Circus Network <Reconfort 3>
 
 13239   Aero Off Route US Navy Worldwide
 
-13242   Aero Off Route US Air Force Worldwide ñ Airborne Command Post Network <Z-215>
+13242   Aero Off Route US Air Force Worldwide ‚Äì Airborne Command Post Network <Z-215>
 
 13242   US Government SHARES SCN BBS Network Nationwide (USB/ALE) <Channel 10>
 
 13242   NIPR (Non-Secret Internet Protocol Router) Network
 
-13245   Aero Off Route US Air Force Worldwide ñ Airborne Command Post Network <Z-220>
+13245   Aero Off Route US Air Force Worldwide ‚Äì Airborne Command Post Network <Z-220>
 
 13245   Spanish Air Force Network
 
@@ -2832,9 +2832,9 @@ HF Frequencies Database (kHz)
 
 13251   Aero Off Route US Navy Worldwide
 
-13254   Aero Off Route US Navy Worldwide ñ Diego Garcia Control Tower Discrete
+13254   Aero Off Route US Navy Worldwide ‚Äì Diego Garcia Control Tower Discrete
 
-13257   Aero Off Route US Navy Worldwide ñ Canadian Military Aeronautical System (MACS)
+13257   Aero Off Route US Navy Worldwide ‚Äì Canadian Military Aeronautical System (MACS)
 
 13257   German Navy/UK Royal Air Force Architect Network
 
@@ -3028,13 +3028,13 @@ HF Frequencies Database (kHz)
 
 15000   Time/Frequency Standard Stations WWV/WWVH Ft. Collins, CO/Kauai,  HI (AM)
 
-15010   Aero Off Route US Air Force Worldwide ñ Belgium Air Force Network <YM>
+15010   Aero Off Route US Air Force Worldwide ‚Äì Belgium Air Force Network <YM>
 
-15013   Aero Off Route US Air Force Worldwide ñ RAF Strike Command Integrated Communications System (STCICS)
+15013   Aero Off Route US Air Force Worldwide ‚Äì RAF Strike Command Integrated Communications System (STCICS)
 
 15011.4 BAF Network (EBMB) Brussels-Melsbroeck Belgium USB  KimmyJS19
 
-15016   Aero Off Route US Air Force Worldwide ñ HF Global Communications System (HF-GCS) <Primary>
+15016   Aero Off Route US Air Force Worldwide ‚Äì HF Global Communications System (HF-GCS) <Primary>
 
 15016   Spanish Air Force Network
 
@@ -3042,29 +3042,29 @@ HF Frequencies Database (kHz)
 
 15022   Aero Off Route US Navy Worldwide
 
-15025   Aero Off Route US Navy Worldwide ñ USSOUTHCOM Flight Monitoring Facility. Key West, FL ìSmasherî
+15025   Aero Off Route US Navy Worldwide ‚Äì USSOUTHCOM Flight Monitoring Facility. Key West, FL ‚ÄúSmasher‚Äù
 
 15025   ARINC HFDL Reykjavik, Iceland/ Swedish Air Force
 
 15028   Aero Off Route US Navy Worldwide
 
-15031   Aero Off Route US Air Force Worldwide ñ Canadian Military Aeronautical System (MACS)
+15031   Aero Off Route US Air Force Worldwide ‚Äì Canadian Military Aeronautical System (MACS)
 
 15031   UK Royal Air Force  Architect Network
 
-15034   Aero Off Route US Air Force Worldwide ñ Canadian Military Aeronautical System (MACS weather broadcast)
+15034   Aero Off Route US Air Force Worldwide ‚Äì Canadian Military Aeronautical System (MACS weather broadcast)
 
 15037   Aero Off Route US Air Force Worldwide
 
 15040   Aero Off Route US Air Force Worldwide
 
-15043   Aero Off Route US Air Force Worldwide (USB/ALE) ñ 
+15043   Aero Off Route US Air Force Worldwide (USB/ALE) ‚Äì 
 
 15043   Scope Command ALE Network/Danish Air Force Network
 
-15046   Aero Off Route US Air Force Worldwide ñ Airborne Command Post Network <Z-230>
+15046   Aero Off Route US Air Force Worldwide ‚Äì Airborne Command Post Network <Z-230>
 
-15049   Aero Off Route US Navy Worldwide ñ DoD EAM Broadcast Discrete
+15049   Aero Off Route US Navy Worldwide ‚Äì DoD EAM Broadcast Discrete
 
 15052   Aero Off Route US Navy Worldwide
 
@@ -3098,11 +3098,11 @@ HF Frequencies Database (kHz)
 
 15091   Aero Off Route US Air Force Worldwide
 
-15094   Aero Off Route US Air Force Worldwide ñ Airborne Command Post Network <Z-235>
+15094   Aero Off Route US Air Force Worldwide ‚Äì Airborne Command Post Network <Z-235>
 
 15094   US Government SHARES SCN ALE Network Nationwide (USB/ALE) <Channel 7>
 
-15097   Aero Off Route US Air Force Worldwide ñ Airborne Command Post Network <Z-240>
+15097   Aero Off Route US Air Force Worldwide ‚Äì Airborne Command Post Network <Z-240>
 
 15550	19m Broadcast Band
 
@@ -3218,21 +3218,21 @@ HF Frequencies Database (kHz)
 
 17970   Aero Off Route US Navy Worldwide        
 
-17973   Aero Off Route US Air Force Worldwide (USB/ALE) ñ Airborne Command Post Network <Z-255>
+17973   Aero Off Route US Air Force Worldwide (USB/ALE) ‚Äì Airborne Command Post Network <Z-255>
 
 17973   NIPR (Non-Secret Internet Protocol Router) Network/German Air Force Network
 
-17976   Aero Off Route US Air Force Worldwide (USB/ALE) ñ SIPR (Secret Internet Protocol Router) Network
+17976   Aero Off Route US Air Force Worldwide (USB/ALE) ‚Äì SIPR (Secret Internet Protocol Router) Network
 
 17979   Aero Off Route US Navy Worldwide
 
-17982   Aero Off Route US Navy Worldwide (USB/ALE) ñ Strategic Comm Wing 1 discrete <CC>/Brazilian Air Force Network
+17982   Aero Off Route US Navy Worldwide (USB/ALE) ‚Äì Strategic Comm Wing 1 discrete <CC>/Brazilian Air Force Network
 
 17985   Aero Off Route US Navy Worldwide
 
 17988   Aero Off Route US Coast Guard Worldwide
 
-17991   Aero Off Route US Coast Guard Worldwide ñ German Air Force Network
+17991   Aero Off Route US Coast Guard Worldwide ‚Äì German Air Force Network
 
 17994   Aero Off Route US Air Force Worldwide 
 
@@ -3240,31 +3240,31 @@ HF Frequencies Database (kHz)
 
 17997   Aero Off Route US Air Force Worldwide
 
-18000   Aero Off Route US Air Force Worldwide ñ Canadian Forces Military Discrete/Spanish Air Force
+18000   Aero Off Route US Air Force Worldwide ‚Äì Canadian Forces Military Discrete/Spanish Air Force
 
-18003   Aero Off Route US Air Force Worldwide  (USB/ALE) ñ Scope Command ALE Network/Spanish Air Force Network
+18003   Aero Off Route US Air Force Worldwide  (USB/ALE) ‚Äì Scope Command ALE Network/Spanish Air Force Network
 
-18006   Aero Off Route US Air Force Worldwide ñ Airborne Command Post Network <Z-260>/Belgium Air Force Network <YO>
+18006   Aero Off Route US Air Force Worldwide ‚Äì Airborne Command Post Network <Z-260>/Belgium Air Force Network <YO>
 
 18007.4 BAF Network (EBMB) Brussels-Melsbroeck Belgium USB  KimmyJS19
 
-18009   Aero Off Route US Air Force Worldwide ñ NATO AWACS Discrete DHN66 Geilemkirchen ìMagicî
+18009   Aero Off Route US Air Force Worldwide ‚Äì NATO AWACS Discrete DHN66 Geilemkirchen ‚ÄúMagic‚Äù
 
-18012   Aero Off Route US Navy Worldwide ñ Canadian Military Aeronautical System (MACS)
+18012   Aero Off Route US Navy Worldwide ‚Äì Canadian Military Aeronautical System (MACS)
 
 18012   French Air Force Circus Network <Veritee 3>/German Air Force Network
 
 18015   Aero Off Route US Navy Worldwide
 
-18018   Aero Off Route US Navy Worldwide ñ UK Royal Air Force Architect Network/Spanish Air Force Network
+18018   Aero Off Route US Navy Worldwide ‚Äì UK Royal Air Force Architect Network/Spanish Air Force Network
 
-18021   Aero Off Route US Air Force Worldwide ñ Belgium Air Force Network <YP>
+18021   Aero Off Route US Air Force Worldwide ‚Äì Belgium Air Force Network <YP>
 
 18022.4 BAF Network (EBMB) Brussels-Melsbroeck Belgium USB  KimmyJS19
 
-18024   Aero Off Route US Air Force Worldwide ñ Airborne Command Post Network <Z-265>
+18024   Aero Off Route US Air Force Worldwide ‚Äì Airborne Command Post Network <Z-265>
 
-18027   Aero Off Route US Air Force Worldwide ñ Airborne Command Post Network <Z-270>
+18027   Aero Off Route US Air Force Worldwide ‚Äì Airborne Command Post Network <Z-270>
 
 18027   Canadian Forces-NORAD Discrete
 
@@ -3522,25 +3522,19 @@ HF Frequencies Database (kHz)
 
 29715   Canadian Forces Affiliate Radio System (CFARS) Worldwide <Hotel>
 
-
-
-HF Frequencies Database  Kimmyjs19
-
-
-
 Amateur band frequencies
 
-Band 	Morse 	        Data 	           Phone 	        SSTV
+Band 	  Morse 	        Data 	           Phone 	        SSTV
 
-160 	1810  - 1838 	1838  - 1842 kHz   1842 - 2000 LSB 	 
-80 	3500  - 3580 	3580  - 3600 kHz   3620 - 3800 LSB 	3730 - 3740
-40 	7000  - 7035 	7035  - 7045 kHz   7045 - 7200 LSB 	 
-30 	10100 - 10140 	10140 - 10150 	  	 
-20 	14000 - 14070 	14070 - 14112 	   14112 - 14350 USB 	14225 - 14235
-17 	18068 - 18100 	18100 - 18109 	   18111 - 18168 USB 	 
-15 	21000 - 21080 	21080 - 21120      21151 - 21450 USB 	21335 - 21345
-12 	24890 - 24920 	24920 - 24929 	   24931 - 24990 USB 	 
-10 	28000 - 28199 	28050 - 28150 	   28200 - 29200 USB 	28675 - 28685 
+160  1810 - 1838 	1838  - 1842 kHz  1842 - 2000 LSB 	 
+80  3500 - 3580 	3580  - 3600 kHz  3620 - 3800 LSB  3730 - 3740
+40  7000 - 7035 	7035  - 7045 kHz  7045 - 7200 LSB 	 
+30  10100 - 10140 	10140 - 10150
+20  14000 - 14070 	14070 - 14112 	14112 - 14350 USB 	14225 - 14235
+17 	18068 - 18100 	18100 - 18109 	18111 - 18168 USB 	 
+15 	21000 - 21080 	21080 - 21120  21151 - 21450 USB 	21335 - 21345
+12 	24890 - 24920 	24920 - 24929 	24931 - 24990 USB 	 
+10 	28000 - 28199 	28050 - 28150 	28200 - 29200 USB  28675 - 28685 
 
 
 
@@ -3589,16 +3583,16 @@ Aircraft crossing the Atlantic still use SSB to communicate with the National Ai
 Service (NATS) in Shannon, Ireland and Gander, Canada.
 
 Band 	NATS frequencies in kHz
-2850  kHz - 3025  kHz 	  2872 kHz, 2899 kHz, 2971 kHz, 3016 kHz
-3400  kHz - 3500  kHz 	  3413 kHz, 3476 kHz
-4650  kHz - 4700  kHz 	  4675 kHz
-5450  kHz - 5730  kHz 	  5610 kHz, 5670 kHz, 5598 kHz, 5616 kHz, 5649 kHz
-6525  kHz - 6685  kHz 	  6622 kHz
-8815  kHz - 8965  kHz 	  8831 kHz, 8864 kHz, 8879 kHz, 8891 kHz, 8906 kHz, 8957 kHz
+2850  kHz - 3025  kHz  2872 kHz, 2899 kHz, 2971 kHz, 3016 kHz
+3400  kHz - 3500  kHz 	3413 kHz, 3476 kHz
+4650  kHz - 4700  kHz 	4675 kHz
+5450  kHz - 5730  kHz  5610 kHz, 5670 kHz, 5598 kHz, 5616 kHz, 5649 kHz
+6525  kHz - 6685  kHz  6622 kHz
+8815  kHz - 8965  kHz  8831 kHz, 8864 kHz, 8879 kHz, 8891 kHz, 8906 kHz, 8957 kHz
 10005 kHz - 10100 kHz 	 
-11175 kHz - 11400 kHz 	  11279 kHz, 11336 kHz
-13200 kHz - 13360 kHz 	  13291 kHz, 13306 kHz
-17900 kHz - 18030 kHz 	  17946 kHz
+11175 kHz - 11400 kHz  11279 kHz, 11336 kHz
+13200 kHz - 13360 kHz  13291 kHz, 13306 kHz
+17900 kHz - 18030 kHz  17946 kHz
 21924 kHz - 22000 kHz 	 
 23200 kHz - 23350 kHz
 
@@ -3619,15 +3613,15 @@ Marine Distress Frequencies
 
 Marine Distress Frequencies (Radio Telephone (R/T) & DSC)
 
-Band 	R/T Frequency 	  DSC Frequency 	Day Time Range 	Night Time Range
+Band 	R/T Frequency 	 DSC Frequency 	Day Time Range 	Night Time Range
 
-MF 	2182  kHz         2187.5 kHz 	        150  nm 	500 nm
-HF4 	4125  kHz         4207.5 kHZ 	        300  nm 	1000 nm
-HF6 	6215  kHz 	  6312 kHz 	        600  nm 	1500 nm
-HF8 	8291  kHz         8414.5 kHZ 	        1000 nm 	2000 nm
-HF12 	12290 kHz 	  12577 kHz 	        2500 nm 	 
-HF16 	16420 kHz 	  16804.5 kHz 	 
-VHF 	156.800 MHz (16)  156.525 MHz (Ch 70) 	30 nm 	        30 nm
+MF 	2182  kHz         2187.5 kHz 	        150  nm 	       500 nm
+HF4 	4125  kHz        4207.5 kHZ 	        300  nm 	       1000 nm
+HF6 	6215  kHz 	      6312 kHz 	          600  nm 	       1500 nm
+HF8 	8291  kHz        8414.5 kHZ 	        1000 nm 	       2000 nm
+HF12 	12290 kHz 	     12577 kHz 	         2500 nm 	 
+HF16 	16420 kHz 	     16804.5 kHz 	 
+VHF 	156.800 MHz (16) 156.525 MHz (Ch 70) 	30 nm 	        30 nm
 
 
 
@@ -3697,9 +3691,7 @@ Freq       Callsign      Station                          ITU    Mode        Det
 8104                     Tortola R                        VRG    SSB
 8106.9     SWA 28        Athens Meteo                     GRC    FAX
 
-
 HF Ham Bands and Frequencies - KimmyJS19
-
 
 Amateur Radio Bands
 
@@ -3792,10 +3784,6 @@ Amateur Band Plan
 29.200-29.300      Digital modes, phone and CW
 29.300-29.550      Satellite downlinks
 29.550-29.700 	   Phone and CW
-
-
-ukscanningdirectory.co.uk - KimmyJS19
-
 
 US Coastguard HF frequencies
 
@@ -4912,7 +4900,7 @@ TIME (UTC)  COUNTRY         STATION NAME        FREQUENCIES USED
 
 1930-2000  USA              Pan American B/C    9685ge
 
-1930-2000  Ireland          R. TelefÌs …ireann  5820za
+1930-2000  Ireland          R. Telef√≠s √âireann  5820za
 
 1930-2000  USA              V. of America       4930bt, 6080bt, 9850va, 12040sa, 15580bt
 
@@ -5378,9 +5366,3 @@ frequencies are still retained & used by NASA)
 11217.0   STS-72    Range Safety            0930
 14295.0   STS-79    WA3NAN                  1615
 20185.7   STS-61    WA3NAN                  1610
-
-
-
-
-
-HF Frequencies  -  ukscanningdirectory.co.uk  -  KimmyJS19
