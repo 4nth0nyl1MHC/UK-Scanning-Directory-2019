@@ -1,8 +1,5 @@
 Main UK Scanning Directory Database December 2018 See page bottom for user guide and notes
 
-c) KimmyJS19 ukscanningdirectory.co.uk
-
-
 UK SCANNING DIRECTORY DECEMBER 2018
 
 
@@ -1739,7 +1736,7 @@ UK SCANNING DIRECTORY DECEMBER 2018
 107.900 Glide FM, Oxford LONDON WFM KimmyJS19 Jan 2011
 
 
-c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
+
 
 
 108.600 KIRKWALL AIRPORT VOR/ATIS, SCOTLAND ORKNEY ISLANDS AM KimmyJS19 Aug 2017
@@ -3864,11 +3861,6 @@ EGHG Yeovil Westland Approach 130.800 AM KimmyJS19
 EGHG Yeovil Westland Tower 125.400 AM KimmyJS19
 EGHG Yeovil Westland Radio 125.400 AM KimmyJS19
 EGHG Yeovil Westland Radar 130.800 AM KimmyJS19
-
-
-c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
-
-
 137.9750 Pageone Communications, UK WIDE PAGING NATIONAL USAGE FM KimmyJS19 Oct 2015
 137.9750 WIDE AREA PAGING POCSAG 1200 NATIONAL USAGE FM KimmyJS19 Sep 2010
 138.0250 Stanley Security Solutions, PAGING NATIONAL USAGE FM KimmyJS19 Mar 2014
@@ -6671,11 +6663,6 @@ c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
 162.975 158.375 GB Emergency Medical Services SALISBURY WILTSHIRE FM KimmyJS19 Jun 2014
 162.975 M2998 MARINE CH107 VHF MID BAND MARINE NATIONAL USAGE FM KimmyJS19 Aug 2008
 162.9875 158.3875 M1999 VHF MID BAND Allocations UK WIDE FM KimmyJS19 Jan 2005
-
-
-c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
-
-
 163.0000 158.4000 DCS Repeater, Bellemonte Park, FRODSHAM CHESHIRE FM KimmyJS19 Apr 2014
 163.0000 158.4000 ENERGY, RIDGE HILL, DORCHESTER (JRC) DORSET FM KimmyJS19 May 2014
 163.0000 158.4000 Esso Petroleum Company, PORTSMOUTH HAMPSHIRE FM KimmyJS19 May 2017
@@ -7906,7 +7893,7 @@ c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
 164.9875 Pork Farms, Spalding Bakery, SPALDING LINCOLNSHIRE FM KimmyJS19 Oct 2015
 
 
-c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
+
 
 
 165.0000 160.5000 GOULD CBS, CARADON HILL, LISKEARD CORNWALL FM KimmyJS19 Apr 2015
@@ -11354,7 +11341,7 @@ c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
 167.9875 172.7875 HALLAM UNIVERSITY PORTERS SHEFFIELD SOUTH YORKSHIRE FM KimmyJS19 Oct 2002
 
 
-c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
+
 
 
 168.0000 172.8000 Albatross Cars Taxis, DERBY DERBYSHIRE FM KimmyJS19 Jan 2013
@@ -14220,7 +14207,7 @@ TRUNKED NETWORKS
 203.0125 195.0125 Wilts & Dorset Bus Company Poole TRUNK WILTSHIRE FM KimmyJS19 Feb 2011
 
 
-c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
+
 
 
 MILITARY UHF AIR BAND
@@ -15837,7 +15824,7 @@ MILITARY UHF AIR BAND
 399.975 US DOD Intrasquad Radio Ch.14 1201 NATIONAL USAGE FM KimmyJS19 Jan 2006
 
 
-c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
+
 
 
 401.0000 406.0000 Now Allocated To Military Land Mobile NATIONAL USAGE FM KimmyJS19 Aug 2010
@@ -18630,7 +18617,7 @@ c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
 445.9875 425.4875 Bull Ring Shopping Centre, BIRMINGHAM WEST MIDLANDS FM KimmyJS19 Apr 2017
 
 
-c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
+
 
 
 446.0000 Hawarden Airport, CHESTER CHESHIRE FM KimmyJS19 Dec 2015
@@ -20896,7 +20883,7 @@ c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
 452.900 466.800 HM PRISON BIRMINGHAM 136.5 (M2JG) WEST MIDLANDS FM KimmyJS19 Aug 2008
 
 
-c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
+
 
 
 453.0125 STH EAST ENTERTAINMENT, SOUTHEND-ON-SEA ESSEX FM KimmyJS19 Nov 2018
@@ -24293,7 +24280,7 @@ c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
 453.9875 460.4875 ROYAL AIRFORCE TRUST RAF FAIRFORD 103.5 WILTSHIRE FM KimmyJS19 Sep 2007
 
 
-c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
+
 
 
 454.025 Cambridge Muslim Welfare Society CAMBRIDGESHIRE FM KimmyJS19 Mar 2013
@@ -27883,7 +27870,7 @@ c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
 456.9875 WORCESTERSHIRE ROYAL HOSPITAL, SECURITY WORCESTERSHIRE FM KimmyJS19 Oct 2015
 
 
-c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
+
 
 
 457.0125 RAF WITTERING, Fire Ground 0401 CAMBRIDGESHIRE FM KimmyJS19 May 2003
@@ -32019,16 +32006,6 @@ c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
 75976.940 76GHz GB3CCX Cheltenham, 76GHz BEACON GLOUCESTERSHIRE FM KimmyJS19 Oct 2014
 134928.940 134GHz GB3CCX Cheltenham, 134GHz BEACON GLOUCESTERSHIRE FM KimmyJS19 Oct 2014
 
-
-
-c) KimmyJS19 UKSCANNINGDIRECTORY.CO.UK K I M M Y J S 1 9 ukradioscanning.com
-
-
-
-K i m m y J S 1 9 - ukscanningdirectory.co.uk
-
-
-
 USER GUIDE AND NOTES
 
 UNID - Unidentified User
@@ -32071,8 +32048,6 @@ type scanner is beneficial as it can follow conversations by one certain user fr
 frequency to another instead of relying on your scanner to pick out channels at random.
 
 
-
-
 How do I search the directory?
 
 This directory is a standard text file which can be opened in NOTEPAD. In notepad click on EDIT
@@ -32085,32 +32060,3 @@ Also remember some local radio users will be using national frequencies (the sam
 so bear in mind the NATIONAL USAGE and UK WIDE Frequencies. This is The Main UK Scanning Directory File
 which is updated often but for the latest daily updated files please see the other listed by frequency files
 in this section on the disc (titled by frequency range and month).
-
-
-
-Who are we?
-
-We are a close-nit group of radio amateurs, SWL listeners, family and friends who enjoy what we do and
-are commited to what we do. We are a not for profit group and all money after costs is shared between
-members for radio equipment. Our directory is updated daily by the team, so please stay up to date and
-support us by getting the latest up to date copy from: ukscanningdirectory.co.uk
-
-
-You can also contact us below.
-
-
-The KimmyJS19 UK Scanning Directory
-
-
-Telephone: 07743 133632 (Office Hours)
-
-Website: http://ukscanningdirectory.co.uk
-
-Online Forum: https://ukradioscanning.com
-
-Email: xtratalk@yahoo.co.uk
-
-
-
-(c) KimmyJS19
-ukscanningdirectory.co.uk
