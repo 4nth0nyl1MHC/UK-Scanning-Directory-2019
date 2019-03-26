@@ -1,11 +1,10 @@
 Bugs, UK Home Cordless Telephphones, Surveillance and Monitoring Devices 
-KimmyJS19 ukscanningdirectory.co.uk
 
 
 Bugs, Surveillance and Monitoring Devices - KimmyJS19
 
 We have reformatted and kept up to date this verified information and list of frequencies 
-that we obtained from a freind of the KimmyJS19 team who works with a TSCM company in London. 
+that we obtained from a friend who works with a TSCM company in London. 
 TSCM stands for 'Technical surveillance counter-measures' which basically in lay mans terms 
 are 'de-buggers' people who you call when you think you, your house or your phone may be tapped, 
 they then scan with their own radio scanners to find the bug and eliminate the tapping. Bugs 
@@ -770,7 +769,7 @@ in that range is inexpensive, very low power, and highly directional.
 OTHER OBVIOUS HOME DEVICES THAT ACT AS BUGS, HIGH RISK...
 
 Cordless Analogue Telephones, older home cordless phones with an ariel still in popular 
-usage. See the main KimmyJS19 Directory for the Frequencies.
+usage. See the main Directory for the Frequencies.
 Baby Monitors. Hand Held and Plug in type.
 
 Corldless Headphones, esp if plugged into sensitive devices such as walkie talkies, 
@@ -799,8 +798,3 @@ If your scanning for bugs then as you can see above you need to be scanning a wi
 don't keep locking out or pressing/resuming scan on carrier/dead signals straight away, 
 many bugs will be quiet and appear 'open channels' while the target person/area is not 
 talking/in use.
-
-
-
-KimmyJS19 
-UKSCANNINGDIRECTORY.CO.UK
