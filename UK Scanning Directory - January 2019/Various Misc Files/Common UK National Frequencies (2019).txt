@@ -1,4 +1,4 @@
-Common UK Frequencies (2019)     KimmyJS19
+Common UK Frequencies (2019)
 
 
 SIMPLE UK LIGHT 2019 (Formerly UK General) 
@@ -98,7 +98,7 @@ The UK CB AND CEPT bands are still fairly popular today though not as busy as th
 Both sets of 40 channels can be used legally and now Licence Free in The UK, you may hear 
 long distance contacts on these, interference from other countries and local truck drivers.
 
-UK CB FREQUENCIES - 27.60125 – 27.99125
+UK CB FREQUENCIES - 27.60125 â€“ 27.99125
 
 27.60125 FM Nationwide CB Channel 1        27.61125 FM Nationwide CB Channel 2
 27.62125 FM Nationwide CB Channel 3        27.63125 FM Nationwide CB Channel 4
@@ -125,7 +125,7 @@ UK CB FREQUENCIES - 27.60125 – 27.99125
 
 CEPT (Citizen band radio) UK & Europe
 
-UK/EU CEPT FREQUENCIES - 26.9650 – 27.40507
+UK/EU CEPT FREQUENCIES - 26.9650 â€“ 27.40507
 
 26.965 FM Nationwide Channel 1        26.975 FM Nationwide Channel 2
 26.985 FM Nationwide Channel 3        27.005 FM Nationwide Channel 4
@@ -495,7 +495,3 @@ St. John Ambulance UK WIDE Licence
 453.3625 MHz     166.7500 MHz
 163.3000 MHz     163.5125 MHz
 163.0875 MHz     166.2875 MHz
-
-
-
-UK Common Frequencies 2019 - UKSCANNINGDIRECTORY.CO.UK  KimmyJS19
