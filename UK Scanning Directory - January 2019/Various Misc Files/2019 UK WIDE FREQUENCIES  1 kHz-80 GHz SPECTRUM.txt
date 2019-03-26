@@ -1711,7 +1711,3 @@ Firefighter Handhelds 457.4875 MHz
 81.125 GHz - 83.125 GHz - Fixed Links, Point-to-Point Fixed Links
 81.125 GHz - 83.125 GHz - Fixed Links, Self co-ordinated links
 83.375 GHz - 85.875 GHz - Fixed Links, Self co-ordinated links
-
-
-
-KimmyJS19   ukscanningdirectory.co.uk
