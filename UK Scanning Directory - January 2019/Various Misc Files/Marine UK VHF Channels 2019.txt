@@ -1,6 +1,6 @@
 Marine UK VHF Channels
 
-Also check The Main KimmyJS19 UK Scanning Directory Database for more detailed recorded
+Also check The Main Database for more detailed recorded
 Frequency Information for VHF MARINE between 156.300 - 163.000
 
 
@@ -175,7 +175,7 @@ Fowey Refueller					10/16
 Fowey Water Taxi				06
 Looe Harbour					16
 Mayflower Marina Plymouth			80
-Queen Anne’s Battery				80
+Queen Anneâ€™s Battery				80
 Plymouth Port Control				08/12/14/16
 Plymouth VTS					14/13
 Longroom Port Control Plymouth			14
@@ -277,7 +277,7 @@ Hamble Yacht Services				80
 Esso Marine Terminal/BP Hamble			19
 Mercury Yacht Harbour				80
 Universal Marina				80
-Foulke’s & Sons Riverside Boatyard		08
+Foulkeâ€™s & Sons Riverside Boatyard		08
 Swanwick Marina River Hamble			80
 Hythe Marina					80
 Ocean Village Marina				80
@@ -771,7 +771,7 @@ East Ferry Marina				80
 Foyle Harbour					14
 Galway Harbour					12/16
 Greenore					12/16
-Green’s Quay					16/14
+Greenâ€™s Quay					16/14
 Howth						08/16
 Howth Marina					M (37A)/80
 Kilmore Quay Marina				09/16
@@ -998,10 +998,6 @@ Castleford					74
 Whitley						74
 Apperley					74
 
- 
-
-Marine UK VHF channels - COMMON - UKSCANNINGDIRECTORY.CO.UK
-
 International VHF Channels   
 	  	  	  	 
 0 	156.000 	156.000 	PRIVATE 	Used by UK HM Coastguard  
@@ -1085,8 +1081,3 @@ UK Marines use channel 80 or 37
 The following channels are SIMPLEX in the USA:
 1A, 2A, 3A, 4A, 5A, 7A, 18A, 19A, 20A, 21A, 22A, 23A, 60A, 61A, 62A, 63A, 
 64A, 65A, 66A, 78A, 79A, 80A, 81A, 82A, 83A, 86A, 88A 
-
-
-
-
-KimmyJS19  UKSCANNINGDIRECTORY.CO.UK
