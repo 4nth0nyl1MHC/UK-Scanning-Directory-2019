@@ -1,4 +1,4 @@
-UKSAR & MOUNTAIN RESCUE Frequencies and Callsigns - KimmyJS19 (2019)
+UKSAR & MOUNTAIN RESCUE Frequencies and Callsigns
 
 PLEASE NOTE: The original UKSAR bandplan is slowly being replaced by new Digital DMR frequencies
 throughout 2018. Please see the page bottom for the latest new frequencies.
@@ -334,7 +334,3 @@ NEW SAR BANDPLAN 2019
 155.95625
 155.96875
 155.98125
-
-
-
-KimmyJS19  ukscanningdirectory.co.uk
