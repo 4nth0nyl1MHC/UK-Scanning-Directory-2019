@@ -2864,12 +2864,6 @@ TRUNKED NETWORKS
 203.1625  195.1625      Wilts & Dorset Bus Company Poole TRUNK  WILTSHIRE          FM	KimmyJS19    Feb 2011
 203.0125  195.0125      Wilts & Dorset Bus Company Poole TRUNK  WILTSHIRE          FM	KimmyJS19    Feb 2011
 
-
-
-K i m m y J S 1 9  -  ukscanningdirectory.co.uk
-
-
-
 USER GUIDE AND NOTES
 
 UNID - Unidentified User
