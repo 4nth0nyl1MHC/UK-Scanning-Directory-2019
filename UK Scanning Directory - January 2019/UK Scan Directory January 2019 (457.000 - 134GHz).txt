@@ -4136,11 +4136,6 @@
 75976.940               76GHz GB3CCX Cheltenham, 76GHz BEACON   GLOUCESTERSHIRE	   FM   KimmyJS19    Oct 2014
 134928.940              134GHz GB3CCX Cheltenham, 134GHz BEACON GLOUCESTERSHIRE	   FM   KimmyJS19    Oct 2014
 
-
-K i m m y J S 1 9  -  ukscanningdirectory.co.uk
-
-
-
 USER GUIDE AND NOTES
 
 UNID - Unidentified User
@@ -4194,35 +4189,4 @@ for something in STOCKPORT also try CHESHIRE and MANCHESTER.
 
 Also remember some local radio users will be using national frequencies (the same from area to area) 
 so bear in mind the NATIONAL USAGE and UK WIDE Frequencies. This is only a small section of the spectrum, 
-for the full database see the Main UK Scanning Directory File and other files also on this disc.
-
-NOTE, these smaller SCANNING DIRECTORY files are updated daily but the Main UK Scanning Database Directory 
-File is updated weekly and updated from these individual databases which we maintain daily.
-
-
-
-Who are we?
-
-We are a close-nit group of radio amateurs, SWL listeners, family and friends who enjoy what we do and 
-are commited to what we do. We are a not for profit group and all money after costs is shared between
-members for radio equipment. Our directory is updated daily by the team, so please stay up to date and
-support us by getting the latest up to date copy from: ukscanningdirectory.co.uk
-
-You can also contact us below.
-
-
-The KimmyJS19 UK Scanning Directory
-
-
-Telephone: 07743 133632 (Office Hours) 
-
-Website: http://ukscanningdirectory.co.uk
-
-Online Forum: http://ukradioscanning.com
-
-Email: xtratalk@yahoo.co.uk
-
-
-
-(C) KimmyJS19
-ukscanningdirectory.co.uk
+for the full database see the Main UK Scanning Directory File and other files.
