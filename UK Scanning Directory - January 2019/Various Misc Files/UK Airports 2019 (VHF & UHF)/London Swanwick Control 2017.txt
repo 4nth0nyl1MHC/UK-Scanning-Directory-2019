@@ -1,6 +1,5 @@
 London Swanwick Control Frequencies
 
-
 118.400		London Area Control		Sector 14 - Clacton West
 118.480		London Area Control		Sector 14 - Clacton West (S14)
 118.825		London Terminal Control		North East Departures (NE DEPS)
@@ -85,6 +84,5 @@ London Swanwick Control Frequencies
 136.275		London Control		        Standby
 136.550		London Control		        Standby
 136.600		London Area Control		Sector 16 - Dover High (S16)
-
 
 London Swanwick Control Frequencies
