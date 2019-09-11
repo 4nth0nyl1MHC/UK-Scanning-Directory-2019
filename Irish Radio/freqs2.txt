@@ -1,0 +1,4251 @@
+Amateur 70cms Frequencies
+
+Channel		Frequency	Description
+RB0		434.6000	Repeater channel input frequency
+RB0		433.0000	Repeater channel output
+RB1		434.6250	Repeater channel input frequency
+RB1		433.0250	Repeater channel output
+RB2		434.6500	Repeater channel input frequency
+RB2		433.0500	Repeater channel output
+RB3		434.6750	Repeater channel input frequency
+RB3		433.0750	Repeater channel output
+RB4		434.7000	Repeater channel input frequency
+RB4		433.1000	Repeater channel output
+RB5		434.7250	Repeater channel input frequency
+RB5		433.1250	Repeater channel output
+RB6		434.7500	Repeater channel input frequency
+RB6		433.1500	Repeater channel output
+RB7		434.7750	Repeater channel input frequency
+RB7		433.1750	Repeater channel output
+RB8		434.8000	Repeater channel input frequency
+RB8		433.2000	Repeater channel output
+RB9		434.8250	Repeater channel input frequency
+RB9		433.2250	Repeater channel output
+RB10		434.8500	Repeater channel input frequency
+RB10		433.2500	Repeater channel output
+RB11		434.8750	Repeater channel input frequency
+RB11		433.2750	Repeater channel output
+RB12		434.8750	Repeater channel input frequency
+RB12		433.3000	Repeater channel output
+RB13		434.9250	Repeater channel input frequency
+RB13		433.3250	Repeater channel output
+RB14		434.9500	Repeater channel input frequency
+RB14		433.3500	Repeater channel output
+RB15		434.9750	Repeater channel input frequency
+RB15		433.3750	Repeater channel output
+
+SU16		433.4000	Simplex UHF Channel
+SU16		433.4250	Simplex UHF Channel
+SU16		433.4500	Simplex UHF Channel
+SU16		433.4750	Simplex UHF Channel
+SU16		433.5000	Simplex UHF Channel
+SU16		433.5250	Simplex UHF Channel
+SU16		433.5500	Simplex UHF Channel
+SU16		433.5750	Simplex UHF Channel
+SU16		433.6000	Simplex UHF Channel
+
+	        	432.7000	Fax channel
+		        432.6750	Data channel
+		        432.6000	RTTY channel
+		        432.5000	SSTV channel (Slow Scan TV)
+		        432.3500	Microwave channel
+		        432.2000	SSB channel (USB)
+		        432.0000	Moonbounce channel
+		        432.0250	Moonbounce channel
+		        439.0500	Amateur TV operations
+
+
+
+Table I   VHF Frequencies
+
+Frequency  Paired       Frequency	       Diff.	Allocation
+	
+ 68.0125 - 68.2675				
+ 68.2750 - 70.1125	78.0000 - 79.8375	+ 9.7250    Mobiles	
+ 70.1250 - 70.4500                                          Amateurs	
+ 70.4625 - 72.7875	80.4625 - 82.7875	+ 10.000    Mobile	
+ 72.8000 - 74.7625	83.0250 - 84.9875	+ 10.220    Mobile	
+ 74.7750 - 74.7875				
+ 74.8000 - 75.2000                                    Airnav	
+ 75.2125 - 75.3875				
+ 75.4000 - 76.7250	85.0000 - 86.3250	+ 9.6000    Mobile	
+ 76.7375 - 77.3250	86.7375 - 87.3250	+ 10.000    Mobile	
+ 77.3375 - 77.7250	86.3375 - 86.7250	+ 9.0000    Mobile	
+ 77.7375 - 77.9875	87.3375 - 87.5875	+ 9.6000    Mobile	
+ 78.0000 - 79.8375	68.2750 - 70.1125	– 9.7250    Base	
+ 80.4625 - 82.7875	70.4625 - 72.7875	– 10.000    Base	
+ 83.0250 - 84.9875	72.8000 - 74.7625	– 10.225    Base	
+ 85.0000 - 86.3250	75.4000 - 76.7250	– 9.600     Base	
+ 86.3375 - 86.7250	77.3375 - 77.7250	– 9.000     Base	
+ 86.7375 - 87.3250	76.7375 - 77.3250	– 10.000    Base	
+ 87.3375 - 87.5875	77.7375 - 77.9875	– 9.600     Base	
+ 87.6000 - 87.9875				
+ 88.0000 -108.0000			                    Broadcast	
+108.0000 -117.9750			                    Airnav	
+118.0000 -136.9875		                            Aviation	
+138.0000 -144.0000		                            Satellite	
+144.0000 -146.0000			                    Amateur	
+149.0000 -150.0500			                    Satnav	
+153.0000 -153.9875			                    Paging	
+156.0000 -156.4125	160.6000 - 161.0125	+ 4.600	    Marine	
+156.4250 -156.5125				
+156.5250 -160.4250	163.0250 - 164.9250	+ 4.500	    Mobile	
+160.4375 -160.5875				
+160.6000 -163.0125	156.0000 - 158.4125	– 4.600	    Marine	
+163.0250 -164.9125	156.5250 - 160.4125	– 4.500	    Mobile	
+164.9375 -165.1875		                            Simplex	
+165.2000 -165.9875	170.0000 - 170.7875	+ 4.800	    Mobile	
+166.0000 -169.2000	170.8000 - 174.0000	+ 4.800	    Base	
+169.2125 -169.7250				
+169.7375 -169.9875			                    Simplex	
+170.0000 -174.0000	165.0000 - 165.9875	– 4.800	    Mobile	
+170.8000 -174.0000	166.0000 - 169.2000	– 4.800	    Base
+
+
+---------------------------------------------------------------------------
+
+
+
+
+
+
+Table II   UHF Frequencies
+
+Frequency Paired        Frequency	        Diff.	        Allocation
+	
+430.0000 -440.0000			                        Amateur	
+450.0000 -452.9875	464.0000 - 466.9875	+14.0000	Base	
+453.0000 -453.9875	459.5000 - 460.9875	+ 6.5000    	Base	
+454.0000 -455.9875	468.0000 - 469.9875	+14.0000	Base	
+456.0000 -458.4875	461.5000 - 463.9875	+ 5.5000	Base	
+458.5000 -458.9875				
+459.0000 -459.4875				
+459.5000 -460.4875	453.0000 - 453.9875	– 6.5000	Mobile	
+460.5000 -461.4875	467.0000 - 467.9875	+ 6.5000        Base	
+461.5000 -463.9875	456.0000 - 458.4875	– 5.5000	Mobile	
+464.0000 -466.9875	450.0000 - 452.9875	– 14.000	Mobile	
+467.0000 -467.9875	460.5000 - 461.4875	– 6.5000	Mobile	
+468.0000 -469.9875	454.0000 - 455.9875	– 14.000	Mobile	
+
+
+68 Megahertz
+
+
+68.5375	   78.2625      Cablelink Ltd., Dublin 4 (svc.crews)			
+68.5625	   78.2875	Unident.				
+68.6750		        Unident.				
+68.6875		        Unident.				
+68.8750		        Unident.	
+
+
+
+			
+69 Megahertz
+	
+69.1250	   78.8500	Burke's Coaches, Tuam, GY			
+69.2875		        Unident.    (Co.Louth)			
+69.4125	   79.1375	Sealink British Ferries, Dun Laoghaire, D			
+                        P Mooney & Co. Ltd., Dublin 12			
+69.4625		        Unident.				
+69.5125	   79.2375	Unident.			CRS	
+69.5375	   79.2625	Unident.	(Co.Louth)	CRS	
+69.5625	   79.2875	Unident.	(Co.Louth)	CRS	
+69.5875	   79.3125	Unident.			CRS	
+69.6125	   79.3375	Unident.			CRS	
+69.6375	   79.3625	Unident.			CRS	
+69.6425		        Bankley.				
+69.6500	   79.3750	Unident.			CRS	
+69.6625	   79.3875	Unident.			CRS	
+69.7125	   79.4375	Unident.			CRS	
+69.7375	   79.4625	Unident.			CRS	
+69.7625	   79.4875	Unident.			CRS	
+69.8125	   79.5375	Unident.			CRS	
+69.8875	   79.6125	Unident.			CRS	
+69.9625	   79.6875	Unident.			CRS	
+69.9875	   79.7125	Unident.			CRS	
+
+
+
+
+70 Megahertz
+
+70.0125	   79.7375	        Unident.		CRS	
+70.4000		                Unident.				
+70.8500	   80.8500  		ESB			
+70.8750	   80.8750		ESB			
+70.9000	   80.9000		ESB			
+70.9250	   80.9250		ESB			
+70.9500	   80.9500		ESB			
+70.9750	   80.9750		ESB	
+
+		
+71 Megahertz
+
+71.0250	81.0250		ESB			
+71.0500	81.0500		ESB			
+71.0750	81.0750		ESB			
+71.1000	81.1000		ESB			
+71.1250	81.1250		ESB			
+71.1500	81.1500		ESB			
+71.1750	81.1750		ESB			
+71.2000	81.2000		ESB			
+71.2250	81.2250		ESB			
+71.2500	81.2500		ESB	170.2000		
+71.2750	81.2750		ESB			
+71.3000	81.3000		ESB			
+71.3250	81.3250		ESB			
+71.3500	81.3500		ESB			
+71.3750	81.3750		ESB			
+71.4000	81.4000		ESB			
+71.4250	81.4250		ESB			
+71.4500	81.4500		ESB			
+71.4750	81.4750		ESB			
+71.5000	81.5000		ESB			
+71.5250	81.5250		ESB			
+71.5500	81.5500		ESB			
+71.5750	81.5750		ESB			
+71.6000	81.6000		ESB			
+71.6250	81.6250		ESB			
+71.6500	81.6500		ESB			
+71.6750	81.6750		ESB			
+71.7000	81.7000		ESB			
+71.7250	81.7250		ESB			
+71.7500	81.7500		ESB			
+71.7750	81.7750		ESB			
+71.8000	81.8000		ESB			
+71.8250	81.8250		ESB			
+71.8500	81.8500		ESB			
+71.9000	81.9000		police			
+71.9250	81.9250		police	467.9000		
+71.9500	81.9500		police			
+71.9750	81.9750		police	467.9500
+
+		
+72 Megahertz
+
+72.0000	82.0000                    police			
+72.0250	82.0250                    police			
+72.0750	82.0750		      Southern Electronics Ltd., Sandyford, Dublin
+72.0875	82.0875		      Bord Gais Eireann			
+72.1000	82.1000		      Avcom Ltd., Dublin 16		CRS	
+72.1125	82.1125                    Hijet Ltd., Dublin 2			
+                                      (waste disposal)			
+72.1375	82.1375                    Brennan Insurance Ltd., Dublin 2			
+                                      M.Connolly & Sons Ltd., Dublin 1			
+                                      K & M Evans, Dublin 7			
+                                      Trackline Plant Ltd., Dublin 24			
+                                      Tyre			
+72.1500	82.1500                    Calholme Ltd.			
+                                      Kirk Mobile Motor Factors			
+72.1750	82.1750		      (bread deliv.)			
+72.1875	82.1875                    Beaver Eng. Ltd., Dublin			
+                                      Dundrum Granite					
+72.2000	82.2000                    (security co.)			
+72.2125	82.2125                    Unident.				
+72.2250	82.2250                    B.C.Shipping, Dublin			
+72.2375	82.2375                    Lima						       
+72.2500	82.2500                    Unident.				
+72.2625	82.2625		      Grange Manley Ltd.			
+                                      Swan Plant Hire, Dublin 12			
+72.2750	82.2750                    Argus Security Ltd., Dublin 8			
+                                      (taxi co)			
+72.2875	82.2875                    Securiforce Ltd., Dublin 1			
+                                      Super Waste Disposal, Dublin 12			
+                                      (ladder hire)			
+72.3000	82.3000                    Christopher Huet Ltd., Dublin 2			
+                                      Henry A Crosbie, Dublin 1			
+72.3250	82.3250                    Blanchardstown Glass & Glazing Co., Dublin 15			
+                                      Lee Auto Parts, Lucan			
+                                      M	Mulvey Heating Services Ltd., Dublin 2			
+                                      Unident.      (numeral c/s)			
+72.3500	82.3500                    Asphalt	Roadstone Dublin Ltd., Dublin 24			
+                                      Unident.      (builder)			
+                                      Unident.      (civil eng. contrs.)			
+72.4375	82.4375                    Philips Electrical (I) Ltd., Dublin 14			
+72.4500	82.4500                    Artificial Insem. Svc	170.7500	AM	
+                                      Dublin District Milk Board, Dublin 12 Ch1			
+72.4625	82.4625                    Brinks-Mat Security Ltd., Dublin 8			
+72.5000	82.5000                    Wicklow Co.Co.Roads Dept.		AM	
+72.5500	82.5500                    Unident.			AM	
+72.5625	82.5625                    Dublin Corp. Drainage Dept.			
+72.5750	82.5750                    Kildare Co.Co. Roads Dept.		AM	
+72.5875	82.5875                    Dublin Corp. Rent Dept.			
+                                      Roscommon County Council, Roscommon			
+72.6000	82.6000                    Unident.	(del.co.)			
+72.6500	82.6500                    Dublin Corp. Electrical Service Dept.		AM	
+72.6750	82.6750                    Dublin Corp. Mechanical Dept.			
+72.7250	82.7250                    (Taxi Co. c/s 9/18-19/21)			
+72.7500	82.7500                    Dublin Corp. Water Works Dept.		AM	
+72.8000	83.0250                    Clear Vision Ltd., Dublin 6			
+72.8125	83.0375                    Telecommunications Ltd., Dublin 11			
+72.8250	83.0500                    Reindeer Shipping Ltd., Dublin 12			
+                                      Speedi Taxis, Limerick			
+72.8375	83.0625                     Motorola Ltd., Dublin 9		CRS	
+72.8500	83.0750                     (Delivery svc.)			
+72.8750	83.1000                     City Cabs, Bray, WW			
+72.9125	83.1375                     Dublin Waste Removal, Dublin 11			
+                                      International Glass Co.Ltd., Dublin 11			
+                                      Supermike Ltd., Dublin 6			
+72.9500	83.1750                    William Boylan & Sons Ltd., Dublin 3			
+72.9875	83.2125                    Donoghue Lift Eng.Systems Ltd., Dublin 12			
+                                      James Kavanagh, Malahide, D			
+                                      (builders)
+
+
+73 Megahertz
+
+73.0000	83.2250		Aidan Foley, Kells, MH			
+			        Henry A.Crosbie Ltd., Dublin 1			
+			        Repro Centre Ltd., Dublin 2			
+73.0125	83.2375	        Unident.			CRS	
+73.0250	83.2500		DHL International (Ireland) Ltd., Dublin 17			
+			        O'Grady (BO) Cabs•			
+73.0375	83.2625		(country)			
+73.0500	83.2750		Fewer, McGinley & Tritschler Ltd. Waterford			
+			        Tipperary Livestock Agencies Ltd., Tipperary			
+73.0625	83.2875	        Everglaze 	Everglaze, Dublin 12			
+		                Tempair	Tempair, Dublin 4			
+73.0750	83.3000	        Unident.			AM	
+73.0875	83.3125	        Par	Paragon Security, Dublin 1			
+			        Stuarts Garages Ltd., Dublin 6			
+		                Unident.	(truckers)			
+73.1250	83.3500		Allied Taxi Owners Co-op. Ltd., , Dublin 12			
+73.1625	83.3875	        Unident.	(oil distributors)			
+			        P H Ross Ltd., Dublin 7			
+73.2000	83.4250	        Link	City Link Transport  Services (I) Ltd., Dublin 8			
+73.2250	83.4500		Checkers Cabs, Dublin 11			
+			        Windmill Engineering Ltd., Dublin 12			
+73.2500	83.4750	        Robin	Robin Contruction Equipment, Dublin 6			
+		                Securitas	Group 4 Total Security, Dublin 1			
+73.2625	83.4875		Prendeville			
+73.2750	83.5000		Dublin Autotransport, Dublin 6			
+		                Unident.	(civil eng.contr.)			
+73.2875	83.5125	        Unident.				
+73.3000	83.5250	        Mayday	Mayday Couriers, Dublin 2			
+73.3125	83.5375	        Foxfield	(builder)			
+		                Unident.	(country)			
+73.3250	83.5500          	Unident.				
+73.3375	83.5625		Finbar O'Sullivan			
+		                Unident.	(truckers)			
+73.3750	83.6000		J & M Lynch, Galway			
+			        Stephen Parle, Duncormick			
+		                Unident.				
+73.3875	83.6125		Daniel McCarthy Ltd., Dublin 5			
+			        O'Donnell, Nenagh, tn			
+			        Star Cabs, Dublin 11			
+73.4000	83.6250		O'Mahony			
+		                Unident.			AM	
+73.4125	83.6375	        Bailey	R & A Bailey, Dublin			
+73.4250	83.6500		Blanchardstown Glass & Glazing Co., Dublin 15			
+			        Car Care Centre Ltd., Dublin 3			
+			        Goodwins (Lucan) Ltd., Lucan, d			
+			        P.J.Mathews & Co.Ltd., Dublin 9			
+73.4375	83.6625	        Unident.			CRS	
+73.4625	83.6875		Bagnal Fagan & Sons Ltd., Dublin 6			
+			        McCarthy & McGrath Ltd., Cork			
+		                Unident.	(country)			
+73.4750	83.7000	        Blue				
+			        Computer Services Ltd., Dublin 9			
+73.4875	83.7125		Pageboy Comms., Dublin 14		CRS	
+73.5000	83.7250	        Datsun				
+73.5125	83.7375		Joe Tully & Sons Ltd., Dublin 5			
+			        Mangan & Prenderville			
+73.5250	83.7500	        Unident.				
+73.5375	83.7625	   Irish Ind. Irish Industrial Com.Security Ltd., Dublin 7			
+			        J.McArdle (Building Contr.), Dublin 6			
+			        McCormick McNaughton Ltd., Dublin 22			
+73.5500	83.7750		E.Nolan & Sons Ltd., Curragh, KE			
+73.5625	83.7875	        Precision	Precision Heating, Dublin 9			
+		                Unident.	(shop chain)			
+73.5750	83.8000		Irish Radio Phones Ltd., Dublin 2			
+73.5875	83.8125		Demolition (Irl.) Ltd., Baldonnel			
+73.6000	83.8250	        Scott	Scott for Tools, Dublin 1			
+73.6125	83.8375	        Unident.				
+		                Unident.	(country - transport co.)			
+73.6250	83.8500		Thomas Vincent, Ltd., Dublin 1			
+73.6375	83.8625	        Unident.				
+73.6500	83.8750	        Unident.				
+73.6750	83.9000	        Plant	John Sisk & Sons Ltd., Dublin 22			
+		                Tango	Top Security, Dublin 6			
+73.6875	83.9125		Sweeney Bros. (Irl.) Ltd., Dublin 15			
+73.8000	84.0250		police	467.7500		
+73.8125	84.0375		police			
+73.8250	84.0500		police			
+73.8375	84.0625		police			
+73.8500	84.0750		police			
+73.8625	84.0875		police			
+73.8750	84.1000		police			
+73.8875	84.1125		police			
+73.9000	84.1250		police			
+73.9125	84.1375		police	467.9750		
+73.9250	84.1500		police			
+73.9375	84.1625		police			
+73.9500	84.1750		police			
+73.9625	84.1875		police			
+73.9750	84.2000		police			
+73.9875	84.2125		police			
+
+
+74 Megahertz
+
+74.0000	   84.2250		police			
+74.0125	   84.2375		police			
+74.0500	   84.2750		Cork Corp. Fire Dept.
+                                Dublin Corp. Fire Dept. Ch1	
+                                
+74.0750    84.3000	        County	Longford Co.Co. Fire Dept.
+                                Tipperary North Co.Co. Fire Dept.
+                                Wicklow Co.Co. Fire Dept., Bray		AM	
+74.1000	   84.3250	        Westfire	Westmeath Co.Co. Fire Dept.			
+74.1250	   84.3500	        Delta	Dublin Corp. Fire Dept. Ch 2	467.2000		
+		                Fire	Waterford City/Co.Co. Fire Dept.			
+74.1500    84.3750	        Fire	Carlow Co.Co. Fire Dept.
+                                Cork Co.Co. Fire Dept.
+                                Louth Co.Co. Fire Dept.
+                                Roscommon Co.Co. Fire Dept.	461.2750	AM	
+74.1750	   84.4000	        Fire	Kildare Co.Co.
+                                Leitrim Co.Co. Fire Dept.
+                                Sligo Co.Co. Fire Dept.		AM	
+74.2000	   84.4250		National Fire Emergency Channel		AM	
+74.2250	   84.4500	
+                                Kilfire	Clare Co.Co. Fire Dept. ?
+                                Kilkenny Co.Co. Fire Dept.
+                                Limerick Co.Co. Fire Dept.		AM	
+74.2500	   84.4750	        Fire	Kerry Co.Co. Fire Dept.
+                                Offaly Co.Co. Fire Dept.
+                                Wicklow Co. Co. Fire Dept. Ch.2		AM	
+74.2750    84.5000	        Fire	Donegal Co.Co. Fire Dept
+                                Tipperary (SR) Co.Co. Fire Dept.		AM	
+		                Fire	Meath Co.Co. Fire Dept		AM	
+74.3000	   84.5250	        Fire	Monaghan Co.Co. Fire Dept. ?
+                                Wexford Co.Co. Fire Dept		AM	
+74.3250	   84.5500		Cavan Co.Co. Fire Dept ?		AM	
+		                Fire	Leix Co.Co Fire Dept		AM	
+		                Mayfire	Mayo Co.Co. Fire Dept		AM	
+74.3500	   84.5750		EHB Couriers, Dublin			
+		                Shanam	MWHB Clare/Limerick Tipperary N.		AM	
+		                Sligam	NWHB Leitrim Sligo		AM	
+74.3750	   84.6000		National Ambulance Channel	464.2250	AM	
+74.4000	   84.6250	        Barney	EHB Wicklow	165.8750	AM	
+		                Colam	EHB Dublin South		AM	
+74.4250    84.6500	        Arden	MHB Longford Westmeath		AM	
+		                Wexam	SEHB Wexford		AM	
+74.4500    84.6750	        Portam	SEHB Waterford		AM	
+		                Westam	WHB Roscommon		AM	
+74.4750	   84.7000	        Corkam	SHB Cork		AM	
+		                Westam	WHB Mayo		AM	
+74.5000	   84.7250	        Barney	EHB Wicklow	467.0250	AM	
+		                Kilam	EHB Kildare		AM	
+74.5250	   84.7500         	Carlam	SEHB Carlow		AM	
+		                Kenam	SEHB Kilkenny		AM	
+		                Portam	SEHB Waterford		AM	
+74.5500	   84.7750	        Arden	MHB Leix Offaly		AM	
+		                Kerram	SHB Kerry		AM	
+74.5750	   84.8000	        Donam	NWHB Donegal	467.0500	AM	
+		                Tippam	SEHB Tipperary South		AM	
+74.6000	   84.8250	        Metam	EHB, Dublin	468.9000	AM	
+		                Westam	WHB Galway		AM	
+74.6250		                Knight	Order of Malta Amb.Corps., Dublin		AM	
+74.6375    84.8625		Civil Defence			
+74.6500	   84.8750		Metro Taxis, Dublin 4	464.3750		
+74.6625	   84.8875		Premier Dairies Ltd., Dublin 11			
+74.9375		                Unident.	(delivery co.)		AM
+
+75 Megahertz
+
+
+75.3500			Irish Red Cross Soc., Dublin		AM	
+75.5000	   85.1000	Unident.				
+75.5125	   85.1125	Unident.	(truckers			
+75.5750	   85.1750	Unident.				
+75.6750	   85.2750	Unident.			AM	
+75.7125	   85.3125	Delta				
+			Glass Centre Ltd., Dublin 8			
+		        SR				
+		        Unident.	(couriers)			
+		        Unident.	(sanitary cleaners)			
+		        Unident.	(truckers)			
+75.7250	   85.3250	Marlowe	Marlowe Cleaners Ltd., Dublin 1			
+		        Mather	Mather & Platt (Irl) Ltd., Stillorgan, D			
+		        Rocky	Rockfield Plant Ltd., Dublin 12			
+		        Trux	Trux Ltd., Dublin 12			
+		        Unident.				
+75.7375	   85.3375	T.Gormley, Dublin 9			
+			Kelly Bros. Ltd.			
+75.7500	   85.3500	Unident.				
+75.7750	   85.3750	APC Scaffolding, Dublin 12			
+			Contract Welders Ltd., Dublin 24			
+			Louis Copeland & Sons, Dublin 1			
+			Miles Balfe Ltd., Dublin 22			
+75.7875	   85.3875	Fana				
+		        Lambridge	(provincial)			
+75.8000	   85.4000	Esmonde	Esmonde Motors Ltd., Stillorgan, D			
+			Irish Radio Phone Services, Dublin 2			
+75.8125    85.4125	Unident.				
+		        Unident.	(provincial)			
+75.8250    85.4250	Unident.	(petrol pump maintenance)			
+75.8375	   85.4375	Unident.			CRS		CRS	
+75.8500    85.4500      Irish Radio Phone Service, Dublin		CRS?	
+75.8750	   85.4750	Kildavin Concrete Prod. Ltd., Bunclody, WX			
+		        Unident.				
+75.8875    85.4875	ER Plant Hire Ltd., Saggart, D			
+		        Yellow	ABC Waste Disposal, Dublin 8			
+		        Unident.	(printers)			
+75.9000    85.5000	Fanum	Automobile Association, Dublin 2	467.7250	AM	
+75.9125	   85.5125	Alfa				
+			Allied Alarms & Safes Ltd., Dublin 4			
+			Palmer Transport, Dublin 12			
+		        Unident.	(security)			
+75.9250	   85.5250	Colton Constr. Ltd., Dublin 14			
+			Comet Precision Eng.Ltd., Dublin 12			
+			Nutronics Ltd., Bray, WW			
+		        Unident.	(delivery co.)			
+75.9375	   85.5375	Bray				
+		        Unident.	Groupage (Europe) Ltd., Dublin 17			
+			VIF Ltd.			
+75.9500    85.5500	Frank Gallagher, Ballymote, SO (vet)			
+75.9625	   85.5625	Heat	McMahon & Nagle, Portmarnock, Dublin 13			
+75.9750	   85.5750	R.J.Keogh Electrical Ltd., Dublin 16			
+75.9875	   85.5875	Agencies Transport Ltd., Dublin 3			
+		        Mirror				
+			J.Tinnelly & Sons (Dublin) Ltd., Dublin 2
+
+
+			
+76 Megahertz
+
+76.0125	   85.6125	Printer				
+		        Rath				
+		        Scrap				
+76.0250	   85.6250	Artificial Insemination Service			
+			J.J.McKernan Ltd., Dublin 9			
+	                Unident.	(hauliers)			
+76.0375	   85.6375	Checkers Cab & Courier Co., Dublin 11			
+76.0625	   85.6625	Express				
+		        Hurricane	Hurricane Couriers, Dublin 8			
+76.0750	   85.6750	Unident.	(builders providers)			
+76.0875	   85.6875	Unident.				
+76.1000	   85.7000	Unident.				
+76.1125	   85.7125	Unident				
+76.1375	   85.7375	Unident.	(truckers)		AM	
+76.1500	   85.7500	Slevin Office Supp.Ltd., Kilternan, D			
+		        Tarmac	Roadstone Dublin Ltd., Dublin 24	167.6000		
+76.1625	   85.7625	Unident.	(provincial)		AM	
+76.1750	   85.7750	KB Combustion Ltd., Dublin 6			
+		        Unident.				
+76.1875    85.7875	Unident.	
+                        North West. Cattle Breeding Society Ltd., Sligo			
+76.2000    85.8000	Riverside Farms			
+76.2250	   85.8250	Carphones CellularLtd., Dublin 6		CRS	
+76.2375    85.8375	Brock				
+		        Feeney				
+		        P & D				
+		        Unident.	(Carlow area)		CRS	
+76.2500    85.8500	Ml.O'Keefe (Plumber), Watergrasshill, CK			
+		        Unident.				
+		        Unident.	(country)			
+		        Unident.	(deliv.co.)			
+74.2625    85.8625	Bluebird	Bluebird Communications Ltd., Dublin 24			
+76.2750    85.8750	Tango				
+76.2875    85.8875	Deca	DECA (Ireland) Ltd., Dublin 24			
+			F.Thompson Insurance, Balbriggan			
+			Prendiville			
+		        Unident.	(truckers)			
+76.3125	   85.9125	Oil Distributors Ltd., Dunshaughlin, MH			
+			Rank Xerox (Irl) Ltd., Dublin 11			
+			Stafford & Mitchell Ltd., Dublin 8			
+76.3250	   85.9250	Magpie	Magpie Trading Co.Ltd., Castleknock, Dublin 15			
+		        Unident.	(photo.equip.)		AM	
+76.3500    85.9500	Blue Cabs Ltd., Dublin 2	467.3000		
+76.3625    85.9625	A.Breen (Panalbeater), Enniscorthy, WX			
+		        Unident.				
+76.3750	   85.9750	T.McCann & Co.Ltd., Dublin 8			
+		        Unident.				
+76.3875	   85.9875	J.F.Williams, Dungarvan, WD			
+			Roulstone			
+			Wm.Moore (Elec.Contr.), Balbriggan, D			
+		        Unident.	(tone bursts)			
+76.4000    86.0000      Unident.	(driving school)			
+		        Rochford				
+76.4125	   86.0125	Unident.	(saw hire)			
+76.4250	   86.0250	Irish School of Motoring, Dublin 1		AM	
+			J.Neilson			
+76.4375	   86.0375	Pace Engineering			
+			Progressive Printers			
+76.4625	   86.0625	Brinks-Mat Security, Dublin			
+76.4875    86.0875	Irish Plate Glass & Glazing Co., Dublin 3			
+		        Parts	(motor factors)			
+		        Unident.	(plant svc.)			
+76.5125    86.1125	Anthony Haughan Ltd., Dublin 12			
+		        Unident.	(truckers)			
+76.5250	   86.1250	Unident.				
+76.5375	   86.1375	Durkan	Durkan Bros. (Dublin) Ltd., Dublin 6			
+		        Lake	Lake Electronics Ltd., Dublin 24			
+76.5500	   86.1500	Mark Plumbing			
+76.5625	   86.1625	Unident.	(glass repairs)			
+		        Unident.	(elect.contractors)			
+		        Willow	Willow Imports Ireland, Loughlinstown, D			
+76.5750	   86.1750	BRF				
+		        Primo	Primo Oil Co.Ltd., Dublin 22			
+		        Unident.	(sanitary goods)			
+		        Victor	(Santry)			
+76.5875	   86.1875	Merchant	Merchant Meade Ltd., Dublin 16			
+76.6000	   86.2000	Gee	(concrete)			
+		        Unident.	(pump repairs)			
+		        Unident.	(soil haulage)			
+76.6125	   86.2125	Castle	Castle Courier Service, Dublin 9			
+76.6250	   86.2250	Gay O'Driscoll Ltd., Dublin 1			
+76.6375	   86.2375	Acme	Acme Security, Dublin 12			
+		        City	City Couriers Ltd, Dublin 8			
+		        Park				
+76.6500    86.2500	Unident.				
+		        Unident.				
+76.6750    86.2750	Duffy Group Ltd., Dublin 12			
+			Leixlip Tyre Services Ltd., Leixlip, KE			
+76.6875	   86.2875	Unident.				
+86.3000	   76.7000	Code
+                        Nichols	c/s 42,44,107,327
+                        J & C Nichols, Dublin 2			
+76.7250	   86.3259	Mountain Rescue			
+76.7375	   86.7375	C & F Ltd., Dublin 20			
+76.9500	   86.9500	Unident.	(controls)			
+76.9625	   86.9625	Unident.	(security co)			
+		        Unident.	(tone bursts)			
+76.9750	   86.9750	Unident.	(builders)			
+76.9875	   86.9875	Unident.	(tone bursts)
+
+77 Megahertz
+
+77.2250	87.2250		Avonmore Creameries Ltd., Dublin 12	467.1500		
+77.2500	87.2500		Aer Lingus, Dublin Airport
+                        Avonmore Foods, PLC Kilkenny			
+77.3375	86.3375		Cathal Usher (Plumbing) Kell, MH			
+			G.T.Fay (Dublin) Ltd., Dublin 12			
+			Riverside Steel Ltd., Celbridge, KE			
+77.3625	86.3625	        Unident.			CRS	
+77.3750	86.3750	        Hega	PJ Hegarty & Sons, Dublin 12			
+77.3875	86.3875		Irish Radio Phones Dublin		CRS	
+77.4125	86.4125	        Dolphin				
+77.4250	86.4250		Aidan Power, Ballymurn, WX			
+			S.Gaynor (Engineering) Ltd., The Ward, D			
+		        Pipe	Pipe & Drain Services Ltd., Dublin 14			
+77.4375	86.4375		Michael Mee			
+		        Unident.				
+77.4500	86.4500	        NK				
+		        Unident.				
+77.4750	86.4750		Clutch & Transmissions Ltd., Dublin 12			
+			J.Roche & Sons, Rathoath, MH			
+77.4875	86.4875		Motorola Ltd., Dublin 9		CRS	
+77.5000	86.5000	        Unident.	(Halon repairs)			
+			Irish Taxi Owners Co-op, Dublin 2	467.4000		
+77.5125	86.5125	        Afa	Afa-Minerva (EMI) Ltd., Dublin 8			
+			Tallagh Glass Products, Dublin 24			
+77.5250	86.5250	        Unident.				
+77.5375	86.5375		Airport Express Taxis, Dublin 9			
+77.5500	86.5500		O'Neill & Brownell MRCVS, Oldcastle, MH			
+77.5625	86.5625		Eddie's Coal Merchants, Dublin 5			
+77.5625	86.5625	        Unident.	(truckers)			
+77.5750	86.5750	        Unident.	(telecom.co.)		AM	
+77.5875	86.5875	        Shannon	Base to 2, Shannon Airport			
+77.6000	86.6000	        Unident.			AM	
+77.6125	86.6125		Bord Gais Eireann			
+77.6250	86.6250		Norcom Telecommunications Ltd., Dublin 6		CRS	
+77.6500	86.6500		National Radio Cabs Co-Op Soc. Ltd., Dublin 8	467.3500		
+77.6750	86.6750	        Unident.	(telcom.co.)			
+77.6875	86.6875		Avonmore Creameries Ltd., Dublin 12 (sales)			
+77.7250	86.7250	        Unident.			CRS	
+77.7625	87.3625		New Dublin Gas Co., Dublin 2 Ch.1	467.5000	AM	
+77.7750	87.3750		New Dublin Gas Co., Dublin 2 Ch.3	459.8750	AM	
+77.7875	87.3875		New Dublin Gas Co., Dublin 2 Ch.2	464.4750	AM	
+77.8000	87.4000		New Dublin Gas Co., Dublin 2 Ch.4	468.6250	AM	
+
+
+
+
+78 Megahertz
+
+78.0250		        Unident.				
+78.2625	68.5375		CablelinkLtd., Dublin 4 (svc.crews)			
+78.2875	68.5625	        Unident.			CRS?	
+78.4125		        Unident.				
+78.6000		        Unident				
+78.6750		        Unident.				
+78.8500	69.1250		Burke's Coaches, Tuam, GY
+
+			
+79 Megahertz
+
+79.0000		     Unident.				
+79.0125		     Unident.	(Co.Louth)			
+79.1375	69.4125	     Sealink British Ferries, Dun Laoghaire, D
+                     P Mooney & Co. Ltd., Dublin 12			
+79.1875		     Unident.				
+79.2375	69.5125	     Unident.			CRS	
+79.2625	69.5375	     Unident.	(Co.Louth)	CRS	
+79.2875	69.5625	     Unident.	(Co.Louth)	CRS	
+79.3125	69.5875	     Unident.			CRS	
+79.3375	69.6125	     Unident.			CRS	
+79.3625	69.6375	     Unident.			CRS	
+79.3750	69.6500      Unident.			CRS	
+79.3875	69.6625      Unident.			CRS	
+79.4375	69.7125	     Unident.			CRS	
+79.4625	69.7375	     Unident			CRS	
+79.4875	69.7625	     Unident.			CRS	
+79.5375	69.8125	     Unident.			CRS	
+79.6125	69.8875      Unident.			CRS	
+79.6875	69.9625      Unident.			CRS	
+79.7175	69.9875      Unident.			CRS	
+79.7375	70.0125      Unident.			CRS	
+
+
+80 Megahertz
+
+80.3000			Bord na Mona			
+			Dept. of Forestry			
+80.8500	70.8500		ESB			
+80.8750	70.8750		ESB			
+80.9000	70.9000		ESB			
+80.9250	70.9250		ESB			
+80.9500	70.9500		ESB			
+80.9750	70.9750		ESB	
+
+		
+81 Megahertz
+
+81.0250	71.0250		ESB			
+81.0500	71.0500		ESB			
+81.0750	71.0750		ESB			
+81.1000	71.1000		ESB			
+81.1250	71.1250		ESB			
+81.1500	71.1500		ESB			
+81.1750	71.1750		ESB			
+81.2000	71.2000		ESB			
+81.2250	71.2250		ESB			
+81.2500	71.2500		ESB	170.2000		
+81.2750	71.2750		ESB			
+81.3000	71.3000		ESB			
+81.3250	71.3250		ESB			
+81.3500	71.3500		ESB			
+81.3750	71.3750		ESB			
+81.4000	71.4000		ESB			
+81.4250	71.4250		ESB			
+81.4500	71.4500		ESB			
+81.4750	71.4750		ESB			
+81.5000	71.5000		ESB			
+81.5250	71.5250		ESB			
+81.5500	71.5500		ESB			
+81.5750	71.5750		ESB			
+81.6000	71.6000		ESB			
+81.6250	71.6250		ESB			
+81.6500	71.6500		ESB			
+81.6750	71.6750		ESB			
+81.7000	71.7000		ESB			
+81.7250	71.7250		ESB			
+81.7500	71.7500		ESB			
+81.7750	71.7750		ESB			
+81.8000	71.8000		ESB			
+81.8250	71.8250		ESB			
+81.8500	71.8500		ESB			
+81.9000	71.9000		police			
+81.9250	71.9250		police	461.4000		
+81.9500	71.9500		police			
+81.9750	71.9750		police	461.4500
+
+82 Megahertz
+
+82.0000	72.0000		police			
+82.0250	72.0250		police			
+82.0750	72.0750		Southern Electronics Ltd., Sandyford, D		CRS	
+82.0875	72.0875		Bord Gais Eireann			
+82.1000	72.1000		Avcom Ltd., Dublin 16		CRS	
+82.1125	72.1125	        Hijet	Hijet Ltd., Dublin 2			
+		        Unident.	(waste disposal)			
+82.1375	72.1375		Brennan Insurance Ltd., Dublin 2			
+			M.Connolly & Sons Ltd., Dublin 1			
+			K & M Evans, Dublin 7			
+			Trackline Plant Ltd., Dublin 24			
+			Tyre			
+82.1500	72.1500	        Home	Calholme Ltd.			
+			Kirk Mobile Motor Factors			
+82.1750	72.1750		(bread delivery)			
+82.1875	72.1875	        Beaver	Beaver Engineering Ltd., Dublin 24			
+			Dundrum Granite			
+		        Unident.	(shipping co.)			
+82.2000	72.2000	        Unident.	(security co.)			
+82.2125	72.2125	        Unident.				
+82.2250	72.2250		B.C.Shipping, Dublin			
+82.2375	72.2375	        Lima				
+		        Mac	McKenna Distributors, Dublin 2			
+		        Supply				
+		        Unident.	(Capel St., Dublin 1)			
+82.2500	72.2500	        Unident.				
+82.2625	72.2625		Taxi company, Dublin. (name unknown)			
+		        Swan	Swan Plant Hire, Dublin 12			
+82.2750	72.2750        	Argus	Argus Security Ltd., Dublin 8			
+			(taxi co)			
+82.2875	72.2875 	Securi	Securiforce Ltd., Dublin 1			
+			Super Waste Disposal, Dublin 12			
+		        Unident.	(ladder hire)			
+82.3000	72.3000	        Hanover	Christopher Huet, Dublin 2			
+			Henry A Crosbie, Dublin 1			
+82.3125	72.3125	        Ringsend				
+82.3250	72.3250		Blanchardstown Glass & Glazing Co., Dublin 15			
+			Lee Auto Parts, Lucan			
+		        M	Mulvey Heating Services Ltd., Dublin 2			
+		        Unident.	(numeral c/s)			
+82.3500	72.3500	        Asphalt	Roadstone Dublin Ltd., Dublin 24			
+		        Unident.	(builder)			
+		        Unident.	(civil eng. contrs.)			
+82.4375	72.4375	        Traffic	Philips Electrical (I) Ltd., Dublin 14			
+82.4500	72.4500		Artificial Insemenation Service	170.7500	AM	
+			Dublin District Milk Board, Dublin 12 Ch1			
+82.4625	72.4625		Brinks-Mat Security Ltd., Dublin 8			
+82.5000	72.5000	 	Wicklow Co.Co. Roads Dept.		AM	
+82.5500	72.5500	        Unident.			AM	
+82.5625	72.5625	        Bannow	Dublin Corp Drainage Dept.			
+82.5750	72.5750		Kildare Co.Co. (Roads)		AM	
+82.5875	72.5875		Dublin Corp. Rent Dept.			
+			Roscommon Co. Co. Roscommon			
+82.6000		        Unident.	(del.co.)			
+82.6500	72.6500	.	Dublin Corp. Electrical Services Dept.		AM	
+82.6750	72.6750		Dublin Corp. Mechanical Dept.			
+82.7250	72.7250	        Unident.	(Taxi Co. c/s 9/18-19/21)			
+82.7500	72.7500	        Water	Dublin Corp.Waterworks Dept.		AM	
+82.8625		        Unident.				
+82.9500		        Unident.	(refueling Dublin Airport )		AM
+
+
+	
+83 Megahertz
+
+83.0250	72.8000	        Clearvision	Clear Vision Ltd., Dublin 6			
+83.0375	72.8125		Telecommunications Ltd., Dublin 11		CRS	
+83.0500	72.8250		Reindeer Shipping Ltd., Dublin 12			
+			Speedi Taxis, Limerick			
+83.0625	72.8375		Motorola Ltd., Dublin 9		CRS	
+83.0750	72.8500	        Unident.	(Delivery svc.)			
+83.1000	72.8750	        Charlie	City Cabs, Bray, WW			
+83.1375	72.9125		Dublin Waste Removal, Dublin 11			
+		        Glass	International Glass Co.Ltd., Dublin 11			
+		        Sealey				
+			Supermike Ltd., Dublin 6			
+83.1750	72.9500		William Boylan & Sons Ltd., Dublin 3			
+83.2125	72.9875		Donoghue Lift Eng.Systems Ltd., Dublin 12			
+			James Kavanagh, Malahide, D			
+		        Unident.	(builders)			
+83.2250	73.0000		Aidan Foley, Kells, MH			
+			Henry A.Crosbie Ltd., Dublin 1			
+			Repro Centre Ltd., Dublin 2			
+83.2375	73.0125	        Unident.			CRS	
+83.2500	73.0250		DHL Intern.(Ireland)Ltd., Dublin 17			
+			O'Grady (BO) Cabs•			
+83.2625	73.0375		(country)			
+83.2750	73.0500		Fewer, McGinley & Tritschler Ltd., Waterford			
+			Tipperary Livestock Agencies Ltd., Tipperary			
+83.2875	73.0625	        Everglaze	Everglaze, Dublin 12			
+		        Tempair	Tempair, Dublin 4			
+83.3000	73.0750	        Unident.			AM	
+83.3125	73.0875	        Par	Paragon Security, Dublin 1			
+			Stuarts Garages Ltd., Dublin 6			
+		        Unident.	(truckers)			
+83.3500	73.1250		Allied Taxi Owners Co-op. Ltd., , Dublin 12			
+83.3875	73.1625		P H Ross Ltd., Dublin 7 (plumbing supplies)			
+		        Unident.	(oil distributors)			
+83.4250	73.2000	        Link	City Link Transport  Svcs.(I) Ltd., Dublin 8			
+83.4500	73.2250		Checkers Cabs, Dublin 11			
+			Windmill Engineering Ltd., Dublin 12			
+83.4750	73.2500	        Robin	Robin Contruction Equipment, Dublin 6			
+		        Securitas	Group 4 Total Security, Dublin 1			
+83.4875	73.2625		Prendeville			
+83.5000	73.2750		Dublin Autotransport, Dublin 6			
+		        Unident.	(civil eng.contr.)			
+83.5125	73.2875	        Unident.				
+83.5250	73.3000	        Mayday.	Mayday Couriers, Dublin 2			
+83.5375	73.3125	        Foxfield	(builder)			
+83.5500	73.3250	        Unident.				
+83.5625	73.3375		Finbar O'Sullivan			
+		        M	(windows/doors) - c/s "M.1" (Michael)			
+		        Unident.	(truckers)			
+83.6000	73.3750		J & M Lynch, Galway			
+			Stephen Parle, Duncormick, WX			
+		        Unident.				
+83.6125	73.3875		Daniel McCarthy Ltd., Dublin 5			
+			O'Donnell, Nenagh, TN			
+			Star Cabs, Dublin 11			
+83.6250			O'Mahony			
+	73.4000       	Unident.				
+83.6375	73.4125	        Bailey	R & A Bailey, Dublin 12			
+83.6500	73.4250		Blanchardstown Glass & Glazing Co., Dublin 15			
+			Car Care Centre Ltd., Dublin 3			
+			Goodwins (Lucan) Ltd., Lucan, D			
+			P.J.Mathews & Co.Ltd., Dublin 9			
+83.6625	73.4375  	Unident.				
+83.6875	73.4625		Bagnal Fagan & Sons Ltd., Dublin 6			
+			McCarthy & McGrath Ltd., Cork			
+		        Unident.	(country)			
+83.7000	73.4750	        Blue				
+			Computer Services Ltd., Dublin 9			
+83.7125	73.4875		Pageboy Comms., Dublin 14		CRS	
+83.7250	73.5000	        Datsun				
+83.7375	73.5125		J.Tully & Sons Ltd., Dublin 5			
+			Mangan & Prenderville			
+83.7500	73.5250	        Unident.				
+83.7625	73.5375	        Irish Ind.	Irish Industrial Com.Sec.Ltd., Dublin 7			
+			J.McArdle (Building Contr.), Dublin 6			
+			McCormick McNaughton Ltd., Dublin 22			
+83.7750	73.5500		E.Nolan & Sons Ltd., Curragh, KE			
+83.7875	73.5625	        Precision	Precision Heating, Dublin 9			
+		        Unident.	(shop chain)			
+83.8000	73.5750		Irish Radio Phones Ltd., Dublin 2			
+83.8125	73.5875		Demolition (Irl.) Ltd., Baldonnel, D			
+83.8250	73.6000	        Scott	Scott for Tools, Dublin 1			
+83.8375	73.6125	        Unident.				
+		        Unident.	(country - transport co.)			
+83.8500	73.6250		Thomas Vincent, Dublin 1			
+83.8625	73.6375	        Unident.				
+83.8750	73.6500	        Unident.				
+83.9000	73.6750	        Plant	John Sisk & Sons Ltd., Dublin 22			
+		        Tango	Top Security, Dublin 6			
+83.9125	83.9125		Sweeney Bros. (Irl.) Ltd., Dublin 15
+
+84 Megahertz
+
+84.0250     73.8000		police	461.2500		
+84.0375     73.8125		police			
+84.0500	    73.8250		police			
+84.0625	    73.8375		police			
+84.0750	    73.8500		police			
+84.0875	    73.8625		police			
+84.1000	    73.8750		police			
+84.1125	    73.8875		police			
+84.1250	    73.9000		police			
+84.1375	    73.9125		police	461.4750		
+84.1500	    73.9250		police			
+84.1625	    73.9375		police			
+84.1750	    73.9500		police			
+84.1875	    73.9625		police			
+84.2000	    73.9750		police			
+84.2125	    73.9875		police			
+84.2250	    74.0000		police			
+84.2375     74.0125		police			
+84.2750	    74.0500		Cork Corp. Fire Dept.
+                                Dublin Corp. Fire Dept. Ch.1	457.5000		
+84.3000	    74.0750	        County	Longford Co.Co. Fire Dept.
+                                Tipperary North Co.Co. Fire Dept.
+                                Wicklow Co.Co. Fire Dept., Bray		AM	
+84.3250	    74.1000 	        Westfire	Westmeath Co.Co. Fire Dept.			
+			        Limerick Corp. Fire Dept			
+84.3500	    74.1250		Dublin Corp. Fire Dept. Ch. 2	460.7000		
+		                Fire	Waterford City/Co.Co. Fire Dept			
+84.3750	    74.1500        	Carfire
+                                Fire
+                                Rosfire	Carlow Co.Co. Fire Dept.
+                                Cork Co.Co. Fire Dept
+                                Louth Co.Co. Fire Dept
+                                Roscommon Co.Co. Fire Dept.	457.7750	AM	
+84.4000     74.1750	        Fire
+                                LC
+                                Sligo	Kildare Co.Co. Fire Dept
+                                Leitrim Co.Co. Fire Dept.
+                                Sligo Co.Co. Fire Dept.		AM	
+84.4250	     74.2000		National Fire Channel		AM	
+84.4500	     74.2250		Clare Co.Co. Fire Dept. ?
+                                Kilkenny Co.Co. Fire Dept.
+                                Limerick Co.Co. Fire Dept.		AM	
+84.4750	    74.2500  	        Fire	Kerry Co.Co. Fire Dept.
+                                Offaly Co.Co. Fire Dept.
+                                Wicklow Co. Co. Fire Dept. Ch.2		AM	
+84.5000	    74.2750 	        Fire	Donegal Co.Co. Fire Dept
+                                Kilkenny Co.Co. Fire Dept. Ch.3		AM	
+		                Fire	Meath Co.Co. Fire Dept.		AM	
+84.5250	    74.3000	        Fire	Monaghan Co.Co. Fire Dept.
+                                Wexford Co.Co. Fire Dept.		AM	
+84.5250     84.5250             Fire Brigade Repeater Wexford County
+84.5500	    74.3250		Cavan Co.Co. Fire Dept.		AM	
+		                Fire	Leix Co.Co. Fire Dept.		AM	
+		                Mayfire	Mayo Co.Co. Fire Dept.		AM	
+84.5750	    74.3500		EHB Couriers, Dublin			
+		                Shanam	MWHB Clare/Limerick Tipperary N.		AM	
+		                Sligam	NWHB Leityrim Sligo		AM	
+84.6000	    74.3750		National Ambulance Channel	450.2250	AM	
+84.6250	    74.4000	        Barney	EHB Wicklow	170.6750	AM	
+		                Colam	EHB Dublin South		AM	
+84.6500	    74.4250	        Arden	MHB Longford Westmeath		AM	
+		                Wexam	SEHB Wexford		AM	
+84.6750	    74.4500	        Portam	SEHB Waterford		AM	
+		                Westam	WHB Roscommon		AM	
+84.7000	    74.4750	        Corkam	SHB Cork		AM	
+		                Westam	WHB Mayo		AM	
+84.7250	    74.5000	        Barney	EHB Wicklow	460.5250	AM	
+		                Kilam	EHB Kildare		AM	
+84.7500	    74.5250	        Carlam	SEHB Carlow		AM	
+		                Kenam	SEHB Kilkenny		AM	
+		                Portam	SEHB Waterford		AM	
+84.7750	    74.5500	        Arden	MHB Leix Offaly		AM	
+		                Kerram	SHB Kerry		AM	
+84.8000	    74.5750	        Donam	NWHB Donegal	460.5500	AM	
+		                Tippam	SEHB Tipperary South		AM	
+84.8250	    74.6000	        Metam	EHB, Dublin	454.9000	AM	
+		                Westam	WHB Galway		AM	
+84.8625	    74.6375		Civil Defence			
+84.8750	    74.6500		Metro Taxis, Dublin 4	450.3750		
+84.8875	    74.6625		Premier Dairies Ltd., Dublin 11			
+84.9375		                Unident.	(delivery co.)		AM	
+84.9500			        Army		AM	
+84.9625			        Army		AM	
+
+
+
+
+85 Megahertz
+
+85.1000	    75.5000	        Unident.				
+85.1125     75.5125	        Unident.	(truckers)			
+85.1750	    75.5750	        Unident.				
+85.2750	    75.6750	        Unident.			AM	
+85.3125	    75.7125	        Delta				
+			        Glass Centre Ltd., Dublin 8			
+		                SR				
+		                Unident.	(couriers)			
+		                Unident.	(sanitary cleaners)			
+		                Unident.	(truckers)			
+85.3250	    75.7250		Marlowe	Marlowe Cleaners Ltd., Dublin 1			
+			        Mather	Mather & Platt (Irl) Ltd., Stillorgan, D			
+			        Rocky	Rockfield Plant Ltd., Dublin 12			
+			        Trux	Trux Ltd., Dublin 12			
+			        Unident.				
+85.3375	    75.7375		T.Gormley, Dublin			
+			        Kelly Bros. Ltd. 			
+85.3500	    75.7500		Unident.				
+85.3750	    75.7750		APC Scaffolding, Dublin 12			
+			        Contract Welders, Dublin 24			
+			        Louis Copeland & Sons, Dublin 1			
+			        Myles Balfe Ltd., Dublin 22			
+85.3875	    75.7875		Fana				
+			        Lambridge	(provincial) 			
+85.4000	    75.8000		Esmonde	Esmonde Motors Ltd., Stillorgan			
+			        Irish Radio Phone Services, Dublon			
+85.4125     75.8125		Unident.	Base to Car 3 & Car 5			
+			        Unident.	(provincial)			
+85.4250     75.8250		Unident.	(petrol pump maintenance)			
+85.4375	    75.8375		Unident.			CRS		CRS	
+85.4500	    75.8500		Irish Radio Phone Service, Dublin		CRS?	
+85.4750	    75.8750		Kildavin Concrete Prod. Ltd., Bunclody			
+			        Unident.				
+85.4875	    75.8875		ER Plant Hire Ltd., Saggart			
+			        Yellow	ABC Waste Disposal, Dublin 8			
+			        Unident.	(printers)			
+85.5000     75.9000		Fanum	Automobile Association, Dublin 2	461.2250		
+85.5125     75.9125		Alfa				
+			        Allied Alarms & Safes Ltd., Dublin 4			
+			        Palmer Transport, Dublin 12			
+			        Unident.	(security)			
+85.5250	    75.9250		Colton Constr. Ltd., Dublin 14			
+	    		        Comet Precision Eng.Ltd., Dublin 12			
+			        Nutronics Ltd., Bray			
+			        Unident.	(delivery co.)			
+85.5375	    75.9375		Bray				
+			        Unident.	(delivery co.)			
+			        VIF Ltd.			
+85.5500	    75.9500		Groupage (Europe) Ltd., Dublin 17
+			        Frank Gallagher, Ballymote, SO (vet)			
+85.5625	    75.9625		Heat	McMahon & Nagle, Portmarnock			
+85.5750	    75.9750		R.J.Keogh Electrical Ltd., Dublin 16			
+85.5875	    75.9875		Agencies Transport Ltd., Dublin 3			
+			        Mirror				
+			        J.Tinnelly & Sons (Dublin) Ltd., Dublin 2			
+85.6125	    76.0125		Printer				
+			        Rath				
+			        Scrap				
+85.6250	    76.0250		Artificial Insemination Service			
+			        J.J.McKernan Ltd., Dublin 9			
+			        Unident.	(hauliers)			
+85.6375	    76.0375		Checkers Cab & Courier Co., Dublin 11			
+85.6625	    76.0625		Express				
+			        Hurricane	Hurricane Couriers, Dublin 8			
+85.6750	    76.0750		Unident.	(builders providers)			
+85.6875	    76.0875		Unident.				
+85.7000	    76.1000		Unident.				
+85.7125	    76.1125		Unident.				
+85.7375	    76.1375		Unident.	(truckers)			
+85.7500	    76.1500		Slevin Office Supp.Ltd., Kilternan, D			
+			        Tarmac	Roadstone Dublin Ltd., Dublin 24	167.6000		
+			        Unident.	(provincial)		AM	
+85.7750	    76.1750		KB Combustion Ltd., Dublin 6			
+			        Unident.				
+85.7875     76.1875		Unident.	
+			        Northwestern Cattle Breeding Soc. Ltd., SO			
+85.8000     76.2000		Riverside Farms			
+85.8250     76.2375		Carphones Cellular Ltd., Dublin 6		CRS	
+85.8375     76.2375		Brock				
+			        P & D				
+85.8375			        Feeney				
+85.8375			        Unident.	(Carlow area)		CRS	
+85.8500	    76.2500		Unident.	(deliv.co.)			
+			        Ml.O-Keefe (Plumber), Watergrasshill			
+			        Unident.				
+85.8625			        Bluebird	Bluebird Communications Ltd., Dublin 24			
+85.8750	    76.2750		Tango				
+85.8875	    76.2875		Deca	DECA (Ireland) Ltd., Dublin 24			
+			        F.Thompson Insurance, Balbriggan, D			
+			        Prendiville					
+			        Unident.	(truckers)				
+85.9125	    76.3125		Oil Distributors Ltd., Dunshaughlin, MH			
+			        Rank Xerox (Irl) Ltd., Dublin 11			
+			        Stafford & Mitchell Ltd., Dublin 8			
+85.9250	    76.3250		Magpie	Magpie Trading Co.Ltd., Castleknock, D			
+			        Unident.	(photo.equip.)		AM	
+85.9500	    76.3500		Blue Cabs Ltd., Dublin 2	460.8000		
+85.9625	    76.3625		A.Breen (Panalbeater), Enniscorthy, WX			
+			        Unident.				
+85.9750     76.3750		T.McCann & Co.Ltd., Dublin 8			
+			        Unident.				
+85.9875     76.3875		J.F.Williams, Dungarvan, WD			
+			        Roulston			
+			        Wm.Moore (Elec.Contr.), Balbriggan, D			
+			        Unident.
+
+86 Megahertz
+
+86.0000	76.4000		Unident.	(driving sch.)			
+			Rochford			
+86.0125	76.4125		Unident.	(saw hire)			
+	76.4250		Irish School of Motoring, Dublin		AM	
+86.0250			J.Neilon			
+86.0375	76.4375		Pace Engineering			
+			Progressive Printers			
+86.0625	76.4625		Brinks-Mat, Dublin 8	451.4000		
+86.0875	76.4875		Irish Plate Glass & Glazing Co., Dublin 3			
+			Parts	(motor factors)			
+			Unident.	(plant svc.)			
+86.1125	76.5125		Anthony Haughan Ltd., Dublin 12			
+			Unident.	(truckers)			
+86.1250	76.5250		Unident.				
+86.1375	76.5375		Durkan	Durkan Bros. (Dublin) Ltd., Dublin 6			
+			Lake	Lake Electronics Ltd., Dublin 24			
+86.1500	76.5500		Mark Plumbing			
+86.1625	76.5625		Unident.	(glass repairs)			
+			Unident.	(elect.contractors) 			
+			Willow				
+86.1750	76.5750		BRF				
+			Primo	Primo Oil Co.Ltd., Dublin			
+			Unident.	(sanitary goods)			
+			Victor	(Santry)			
+86.1875	76.5875		Merchant	Merchant Meade Ltd., Dublin 16			
+86.2000	76.6000		Gee	(concrete)			
+			Unident.	(pump repairs)			
+			Unident.	(soil haulage)			
+86.2125	76.6125		Castle	Castle Courier Service, Dublin 9			
+86.2250	76.6250		Gay O-Driscoll Ltd., Dublin 1			
+86.2375	76.6375		Acme	Acme Security, Dublin 12			
+			City	City Couriers Ltd., Dublin 1			
+			Park				
+86.2500	76.6500		Unident.				
+			Unident.				
+86.2750	76.6750		Duffy Group Ltd., Dublin 12			
+			Leixlip Tyre ServicesLtd., Leixlip, KE			
+86.2875	76.6875		Unident.				
+86.3000	76.7000		Code
+			Nichols	c/s 42,44,107,327
+			J & C Nichols, Dublin 2			
+86.3250	76.7250		Mountain Rescue			
+86.3375	77.3375		Cathal Usher (Plumbing), Kells, MH			
+			G.T.Fay (Dublin) Ltd., Dublin 12			
+			Riverside Steel Ltd., Celbridge, KE			
+			Unident.			CRS	
+86.3750	77.3750		Hega	PJ Hegarty & Sons, Dublin 12			
+86.3875	77.3875		Irish Radio Phones Dublin		CRS	
+86.4125	77.4125		Dolphin				
+86.4250	77.4250		Aidan Power, Ballymurn, WX			
+			S.Gaynor (Engineering) Ltd., The Ward, D			
+			Pipe	Pipe & Drain Services Ltd., Dublin 14			
+						
+86.4500	77.4500		NK				
+			Unident.				
+86.4750	77.4750		Clutch & Transmission Ltd., Dublin 12			
+			J.Roche & Sons, Rathoath, MH			
+86.4875	77.4875		Motorola Ltd., Dublin 9		CRS	
+86.5000	77.5000		Unident.	(Halon repairs)			
+			Irish Taxi Owners Co-op, Dublin 2	460.9000		
+86.5125	77.5125		Afa	Afa-Minerva (EMI) Ltd., Dublin 8			
+			Tallagh Glass Products, Dublin 24			
+86.5250	77.5250		Unident.				
+86.5375	77.5375		Airport Express Taxis, Dublin 9			
+86.5500	77.5500		O'Neill & Brownell MRCVS, Oldcastle, MH			
+86.5625	77.5625		Eddie's Coal Merchants, Dublin 5			
+	77.5625		Unident.	(truckers)			
+86.5750	77.5750		Unident.	(telecom.co.)		AM	
+86.5875	77.5875		Shannon	Base to 2, Shannon Airport			
+86.6000	77.6000		Unident.			AM	
+86.6125	77.6125		Bord Gais Eireann			
+86.6250	77.6250		Unident	Norcom Telec.Ltd., Dublin 6		CRS	
+86.6500	77.6500		National Radio Cabs Co-Op Soc. Ltd., Dublin 8	460.8500		
+86.6750	77.6750		Unident.	(telcom.co.)			
+86.6875	77.6875			Unident.				
+86.7250	77.7250		Unident.			CRS	
+86.7375	76.7375		C & F Ltd., Dublin 20			
+86.9500	76.9500		Unident.	(controls)			
+86.9625	76.9625		Unident.	(security co.)			
+			Unident.	(tone bursts) 			
+86.9750	76.9750		Unident.	(builders)			
+86.9875	76.9875		Unident.	(tone bursts)
+
+
+			
+87 Megahertz
+
+87.2250	87.2250		Avonmore Creameries Ltd., Dn 12	460.6500	AM	
+87.2500	77.2500		Stores	Aer Lingus, Dublin Apt.
+			Avonmore Foods PLC, Kilkenny			
+84.2875	77.6875		Avonmore Creameries Ltd., Dublin 12 (sales)			
+87.3625	77.7625		New Dublin Gas Co., Dublin 2 ch 1	461.0000	AM	
+87.3750	77.7750		New Dublin Gas Co., Dublin 2 ch.3			
+87.3875	77.7750		Mains	New Dublin Gas Co., Dublin 2 ch..2	450.4750	AM	
+87.4000	77.8000		Mains	New Dublin Gas Co., Dublin 2 ch.4	454.6250	AM	
+87.6000			Chic				
+87.6000			Unident.	(Priory 4 to Pigeon 3)			
+Aviation 
+
+118 Megahertz
+
+118.3000	Belfast	Tower		
+118.5000	Dublin	Approach/Radar		
+118.6000	Dublin	Tower		
+118.7000	Shannon	Tower		
+118.7250	Dublin	ATIS		
+118.8000	Cork	Radar	
+
+	
+119 Megahertz
+
+119.3000	Cork	Tower		
+119.5000	Shannon	Tower		
+119.5500	Dublin	ASR/PAR Radar		
+119.7000	Baldonnel	Rapid Intervention Vehicle		
+119.9000	Cork	Approach	
+
+	
+120 Megahertz
+
+120.0000	Belfast	Approach/Radar		
+120.2000	Shannon	Approach		
+120.9000	Belfast	VDF/Radar
+
+		
+121 Megahertz
+
+121.1000	Dublin	Radar		
+121.4000	Shannon	Approach/Radar		
+121.5000		Emergency		
+121.6000		Fire and Rescue		
+121.7000	Cork	Tower/Approach		
+		Shannon	ACRS - Oceanic Clearance	
+121.8000	Cork	Ground Movement Control		
+		Shannon	Ground Movement Control	
+
+	
+122 Megahertz
+
+122.0000	Baldonnel	Approach		
+122.1000	Sligo	Approach		
+122.2000	Gormmanston	Approach		
+122.3000	Baldonnel
+Eglinton	Approach
+AFIS		
+122.4000	Bantry	Tower		
+		Glenamaddy	Air Ground		
+		Leixlip	Tower		
+122.4500	Belfast City.	VDF/Radar		
+122.5000	Dublin	Air Ground		
+		Iona	Iona Nat.Airways (operations)		
+122.6000	Abbeyshrule	Air Ground		
+		Castlebar	Tower		
+		Kerry County	Tower		
+122.7000	Gormanston	Tower		
+122.8000	Baldonnel	Ground movements control		
+122.8500	Derry	Approach/Tower		
+122.9000	Ballydoyle			
+		Birr	Tower		
+		Dundalk	Tower		
+		Kilkenny	Tower	
+
+	
+123 Megahertz
+
+123.0000	Aran Is.	Tower		
+		Castlebridge	Tower		
+123.0500	Dublin	Helicopters		
+123.1000	Scene of Search		
+123.2000	Enniskillen	Air/ground		
+123.3000	Trim	Air/Ground 		
+123.4000	Baldonnel	Air Corps operations	
+123.4500	Celtic Sea Oilrig Helipads		
+		Cork	Helicopters		
+		Dublin	Co.Freq. (Ryanair)		
+123.6000	Belmullet	Air/Ground		
+123.5000	Baldonnel
+		Newtownards	Tower
+		Air/ground		
+123.9500	Shanwick	Oceanic Clearance	a/c reg. west of 30W	
+
+
+124 Megahertz
+
+124.5250	Dublin Information (WX)
+124.6500	Dublin	ACRS		
+124.7000	Shannon	ACRS
+
+
+126 Megahertz
+
+126.0750	Aero information	
+
+
+		
+127 Megahertz
+
+127.0000	Dublin	Weather		
+127.5000	Shannon	ACRS	low level	
+127.6500	Shanwick	Oceanic Clearance	a/c reg. east of 30W	
+127.9000	Shanwick	Oceanic control
+
+		
+129 Megahertz
+
+129.7000	Baldonnel	Radar/Tower		
+129.8000	Carrickfin	Tower		
+		Edenderry	Tower		
+129.8500	Waterford	Tower		
+129.9500	Dublin	Helicopters	
+
+	
+130 Megahertz
+130.4000	Dublin	Helicopters		
+		Gliders		
+130.5500	Baldonnel	Air Corps Operations		
+130.6000	Belfast Hrb	Co.Freq. (Serviceair)		
+130.6500	Shannon	Air Ground		
+130.7500	Belfast Hrb.	Tower		
+130.8500	Belfast Hrb.	Approach/Radar/VDF
+
+		
+131 Megahertz
+
+131.1500	Shannon	ACRS		
+131.4000	Shannon	Co.Freq. (PA)		
+131.4750	Shannon	Co.Freq. (Aer Lingus)		
+131.5000	Cork	Co.Freq.(Aer Lingus)		
+		Dublin	Co.Freq. (BA KL KW TW)		
+		Shannon	Co.Freq.(AF BA EI KL S)		
+131.6000	Shannon	Co.Freq.		
+131.7000	Dublin	Co.Freq.		
+131.9000	Dublin	Co.Freq.(LH)	
+
+	
+132 Megahertz
+
+132.1500	Shannon	ACRS		
+132.5000	Shanwick	NAT Track Broadcast		
+132.5500	Shannon	ACRS		
+132.6000	Shannon	ACRS	
+
+	
+135 Megahertz
+
+135.5250	Shanwick
+			
+
+
+150 Megahertz
+
+150.0000			Unident.	(telemetry/voice)
+
+			
+153 Megahertz
+
+153.0000			Eirpage Ch.2			
+153.0125			Bell Communications, Dublin 5	452.8250	PA	
+153.0750			Quicklink, Dublin 6	455.8500	PA	
+153.1250			Mater Hospital, Dublin 7			
+153.1500			Contactors, Dublin 7	461.3500	PA	
+153.1750			Unident.			PA	
+153.2000			Firstcall Comms., Dublin 6	452.9250	PA	
+153.2250			Air Call (Irl) Ltd., Dublin 14	452.9750	PA	
+153.2750			Contactors, Dublin 7	452.9000	PA	
+153.3000			Unident.	(hospital)		PA	
+153.3250			Despatch	IBM Ireland, Dublin 4	455.9250	PA	
+153.4500			New Dublin Gas Co., Dublin 2	454.6250	PA	
+153.4750			Castlebar General Hospital, Castlebar, MO		PA	
+153.6250			Superpage Communications, Dublin 6	461.1750	PA	
+153.6750			Executone Paging Systems Ltd., Dublin 6	452.9500	PA	
+
+
+154 Megahertz
+
+	
+154.0250                       Customs & Excise
+154.0750                       Customs & Excise
+154.1000                       Customs & Excise
+154.1250                       Customs & Excise
+
+
+155 Megahertz
+
+155.0000                        RUC Northern Ireland
+155.0250                        RUC Northern Ireland
+155.0750                        RUC Northern Ireland
+155.1650                        RUC Northern Ireland
+155.5000                        RUC Northern Ireland
+155.6500                        RUC Northern Ireland
+
+
+		
+156 Megahertz
+
+156.0000	160.6000	UK Coast Guard	Ch.0		
+156.2750	160.8750	Dublin	Radio	Ch.65		
+156.3000	160.9000	Bantry	Tugs	Ch.6		
+				Belfast	Pilot/Port			
+				Cork	Pilot			
+				Dublin	Pilot			
+				Dundalk	Pilot/Port			
+				Limerick	Pilot			
+				Rosslare	Pilot			
+156.4000	161.0000	Anglesea	Shore Radio	Ch.8		
+				Bangor	Port			
+				Belfast	Port			
+156.4500			Bantry	Pilot/Port/Tugs	Ch.9		
+				Dublin	Tugs			
+156.5000			Belfast	BP Port			
+156.5500	161.0500	Bantry	Pilot/Port/Tugs	Ch.11		
+				Derry	Pilot/Port			
+				Drogheda	Pilot			
+				Galway	Port			
+				New Ross	Port/Railway Bridge			
+156.6000	161.1000	Belfast	Pilot/Port	Ch.12		
+				Carrick-fergus	Port			
+				Coleraine	Pilot/Port			
+				Cork	Pilot/Port			
+				Derry	Pilot/Port			
+				Dublin	Pilot/Port			
+				Dundlka	Pilot			
+				Foynes	Pilot/Port			
+				Kilkeel	Port			
+				Killyleagh	Port			
+				Limerick	Pilot/Port			
+				Sligo	Pilot			
+				Tarbert	Oil Port			
+				Warren-point	Pilot/Port			
+156.6500	161.1500	Foynes	Pilot/Port	Ch.13		
+				Greenore	Port			
+				Limerick	Port			
+156.7000	161.2000	Bantry	Pilot/Port/Tugs	Ch.14		
+				Belast	Port			
+				Carrick-fergus	Port			
+				Cork	Port			
+				Dublin	Port			
+				Dun Laoghaire	Port			
+				Dunmore East	Pilot			
+				Galway	Port			
+				Kilkeel	Port			
+				Kilroot	Port			
+				Larne	Port			
+				Portavogie	Port			
+				Rosslare	Port			
+				Whitegate	Port			
+156.8000	161.3000	-----Calling and Distress-----	ch.16		
+156.9500	161.4500	Belfast	BP Port
+
+160 Megahertz
+
+160.0000	164.5000		Kirby's Electrical Appliances, Dublin 1			
+					Morgan P & O			
+160.0125	164.5125		Drive
+					Glass	(driving school)
+
+					Murphy & Gunn Ltd., Dublin 6			
+					Jet Forklifts & Trucks			
+160.0250	164.5250		Axxon Waste Disposal Ltd., Dublin 12			
+					Mitchell			
+160.0375	164.5375	
+					George	Eagle Security Services Ltd., Dublin 3	
+					Allied Couriers, Dublin 1			
+					Good	Goodcare Ltd., Stillorgan, D			
+					Ind.Meat Packers Ltd.			
+160.0500	164.5500		Ballyfree	Ballyfree Farms Ltd., Sandtford, D			
+					Biscayne				
+					Tyre	Arran Tyre Services Ltd., Dublin 1			
+160.0625	164.5625		Lough Egish Co-op, Dublin 4
+					Reconair Manufacturing Ltd., Dublin 5			
+160.0750	164.5750		Murphy				
+160.0875	164.5875		GMP	GMP Plant Hire, Clondalkin			
+					Ice	
+					Michael Gilmartin & Co. Ltd., Cloghran, D			
+160.1000	164.6000		J.Doran			
+					Wings	Wings Express, Dublin 2			
+					Unident.	(provincial)			
+160.1125	164.6125		Esker				
+					JR	Jack Rabbit Couriers, Dublin 1			
+					Intereye	Intereye Security, Dublin 1			
+160.1250	164.6250		Advance Storage Ltd., Dublin 13			
+					Co-op Transport			
+					Drive	(driving school)			
+					Unident.	(parcel delivery)			
+					Unident.	(motor factors)
+					Noel Kearney, Castlebar, MO (vet)		AM	
+160.1375	164.6375		Clark's Office Equipment			
+					Argus
+					Delta	Angus Fire Armour Ltd., Dublin 11
+					Delta Security, Dublin 18			
+					Owl	Owl Alarms, Malahide, D			
+					Fibreglass Insulating Co., Dublin 8			
+					Runner	Road Runner Couriers, Dublin 2			
+160.1500	164.6500		Arnott's PLC, Dublin 1 (inhouse security)			
+					Securi	Securiforce Ltd., Dublin 1			
+					Unident.				
+160.1625	164.6625		Cobra Couriers, Dublin 11			
+					Consort	Consort, Dublin 9			
+					Jaebrade Security Services, Dublin 12			
+160.1750	164.6750		Electrovis.	EV Ltd., Clondalkin, Dublin 22			
+					Grove Turkey Farms, Smithboro, MN			
+					North City	North City Radio Cabs, Swords, D			
+					Sword	Sword Securities Ltd., Dublin 1			
+					Pony Express Ltd., Dublin 2
+					S. Mc'Donnell Construction Ltd., Castlebar, MO			
+160.1875	164.6875		Donoghue			
+					Michael Gilmartin & Co.Ltd., Cloghran, D			
+					Lakeland Green Slates Ltd.			
+					Unident.	(couriers)			
+					Dunne's Stores, Dublin (store security)			
+					Unident.	(security - c/s C771-2, L98))			
+					Unident.	(truckers)			
+					Vista	Vista Blinds, Dublin 3			
+160.2000	164.7000		Unident.				
+160.2125	164.7125		Unident.				
+160.2250	164.7250		S.McCluskey Haulage, Swords, D			
+					Roadspeed Internat. (I) Ltd., Dublin 5	T		
+					Tango	Top Security, Dublin 2			
+					Unident.		(couriers)			
+160.2375	164.7375		Black				
+					Irish Pride Meat Packers			
+160.2500	164.7500		J & C Hendrick Ltd., Dublin 6			
+					Paddy Manning
+					Kelly Bros., Dublin 24			
+					Trux	Trux Transport, Dublin 1			
+160.2625	164.7625		Carron				
+					Unident.	(provincial builder)			
+160.2750	164.7750		Peats	Peats Ltd., Dublin 1			
+					Simpson				
+					Speedway	Speedway Couriers, Dublin 1			
+160.2875	164.7875		Carey Transport , Trim, MH			
+					Ashgrove				
+					Unident.	(wine merchants)			
+160.3000	164.8000		Fort	Fort Plant Sales Ltd., Dublin 12			
+					Papa	Mustang Couriers, Dublin 11			
+					Ring	Ringsun Blinds Ltd., Dublin 3			
+					Safety	ADT Ltd., Dublin 7			
+					Unident.	(coal merchants)			
+160.3125	164.8125		Unident.	(security)			
+160.3250	164.8250		Advanced Aluminium, Dublin 14			
+160.3375	164.8375		Seezer	C.Seezer & Sons, Dublin 8			
+					Sierra				
+					Red				
+					Tango				
+					Thor	Thor Appliances Ltd., Dublin 24			
+160.3500	164.8500		Celtic	Celtic Forwarding, Dublin 2			
+160.3625	164.8625		Safety	ADT Ltd., Dublin 7			
+160.3750	164.8750		Relay	Relay Security, Dublin 12			
+160.3875	164.8875		Courier Plan (IRL) Ltd., Dublin 2
+					North Connacht Farmers Co-op Society, Sligo			
+160.4000	164.9000		Discount				
+					Northside				
+					PR	P.R.Ltd., Dublin 13			
+					Roundtown Couriers			
+					Unident.				
+160.4125	164.9125		Courier Services of Ireland Ltd.			
+					Murphy Transport , Dublin			
+					Ossary 	A.J.Crockford Co.Ltd., Dublin 3			
+					160	
+160.6000	156.0000		UK Coast Guard	Ch.0		
+160.8750	156.2750		Dublin	Radio	Ch.65		
+160.9000	156.3000		Bantry	Tugs	Ch.6		
+					Belfast	Pilot/Port			
+					Cork	Pilot			
+					Dublin	Pilot			
+					Dundalk	Pilot/Port			
+					Limerick	Pilot			
+					Rosslare	Pilot	
+
+		
+161 Megahertz
+
+161.0000	156.4000		Anglesea	Shore Radio	Ch.8		
+					Bangor	Port			
+					Belfast	Port			
+	156.4500			Bantry	Pilot/Port/Tugs	Ch.9		
+					Dublin	Tugs			
+	156.5000			Belfast	BP Port			
+161.0500	156.5500		Bantry	Pilot/Port/Tugs	Ch.11		
+					Derry	Pilot/Port			
+					Drogheda	Pilot			
+					Galway	Port			
+					New Ross	Port/Railway Bridge			
+161.1000	156.6000		Belfast	Pilot/Port	Ch.12		
+					Carrick-fergus	Port			
+					Coleraine	Pilot/Port			
+					Cork	Pilot/Port			
+					Derry	Pilot/Port			
+					Dublin	Pilot/Port			
+					Dundlka	Pilot			
+					Foynes	Pilot/Port			
+					Kilkeel	Port			
+					Killyleagh	Port			
+					Limerick	Pilot/Port			
+					Sligo	Pilot			
+					Tarbert	Oil Port			
+					Warren-point	Pilot/Port			
+161.1500	156.6500		Foynes	Pilot/Port	Ch.13		
+					Greenore	Port			
+					Limerick	Port			
+161.2000	156.7000		Bantry	Pilot/Port/Tugs	Ch.14		
+					Belast	Port			
+					Carrick-fergus	Port			
+					Cork	Port			
+					Dublin	Port			
+					Dun Laoghaire	Port			
+					Dunmore East	Pilot			
+					Galway	Port			
+					Kilkeel	Port			
+					Kilroot	Port			
+					Larne	Port			
+					Portavogie	Port			
+					Rosslare	Port			
+					Whitegate	Port			
+161.3000	156.8000		-----Calling and Distress-----	ch.16		
+161.4500	156.9500		Belfast	BP Port			
+					157	
+161.7000	157.2000		Celtic	Shore Radio	Ch.24		
+161.7250	157.2250		Anglesea	Shore Radio	Ch.84		
+161.7500	157.2500		Celtic	Shore Radio	Ch.25		
+					Severn	Shore Radio			
+161.7750	157.2750		Dublin	Shore Radio	Ch.65		
+161.8000	157.3000		Anglesea	Shore Radio	Ch.26		
+					Clyde	Shore Radio			
+161.8250				Anglesea	Shore Radio	Ch.84		
+161.8500	157.3500		Landsend	Shore Radio	Ch.27		
+					Portpatrick	Shore Radio			
+161.9000	157.4000		Anglesea	Shore Radio	Ch.28		
+61.8500					Celtic	Shore Radio	Ch.25		
+					Severn	Shore Radio			
+161.8750				Dublin	SDhore Radio	Ch.65		
+161.9000				Anglesea	Shore Radio	Ch.26		
+					Clyde	Shore Radio			
+161.9500						
+161.9500	157.4500		Irish Ferries			
+161.9750	157.4750		Irish Ferries cargo ships	
+
+		
+162 Megahertz
+162.0000				Anglesea	Shore Radio	Ch.28		
+					Landsend	Shore Radio	Ch.88		
+					162	
+162.0500				Irish Ferries			
+162.0750				Irish Ferries cargo ships			
+162.4500				Howth Yacht Club	Ch.M		
+162.6250				2800654	Kish Lighthouse		TC	
+162.6750				Irish Ferries			
+162.9500				2800657	LT Granuaille		TC
+
+163 Megahertz
+
+163.0000				Port & Docks Board, Dublin		TM	
+163.0500	158.5500		police			
+163.0625	158.5625		police			
+163.0750	158.5750		police			
+163.1125	158.6125		police			
+163.1250	158.6250		police			
+163.1625	158.6625		police			
+163.2000	158.7000		Computer Hardware			
+					Euro				
+					Spares				
+163.2250	158.7250		CK Commercials Ltd., Brittas, D			
+163.2375	158.7375		B	B-Line Couriers, Dublin 12
+					ABC Cabs, Cork			
+					Bob Lynch Tyre & Battery Svc.			
+					Lyons
+					National				
+					Paul	John Paul Construction Ltd., Dublin 12			
+163.2625	158.7625		Alpha Maintenance Ltd.			
+					Arctic Insulations Ltd., Clondalkin			
+					Swift Couriers, Blackrock, D			
+					T.P.O'Mahony & Sons Ltd., Dublin 12			
+163.2750	158.7750		City	(City Base to Cardiffsbridge Road!)			
+163.3625	158.8625		Charlie	(radios)			
+					ESI Ltd., Dun Laoghaire, D			
+163.4375	158.9375		Doctor on Call, Dublin 6 ch.2			
+163.4625	158.9625		Business Equipment & Service.Ltd, Dublin 9			
+					Clover			
+					Delta	Delta Security Ltd., Dublin 18			
+					Doyle TV, Dublin 6			
+					Presco	Municipal Svc. Ltd., Dublin			
+					Sky	Sky Couriers			
+					Tools & Equipment Ltd., Dublin 3			
+					Tower Electrical Rewinds Ltd., Waterford			
+					William Kelly Security			
+					Unident.	(rubber stamp co.)			
+163.4750	158.9750		Oil	Gilford Heating Ltd., Dublin 4			
+					GMP Plant Hire Ltd., Clondalkin			
+					Robinson Transport , Dublin 11			
+					Pacemaker Couriers, Dublin 9			
+163.4875				Unident.	(coal merchants)			
+163.5000	159.0000		Centre				
+					DJ Plant Hire			
+163.5125	159.0125		Diesel	Diesel Service Ltd., Dublin 1			
+					Patrick Kehoe Acoustics			
+					Paul McMahon TV, Dublin 12			
+					Miller				
+					Rice	A1 Couriers, Dublin 1 ch.1			
+					RJF	R J F Securities Ltd., Dublin 24	466.3250		
+					RDS Security			
+					Helicopters/Gas Platforms Offshore			
+163.5250	159.0250		Mobhi				
+					Data Despatch Couriers Ltd., Dublin 2			
+					Guardall Security			
+					Helicopters/Gas Platforms Offshore			
+163.6250	159.1250		Unident.	(couriers)			
+163.6375	159.1375		Angus	Angus Fire Armour Ltd., Dublin 11
+163.6500                		unidentified			
+									
+163.6750	159.1750		7870592	RTE - Three Rock Tx site		TC	
+163.8000	159.3000		Acme Heat Hire Ltd., Dublin 7			
+					Aluminium Designs Ltd., Dublin			
+					Fabric				
+					Foster				
+					Kelly				
+					Mahon Motor Factors Ltd., Dublin 3			
+					Meath			
+					Ryson Electrical			
+					Sky	Sky Couriers, Dublin 1			
+163.8125	159.3125		Jet	(couriers)			
+163.8375	159.3375		Purolator Ireland Ltd., Dublin 11			
+163.8500	159.3500		Delta	(builders)			
+					Intercity	Pony Express Ltd., Dublin 2			
+					Unident.	(couriers)			
+163.8625	159.3625		Doctor on Call, Dublin 8 ch.1	468.0750		
+163.8750	159.3750		Irish Radio Phones Ltd., Dublin 2		CRS	
+163.8875	159.3875		James McMahon (Dublin) Ltd., Dublin 5			
+163.9000	159.4000		Brookfield	(builders)			
+					McGreevy			
+163.9125	159.4125		Unident.				
+163.9250	159.4250		Rice	A1 Delivery Services Ltd., Dublin 10 ch.2			
+					Unident.				
+163.9500	159.4500		Avery Label Ltd., Dublin 12			
+163.9750	159.4750		Castlebar Tile Centre, Castlebar, MO			
+163.9875	159.4875		Telecommunications Ltd., Dublin 11	
+
+
+		
+164 Megahertz
+
+164.0000	159.5000		Papa	Goodwins Sale & Hire Ltd.
+					Target Security, Dublin 22			
+164.0250	159.5250		police			
+164.0375	159.5375		police			
+164.0500	159.5500		police			
+164.0625	159.5625		police			
+164.0750	159.5750		police			
+164.0875	159.5875		police			
+164.1000	159.6000		police			
+164.1125	159.6125		police			
+164.1250	159.6250		police			
+164.1375	159.6375		police			
+164.1500	159.6500		police			
+164.1625	159.6625		police			
+164.1750	159.6750		police			
+164.1875	159.6875		police			
+164.2000	159.7000		police			
+164.2125	159.7125		police			
+164.2250	159.7250		police			
+164.2375	159.7375		police			
+164.2500	159.7500		police			
+164.2625	159.7625		police			
+164.2750	159.7750		police			
+164.2875	159.7875		police			
+164.3000	159.8000		police			
+164.3125	159.8125		police			
+164.3250	159.8250		police			
+164.3375	159.8375		police			
+164.3500	159.8500		police			
+164.3625	159.8625		police			
+164.3750	159.8750		police			
+164.3875	159.8875		police			
+164.4000	159.9000		police			
+164.4125	159.9125		police			
+164.4250	159.9250		police			
+164.4375	159.9375		Armstrong Electronics Ltd., Dublin 7			
+164.4500	159.9500		O'Keefe			
+164.4750	159.9750		Contactors, Dublin 7	467.8625		
+164.4875	159.9875		Progressive Printers Ltd.			
+164.5000	160.0000		Kirby's Electrical Appliances, Dublin 1			
+					Morgan P & O			
+164.5125	160.0125		Murphy & Gunn Ltd., Dublin 6			
+					Jet Forklifts & Trucks			
+164.5250	160.0250		Axxon Waste Disposal Ltd., Dublin 12			
+					Mitchell			
+164.5375	160.0375	
+					George	Eagle Security Services Ltd., Dublin 3
+					Allied Couriers, Dublin 1			
+					Good	Goodcare Ltd., Stillorgan, D			
+					Ind.Meat Packers Ltd.			
+164.5500	160.0500		Ballyfree	Ballyfree Farms Ltd., Sandyford, D			
+					Biscayne				
+					Tyre	Arran Tyre Services Ltd., Dublin 1			
+164.5625	160.0625		Lough Egish Co-op, Dublin 4
+					Reconair Manufacturing Ltd., Dublin 5			
+164.5750	160.0750		Murphy				
+164.5875	160.0875		GMP	GMP Plant Hire, Clondalkin			
+					Ice				
+					Michael Gilmartin & Co. Ltd., Cloghran			
+164.6000	160.1000		J.Doran			
+					Wings	Wings Express, Dublin 2			
+					Unident.	(provincial)			
+164.6125	160.1125		Esker				
+					JR	Jack Rabbit Couriers, Dublin 1			
+					Intereye	Intereye Security, Dublin 1			
+164.6250	160.1250		Advance Storage Ltd., Dublin 13			
+					Co-op Transport			
+					Noel Kearney, Castlebar, MO (vet)			
+					Unident.	(parcel delivery)			
+					Unident.	(motor factors)			
+164.6375	160.1375		Clark's Office Equipment			
+					Delta	Delta Security, Dublin 18			
+					Owl	Owl Alarms			
+					Fibreglass Insulating Co., Dublin 8			
+					Runner	Road Runner Couriers, Dublin 2			
+164.6500	160.1500		Arnott's PLC, Dublin instore security			
+					Securi	Securiforce Ltd., Dublin 1			
+					Unident.				
+164.6625	160.1625		Cobra Couriers, Dublin 11			
+					Consort	Consort, Dublin 9			
+					Jaebrade Security Services, Dublin 12			
+164.6750	160.1750		Electrovisi.	EV Ltd., Clondalkin, Dublin 22			
+					Grove Turkey Farms, Smithboro, MN			
+					North City	North City Radio Cabs, Swords, D			
+					Sword	Sword Securities Ltd., Dublin 1			
+					Pony Express Ltd., Dublin 2			
+					Sean McDonnell Contruct. Ltd., Castlebar, MO			
+164.6875	160.1875		Donoghue			
+					Michael Gilmartin & Co.Ltd., Cloghran, D			
+					Lakeland Green Slates Ltd.			
+					Unident.	(couriers)			
+					Dunne's Stores (store security)			
+					Unident.	(security - c/s C771-772, L98)			
+					Unident.	(truckers)			
+					Vista	Vista Blinds, Dublin 3			
+164.7000	160.2000		Unident.				
+164.7125	160.2125		Unident.				
+164.7250	160.2250		S.McCluskey Haulage, Swords			
+					Roadspeed Internat. (I) Ltd., Dublin 5			
+					Tango	Top Security, Dublin 2			
+		
+					Unident.	Sean McCluskey Haulage, Swords
+					(couriers)			
+164.7375	160.2375		Black				
+		
+					Speedway	Irish Pride Meat Packers
+					Speedway Couriers Ireland Ltd., Dublin 2			
+164.7500	160.2500		J & C Hendrick Ltd., Dublin 6			
+					Kelly Bros., Dublin 24			
+					Trux	Trux Transport, Dublin 1			
+164.7625	160.2625		Carron				
+					Unident.	(provincial builder)			
+164.7750	160.2750		Peats	Peats Ltd., Dublin 1			
+					Simpson				
+					Speedway	Speedway Couriers, Dublin 1			
+164.7875	160.2875		Ashgrove
+	
+					Carey Transport, Trim, MH			
+					Unident.	(wine merchants)			
+164.8000	160.3000		Fort	Fort Plant Sales Ltd., Dublin 12			
+					Papa	Mustang Couriers, Dublin 11			
+					Ring	Ringsun Blinds Ltd., Dublin 3			
+					Safety	ADT Ltd., Dublin 7			
+					Unident.	(coal merchants)			
+164.8125	160.3125		Unident.	(security)			
+164.8250	160.3250		Advanced Aluminium, Dublin 14			
+164.8375	160.3375		SeezerC.Seezer & Sons, Dublin 8			
+					Sierra				
+					Red				
+					Tango				
+					Thor	Thor Appliances Ltd., Dublin 24			
+164.8500	160.3500		Celtic	Celtic Forwarding, Dublin 2			
+164.8750	160.3750		Relay	Relay Security, Dublin 12			
+164.8875	160.3875		Courier Plan (IRL) Ltd., Dublin 2
+					North Connacht Farmers Co-op Society, Sligo			
+164.9000	160.4000		Discount				
+					Northside				
+					PR	P.R.Ltd., Dublin 13			
+					Roundtown Couriers			
+					Unident.				
+164.9125	160.4125		Courier Services of Ireland Ltd.			
+					Murphy Transport , Dublin			
+					Ossary 	A.J.Crockford Co.Ltd., Dublin 3			
+164.9250				ILAC	ILAC Centre, Dublin 1 - security			
+					Northside Centre, Dublin 9 - security			
+164.9500				Pageboy, Dublin 14	455.9500	PA	
+164.9750				Pageboy, Dublin 14	460.5000	PA
+
+165 Megahertz
+
+165.0000		Mainz	Mainz Ltd., Dublin 8			
+			Unident.	(inhouse security)			
+165.0250		Pagers for National Fire Department	
+165.0500		Coolattin Estates			
+			MEPC Ltd Dun Laoghaire Sh. Centre - security			
+			Artaine Castle Shopping Ctr 
+			Halton Concrete Products Ltd., Rathoath, MH
+			K C Security Ltd., Dublin 1
+			Paragon Security Ltd., Dublin 1
+			(security)			
+			RS	(security)			
+165.0625		Dunnes Stores, Dublin - security			
+			Dr.N.Hynes, Castlebar, MO			
+165.0750		Lorcan	Lorcan Engineering, Dublin 9			
+			Papa				
+			Wicklow Co.Co.			
+165.0875		Alpha
+			Bailey	in-house security
+			R & A Bailey, Naas Rd., Dublin (security)			
+165.1000		Unident.	O'Shea & Shanahan Ltd., Dublin 11
+			(security)			
+165.1250		Unident.	Shannon Airport		PA	
+165.1250		Hawk Security Services Ltd., Carlow
+			Triple Security, Dublin 2			
+165.1375		
+Unident.			Ideal Courier Service, Mullingar, WH
+(security)			
+165.3000	170.1000	Unident.	ESB			
+165.4000	170.2000	ESB Howth-Inchicore link	71.2500		
+165.4500	170.2500	ESB			
+165.4875	170.2875	Unident.	(couriers)			
+165.5000	170.3000	Eagle	Eagle Sec.Svcs.Ltd., Dublin 3			
+				ESB			
+165.5125	170.3125	Unident.	(couriers)			
+165.6250	170.4250	Unident.	(c/s X3, X4, X5)			
+165.7000	170.5000	Dublin Board of Conservators			
+165.7125	170.5125	Unident.				
+165.7875	170.5875	Dublin Co.Co. South. (Roads)			
+165.8000	170.6000	Dublin Corporation Dangerous Bldgs. Section			
+				Unident.				
+165.8125	170.6125	Dublin Co.Co. North. (Roads)			
+165.8500	170.6500	Unident.	(security)			
+165.8750	170.6750	Colam	EHB, Loughlinstown	84.8625		
+165.9000	170.7000	Dublin Co.Co. Sanitary Dept.	468.1750		
+165.9125	170.7125	Dublin Co.Co. Sanitary Dept.	464.2570		
+165.9500	170.7500	(art.insem.svc.)	72.4500
+
+		
+166 Megahertz
+
+166.0000	170.8000		Dublin Bus, Phibsboro			
+166.0250	170.8250		Dublin Bus, Phibsboro			
+166.0500	170.8500		Dublin Bus, Donnybrook 1			
+166.0750	170.8750		Dublin Bus, Donnybrook 2			
+166.1000	170.9000		Dublin Bus, Phibsboro			
+166.1250	170.9250		Dublin Bus, Clontarf			
+166.1500	170.9500		Irish Rail, Railway	454.7250		
+166.1750	170.9750		Irish Rail, Railway			
+166.2000	171.0000		Irish Rail, Railway			
+166.2250	171.0250		Dublin Bus - Ringsend (maintenance)			
+166.2500	171.0500		Irish Rail, Railway	454.7000		
+166.2750	171.0750		Dublin Bus, Conyngham Rd.			
+166.3000	171.1000		Dublin Bus, Bus maintenance/inspectors			
+166.3250	171.1250		Dublin Bus, Conyngham Rd.			
+166.3500	171.1500		Dublin Bus, Donnybrook 2			
+166.3750	171.1750		Irish Rail, Railway			
+166.4000	171.2000		Dublin Bus, Summerhill			
+166.4250	171.2250		Dublin Bus, Ringsend			
+166.4500	171.2500		Dublin Bus, Summerhill1			
+166.4750	171.2750		Dublin Bus, Donnybrook 1			
+166.5000	171.3000		Dublin Bus, Dublin	454.4750	TM	
+166.5500	171.3500		Eagle	Eagle Security Services Ltd., Dublin 3			
+					Irish.Ind.	Irish .Industrial Security Ltd., Dublin 7			
+					J.O'Sullivan & Sons, Waterford			
+					Three Candles Printers Ltd., Dublin 2
+					Thomas Stafford & Sons Ltd., Dn 3			
+					Unident.
+					Unident.	(Couriers)
+					Shannon Airport			
+166.5625	171.3625		HE	Highway Express Dublin 8			
+					F.E.Smith Electrical Ltd., Dublin 2			
+					Tallagh Garages, Dublin 24			
+					Unident.	(couriers)			
+					Unident.	(machinery sales)			
+					Vigilant Security Co.Ltd., Dublin 12			
+166.5750	171.3750		Mulvey & Co.Ltd., Dublin 14			
+					Unident.	(couriers)			
+					Unident.	(machinery repairs)			
+166.5875	171.3875		VIP Radio Taxis, Dublin 2			
+166.6000	171.4000		Cheetah	Securicor Ltd., Dublin 6	460.7500		
+166.6125	171.4125		Bourke's Funeral Directors, Dublin 7			
+					Cargo
+					Colt	
+					taxi co.			
+					Edwards, Dublin 1 (jewellers)			
+					King	Kingsley Couriers Ltd., Dublin 11			
+					Liam Browne Transport Ltd., Dublin Airport 			
+					Precision	Precision Heating, Dublin 9			
+166.6250	171.4250		ADAS				
+					Kenny	Kenny & Co.			
+					Pageboy Couriers, Dublin 16			
+166.6375	171.4375		Barton Coaches, Maynooth			
+					Business Equipment & Services. Ltd., Dublin 9			
+					Quick	Quick Plumbing Ltd., Clondalkin			
+					Unident.	(glazing co.)			
+					Vinny Byrne Ltd., Dublin 7			
+166.6500	171.4500		Chubb	Chubb Alarms, Dublin 2			
+					Cork Taxi Co-op, Cork			
+166.6625	171.4625		Unident.	(agric. Sales)
+					Rathgar Motor Factors, Dublin 6
+					McKone Group, Dublin 16			
+166.6750	171.4750		Myra Glass Co., Dublin 8			
+166.6875	171.4875		F.Manning & Co.			
+					Ocean & Gen.Maritime Agencies Ltd., Dublin 2			
+166.7000	171.5000		Unident.	(truckers)			
+166.7250	171.5250		Unident.				
+166.7375	171.5375		Finnegan			
+					Unident.				
+166.7750	171.5750		O'Shea Security			
+					Unident.				
+166.7875	171.5875		Unident.	(couriers)			
+					Unident.	(couriers ch.2)			
+					Unident.	(security c/s 184, 221)		AM	
+166.8000	171.6000		City Cabs, Dublin 1			
+166.8125	171.6125		Kelly Aluminium			
+166.8250	171.6250		Asbestos Cement			
+					Bernard McMahon			
+					Unident.	(hauliers)			
+166.8375	171.6375		Acme Inks (I) Ltd., Dublin 24			
+					Fitzgerald & Sons Transport			
+					Mobile Auto.Svcs. Ltd., Tullaghan, SO			
+					R.A Burke (Carriers) Ltd., Dublin 1			
+					St.Christopher Dr.Sch., Dublin
+					Sheridan Labs.			
+					Unident.	(security)			
+					Unident.	(truckers)			
+166.8500	171.6500		Unident.	(couriers)			
+					Unident.	(florists)			
+					Unident.	(waste disposal)			
+166.8625	171.6625		Unident.	(builders providers)			
+166.8750	171.6750		Irish Aggregates			
+166.9125	171.7125		Norcom Telecom Ltd., Dublin 6		CRS	
+166.9375		  	        Borough	Borough Builders			
+	               			DDS	Dublin Delivery Svc., Dublin 14			
+		      			Hartigan Roofing & Gen. Const. Ltd., Dublin 20			
+		        		Leinster Glass Co.Ltd., Dublin 7			
+					Unident				
+166.9500	171.7500		Dixon Haulage, Ballivor, MH			
+	                    		Unident.	(taxi co.)		AM	
+166.9625	171.7625		unidentified
+166.9750	171.7750		Dublin Stevedoring & Freight Ltd., Dublin 4			
+166.9875	171.7875    		Unident. sometimes interesting				
+					Western Contactors, Dublin
+
+
+167 Megahertz
+
+167.0000	171.8000	Eagle	Eagle Security, Dublin 3			
+167.0125	171.8125	Advance	Advance Haulage, Dublin 3			
+167.0250	171.8250	Line	BICC, Dublin 24
+				McNeill
+				Meade Plant (Irl) Ltd., Dublin 16			
+167.0375	171.8375	Bullarch			
+167.0500	171.8500	Cross	Cross Refrigeration Co. Ltd., Dublin 24			
+				Myra Glass Co., Dublin 6
+				D J Nolan & Sons, Dublin 6
+				George Nixon Ltd., Dublin 2			
+167.0625	171.8625	Cahill				
+				Film	
+				Richard Devlin Insurance			
+				Geoghegan
+				Gowna	Daniel Geoghegan Haulage Ltd., Dublin 11
+				Gowna Construction Ltd., Dublin			
+167.0750	171.8750	Alfa
+				SD	Alfa Security Ltd., Dublin12
+				Avcom, Dublin 2
+				Sword
+				Woodcom			
+167.0875	171.8875	Dr. Conlon			
+167.1000	171.9000	Alfred McNaughton			
+				Aer Lingus, Dublin Airport			
+167.1250	171.9250	Fruit Stores, Dublin 6
+				Motor Craft
+				Murphy Fenner & Murray, Dublin 12			
+				O'Brien	O'Brien Waste Disposal Ltd., Dublin 24			
+167.1375	171.9375	Unident.	(wholesale stationers)			
+167.1500	171.9500	Sugar	Sugar Distributors, Dublin 1			
+				Unident.				
+				Whiskey				
+167.1625	171.9625	Irish Radiophones, Dublin 2		CRS	
+167.1750	171.9750	Carphones Ltd., Dublin		CRS	
+167.1875	171.9875	Unident.	Executive Security Ltd., Stillorgan, D
+				(couriers)			
+167.2000	172.0000	Access	Access Comms., Dublin			
+				City	City Security, Dublin			
+				Ranger	Ranger Security, Dublin 7			
+				Irish Motor Racing Club			
+				Unident.	(couriers)			
+167.3000	172.1000	Dublin District Milk Board, Dublin 12			
+167.4750	172.2750	Unident.			CRS	
+167.5000	172.3000	Dublin Corp.	454.1750		
+167.6000	172.4000	Tarmac		76.1500	AM	
+167.6500	172.4500	Unident.				
+167.7000	172.5000	Monkstown				
+167.8750	172.6750	(Co.Louth ambulance)			
+167.9250	172.7250	(Co.Louth ambulance)
+
+
+			
+168 Megahertz
+
+168.0000	172.8000	Unident.	(computer supplier)			
+		Unident.	(furniture supplier)			
+168.0250	172.8250	
+				County	Allweather Marine Ltd., Dublin 2
+				Security Plus Ltd., Dublin 12			
+				Trust Warehousing Services Ltd., Dublin 5			
+168.0500	172.8500	Unident.	Kinsealy Farms Ltd., Malahide
+				(windscreen repairs)			
+168.0625	172.8625	Green Isle	Dyno Rod PLC, Dublin 2
+				Green Isle Ltd., Dublin 7			
+168.0750	172.8750	Metro	Metro Taxis, Dublin 4	450.3750		
+168.0875	172.8875	Unident	(security)			
+				Unident	(pricing TVs)			
+				Thomas J Farrington, Dublin 22 (vet)			
+				Unident				
+168.1000	172.9000	All Range Security Co. Ltd., Dublin 24
+				Anois Couriers, Dublin 1
+				Birds Eye Foods Ltd., Dublin 14			
+				Herbie	Smith's Building Supplies, Dublin12.			
+				Unident.				
+168.1125	172.9125	Royal				
+				Unident.	(machine repairs)			
+168.1250	172.9250	Unident.	(truckers)			
+168.1375	172.9375	Unident.	(rubbish skips)			
+168.1500	172.9500	Cablelink, Dublin 4			
+168.1625	172.9625	Clean	(industrial cleaners)			
+				MB	Metropolitan Security Services Ltd., Dublin 1			
+168.1750	172.9750	Waverley Ambulance Svc., Dublin 8			
+168.1875	172.9875	Irish Ind.	Irish Industrial Gases Ltd., Dublin 12 			
+168.2000	173.0000	MDA	Modern Display Artists, Dublin 4			
+				Unident.	(catering co.)			
+168.2125	173.0125	Unident.	(couriers)			
+				Unident.	(truckers)			
+				Unident.				
+168.2250	173.0250	Unident.				
+168.2375	173.0375	Unident.	(hardware)			
+				Unident.	(provincial)			
+168.2500	173.0500	Dorset				
+				Rover	DSPCA, Dublin 2		AM	
+168.2625	173.0625	Cargo				
+				Gala				
+				Unident.	(plant hire)			
+168.2875	173.0675	Unident.				
+168.3000	173.1000	Unident.	(breakdown svc.)			
+168.3125	173.1125	Unident.	(builders)			
+				Unident.	(fair ground)			
+168.3250	173.1125	Unident.	(delivery co.)
+168.3500               		 control to bravo 10, (unidentified)			
+168.3375	173.1375	Cheetah	Securicor Ltd., Dublin 6			
+				Unident.	(waste disposal)			
+168.3500	173.1500	Security Warden Services, Dublin 3			
+				Unident.
+168.5150	173.3150	Taxi Company (Dublin)				
+168.7000	173.5000					
+168.7250	173.5250	Jefferson Smurfit Group Ltd., Dublin 4 security			
+168.7500	173.5500	RTE (Dublin 2 Links)			
+168.7625	173.5625		RTE			
+168.7750	173.5750		RTE			
+168.7875	173.5875		RTE			
+168.8125	173.6125		RTE (Outside broadcast)			
+168.8250	173.6250		RTE (Telephone cct to Cooley tx 696925)		TC	
+168.8375	173.6375		RTE (outside broadcast)			
+168.8750	173.6750	Unident.	Dublin Airport			
+168.8875	173.6875		Ironsman Waste Disposal			
+168.9000	173.7000		RTE (outside broadcast)			
+168.9500	173.7500		police			
+168.9750	173.7750		police	
+
+		
+169 Megahertz
+
+169.0000	173.8000	police				
+169.0250	173.8250	police				
+169.0500	173.8500	police				
+169.0750	173.8750	police				
+169.1000	173.8900	police				
+169.1500	173.9500	police
+169.4750			Unidentified			
+169.5750			Coral's Bookmakers			
+169.7750			Unident.				
+169.8500			Aer Lingus, Avionics, Dublin Airport			
+169.8750			Aer Lingus, Dublin Airport
+				Irish Ferries, Dublin			
+169.8875			Unident.	Switzer & Co. Ltd. security			
+169.9000			Unident.	(security)
+
+			
+170 Megahertz
+170.1000			ESB			
+170.2000			ESB Howth-Inchicore link	81.2500		
+170.2500			ESB			
+170.2875			Unident.	(couriers)			
+170.3000			Eagle	Eagle Sec.Svcs.Ltd., Dublin 3			
+				ESB			
+170.3125			Unident.	(couriers)			
+170.4250			Unident.	(c/s X3, X4, X5)			
+170.5000			Dublin Board of Conservators			
+170.5125			Unident.				
+170.5875	165.7875	Dublin Co.Co. South. (Roads)			
+170.6000	165.8000	Unident.	Dublin Corporation Dangerous Bldgs. Section			
+				Unident.				
+170.6125	165.8125	Dublin Co.Co. North. (Roads)			
+170.6500	165.8500	Unident.	(security)			
+170.6750	165.8750	Colam	EHB, Loughlinstown	74.4000		
+170.7000	165.9000	Dublin Co.Co. (Sanitary Dept.)	464.1750		
+170.7125	165.9125	Dublin Co.Co. (Sanitary Dept.)	464.2570		
+170.7500	165.9500	(artificial insemenation service)	72.4500		
+170.8000	166.0000	CIE, Dublin - Phibsboro			
+170.8250	166.0250	CIE, Dublin - Phibsboro			
+170.8500	166.0500	CIE, Dublin - Donnybrook 1			
+170.8750	166.0750	CIE, Dublin - Donnybrook 2			
+170.9000	166.1000	CIE, Dublin - Phibsboro			
+170.9250	166.1250	CIE, Dublin - Clontarf			
+170.9500	166.1500	CIE, Dublin - Railway	468.7250		
+170.9750	166.1750	CIE, Dublin - Railway
+
+
+171 Megahertz
+
+171.0000	166.2000		CIE, Dublin - Railway			
+171.0250	166.2250		Dublin Bus - Ringsend (maintenance)			
+171.0500	166.2500		CIE, Dublin - Railway	468.7000		
+171.0750	166.2750		Dublin Bus - Conyngham Rd.			
+171.1000	166.3000		Dublin Bus - Bus maintenance/inspectors			
+171.1250	166.3250		Dublin Bus - Conyngham Rd.			
+171.1500	166.3500		Dublin Bus - Donnybrook 2			
+171.1750	166.3750		CIE, Dublin - Railway			
+171.2000	166.4000		Dublin Bus - Summerhill			
+171.2250	166.4250		Dublin Bus - Ringsend			
+171.2500	166.4500		Dublin Bus - Summerhill1			
+171.2750	166.4750		Dublin Bus - Donnybrook 1			
+171.3000	166.5000		Dublin Bus	468.4750	TM	
+171.3500	166.5500		Eagle	Eagle Security, Dublin 3			
+					Irish.Ind.	Irish Industrial Security, Dublin 7			
+					J.O'Sullivan & Co.s, Waterford			
+					Three Candles Printers Ltd., Dublin 2
+					Thomas Stafford & Sons Ltd., Dublin 3			
+					Unident.	(Couriers)
+					Shannon Airport			
+171.3625	166.5625		HE	Highway Express Dublin 8			
+					F.E.Smith Electrical Ltd., Dublin 2			
+					Tallagh Garages, Dublin 24			
+					Unident.	(couriers)			
+					Unident.	(machinery sales)			
+					Vigilant Security Co.Ltd., Dublin 12			
+171.3750				Mulvey & Co.Ltd., Dublin 14			
+					Unident.	(couriers)			
+					Unident.	(machinery repairs)			
+171.3875	166.5750		VIP Radio Taxis, Dublin 2			
+171.4000	166.6000		Cheetah	Securicor Ltd., Dublin 6	460.7500		
+171.4125	166.6125		Cargo
+					Colt	Bourke's Funeral Directors, Dublin 7
+					taxi co.			
+					Edwards, Dublin 1 (jewellers)			
+					King	Kingsley Couriers Ltd., Dublin 11			
+					Liam Browne Transport Ltd., Dublin Airport 			
+					Precision	Precision Heating, Dublin 9			
+171.4250	166.6250		ADAS				
+					Kenny	Kenny & Co.			
+					Pageboy Couriers, Dublin 16			
+171.4375	166.6375		Barton Coaches, Maynooth			
+					Business Equipment & Services Ltd., Dublin 9			
+					Quick	Quick Plumbing Ltd., Clondalkin			
+					Unident.	(glazing co.)			
+					Vinny Byrne Ltd., Dublin 7			
+171.4500	166.6500		Chubb	Chubb Alarms, Dublin 2			
+					Cork Taxi Co-op, Cork			
+171.4625	166.6625		Unident.  Rathgar Motor Factors, Dublin 6
+					(agric. sales)			
+171.4750	166.6750		McKone Group, Dublin 16
+					Myra Glass Co., Dublin 8			
+171.4875	166.6875		F.Manning & Co.			
+					Ocean & General Maritime Agencies, Dublin 2			
+171.5000	166.7300		Unident.	(truckers)			
+171.5250	166.7350		Unident.				
+171 5375	166.7375		Finnegan			
+					Unident.				
+171.5750	166.7750		O'Shea Security			
+					Unident.				
+171.5875	166.7875		Unident.	(couriers)			
+					Unident.	(couriers ch.2)			
+					Unident.	(security c/s 184, 221)		AM	
+171.6000	166.8000		City Cabs, Dublin 1			
+171.6125	166.8125		Kelly Aluminium			
+171.6250	166.8250		Asbestos Cement			
+					Bernard McMahon			
+					Unident.	(hauliers)			
+171.6375	166.8375		Acme Inks (I) Ltd., Dublin 24			
+					Fitzgerald & Sons Transport			
+					Mobile Auto.Svcs. Ltd., Tullaghan			
+					R.A Burke (Carriers) Ltd., Dublin			
+					St.Christopher Drivimg .School, Dublin
+					Sheridan Labs			
+					Unident.	(security)			
+					Unident.	(truckers)			
+171.6500	166.8500		Unident.	(couriers)			
+					Unident.	(florists)			
+					Unident.	(waste disposal)			
+171.6625	166.8625		Unident.	(builders providers)			
+171.6750	166.8750		Irish Aggregates			
+171.7125	166.9125		Norcom Telecom Ltd., Dublin 6		CRS	
+171.7375	166.9375		Borough	Borough Builders Ltd., Dublin 2			
+					DDS	Dublin Delivery Svc., Dublin 14			
+					Hartigan Roofing & Gen. Const. Ltd., 			
+					Leinster Glass Co.Ltd., Dublin 7			
+171.7500	166.9500		Dixon Haulage, Ballivor			
+					Unident.	(taxi co.)		AM	
+171.7625	166.9625		Heath
+					Rally	(couriers)
+					(truckers)			
+171.7750	166.9750		Dublin Stevedoring & Freight Ltd., Dublin 4			
+171.7875	166.9875		Unident.				
+					Western Contractors, Dublin			
+171.8000	167.0000		Eagle	Eagle Security, Dublin 3			
+171.8125	167.0125		Advance	Advance Haulage, Dublin 3			
+171.8250	167.0200		Line	BICC, Dublin 24
+					Meade Plant (Irl) Ltd., Dublin 16
+					McNeill			
+171.8375	166.0375		Bullarch			
+171.8500	167.0500		Cross	Cross Refrigeration Co. Ltd., Dublin 24			
+					Nixon	Myra Glass Co., Dublin 6
+					D J Nolan & Sons, Dublin 6 (elec. contrs.)
+					George Nixon Ltd., D.2			
+171.8625	167.0625		Cahill	
+					Film				
+					Geoghegan
+					Gowna	Daniel Geoghegan Haulage Ltd., Dublin 11
+					Gowna Construction Ltd., Dublin 3			
+171.8750	167.0750		Alfa
+
+					SD	Alfa Security Ltd., Dublin12
+					Avcom, Dublin 2
+171.8875	167.0875		Dr.Conlon			
+171.9000	167.1000		Alfred McNaughton			
+					Aer Lingus, Dublin Airport			
+171.9250	167.1250		Fruit Stores, Dublin 6
+					Motor Craft
+					Murphy Fenner & Murray, Dublin 12			
+					O'Brien	O'Brien Waste Disposal Ltd., Dublin 24			
+171.9375	167.1375		Unident.	(wholesale stationers)			
+171.9500	167.1500		Sugar	Sugar Distributors, Dublin 1			
+					Unident.				
+					Whiskey				
+171.9625	167.1625		Irish Radiophones, Dublin 2		CRS	
+171.9750	167.1750		Carphones Ltd., Dublin		CRS	
+171.9875	167.1875		Unident.	Executive Security Ltd., Stillorgan, D
+					(couriers)	
+
+
+172 Megahertz
+		
+						
+172.0000	167.2000		Access	Access Comms., Dublin			
+					City	City Security, Dublin			
+					Ranger	Ranger Security, Dublin 7			
+					Irish Motor Racing Club			
+					Unident.	(couriers)			
+172.2750	167.4750		Unident.			CRS	
+172.3000	167.5000		Dublin Corp.	454.1750		
+172.4000	167.6000		Tarmac		76.1500	AM	
+172.4500	167.6500		Unident.				
+172.5000	167.7000		Monkstown				
+172.6750	167.8750		(Co.Louth ambulance)			
+172.7250	167.9250		(Co.Louth ambulance)			
+172.8000				Unident.	(computer supplier)			
+					Unident.	(furniture supplier)			
+172.8250	168.0250		County	Allweather Marine Ltd., Dublin 2
+					Security Plus Ltd., Dublin 12			
+					Trust Warehousing Services Ltd., Dublin 5			
+172.8500	168.0500		Unident.	Kinsealy Farms Ltd., Malahide
+					(windscreen repairs)			
+172.8625	168.0625		Green Isle	Dyno Rod PLC, Dublin 2
+					Green Isle Ltd., Dublin 7			
+172.8750	168.0750		Metro	Metro Taxis, Dublin 4	464.3750		
+172.8875	168.0875		Unident	(security)			
+					Unident	(pricing TVs)			
+					Thomas J Farrington, Dublin 22 (vet)			
+					Unident				
+172.9000	168.1000		All Range Security Co. Ltd., Dublin 24
+					Anois Couriers, Dublin 1
+					Birds Eye Foods Ltd., Dublin 14			
+					Herbie	Smith's Building Supplies, Dublin 12.			
+172.9125	168.1125		Royal				
+					Unident.	(machine repairs)			
+172.9250	168.1250		Unident.	(truckers)			
+172.9375	168.1375		Unident.	(rubbish skips)			
+172.9500	168.1500		Cablelink, Dublin 4			
+172.9625	168.1625		Clean	(industrial cleaners)			
+					MB	Metropolitan Security Services Ltd., Dn1			
+172.9750	168.1750		Waverley Ambulance Svc., Dublin 8			
+172.9875	168.1875		Irish Ind.	Irish Industrial Gases Ltd., Dublin 12
+
+173 Megahertz
+
+173.0000	168.2000	MDA	Modern Display Artists, Dublin 4			
+				Unident.	(catering co.)			
+173.0125	168.2125	Unident.	(couriers)			
+				Unident.	(truckers)			
+				Unident.				
+173.0250	168.2250	Unident.				
+173.0375	168.2375	Unident.	(hardware)			
+				Unident.	(provincial)			
+173.0500	168.2500	Dorset				
+				Rover	DSPCA, Dublin 2		AM	
+173.0625	168.2625	Cargo				
+				Gala				
+				Unident.	(plant hire)			
+173.0875	168.2825	Unident.				
+173.1000	168.3000	Unident.	(breakdown svc.)			
+173.1125	168.3125	Unident.	(builders)			
+				Unident.	(fair ground)			
+173.1250	168.3250	Unident.	(delivery co.)			
+173.1375	168.3375	Cheetah	Securicor Ltd., Dublin 6			
+				Unident.	(waste disposal)			
+173.1500	168.3500	Security Warden Svcs., Dublin 3			
+				Unident.				
+173.5000	168.7000	RTE (outside broadcast)			
+173.5250	168.7250	Jefferson Smurfit Group Ltd., Dublin 4 security			
+173.5500	168.7500	RTE (Dublin 2 Links)			
+173.5625	168.7625	RTE			
+173.5750	168.7750	RTE			
+173.5875	168.7875	RTE			
+173.6125	168.8125	RTE (Outside broadcast)			
+173.6250	168.8250	RTE (Telephone cct to Cooley tx 696925)	TC		
+173.6375	168.8375	RTE (outside broadcast)			
+173.6750	168.8750	Unident.	Dublin Airport			
+173.6875	168.8875	Ironsman Waste Disposal			
+173.7000	168.9000	RTE (outside broadcast)			
+173.7500	168.9500	police			
+173.7750	168.9750	police			
+173.8000	169.0000	police			
+173.8250	169.0250	police			
+173.8500	169.0500	Halton Concrete Products Ltd., Rathoath, MH			
+173.8750	169.0750	police			
+173.9000	169.1000	police			
+173.9500	169.1500	police
+
+440 Megahertz
+
+
+440.0875                	unidentified (tone)	
+440.1250			Bord Gais Eireann			
+440.1500			Bord Gais Eireann	
+
+		
+441 Megahertz
+
+441.0000			Sierra	Modern Alarms Ltd., Dublin 2
+
+			
+450 Megahertz
+
+450.0500	464.0500		RTE, Donnybrook Studio. Live Feed for Late late show etc.
+450.1250	464.1250		RTE, Dublin 4 (outside broadcast)			
+450.2250	464.2250		Metam	EHB-Dublin	84.6000		
+450.2500	464.2500		Dublin Co. Co. Sanitary Dept	170.7125		
+450.2750	464.2750		Tango	(waste disposal)			
+450.3000	464.3000		Concrete				
+450.3750	464.3750		Metro Taxis, Dublin 4	84.8750		
+450.4750	464.4750		New Dublin Gas Co., Dublin 2.			
+450.5750	464.5750		Oil				
+450.6000	464.6000		Premier Dairies, Dublin 11
+450.7250	464.7250		Unidentified (Data)			
+450.7500	464.7500		R	Customs & Excise, Dublin 2			
+450.8250	464.8250		Unident				
+450.8000	464.8000		Unident				
+450.8250	464.8250		Bell Comms, Dublin	153.0125	PA	
+450.9000	464.9000		Contactors, Dublin 7	153.2750		
+450.9250	464.9250		Firstcall Comms., Dublin 6	153.2000	PA	
+450.9500	464.9500		Executone Paging Sys.Ltd., Dn 6	153.6750	PA	
+450.9750	464.9750		Skyline Comms., Dublin 7	153.2250	PA
+
+	
+451 Megahertz
+
+451.0250	465.0250		Dublin Gas Co. Ltd., Dublin 2			
+451.0750	465.0750		Wheatfield Prison, Dublin 22 (security)			
+451.1250	465.1250		Ryan Air, Dublin Airport			
+451.1500	465.1500		Postal	An Post Express Mail (south Dublin districts)			
+451.1750	455.1750		Postal	An Post Express Mail (north Dublin districts)			
+451.3000	465.3000		Dublin Gas Co. Ltd., Dublin 2 (conversions)
+451.3750	465.3750		Unidentified			
+451.4000	465.4000		Brinks Allied Ltd., Dublin 8	
+451.4500	465.4500		Unidentified		
+451.5000	465.5000		Dublin Gas Co. Ltd., Dublin 2			
+451.7250	465.7250		Wheatfield Prison, Dublin 22 (security)	
+451.7500	465.7500		Unidentified (calling industrial supervisor)	
+451.9000	465.9000		Unidentified
+
+	
+452 Megahertz
+
+452.2500	466.2500		Live Outside Broadcast from Point Depot (Feb 21st 1998 at 17.21)
+452.3250	466.3250		RJF	R J F Securities, Dublin 24	
+452.4000	466.4000		Live Outside Broadcast from Point Depot (Feb 21st 1998 at 17.21)		
+452.8250	466.8250		Bell Communications, Dublin 3			
+452.9000	466.9000		Contactors Bureau, Dublin 7			
+452.9250	466.9250		Superpage Communications, Dublin 6			
+452.9500	466.9500		Executone Paging Systems Ltd., Dublin 6			
+452.9750	466.9750		Air Call (Irl) Ltd., Dublin 14	
+
+		
+453 Megahertz
+
+453.0000	459.5000		Roadstone?			
+453.0250	459.5250		Irish Rail, Dublin (freight)			
+453.0500	459.5500		Mountjoy Prison, Dublin (security)			
+453.0750	459.5750		Undent.	(customs agents)
+453.0875	459.5875		Unidentified as of Feb 21st 1998			
+453.1000	459.6000		Lagan
+					Unident.	Lagan Base to Lagan 2,3
+					(inhouse security)			
+					Unident	(headoffice to Santry)			
+					Unident.	(Ladders)
+					Aer Rianta Duty Electrician, Shannon Airport			
+453.1250	459.6250		Belfield 
+					Aer Rianta Duty Electrician, Dublin Airport
+					UCD, Dublin (security)			
+453.1500	459.6500		Unident.	B & I, North Wall, Dublin 1			
+453.1750	459.6750		Irish Rail, Dublin (freight)
+453.1875	459.6875		Taxi Company, Dublin (name unknown)						
+453.2000	459.7000		Arbor Hill Prison, Dublin (security)			
+453.2250	459.7250		Ground Ops,Dublin Airport
+					Irish Rail, Heuston Station, Dublin			
+					Unident.	(bar and catering supplies)			
+					Unident.	(builders)			
+453.2500	459.7500		Dublin Corporation Fire Dept.		w/t	
+453.2750	459.7750		Aer Lingus, Dublin Airport minibuses			
+453.3000	459.8000		Primark	Primark Ltd., Dublin 1			
+453.3250	459.8250		Safety	ADT Ltd., Dublin 7
+					Aer Lingus Maintenance, Shannon Airport, CE			
+453.3500	459.8500		Unident.	(secuity co.)			
+453.3750	459.8750		Delta Security Ltd., Dublin 18
+					New Dublin Gas Co., Dublin 2			
+453.4000	459.9000		Aer Lingus Load Planning, Dublin Airport
+					McLaughlin and Harvey (builders)
+					SRS Ops, Shannon Airport			
+					Dun Laoghaire Harbour police			
+453.4250	459.9250		Foster				
+453.4500	459.9500		Heiton
+					Heiton McFerran Ltd., Dublin 22
+					Rangers, Phoenix Park, Dublin (security)			
+453.4750	459.9750		Aer Lingus, Passenger Handling, Irish Airports			
+453.5000	453.5000		Alpha	U.S. Embassy			
+453.5250	460.0250		Unident.				
+453.5750	460.0750		Trinity College, Dublin (security)			
+453.6000	460.1000		Belgard
+					Curragh	
+					East Coast	Dublin Co.Co. Roads Dept.
+					(heating equipment)
+					East Coast Car Parts Ltd., Dublin 24			
+453.6500	460.1500		Tiger	(security)			
+					Unident.	(inhouse paging?)			
+453.6750	460.1750		Unident.				
+453.7000	460.2000		Unident.				
+453.7250	460.2250		Dublin Corporation	82.3000		
+453.7500	460.2500		Unident.				
+453.7750	460.2750		Aer Lingus, Dublin Airport			
+					Dublin Harbour Police			
+453.8000	460.3000		Unident.	(security c/s B7, D4, G1))			
+453.8250	460.3250		Nap
+					Unident.	ch.1
+					Shell, Dublin Airport fuel tankers
+					(cranes)			
+453.8500	460.3500		Cheetah	Securicor Ltd., Dublin 6			
+453.8750	460.3750		Unident.	(docks)			
+453.9000	460.4000		Unident.	(docks)			
+453.9250	460.4250		Unident.	(building site)			
+453.9500	460.4500		Burma				
+					Jet				
+					Nap	Ch.2			
+					Shell				
+453.9750	460.4750		Sierra	Centurion Security, Dublin	
+
+		
+454 Megahertz
+
+454.0000	468.0000		Purolator Services Ltd., Dublin 11	163.8375		
+454.0500	468.0500		Unident.				
+454.0750	468.0750		Doctor on Call, Dublin 6 (GS)			
+454.1000	468.1000		Unident.				
+454.1250	468.1250		Unident.				
+454.1750	468.1750		Dublin Co. Co. Sanitary Dept.	165.9000		
+454.2500	468.2500		Cheetah	Securicor Ltd., Dublin 6			
+454.2750	468.2750		Irish Rail, Pearse Station, Dublin 2		TM	
+454.3750	468.3750		Murphy	(cranes)			
+454.4500	468.4500		Unident.				
+454.4750	468.4750		Dublin Bus, Dublin 1	166.5000	TM	
+454.5000	468.5000		Dublin Bus, Dublin 1	166.5000	TM	
+454.6250	468.6250		New Dublin Gas Co., Dublin 2	87.3625		
+454.6500	468.6500		Sisks	J.Sisk & Sons, Dublin		TC	
+454.7000	468.7000		Irish Rail, Dublin	166.2500		
+454.7250	468.7250		Irish Rail, Dublin	166.1500 		
+454.8500	468.8500		Colam	EHB, Loughlinstown, D			
+454.9000	468.9000		Metam	EHB, Dublin	84.8250
+
+455 Megahertz
+
+455.5000	469.5000		police			
+455.5250	469.5250		police			
+455.5500	469.5500		police			
+455.5750	469.5750		police			
+455.6000	469.6000		police			
+455.6250	469.6250		police			
+455.6500	469.6500		police			
+455.6750	469.6750		police			
+455.7000	469.7000		police			
+455.7250	469.7250		police	(eastern division control frequency)		
+455.7500	469.7500		police	(north central division control frequency)		
+455.7750	469.7750		police	(northern division control frequency)		
+455.8000	469.8000		police	(south central division control frequency)		
+455.8250	469.8250		police	(southern division control frequency)		
+455.8500	469.8500		Quicklink, Dublin 6	153.0750	PA	
+455.8750	469.8750		Pageboy Comms., Dublin 14	163.2125	PA	
+455.9250	469.9250		Despatch	IBM (Ireland) Ltd., Dublin 4	153.3250	PA	
+455.9500	469.9500		Pageboy Comms., Dublin 14	164.9500	PA	
+455.9750	469.9750		Aircall, Dublin 4	469.9750	PA
+
+	
+456 Megahertz
+
+456.0250	461.5250		RTE, Dublin 4 (outside broadcast)
+					T McInerney & Co. Ltd., Dublin12-			
+456.0750	461.5750		Irish Life Mall (security)			
+456.1750	461.6750		Irish Rail, Dublin - DART (Howth Junction)			
+456.2000	461.7000		Irish Rail, Dublin, Waterford			
+456.2250	461.7250		Irish Rail, Dublin - DART (Connolly Station)			
+456.2500	461.7500		Irish Rail, Dublin, Waterford			
+456.2750	461.7750		Irish Rail, Dublin - DART (Dun Laoghaire)			
+456.3000	461.8000		Irish Rail, Dublin, Waterford			
+456.3250	461.8250		Airport Police, Irish Airports			
+456.3750	461.8750		Irish Rail, Dublin - DART (Emergency)			
+456.4250	461.9250		Irish Rail, Leixlip Station, KE			
+456.4500	456.9500		Irish Rail, Dublin			
+456.4750	461.9750		Unident.			CRS	
+456.5000	462.0000		Dr. James D Behan, Dublin 8			
+456.5250	462.0250		Unident.	Aer Rianta, Dublin Airport			
+456.5500	462.0500		Unident.		166.3750		
+456.5750	462.0750		Civil Defence			
+456.6250	462.1250		TNT	TNT Couriers, Dun Laoghaore			
+456.6500	462.1500		National Fire Dept. Frequency		w/t	
+456.7000	462.2000		Mocom	Motorola Ltyd., Dublin 9			
+456.7250	462.2250		Postal	An Post - Express Mail			
+456.7500	462.2500		EHB, Dublin		w/t	
+456.7750	462.2750		Unident.			CRS	
+456.8000	462.3000		Safety	ADT Ltd., Dublin 7			
+456.8250	462.3250		Bord Failte, Dublin (inter-office)			
+456.8750	462.3750		Unidentified. (callsign Echo)	
+456.9000	462.4000		Executive Communications, Blackrock		CRS	
+456.9500	462.4500		EHB, Dublin (handheld walkie talkie)	
+456.9750	462.4750		EHB, Dublin (handheld walkie talkie)	
+
+	
+
+457 Megahertz
+
+457.0500	462.5500		Unident.	CRS	
+457.1000	462.6000		TC	
+457.1250	462.6250		TC	
+457.4000	462.9000		Carrow
+					String.	(couriers)			
+457.5000	463.0000		Dublin Corp. Fire Dept. Ch.1 (appliances)	84.2750		
+457.5250				Marine on-board handheld comms. (ch.1)			
+457.5500				Marine on-board handheld comms. (ch.2)			
+457.5750				Marine on-board handheld comms. (ch.3)			
+457.6000	463.1000		Unident.	(inhouse)		PA	
+457.6250	463.1250		ESB - Woodlands		TC	
+457.6750	463.1750		Unident.			TC	
+457.7500	463.2500		ESB		TC	
+457.8500				Unident.	(inhouse)		PA	
+
+
+458 Megahertz
+
+458.275					unidentified tones 
+458.3000				unidentified tones (same as above)
+458.3250				unidentified tones (same as above)
+458.4000	463.9000		ESB		TC	
+458.4250.	463.9250		Unident			TC	
+458.4500	463.9500		Unident			TC	
+458.4750	463.9750		Unident			TC	
+458.8500				Unident.	(Inhouse)		PA?	
+
+
+459 Megahertz
+
+459.3750				Gresham Hotel, Dublin 1(inhouse security)	161.0625		
+459.5000	453.0000		Roadstone?			
+459.5250	453.0250		CIE, Dublin-Railway
+459.5250        453.0250                Ardkeen Hospital Security Waterford City			
+459.5500	453.0500		Mountjoy Prison, Dublin (security)			
+459.5750	453.0750		Undent.	(customs agents)			
+459.6000	453.1000		Unident.	(inhouse security)			
+					Unident	(headoffice to Santry)			
+					Unident.	(ladders)			
+459.6250	453.1250                (Unidentified in Dublin)
+459.6250        453.1250                Waterford Port (Crane Control) Waterford City	
+					Belfield  Aer Rianta, Duty Electrician, Shannon Airport	
+					UCD, Dublin (security)			
+459.6500	453.1500		Unident.	(shiping agency)			
+459.6750	453.1750		CIE, Dublin-Railway			
+459.7000	453.2000		Arbor Hill Prison, Dublin (security)			
+459.7250	453.2250		Ground Ops,Dublin Airport
+					Ground Ops,Dublin Airport			
+					Unident.	(bar and catering supplies)			
+					Unident.	(builders)			
+459.7500	453.2500		Dublin Corporation Fire Dept.		w/t	
+459.7750	453.2750		Aer Lingus minibuses			
+459.8000	453.3000		Primark	Primark Ltd., Dublin 1			
+459.8250	453.3250		Safety	ADT Ltd., Dublin 7
+					Aer Lingus Maintenance, Shannon Airport, CE			
+459.8500	453.3500		Unident.	(secuity co.)			
+459.8750	453.3750		New Dublin Gas Co., Dublin 2			
+459.9000	453.4000		Aer Lingus, Load Planning, Dublin Airport
+					McLaughlin and Harvey (builders)
+					SRS Ops, Shannon Airport			
+					Dun Laoghaire Harbour police			
+459.9250	453.4250		Foster				
+459.9500	453.4500		Heiton
+					Heiton McFerran Ltd., Dublin 22
+					Rangers, Phoenix Park, Dublin (security)			
+459.9750	453.4750		Aer Lingus, Passenger Handling, Irish Airports	
+
+		
+460 Megahertz
+
+460.0000	453.5000		Alpha	U.S. Embassy			
+460.0250	453.5250		Unident.				
+460.0750	453.5750		Trinity College, Dublin (security)			
+460.1000	453.6000		Unident.				
+460.1500	453.6500		Tiger	(security)			
+					Unident.	(inhouse paging?)			
+460.1750	453.6750		Unident.				
+460.2000	453.7000		Unident.				
+460.2250	453.7250		Dublin Corporation	82.3000		
+460.2500	453.7500		Unident.				
+460.2750	453.7750		Aer Lingus, Dublin Airport			
+					Dublin Harbour Police			
+460.3000	453.8000		Unident.	(security c/s B7, D4, G1))			
+460.3250	453.8250		Unident.	(cranes)			
+460.3500	453.8500		Cheetah	Securicor Ltd., Dublin 6			
+460.3750	453.8750		Unident.	(docks)			
+460.4000	453.9000		Unident.	(docks)			
+460.4250	453.9250		Unident.	(building site)			
+460.4500	453.9500		Burma				
+					Jet				
+					Nap				
+					Shell				
+460.4750	453.9750		Unident				
+460.5000	467.0000		Pageboy Comms., Dublin 14	163.9750	PA	
+460.5250	467.0250		Kilam	EHB Kildare	84.7250		
+460.5500	467.0750		Donam	NWHB Donegal	84.8000		
+460.6500	467.1500		Avonmore Creameries, Dublin 12			
+460.6750	467.1750		Unident.			TC	
+460.7000	467.2000		Dublin Corp. Fire Dept. Ambulances ch.2	84.3500
+460.7000        467.2000                Fire Brigade Waterford County		
+460.7500	467.2250		Cheetah	Securicor Ltd., Dublin 6	166.6000		
+460.8000	467.3000		Blue Cabs Ltd., Dublin 2	85.9500		
+460.8250	467.3250		Telecom	Telecomm. Ltd., Dublin 11
+					intermittant transmissions of background noises?			
+460.8500	467.3500		National Radio Cabs Co-Op Soc. Ltd., Dublin 8	86.6500		
+460.8750	467.3750		Unident.				
+460.9000	467.4000		Irish Taxi Owners Co-op, Dublin 2	86.5000		
+460.9250	467.4250		Unident.				
+460.9500	467.4500		Thomas J Farrington, Dublin 22 (vet)
+
+461 Megahertz
+
+
+461.0000	467.5000		New Dublin Gas Co., Dublin 2	87.3625		
+461.1500	467.6500		Unident.			CRS	
+461.1750				Superpage, Dublin 2		PA	
+461.2250	467.7250		Fanum	Automobile Association, Dublin 2	85.5000		
+461.2500	467.7500		police	84.0250		
+461.2750	467.7750		Safety	ADT Ltd., Dublin 7			
+461.3500	467.8500		Contactors, Dublin 7	164.4750		
+461.4000	467.9000		police	81.9500		
+461.4250	467.9250		police			
+461.4500	467.9500		police	81.9750		
+461.4750	467.9750		police
+461.5250				unidentified (could be Taxi Co.)?			
+461.5750	456.0750		Irish Life Mall (security)			
+461.6750	456.1750		Irish Rail, Dublin - DART	(Waterford)		
+461.7000	456.2000		Irish Rail, Dublin			
+461.7250	456.2250		Irish Rail, Dublin - DART			
+461.7500	456.2500		Irish Rail, Dublin			
+461.7750	456.2750		Irish Rail, Dublin - DART			
+461.8000	456.3000		Irish Rail, Dublin			
+461.8750	456.3750		Irish Rail, Dublin - DART			
+461.9750	456.4750		Unident.			CRS
+
+	
+462 Megahertz
+
+462.0250	456.5250		Unident.	(security)			
+462.0500	456.5500		Unident.		171.1750		
+462.0750	456.5750		Civil Defence			
+462.1250	456.6250		TNT	TNT Couriers, Dun Laoghaore			
+462.2000	456.7000		Mocom	Motorola Ltyd., Dublin 9			
+462.2250	456.7250		Postal	An Post - Express Mail			
+462.2500	456.7500		EHB, Dublin		w/t	
+462.2750	456.7750		Unident.			CRS	
+462.3000	456.8000		Safety	Ross Security, Dublin 2			
+462.3250	456.8250		Bord Failte, Dublin (inter-office)			
+462.3750	456.8750		Unident.			CRS	
+462.4000	456.9000		Executive Comms., Blackrock		CRS	
+462.4500	456.9500		EHB, Dublin		w/t	
+462.4750	456.9750		EHB, Dublin		w/t	
+462.5500	457.0500		Unident.			CRS	
+462.6000	457.1000		Unident			TC	
+462.6250	457.1250		Unident.			TC	
+462.9000	457.4000		Unident.	(couriers)	
+
+		
+463 Megahertz
+
+463.0000	457.5000		Dublin Corp. Fire Dept.	74.5000		
+463.1250	457.6000		ESB - Woodlands		TC	
+463.1750	457.6750		Unident.			TC	
+463.2500	457.7500		ESB		TC	
+463.9000	458.4000		ESB		TC	
+463.9250	458.4250.		Unident.			TC	
+463.9500	458.4500		Unident.			TC	
+463.9750	458.4750		Unident.			TC	
+
+
+464 Megahertz
+
+464.2250	450.2250		Metam	EHB-Dublin 74.3750 (continuos tones)	
+464.2500	450.2500		Dublin Co. Council Sanitary Dept	165.9125		
+464.2750	450.2750		Tango	(waste disposal)			
+464.3000	450.3000		Concrete				
+464.3750	450.3750		Metro Taxis, Dublin 4	74.6500		
+464.4750	450.4750		New Dublin Gas Co., Dublin 2.			
+464.5750	450.5750		Oil				
+464.6000	450.6000		Premier Dairies, Dublin 11			
+464.7500	450.7500		R	Customs & Excise, Dublin 2			
+464.8250	450.8250		Unident.
+
+				
+465 Megahertz
+
+465.0250	451.0250		Dublin Gas Co. Ltd., Dublin 2			
+465.0750	451.0750		Wheatfield Prison, Dublin 22 (security)
+465.1000        465.1000                Courier (Fastrack) Waterford City		
+465.1250	451.1250		Ryan Air, Dublin Airport			
+465.1500	451.1500		Postal	An Post Express Mail (south Dublin districts)			
+465.1750	451.1750		Postal	An Post Express Mail (north Dublin districts)			
+465.3000	451.3000		Dublin Gas Co. Ltd., Dublin 2 (conversions)			
+465.4000	451.4000		Brinks Allied Ltd., Dublin 8
+465.4500	451.4500		Unidentified				
+465.5000	451.5000		Dublin Gas Co. Ltd., Dublin 2			
+465.7250	451.7250		Wheatfield Prison, Dublin 22 (security)	
+465.7500	451.4500		Unidentified
+
+		
+466 Megahertz
+
+466.3250	452.3250		RJF	R J F Securities, Dublin 24			
+466.8250	452.8250		Bell Communications, Dublin 3			
+466.9000	452.9000		Contactors Bureau, Dublin 7			
+466.9250	452.9250		Superpage Communications, Dublin 6			
+466.9500	452.9500		Executone Paging Systems Ltd., Dublin 6			
+466.9750	452.9750		Air Call (Irl) Ltd., Dublin 14	
+
+		
+467 Megahertz
+
+467.0250	460.5250		Kilam	EHB Kildare	74.5000		
+467.0500	460.5500		Donam	NWHB Donegal	74.5750		
+467.1500	460.6500		Avonmore Creameries, Dublin 12			
+467.1750	460.6750		Unident.			TC	
+467.2000	460.7000		Dublin Corp. Fire Dept.	74.0500		
+467.2500	460.7500		Cheetah	Securicor Ltd., Dublin 6	171.4000		
+467.3000	460.8000		Unident.	(taxi co.)	76.3500		
+467.3250	460.8250		Telecomm. Ltd., Dublin 11			
+467.3500	460.8500		National Radio Cabs Co-Op Soc. Ltd., Dublin 8	77.6500		
+467.3750	460.8750		Unident.				
+467.4000	460.9000		Irish Taxi Owners Co-op, Dublin 2	77.5000		
+467.4250	460.9250		Unident.				
+467.5000	461.0000		New Dublin Gas Co., Dublin 2	77.7625		
+467.6500	461.1500		Unident.			CRS	
+467.7250	461.2250		Fanum	Automobile Assoc., Dublin 2	75.9000		
+467.7500	461.2500		police	73.8000		
+467.8500	461.3500		Contactors, Dublin 7	159.92750		
+467.9000	461.4000		police	71.9250		
+467.9250	461.4250		police			
+467.9500	461.4500		police	71.9500		
+467.9750	461.4750		police	
+
+		
+468 Megahertz
+
+468.0000	454.0000		Purolator Services Ltd., Dn 11	159.3375		
+468.0500	454.0500		Unident.				
+468.0750	454.0750		Doctor on Call, Dublin 6 (GS)			
+468.1000	454.1000		Unident.				
+468.1250	454.1250		Unident.				
+468.1750	454.1750		Dublin Co. Co. Sanitary Dept.	170.7000		
+468.2500	454.2500		Cheetah	Securicor Ltd., Dublin 6	
+468.2750				Coded data? (unidentified)		
+468.3750	454.3750		Murphy	(cranes)			
+468.4500	454.4500		Unident.				
+468.4750	454.4750		CIE, Dublin	171.3000	TM	
+468.5000	454.5000		CIE, Dublin	171.3000	TM	
+468.6250	454.6250		New Dublin Gas Co., Dublin 2	78.3625		
+468.6500	454.6500		Sisks	J.Sisk & Sons, Dublin		TC	
+468.7000	454.7000		CIE, Dublin-Railway	171.0500		
+468.7250	454.7250		CIE, Dublin-Railway	170.9500
+468.7500				Coded data? (unidentified) 		
+468.8500	454.8500		Unident.				
+468.9000	454.9000		Metam	EHB-Dublin	74.6000
+
+469 Megahertz
+469.4500	455.4500		police  Bravo bases
+469.5000	455.5000		police			
+469.5250	455.5250		police			
+469.5500	455.5500		police			
+469.5750	455.5750		police			
+469.6000	455.6000		police			
+469.6250	455.6250		police			
+469.6500	455.6500		police			
+469.6750	455.6750		police			
+469.7000	455.7000		police			
+469.7250	455.7250		police			
+469.7500	455.7500		police			
+469.7750	455.7750		police			
+469.8000	455.8000		police			
+469.8250	455.8250		police
+469.8500				unidentified pager, heard Feb 21 1998			
+469.9750	455.9750		Aircall, Dublin 4		PA
+
+
+Dublin Area Police Information
+
+455.7750MHz Control frequency for:  HOTEL / JULIET / ROMEO / KILO
+
+                                    HOTEL ALPHA   = SANTRY
+                                    HOTEL BRAVO   = WHITEHALL
+                                    HOTEL CHARLIE = BALLYMUN
+
+                                    JULIET ALPHA  = RAHENY
+                                    JULIET BRAVO  = CLONTARF
+                                    JULIET CHARLIE= HOWTH
+
+                                    ROMEO ALPHA   = COOLOCK
+                                    ROMEO BRAVO   = SWORDS
+                                    ROMEO CHARLIE = MALAHIDE
+                               
+                                    KILO ALPHA    = CABRA
+                                    KILO BRAVO    = FINGLAS
+                                    KILO CHARLIE  = BLANCHARDSTOWN
+
+
+455.7500MHz Control Frequency for :  DELTA / UNIFORM / CHARLIE
+                                    DELTA ALPHA   = BRIDEWELL
+                    
+                                    UNIFORM ALPHA = ?
+                                    UNIFORM BRAVO = ?
+                                           
+                                    CHARLIE ALPHA = STORE STREET
+
+455.7250MHz Control Frequency for :   FOXTROT / NOVEMBER / WHISKY
+
+                                     FOXTROT ALPHA   = DUN LAOGHAIRE
+                                     FOXTROT BRAVO   = DALKEY
+                                     FOXTROT CHARLIE = KILL O' THE GRANGE
+                                     FOXTROT DELTA   = CABINTEELY
+
+                                     NOVEMBER ALPHA   = BRAY
+                                     NOVEMBER BRAVO   = GREYSTONES
+                                     NOVEMBER CHARLIE = SHANKILL
+
+                                     WHISKY ALPHA     = BLACKROCK
+                                     WHISKY BRAVO     = DUNDRUM
+                                     WHISKY CHARLIE   = STEPASIDE
+
+455.8000MHz Control Frequency for :   ECHO / BRAVO / ALPHA
+
+                                     ECHO ALPHA    = DONNYBROOK
+                                     ECHO BRAVO    = IRISHTOWN
+
+                                     BRAVO ALPHA   = PEARSE STREET
+                                     BRAVO CHARLIE = HARCOURT TERRACE
+
+                                     ALPHA BRAVO   = KEVIN STREET
+                                     ALPHA CHARLIE = KILMAINHAM
+
+455.8250MHz Control Frequency for :   LIMA / MIKE / PAPA / GOLF
+
+                                     LIMA ALPHA   = BALLYFERMOT
+                                     LIMA BRAVO   = CLONDALKIN
+                                     LIMA CHARLIE = LUCAN
+                                     LIMA DELTA   = RONANSTOWN
+
+                                     MIKE ALPHA   = TALLAGHT
+                                     MIKE BRAVO   = RATHFARNHAM
+
+                                     PAPA ALPHA   = RATHMINES
+                                     PAPA BRAVO   = TERENURE
+
+                                     GOLF ALPHA   = CRUMLIN
+                                     GOLF BRAVO   = SUNDRIVE ROAD
+
+_____________________________________________________________________
+NORTHERN DIVISION   455.7750 MHz        NORTH CENTRAL    455.7500 MHz
+SOUTHERN DIVISION   455.8250 MHz        SOUTH CENTRAL    455.8000 MHz
+EASTERN DIVISION    455.7250 MHz        ARMED DIVISION   455.0750 MHz
+DRUG SQUAD          455.0500 MHz
+_____________________________________________________________________
+
+OSCAR Units (Special Branch)       BASE                  MOBILE
+                                   455.0000MHz            469.0000MHz
+                                   455.0250MHz            469.0250MHz
+                                   455.0500MHz            469.0500MHz
+SIERRA Units (Armed)               455.0750MHz            469.0750MHz
+                                   455.1000MHz            469.1000MHz
+TANGO Units (Traffic Bikes)        455.1250MHz            469.1250MHz
+                                   455.1500MHz            469.1500MHz
+
+
+VICTOR (Mobile Base Station used for special events etc.)
+       (has often been set up at thePoint Depot)..........164.1500MHz
+YANKEE (Base) location unknown ...........................164.0500MHz
+GREEN MAN (Call Boxes) Cellbridge ........................164.1250MHz
+
+Northern Division Control Secondary Frequency.............461.4000MHz
+Northern Division Mobiles Output Frequency................467.9000MHz
+
+
+
+CALL SIGN         STATION                         FREQUENCY
+
+Alpha             Kevin Street/Kilmainham         164.375
+Bravo             Pearse St./Harcourt Tce.        164.060
+Charlie           Store Street                    164.265
+Delta             Bridewell                       164.350
+Echo              Donnybrook/Irishtown            164.325
+Foxtrot           Dun Loaghaire/Dalkey
+                  Cabinteely/Kill o' the grange   164.300
+Golf              Sundrive Rd./Crumlin            164.400
+Hotel             Santry/Ballymun/Whitehall       164.160
+Juliet            Raheny/Clontarf/Howth           164.285
+Kilo              Cabra/Blanchardstown
+                  Finglas                         164.360
+Lima              Ballyfermot/Lucan
+                  Clondalkin/Ronanstown           164.085
+Mike              Tallaght/Rathfarnham            164.335
+November          Bray/Shankill/Greystones        164.035
+Papa              Rathmines/Terenure              164.250
+Uniform           Mountjoy/Fitzgibbon St.         164.310
+Whisky            Dundrum/Blackrock
+                  Stepaside                       164.275
+
+
+National Scanner Frequencies
+
+Sligo
+
+68 MHz to 88 MHz
+
+68.4200 Telecom Eireann
+69.2750 Unidentified (mentioned Mitsubishi Canter van)
+69.3850 Unidentified
+69.8350 Harringtons Quarry
+70.1100 Unidentified
+71.1500 Unidentified
+71.1600 Unidentified
+71.1750 Unidentified
+71.2250 ESB
+71.3350 police (mobile)
+71.4350 police (Mobile)
+72.1750 Unidentified
+72.3750 ESB
+73.4700 City Cabs 
+73.5875 Unidentified
+73.6600 Vet
+73.7300 Finnegans Cabs 
+74.0150 police (mobile)
+74.1750 Fire Brigade
+74.2750 Sam Tool Hire
+74.3650 Unidentified
+74.5700 Ambulance
+75.2500 Terry McTiernans Cabs 
+75.8500 Unidentified (Come in Cyril)
+75.8900 Vet
+76.2900 Feehilys Cabs 
+76.4000 Eamonn McTiernans Cabs 
+78.1875 Irregular Tone Bursts
+79.5100 Guinnes Group Sales
+79.5350 NCF Dairies
+79.5650 Deliveries
+79.6900 Unidentified
+81.0500 Unidentified
+81.2250 ESB
+81.2600 Telecom Eireann
+81.4250 Unidentified possibly ESB
+82.4400 ESB
+82.5400 Unidentified (from Lifford Co Donegal)
+82.5625 Unidentified
+83.2400 Unidentifed (possible long distance lorry delivery service)
+83.7500 Unidentified
+84.1150 police (Base) ?
+84.2250 ESB
+84.2350 police (Base) Sligo (Victor Alpha)
+84.4250 Fire Brigade
+84.8000 Ambulance
+85.0500 Poss Terry McTiernan's Taxi's
+85.3400 Eagle Cabs 
+85.3850 Skip Lorry
+85.7850 Vet
+85. 8400 Ace Cabs 
+85.8750 Elliotts Cabs 
+86.3750 Unidentified (Come in No 9)
+
+
+**************************************** 
+
+122.1000 Sligo Airport
+141.0250 Unidentified
+
+
+144 MHz to 174 MHz 
+
+154.0250 Customs & Excise
+154.0750 Cutoms & Excise
+154.1000 Customs & Excise
+155.0000 RUC Northern Ireland
+155.0250 RUC Northern Ireland
+155.0750 RUC Northern Ireland
+155.1650 RUC Northern Ireland
+155.5000 RUC Northern Ireland
+155.6500 RUC Northern Ireland
+156.6000 Sligo Harbour (Working Channel)
+156.8000 Sligo Harbour (Calling Channel)
+159.2350 Unidentified
+159.3000 Vincent McDonagh
+161.0250 Unidentified
+163.7950 Vincent McDonagh
+164.8850 Telecom Eireann
+168.7250 Unidentified (Come in Bernard)
+
+
+********************************* 
+
+430 MHz to 512 MHz
+
+460.5500 Fire Brigade
+461.1750 Unidentified
+461.3750 Ambulance
+461.8750 Ambulance
+467.0500 Fire Brigade
+467.8700 Ambulance
+
+
+
+
+
+
+
+
+
+
+
+Nationwide
+
+
+      73.0500                  PMR Tipperary
+      73.3875                  Talkthrough Repeater Tipperary
+      73.4625                  Mc Carthy & Mc Grath Ltd Cork
+      73.4750                  PMR Tipperary
+      74.4750                  Corkham Cork
+      76.3375                  PMR Tipperary
+      78.6250                  CBS Tipperary
+      78.7000                  CBS Tipperary
+      78.7625                  CBS Tyrone
+      78.7875                  Talkthrough Repeater Tipperary
+      78.8125                  CBS Tipperary
+      78.8500                  Talkthrough Repeater Tipperary
+      78.8875                  Talkthrough Repeater Tipperary
+      78.9125    5-Tone        CBS Tipperary
+      78.9375                  CBS Tipperary
+      78.9875                  CBS Tipperary
+      79.3500                  CBS Tipperary
+      79.0625                  CBS Tipperary
+      79.0875                  CBS Tipperary
+      79.1375                  Talkthrough Repeater Tipperary
+      79.2000    CONTROL       PMR Tipperary
+      79.3875                  CBS Tipperary
+      79.4000                  PMR Tipperary
+      79.4125                  CBS Tipperary
+      79.4250                  CBS Tipperary
+      79.4375                  CBS Tipperary
+      79.4500                  CBS Tipperary
+      79.4750                  CBS Tipperary
+      79.5125                  CBS Tipperary
+      79.6500                  CBS Tipperary
+      79.6625                  CBS Tipperary
+      79.8500                  CBS Tipperary
+      80.9375                  Trunk System Tipperary
+      80.9500                  Trunk System Tipperary PSTN Interconnect
+      81.1375                  Trunk System Tipperary PSTN Interconnect
+      81.1625                  Trunk System Tipperary
+      81.2250                  CBS Tipperary
+      81.2625                  Trunk System Tipperary PSTN Interconnect
+      81.3125                  Trunk System Tipperary
+      81.4125                  Trunk System Tipperary
+      81.4250                  Trunk System Tipperary
+      81.4500                  Trunk System Tipperary PSTN Interconnect
+      82.0750                  CBS Tipperary
+      82.4750                  Trunk System Tipperary
+      82.5250                  Trunk System Tipperary
+      82.5750     5-Tone       Tipperary
+      82.9250                  CBS Tyrone
+      82.9750                  CBS Tyrone
+      83.3125                  Simplex PMR Tipperary
+      83.5250                  CBS Tyrone
+      83.6875                  Mc Carthy & Mc Grath Ltd Cork
+      84.0375                  Talkthrough Repeater Tipperary
+      85.9125                  CAB Tyrone
+      86.4875                  Talkthrough Repeater Tipperary
+      87.4500                  Gritters Tyrone
+      87.6250                  Talkthrough Repeater Tipperary
+     118.3000         TOWER    Belfast Aldergrove
+     118.8000         RADAR    Cork Airport
+     119.9000         APPROACH Cork Airport
+     119.3000         TOWER    Cork Airport
+     120.0000         APPROACH Belfast Aldergrove
+     120.9000         RADAR    Belfast Aldergrove
+     121.7000         TOWER2   Cork Airport
+     121.7500         GROUND   Belfast Aldergrove
+     121.8000         GROUND   Cork Airport
+     145.6000  88.5Hz EI2DRG   Dublin
+     145.6000 110.9Hz GB3LY    Limvady
+     145.6250         EI4GRC   Galway
+     145.6500         EI2WRC   Waterford
+     145.6750  88.5Hz EI7DAR   Dundalk
+     145.7000         EI7CS    Sligo
+     145.7250 110.9Hz GB3NI    Belfast
+     145.7250         EI4LRC   Limerick
+     145.7500         EI5CRC   Cork
+     145.7750 110.9Hz GB3WT    West Tyrone
+     148.7375                  Scrambled Tyrone
+     149.1375                  Scrambled Tyrone
+     153.2500         OH15     Scrambled/Clear Tyrone
+     153.2750                  Voice Paging
+     153.4375                  Scrambled Tyrone
+     153.6375                  Scrambled Tyrone
+     153.6500                  Scrambled Tyrone
+     153.8250                  Voice Paging
+     155.1125                  Fire Control
+     155.4250                  Scrambled Tyrone
+     155.5000                  Scrambled Tyrone
+     155.5250                  Scrambled Tyrone
+     155.7625                  Scrambled Tyrone
+     155.7750                  Scrambled Tyrone
+     155.8000                  Scrambled Tyrone
+     155.9750                  Scrambled Tyrone
+     160.2625 179.9Hz          CBS Tipperary
+     163.0625                  MPT1343 Control Channel
+     163.3250                  System 4
+     
+     166.6500 +4.8MHz          Taxi Co-op Cork
+     239.1000                  AM Aircraft Tyrone
+     429.6000                  Data
+     433.0250  88.5Hz EI7LHR   Dundalk
+     433.0500 110.9Hz GB3UL    Belfast
+     433.1250         EI4LRC   Limerick
+     433.2250  88.5Hz EI2RTE   Dublin
+     433.2500         E18DJ    Cork Airport
+     433.2750         E12WRC   Waterford
+     433.3500         E14GRC   Galway
+     433.3750 110.9Hz GB3OM    West Tyrone
+     451.9250                  Scrambled Tyrone
+     452.4250                  Scrambled Tyrone
+     455.5000                  Fire Service North Side Belfast Aldegrove
+     467.5750                  Data Tyrone
+
+
+
+
+
+
+
+Panasonic 900MHz Cordless Frequencies:
+
+
+
+   Color of Phone           CH       BASE          HANDSET
+   --------------           --     -------         -------
+   Blue                     01     902.100         926.100
+   Hot Pink                 02     902.130         926.130
+   Banana                   03     902.160         926.160
+   Cerise                   04     902.190         926.190
+   White                    05     902.220         926.220
+   Off White                06     902.250         926.250
+   Gray                     07     902.280         926.280
+   Fuschia                  08     902.310         926.310
+   Shocking Pink            09     902.340         926.340
+   Chartreuse               10     902.370         926.370
+   Neon Purple              11     902.400         926.400
+   Black                    59     903.870         927.870
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+Panasonic KX-T900 Cordless Phones
+
+
+   
+   base     902.10 - 903.870 Base frequencies (30Khz spacing)
+   handset  926.10 - 927.870 Handset frequencies
+
+   CH   BASE    HANDSET   CH   BASE    HANDSET    CH   BASE  HANDSET
+   --  -------  -------   --  -------  -------   --   -----  -------
+   01  902.10   926.10    11  902.40   926.40    21  902.70  926.70
+   02  902.130  926.130   12  902.430  926.430   22  902.730 926.730
+   03  902.160  926.160   13  902.460  926.460   23  902.760 926.760
+   04  902.190  926.190   14  902.490  926.490   24  902.790 926.790
+   05  902.220  926.220   15  902.520  926.520   25  902.820 926.820
+   06  902.250  926.250   16  902.550  926.550   26  902.850 926.850
+   07  902.280  926.280   17  902.580  926.580   27  902.880 926.880
+   08  902.310  926.310   18  902.610  926.610   28  902.910 926.910
+   09  902.340  926.340   19  902.640  926.640   29  902.940 926.940
+   10  902.370  926.370   20  902.670  926.670   30  902.970 926.970
+
+
+   CH   BASE   HANDSET    CH   BASE    HANDSET   CH   BASE   HANDSET
+   --  ------- -------    --  -------  -------   --  ------- -------
+   31  903.000  927.000   41  903.300  927.30    51  903.60   927.600
+   32  903.030  927.030   42  903.330  927.330   52  903.630  927.630
+   33  903.060  927.060   43  903.360  927.360   53  903.660  927.660
+   34  903.090  927.090   44  903.390  927.390   54  903.690  927.690
+   35  903.120  927.120   45  903.420  927.420   55  903.720  927.720
+   36  903.150  927.150   46  903.450  927.450   56  903.750  927.750
+   37  903.180  927.180   47  903.480  927.480   57  903.780  927.780
+   38  903.210  927.210   48  903.510  927.510   58  903.810  927.810
+   39  903.240  927.240   49  903.540  927.540   59  903.840  927.840
+   40  903.270  927.270   50  903.570  927.570   60  903.870  927.870
+
+
+------------------------------------------------------------------------
+
+
+
+                           
+
+
+
+
+General Electric 2-9925 Cordless Phones
+
+
+   base     902.125 - 903.985 Base frequencies (60Khz spacing)
+   handset  926.125 - 927.985 Handset frequencies
+
+   CH   BASE    HANDSET   CH   BASE    HANDSET    CH   BASE  HANDSET
+   --  -------  -------   --  -------  -------   --   -----  -------
+   01  902.125  926.125   11  902.725  926.725   21  903.325 927.325
+   02  902.185  926.185   12  902.785  926.785   22  903.385 927.385
+   03  902.245  926.245   13  902.845  926.845   23  903.445 927.445
+   04  902.305  926.305   14  902.905  926.905   24  903.505 927.505
+   05  902.365  926.365   15  902.965  926.965   25  903.565 927.565
+   06  902.425  926.425   16  903.025  927.025   26  903.625 927.625
+   07  902.485  926.485   17  903.085  927.085   27  903.685 927.685
+   08  902.545  926.545   18  903.145  927.145   28  903.745 927.745
+   09  902.605  926.605   19  903.205  927.205   29  903.805 927.805
+   10  902.665  926.665   20  903.265  927.265   30  903.865 927.865
+                                                 31  903.925  927.925 
+                                                 32  903.985  927.985
+
+
+------------------------------------------------------------------------
+
+
+
+        
+
+
+
+
+V-Tech DX90 Cordless Phones
+
+
+   905.6 - 907.5   TRANSPONDER (BASE) FREQUENCIES (10 KHZ SPACING)
+   925.5 - 927.4   HANDSET FREQUENCIES
+
+   CH  BASE   HANDSET    CH   BASE    HANDSET  CH  BASE HANDSET
+   --  -------  -------  --  -------  -------  --  -------  -------
+   01  905.60  925.50    08  906.30   926.20   15  907.00   926.90
+   02  905.70  925.60    09  906.40   926.30   16  907.10   927.00
+   03  905.80  925.70    10  906.50   926.40   17  907.20   927.10
+   04  905.90  925.80    11  906.60   926.50   18  907.30   927.20
+   05  906.00  925.90    12  906.70   926.60   19  907.40   927.30
+   06  906.10  926.00    13  906.80   926.70   20  907.50   927.40
+   07  906.20  926.10    14  906.90   926.80
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+Irish Cordless Frequencies
+
+
+New Cordless                             Old  Cordless
+
+ ch  BASE:         HANDSET:               ch   BASE:        HANDSET:
+  1  43.720         48.760                 1   46.610        49.670
+  2  43.740         48.840                 2   46.630        49.845
+  3  43.820         48.860                 3   46.670        49.860
+  4  43.840         48.920                 4   46.710        49.770
+  5  43.920         49.020                 5   46.730        49.875
+  6  43.960         49.080                 6   46.770        49.830
+  7  44.120         49.100                 7   46.830        49.890
+  8  44.160         49.160                 8   46.870        49.930
+  9  44.180         49.200                 9   46.930        49.990
+ 10  44.200         49.240                10   46.970        49.970
+ 11  44.320         49.280
+ 12  44.360         49.360
+ 13  44.400         49.400                 Superphone
+ 14  44.460         49.460
+ 15  44.480         49.500          BASE               HANDSET
+ 16  46.610         49.670          46.8500            68.5500
+ 17  46.630         49.845
+ 18  46.670         49.860
+ 19  46.710         49.770
+ 20  46.730         49.875
+ 21  46.770         49.830
+ 22  46.830         49.890
+ 23  46.870         49.930
+ 24  46.930         49.990
+ 25  46.970         49.970
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+  
+
+
+
+    Anologue Cell Phones (Eircell 088)
+
+
+
+  "Thanks to "otheLLo_" for the following information"
+
+  The system works like this,
+  Eircell or the phone operator have a set range, 
+
+       
+
+    918MHz to 934MHz  and  936MHz to 947MHz
+
+
+
+  When someone makes a call either to or from a mobile phone, the telephone company
+  automatically allocates a random frequency for the call. For example the same 
+  phone won't have the same frequency, but will have a different one allocated
+  every time a call is iniciated.
+
+  The steps are in 12.5MHz NFM. If you start scanning at 918MHz NFM in 
+  12.5 I think you will find you encounter numerous calls.
+
+  So basically the individual frequencies cannot all be listed 
+  but a set range is appropriate.
+
+  Irish Airport & A.C.R.S Frequencies
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+Main Airports
+
+• Dublin Tower  118.6000 Ground 121.8000 Approach 121.1000 Area 124.6500 
+• Shannon Tower 118.7000 Ground 121.8000 Clearance Delivery 121.7000 
+                       Approach 121.4000 Area 124.7000 
+• Cork Tower 119.3000 Ground 121.8000 Approach 119.9000 (Beacon: 114.6000, info: 120.9250)!
+• Waterford Tower 129.8500
+• Kerry Tower 124.100
+• Galway Tower 122.5000 
+• Connaught Tower 130.7000 Ground 121.9000 
+• Sligo Tower 122.1000 
+
+Other Airports & Airfields
+
+
+• Abbeyshrule - 122.6000, Belmullet  -   123.6000, Birr -    122.9500, Castlebar -   122.6000,
+ Castleforbes - 130.3000, Clonbullogue - 129.8000, Coonagh - 129.9000, Donegal -     129.8000,
+ Gowran -       130.4000, Inishmore -    123.0000, Kilkenny -122.9000, Spanish Point-123.3000,
+ Trim -         123.3000, Weston -       122.4000 
+------------------------------------------------------------------------
+
+
+High Level Frequencies
+
+• Shannon Control Northern Sector - 134.6250, 132.1500, 134.2750 
+• Shannon Control Southern Sector 
+  (including Shanwick Oceanic Transition Area)    - 135.6000,135.2250,131.1500 
+• London Control Wallasey Sector & UB1 Traffic    - 134.4250 
+• London Control Strumble Sector & UG1 Traffic    - 136.4000, 133.6000, 129.3750, 134.7500 
+• London Control South-West Sector/Lands End Area - 126.0750, 132.9500 
+• Scottish Control Northern Ireland area - 129.2250 
+------------------------------------------------------------------------
+
+
+Shanwick Oceanic Area Control
+
+• Position Reporting - 129.7000, 124.1750 
+• Clearance Delivery - 123.9500, 127.6500, 135.2250 
+• Track Broadcasts -   133.8000 
+------------------------------------------------------------------------
+
+
+Company & Misc. Frequencies
+
+• Aer Lingus -131.5000 
+• Ryanair - 131.5500 
+• British Airways - 131.9000, 131.8000 
+• International Distress Frequency  - 121.5000 
+• Air-to-Air (Pilot chat frequency) - 123.4500 
+------------------------------------------------------------------------
+A.C.R.S Frequencies
+Frequency in MHz 
+
+131.550 Primary Channel for USA and Canada 
+130.025  Secondary channel for USA and Canada 
+129.125  Additional channel for USA & Canada
+130.450  Additional channel for USA and Canada 
+131.725  Primary channel in Europe 
+131.525  European secondary 
+131.475  Air Canada company channel 
+131.450  Primary channel for Japan 
+136.900  New European Channel 
+132.600  Shannon Airport 
+132.550  Shannon Airport 
+132.150  Shannon Airport 
+124.700  Shannon Airport 
+124.650  Dublin Airport 
+121.700  Shannon Airport 
+131.150  Shannon Airport 
+127.500  Shannon (low level)
+
+Dublin Pager Frequencies
+
+
+
+
+
+
+153.0000			Pageboy (Dublin) (POCSAG will decode these messages)
+153.0000                        Internal Beepers Baggot Street Hospital
+153.1000                        Hospital Pager
+153.1250			Mater Hospital, Dublin 7			
+153.1500			Data heard on this frequency
+153.2250			Data heard on this frequency (same as 153.1500)
+153.3750                        Hospital Pager
+153.4750			Castlebar General Hospital, Castlebar
+153.6000                        Hospital Pager	
+153.8250                        Eirepage/MiniCall (POCSAG will decode these messages)
+154.9500                        Unknown pager
+165.0250                        Unknown pager
+165.8000                        Pageboy Pagers (Dublin) (POCSAG will decode these messages)
+
+
+
+
+
+
+U.K. Pager Frequencies
+
+
+
+
+
+153.0750 NFM Nationwide Paging                          153.175 NFM Nationwide British Telecom Pagers
+153.2375 NFM Nationwide Paging                          153.250 NFM Nationwide Digital Mobile Comms
+153.2750 NFM Nationwide Air Call Communications         153.325 NFM Nationwide Air Call Communications
+153.3375 NFM Nationwide Paging                          153.350 NFM Nationwide Inter City Pagers
+153.3625 NFM Nationwide Paging                          153.375 NFM Nationwide Paging
+153.450 0NFM Nationwide Paging                          138.075 NFM Nationwide Mercury Paging
+138.1750 NFM Nationwide Mercury Personal Pagers         465.970 NFM Nationwide Unknown Paging
+466.0750 NFM Nationwide Unknown Paging                  466.230 NFM Nationwide Unknown Paging
+448.4750 NFM Nationwide Unknown Paging                  448.425 NFM Nationwide Unknown Paging
+
+ 
+
+THE WORLD'S
+
+
+COMMERCIAL AERONAUTICAL FREQUENCIES (SSB)
+
+
+
+
+_____________________________________________________
+
+2298.0    Gander
+2648.0    Alaska
+2851.0    (R) AFI-4, NCA-2, equip test
+2854.0    SAT-1/2
+2866.0    Alaska
+2869.0    CEP-5
+2872.0    NAT
+2875.0    Domestic HF, oil rig air support, AK
+2878.0    AFI-4
+2887.0    E-CAR
+2899.0    NAT-B/C
+2911.0    Domestic HF, Alaska
+2932.0    NP-3/4
+2935.0    SAT
+2944.0    NW/SW-SAM, MID-3
+2956.0    Domestic HF, Alaska
+2962.0    NAT-B/C
+2971.0    NAT-D
+2992.0    MID-1
+2998.0    CWP-1/2
+3004.0    NCA-3, equip test
+3016.0    NAT-A, EA-1
+3019.0    NCA-1, oil rig air support, AK
+3023.0    Search and rescue
+3281.0    Lighter-than-air craft, flight test
+3413.0    CEP-5
+3419.0    AFI-2
+3425.0    (R) AFI-5, SP-9
+3434.0    Domestic HF, oil rig air, AK
+3443.0    Aero equip test
+3449.0    Domestic HF, Alaska
+3452.0    AFI-1, SAT-1/2
+3455.0    W-CAR
+3467.0    AFI-3, MID-2, SP-6/7
+3470.0    SEA-1/3, Alaska
+3473.0    MID
+3476.0    INO-1
+3479.0    C/SE/NE-SAM, EUR-1
+3485.0    SEA-2, EA-2
+3491.0    EA
+4125.0    Distress/safety w/coast stns
+4550.0    Gulf of Mexico
+4645.0    Alaska
+4657.0    (R) AFI-5
+4666.0    CWP-1/2
+4669.0    NW/SW-SAM, MID-3
+4672.0    Domestic HF, oil rig air, AK
+4675.0    NAT-D
+4678.0    NCA-2
+4947.5    Alaska
+5036.0    Gulf of Mexico
+5122.5    Alaska
+5167.5    Alaska emergency
+5310.0    Alaska
+5451.0    Aero equip test
+5463.0    Domestic HF, oil rig air, AK
+5469.0    Aero equip test
+5472.0    Domestic HF, Alaska
+5484.0    Domestic HF, Alaska
+5490.0    Domestic HF, Alaska
+5493.0    AFI-4
+5496.0    Domestic HF, Alaska
+5508.0    Domestic HF, oil rig air, AK
+5520.0    W-CAR
+5526.0    C/NE/SE-SAM
+5547.0    CEP-5
+5550.0    E-CAR
+5559.0    SP
+5565.0    SAT-1/2
+5571.0    Aero equip test
+5574.0    CEP-5
+5598.0    NAT-A
+5616.0    NAT-B/C
+5628.0    NP-3/4
+5631.0    Domestic HF, Alaska
+5634.0    INO-1
+5643.0    SP-6/7
+5646.0    NCA-1
+5649.0    NAT-B/C, SEA-2
+5652.0    AFI-2, CWP-1/2, (R) AFI-2
+5655.0    EA-1, SEA-2
+5658.0    AFI-3, MID-2
+5661.0    EUR-A
+5664.0    NCA-3
+5667.0    MID-1
+5670.0    EA
+5680.0    Search and rescue
+5887.5    Alaska
+6532.0    CWP-1/2
+6535.0    AFI-1
+6550.0    Aero equip test
+6553.0    (R) SP-9
+6556.0    SEA-1/3
+6559.0    (R) AFI-4
+6562.0    CWP-1/2
+6571.0    EA-1
+6574.0    (R) AFI-3
+6577.0    E-CAR
+6580.0    Domestic HF, Alaska
+6586.0    (R) AFI-4, W-CAR
+6592.0    NCA-2
+6598.0    EUR-A
+6604.0    Domestic HF, Alaska
+6622.0    NAT
+6625.0    MID
+6628.0    NAT
+6631.0    MID
+6649.0    NW/SW-SAM
+6655.0    NP
+6661.0    NP
+6673.0    (R) AFI-1
+8015.0    Alaska
+8364.0    Search and rescue
+8822.0    Aero equip test
+8825.0    NAT-A
+8831.0    NAT
+8837.0    Ben Gurion
+8843.0    CEP-5
+8846.0    (R) SP-9, W-CAR
+8855.0    C/NE/SE-SAM, Alaska
+8861.0    AFI-1, SAT-1/2
+8864.0    NAT-B/C
+8867.0    SP-6/7
+8870.0    (R) AFI-3
+8873.0    (R) AFI-4
+8876.0    Domestic HF, Alaska
+8879.0    INO-1, NAT-B/C, (R) AFI-5
+8888.0    (R) AFI-4
+8891.0    NAT-D
+8894.0    AFI-2, (R) AFI-2
+8896.5    PERU: Iquitos/Lima/Talara/Tarapoto/Trujillo/Cuzco/
+          Chiclay/Yurimaguas/Callao
+8897.0    EA-1
+8903.0    AFI-4, CWP-1/2
+8906.0    NAT
+8918.0    E-CAR, MID-1
+8938.5    San Jose/San Andres/Medellin/Guatemala City/Bogota
+          /Barranquilla
+8942.0    SEA-2
+8951.0    MID-3
+10018.0   MID-2
+10024.0   NW/SW-SAM
+10039.0   NCA-3
+10042.0   EA
+10045.0   Aero equip test
+10048.0   NP-3/4
+10057.0   CEP
+10066.0   SEA-1
+10081.0   CWP
+10084.0   EUR-A
+10096.0   C/NE/SE-SAM, NCA-2
+11279.0   NAT-D
+11282.0   CEP-5
+11288.0   Aero equip test
+11291.0   SAT-1/2
+11300.0   AFI-3
+11306.0   Portishead/Lima/Panama, equip test
+11309.0   NAT
+11327.0   SP
+11330.0   AFI, NP
+11336.0   NAT
+11339.0   (R) SP-9
+11357.0   Domestic HF, Alaska
+11360.0   NW/SW-SAM
+11363.0   Domestic HF, Alaska
+11375.0   MID-3
+11384.0   CWP-1/2
+11387.0   E-CAR
+11396.0   SEA-2/3, EA-2, W-CAR
+13273.0   AFI-2
+13288.0   AFI-3, EUR-A, MID-2
+13291.0   NAT-B/C/D
+13294.0   AFI-4
+13297.0   C/NE/SE-SAM, EA-1, E/W-CAR
+13300.0   SP-6/7, CEP-5, CWP-1/2, NP-3/4
+13303.0   NCA-3
+13306.0   INO-1, NAT-A/B/C
+13309.0   SEA-2, EA-2
+13312.0   MID-1, equip test
+13315.0   NCA-1, SAT-1/2
+13318.0   SEA-1/3
+13357.0   AFI-1, SAT-1/2
+15024.0   Havana/Moscow (in CW)
+17904.0   SP-6/7, CEP-5, CWP-1/2, NP-3/4
+17907.0   C/NE/NW/SE/SW-SAM, E/W-CAR, EA-2
+17946.0   NAT-A/B/C/D
+17955.0   AFI-1, SAT-1/2
+17958.0   NCA-1/2/3
+17961.0   AFI-2/3/4, INO-1, EUR-A, MID-3
+17964.0   Aero equip test
+21931.0   Aero equip test
+
+Electricity Supply Board (ESB)
+
+70.8500	80.8500  		ESB			
+70.8750	80.8750		ESB			
+70.9000	80.9000		ESB			
+70.9250	80.9250		ESB			
+70.9500	80.9500		ESB			
+70.9750	80.9750		ESB
+71.0250	81.0250		ESB			
+71.0500	81.0500		ESB			
+71.0750	81.0750		ESB			
+71.1000	81.1000		ESB			
+71.1250	81.1250		ESB			
+71.1500	81.1500		ESB			
+71.1750	81.1750		ESB			
+71.2000	81.2000		ESB			
+71.2250	81.2250		ESB			
+71.2500	81.2500		ESB	170.2000		
+71.2750	81.2750		ESB			
+71.3000	81.3000		ESB			
+71.3250	81.3250		ESB			
+71.3500	81.3500		ESB			
+71.3750	81.3750		ESB			
+71.4000	81.4000		ESB			
+71.4250	81.4250		ESB			
+71.4500	81.4500		ESB			
+71.4750	81.4750		ESB			
+71.5000	81.5000		ESB			
+71.5250	81.5250		ESB			
+71.5500	81.5500		ESB			
+71.5750	81.5750		ESB			
+71.6000	81.6000		ESB			
+71.6250	81.6250		ESB			
+71.6500	81.6500		ESB			
+71.6750	81.6750		ESB			
+71.7000	81.7000		ESB			
+71.7250	81.7250		ESB			
+71.7500	81.7500		ESB			
+71.7750	81.7750		ESB			
+71.8000	81.8000		ESB			
+71.8250	81.8250		ESB			
+71.8500	81.8500		ESB
+
+
+Dublin Gas Board (Bord Gáis)
+
+ 77.7625    87.3625		New Dublin Gas Co., Dublin 2 Ch.1    467.5000	AM	
+ 77.7750    87.3750		New Dublin Gas Co., Dublin 2 Ch.3    459.8750	AM	
+ 77.7875    87.3875		New Dublin Gas Co., Dublin 2 Ch.2    464.4750	AM	
+ 77.8000    87.4000		New Dublin Gas Co., Dublin 2 Ch.4    468.6250	AM	
+ 77.6125    86.6125		Bord Gais Eireann			
+ 82.0875    72.0875		Bord Gais Eireann
+461.0000   467.5000		New Dublin Gas Co., Dublin 2	87.3625		
+459.8750   453.3750		New Dublin Gas Co., Dublin 2
+454.6250   468.6250		New Dublin Gas Co., Dublin 2	87.3625
+451.5000   465.5000		New Dublin Gas Co., Dublin 2
+
+
+Irish Marine frequencies
+
+156.0000	160.6000		UK Coast Guard	Ch.0		
+156.2750	160.8750	        Dublin	Radio	Ch.65		
+156.3000	160.9000	        Bantry	Tugs	Ch.6		
+		                        Belfast	Pilot/Port			
+		                        Cork	Pilot			
+		                        Dublin	Pilot			
+		                        Dundalk	Pilot/Port			
+		                        Limerick	Pilot			
+		                        Rosslare	Pilot			
+156.4000	161.0000	        Anglesea	Shore Radio	Ch.8		
+		                        Bangor	Port			
+		                        Belfast	Port			
+156.4500		                Bantry	Pilot/Port/Tugs	Ch.9		
+		                        Dublin	Tugs			
+156.5000		                Belfast	BP Port			
+156.5500	161.0500	        Bantry	Pilot/Port/Tugs	Ch.11		
+		                        Derry	Pilot/Port			
+		                        Drogheda	Pilot			
+		                        Galway	Port			
+		                        New Ross	Port/Railway Bridge			
+156.6000	161.1000	        Belfast	Pilot/Port	Ch.12		
+		                        Carrick-fergus	Port			
+		                        Coleraine	Pilot/Port			
+		                        Cork	Pilot/Port			
+		                        Derry	Pilot/Port			
+		                        Dublin	Pilot/Port			
+		                        Dundlka	Pilot			
+		                        Foynes	Pilot/Port			
+		                        Kilkeel	Port			
+		                        Killyleagh	Port			
+		                        Limerick	Pilot/Port			
+		                        Sligo	Pilot			
+		                        Tarbert	Oil Port			
+		                        Warren-point	Pilot/Port			
+156.6500	161.1500	        Foynes	Pilot/Port	Ch.13		
+		                        Greenore        Port			
+		                        Limerick	Port			
+156.7000	161.2000	        Bantry	Pilot/Port/Tugs	Ch.14		
+		                        Belast	Port			
+		                        Carrick-fergus	Port			
+		                        Cork	Port			
+		                        Dublin	Port			
+		                        Dun Laoghaire	Port			
+		                        Dunmore East	Pilot			
+		                        Galway	Port			
+		                        Kilkeel	Port			
+		                        Kilroot	Port			
+		                        Larne	Port			
+		                        Portavogie	Port			
+		                        Rosslare	Port			
+		                        Whitegate	Port			
+156.8000	161.3000		-----Calling and Distress-----	ch.16		
+156.9500	161.4500	        Belfast	BP Port			
+157.2000	161.7000	        Celtic	Shore Radio	Ch.24		
+157.2250	161.7250	        Anglesea	Shore Radio	Ch.84		
+157.2500	161.7500	        Celtic	Shore Radio	Ch.25		
+		                        Severn	Shore Radio			
+157.2750	161.7750	        Dublin	Shore Radio	Ch.65		
+157.3000	161.8000	        Anglesea	Shore Radio	Ch.26		
+		                        Clyde	Shore Radio			
+157.3500	161.8500	        Landsend	Shore Radio	Ch.27		
+		                        Portpatrick	Shore Radio			
+157.4000	161.9000	        Anglesea	Shore Radio	Ch.28		
+157.4250		                Landsend	Shore Radio	Ch.88		
+157.4500	161.9500		Irish Ferries			
+157.4750	161.9750		Irish Ferries cargo ships			
+157.8500	162.3500		Howth Yacht Club	Ch.M
+
+
+
+Waterford Police Frequencies
+
+The following Frequencies for Waterford appear here courtesy of Tommy.
+
+BASE       MOBILE
+
+164.225        159.725     Kilo Alpha
+84.0875        73.6825     Kilo Alpha (Green Man)
+
+
+Tramore police
+
+164.0875       159.5875    Kilo Echo
+ 84.250         74.025     Kilo Echo (Green Man)
+
+Thomastown police
+
+164.1875      159.6875     Kilo Delta
+ 84.1125       73.8875     Kilo Delta (Green Man)
+
+
+Ambulance Waterford
+
+BASE            MOBILE
+ 84.750         74.525  (NFM)
+454.250        468.250  (Repeater commeragh Mountains S.E.H.B only)
+
+
+Waterford Fire Department
+
+ 84.350        74.125 (NFM) now on repeater system
+462.250               Fire Ground control walkie talkies
+165.025               Alerter Bleep
+
+
+
+
+R.U.C. Northern Ireland
+
+155.0000                        RUC Northern Ireland
+155.0250                        RUC Northern Ireland
+155.0750                        RUC Northern Ireland
+155.1650                        RUC Northern Ireland
+155.5000                        RUC Northern Ireland
+155.6500                        RUC Northern Ireland
+
+
+Security Companies
+	
+Base	        Mobile	     Callsign	               Operator	
+82.2000         72.2000	                               Unident. 		
+82.2875         72.3875      Argus	               Argus Security Ltd., Dublin 8	
+		             Securi	               Securi-Force, Dublin 1	
+82.4625         72.4625	                               Brinks-Allied Ltd., Dublin 8	
+83.3125         73.0875	     Grey	               Grey A Security Ltd., Dublin 1	
+		             Par	               Paragon Security, Dublin 1	
+83.4750         73.2500	     Securitas	               Group 4 Securitas Irl. Ltd.,Dn 18	
+83.5250         73.3000      Unident.	               (North Wall Hse.)	
+83.9000         73.6750	     Tango	               Top Security Ltd., Dublin 12	
+85.5125/	75.9125	     Unident.		
+86.0625/	76.4625	                               Brinks-Allied Ltd., Dublin 8	
+86.2375/	76.6375	     Acme	               Acme Security, Dublin 12	
+86.9625/	76.9625	     Unident.		
+160.4000                                               Grafton Street Shop Security
+163.4625	158.9625     Delta	               Delta Security Ltd., Dublin 18	
+163.512/	159.0125     Unident.		
+163.5250	163.5250		               Guardall Security	
+163.8000	163.8000     Bravo	               (Darndale housing scheme)	
+163.8375	159.3375     Papa                      Purolator, Dublin 14	
+163.8750	158.3750     Safety	               ADT Ltd., Dublin 7	
+164.0000	159.5000     Papa	               Target Security Ltd., Dublin 1	
+164.5375	160.0375     Eagle	               Eagle Security Svc., Dublin 1	
+164.6125	160.1125     Intereye	               Intereye Security, Dublin 1	
+164.6375	160.1375     Delta	               Delta Security, Dublin 18	
+164.6500	160.1500     Unident.	               (c/s E2, E3)	
+		             Unident.	               (c/s 1xx)	
+164.6675	164.6675		               Nutgrove Shopping Cntr, Dublin 14	
+164.6750                                               Henry Street Shop Security
+164.6875	160.1875     Unident	               (c/s C771-2, L98)	
+		             Unident.	               (store security)	
+164.7250	160.2250     Tango	               Top Security Ltd, Dublin 12	
+164.8000	160.3000     Safety	               ADT Ltd.,, Dublin 7	
+164.8125	160.3125     Unident.		
+164.8375	160.3375			       Couriers (Dublin)
+164.8750	160.3750     Relay	               Relay Security, Dublin 12	
+164.9250	160.4250     ILAC	               ILAC Centre, Dublin 1 	
+			                               Northside Shopping Centre, Dublin 9	
+165.0000	165.0000     Unident.	               (inhouse security)	
+165.0250	160.0250     Alert		
+165.0500	160.0500		               Dun Laoghaire Sh.Centre 	
+		             KC	                       Security, Dublin 1	
+		             MB	                       Metropolitan Security, Dn 1	
+		             Par	               Paragon Security, Dublin 1	
+		             RS		
+165.0625	160.0625		               Dunnes Stores, Dublin 	
+165.0875	160.0875     Bailey	               R&A Bailey&Co., Dublin 12	
+165.1000	160.1000     Unident.		
+165.1250	160.1250		               Hawke Security, Carlow	
+			                               Triple Security Ltd., Dublin 9)	
+165.1375	160.1375     Unident.		
+165.5000	170.2875     Eagle	               Eagle Security, Dublin 3	
+166.5500	171.3500     Eagle	               Eagle Security, Dublin 3	
+166.5500	171.3500     Ir.Industrial	       Irish Industrial Security Ltd. Dn 7	
+166.5625	171.3625		               Vigilant Security Co.Ltd., Dublin 12	
+166.6000	171.4000     Cheetah	               Securicor Ltd., Dublin 6	
+166.7750	171.5750		               O'Shea Security 	
+166.7875	171.5875     Unident.	               (c/s 184, 221	
+166.8375	166.8375     Unident.		
+166.9125	171.7125		               Vigilant Security, Dublin	
+167.0000	171.8000     Eagle                     Eagle Security, Dublin 3	
+167.2000	167.2000     City	               City Security Svcs., Dublin	
+			     Ranger	
+168.0250	172.8250	                       County	Security Plus Ltd., Dublin 12	
+168.0875	172.8850     Unident		
+168.1000	172.9000		               All Range Security Co.Ltd. Dn 24	
+168.3500	173.1500		               Security Warden Svc. Dublin 3	
+169.4875	169.4875     Unident.		
+169.6375	169.6375     Unident.	               (shoe store security??)	
+169.8600                                               Shop Security
+
+453.1000	459.6000     Unident.	               (inhouse security)	
+453.1250	459.6250		               UCD, Dublin (security)	
+453.3500	459.8500     Unident.		
+453.5750	460.0750		               Trinity College, Dublin (security)	
+453.6500	460.1500     Tiger		
+453.8000	460.3000     Unident.	               (c/s B7, D4, G1))	
+453.8250	460.3250     Unident.	               (ch.1)	
+453.9500	460.4500     Unident.                  (ch.2)	
+454.0000	468.0000     Papa	               Purolator, Dublin 14	
+456.0750	461.5750                               Irish Life Mall (security)	
+456.5250	462.0250     Unident.		
+456.8000	462.3000     Safety	               ADT Ross Group, Dublin 2	
+456.9000	462.4000     KC	                       KC Security, Dublin 1	
+460.7500	467.2500     Cheetah	               Securicor Ltd., Dublin 6	
+
+
+The frequencies below are courtesy of John T.
+
+
+
+453.5000 NFM                           Castle Court Security BELFAST
+
+461.3250 NFM                           Meadows Shopping Centre Security
+                                       Craigavon, Portadown
+
+448.5125 NFM                           Craigavon Shopping Centre Security
+
+
+
+Unidentified frequencies
+		
+168.3500     NFM   (Unknown)
+165.2375     NFM   (Taxi Company: BASE)
+165.0250     NFM   (Carrier plus Pager data)
+426.1625     NFM   (data)
+426.3125     NFM   (data)
+429.5750     NFM   (blank carrier)
+440.0875     NFM   (carrier)
+440.1000     NFM   (blank carrier)
+440.1250     NFM   (blank carrier)
+440.2250     NFM   (data transmission)
+443.3750     NFM   (carrier)
+450.2250     NFM   (blank carrier)
+453.0250     NFM   (open channel with television in background. 28th Jan '98)
+454.2500     NFM   (carrier with occasional data?)
+456.7750     NFM   (unknown)
+457.4250     NFM   (unknown)
+458.2750     NFM   (data transmission? same as 458.3000 & 458.3250)
+460.8000     NFM   (carrier)
+464.2250     NFM   (carrier)
+467.3250     NFM   (unknown)
+467.5750     NFM   (Pager data?)
+467.8000     NFM   (blank carrier)
+467.9000     NFM   (blank carrier)
+468.2750     NFM   (carrier with bursts of data)
+468.7500     NFM   (carrier with data)
+
+1.840-1.850 CW, SSB, SSTV, other wideband modes,
+7.171 SSTV
+3.845 SSTV
+21.340 SSTV
+14.230 SSTV 
+28.680 SSTV
+
+2304.2-2304.3 SSB, SSTV, FAX, Packet AM, Amtor
+2304.4-2304.5 SSB, SSTV, ACSSB, FAX, Packet AM,
+2390.0-2396.0 Fast-scan TV
+2438.0-2450.0 WB FM, FSTV, FMTV, SS experimental
+
+Scanner Frequencies
+
+
+
+TAXI Frequencies
+
+ BASE            MOBILE             DESCRIPTION
+
+ 77.7500         77.7500           Taxi (Simplex Repeater) Waterford City    
+
+ 85.4125         85.4125           Taxi (Simplex Repeater) Waterford City
+ 87.4000         87.4000           Taxi (Simplex Repeater) Waterford City
+164.3125        164.3125           Taxi (Simplex Repeater) Waterford City
+166.4500        166.4500           Taxi (Simplex Repeater) Waterford City
+168.2775        168.2775           Taxi (Simplex Repeater) Waterford City
+171.9900        171.9900           Taxi (Simplex Repeater) Waterford City
+
+
+
+168.075         172.8750           (ch1)Metro Cabs Dublin
+166.950         171.7500           (ch2)Metro Cabs Dublin
+
+
+Dublin Bus Frequencies
+
+BASE            MOBILE                  DESCRIPTION
+166.0000	170.8000		Dublin Bus, Phibsboro			
+166.0250	170.8250		Dublin Bus, Phibsboro			
+166.0500	170.8500		Dublin Bus, Donnybrook 1			
+166.0750	170.8750		Dublin Bus, Donnybrook 2			
+166.1000	170.9000		Dublin Bus, Phibsboro			
+166.1250	170.9250		Dublin Bus, Clontarf			
+166.1500	170.9500		Irish Rail, Railway  (454.7250MHz)		
+166.1750	170.9750		Irish Rail, Railway			
+166.2000	171.0000		Irish Rail, Railway			
+166.2250	171.0250		Dublin Bus - Ringsend (maintenance)			
+166.2500	171.0500		Irish Rail, Railway  (454.7000MHz)		
+166.2750	171.0750		Dublin Bus, Conyngham Rd.			
+166.3000	171.1000		Dublin Bus, Bus maintenance/inspectors			
+166.3250	171.1250		Dublin Bus, Conyngham Rd.			
+166.3500	171.1500		Dublin Bus, Donnybrook 2			
+166.3750	171.1750		Irish Rail, Railway			
+166.4000	171.2000		Dublin Bus, Summerhill			
+166.4250	171.2250		Dublin Bus, Ringsend			
+166.4500	171.2500		Dublin Bus, Summerhill1			
+166.4750	171.2750		Dublin Bus, Donnybrook 1			
+166.5000	171.3000		Dublin Bus, Dublin  (454.4750MHz TM)
+454.4750	468.4750		Dublin Bus, Dublin 1	166.5000	TM	
+454.5000	468.5000		Dublin Bus, Dublin 1	166.5000	TM		
+
+
+
+Irish Rail Frequencies
+
+456.1750	461.6750		Irish Rail, Dublin - DART (Howth Junction)			
+456.2000	461.7000		Irish Rail, Dublin			
+456.2250	461.7250		Irish Rail, Dublin - DART (Connolly Station)			
+456.2500	461.7500		Irish Rail, Dublin			
+456.2750	461.7750		Irish Rail, Dublin - DART (Dun Laoghaire)			
+456.3000	461.8000		Irish Rail, Dublin			
+456.3250	461.8250		Airport Police, Irish Airports			
+456.3750	461.8750		Irish Rail, Dublin - DART (Emergency)			
+456.4250	461.9250		Irish Rail, Leixlip Station, KE			
+456.4500	456.9500		Irish Rail, Dublin	
+453.1750	459.6750		Irish Rail, Dublin (freight)	
+453.0250	459.5250		Irish Rail, Dublin (freight)
+459.6750	453.1750		CIE, Dublin-Railway
+
+
+Waterford Frequencies
+
+ BASE            MOBILE             DESCRIPTION
+
+ 77.7500         77.7500           Taxi (Simplex Repeater) Waterford City    
+ 84.0875         73.8625           police Waterford
+ 84.2500         74.0250           police Tramore
+ 84.3500         74.1250           Fire Brigade (n.f.m.) Waterford
+ 84.5250         84.5250           Fire Brigade Repeater Wexford County
+ 84.7500         74.5250           Ambulance Service Waterford City
+ 85.4125         85.4125           Taxi (Simplex Repeater) Waterford City
+ 87.4000         87.4000           Taxi (Simplex Repeater) Waterford City
+
+129.8500        129.8500           Airport Waterford
+156.7000        156.7000           Waterford Harbour (V.H.F.Ch. 14) Dunmore East
+156.8000        156.8000           Emergency Channel 16 V.H.F. International
+161.8250        161.8250           Repearer Bouy (V.H.F. Ch. 16) Mine Head
+164.2250        159.7250           police Waterford
+164.0875        159.5875           police Tramore
+164.3125        164.3125           Taxi (Simplex Repeater) Waterford City
+165.0250        165.0250           Fire Brigade (Alerter) Waterford City
+166.4500        166.4500           Taxi (Simplex Repeater) Waterford City
+168.2775        168.2775           Taxi (Simplex Repeater) Waterford City
+169.8750        169.8750           Security (City Square) Waterford City
+171.9900        171.9900           Taxi (Simplex Repeater) Waterford City
+172.7750        167.9750           Fire Brigade (County Radio) Waterford County
+
+453.3750        453.3750           Security Link (All Shops) Waterford City
+456.2000        456.2000           Irish Rail Waterford City
+456.2500        456.2500           Irish Rail Waterford City
+456.3000        456.3000           Irish Rail Waterford City
+456.5500        462.0500           Civil Defence Waterford City
+456.5750        462.0750           Civil Defence Waterford City
+459.5250        453.0250           Ardkeen Hospital Security Waterford City
+459.6250        453.1250           Waterford Port (Crane Control) Waterford City
+460.7000        467.2000           Fire Brigade Waterford County
+461.6750        461.6750           Irish Rail Waterford City
+462.2500        462.2500           Fire Brigade (Portable Radio) Waterford City   
+465.1000        465.1000           Courier (Fastrack) Waterford City
+468.2500        454.2500           Ambulance Service Waterford County
+
+(ni freqs page not included)
+
+
