@@ -61,4 +61,4 @@ for something in STOCKPORT also try CHESHIRE and MANCHESTER.
 * Also remember some local radio users will be using national frequencies (the same from area to area) 
 so bear in mind the NATIONAL USAGE and UK WIDE Frequencies. This is The Main UK Scanning Directory File 
 which is updated often but for the latest daily updated files please see the other listed by frequency files 
-in this section on the disc (titled by frequency range and month).
+in this section (titled by frequency range and month).
